@@ -2,9 +2,10 @@
   "easy_count": 2,
   "hard_count": 1,
   "language_counts": {
-    "cpp": 3
+    "cpp": 3,
+    "python": 1
   },
-  "last_synced": "2026-08-03T15:07:05Z",
+  "last_synced": "2026-08-03T15:07:33Z",
   "medium_count": 0,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -38,9 +39,10 @@
       "difficulty": "Easy",
       "folder_name": "3014-minimum-number-of-pushes-to-type-word-i",
       "languages": [
-        "cpp"
+        "cpp",
+        "python"
       ],
-      "last_synced": "2026-08-03T15:07:05Z",
+      "last_synced": "2026-08-03T15:07:33Z",
       "notes": "",
       "problem_number": 3014,
       "problem_slug": "minimum-number-of-pushes-to-type-word-i",
