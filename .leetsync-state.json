@@ -1,15 +1,27 @@
 {
-  "easy_count": 0,
+  "easy_count": 2,
   "hard_count": 1,
   "language_counts": {
-    "cpp": 1
+    "cpp": 3
   },
-  "last_synced": "2026-08-03T12:49:09Z",
+  "last_synced": "2026-08-03T15:07:05Z",
   "medium_count": 0,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
   "problems": {
+    "1": {
+      "difficulty": "Easy",
+      "folder_name": "0001-two-sum",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-03T13:08:35Z",
+      "notes": "This is O(n squared)",
+      "problem_number": 1,
+      "problem_slug": "two-sum",
+      "problem_title": "Two Sum"
+    },
     "1406": {
       "difficulty": "Hard",
       "folder_name": "1406-stone-game-iii",
@@ -21,8 +33,20 @@
       "problem_number": 1406,
       "problem_slug": "stone-game-iii",
       "problem_title": "Stone Game III"
+    },
+    "3014": {
+      "difficulty": "Easy",
+      "folder_name": "3014-minimum-number-of-pushes-to-type-word-i",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-03T15:07:05Z",
+      "notes": "",
+      "problem_number": 3014,
+      "problem_slug": "minimum-number-of-pushes-to-type-word-i",
+      "problem_title": "Minimum Number of Pushes to Type Word I"
     }
   },
   "schema_version": 1,
-  "total_solved": 1
+  "total_solved": 3
 }

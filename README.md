@@ -6,25 +6,27 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **1** |
-| Easy | 0 |
+| Total Solved | **3** |
+| Easy | 2 |
 | Medium | 0 |
 | Hard | 1 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **0** (0%)  
+🟢 Easy &nbsp; **2** (67%)  
 🟡 Medium &nbsp; **0** (0%)  
-🔴 Hard &nbsp; **1** (100%)
+🔴 Hard &nbsp; **1** (33%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 1 |
+| C++ | 3 |
 
 ## Recent Activity
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [3014. Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i/README.md) | Easy | C++ |
+| [1. Two Sum](./0001-two-sum/README.md) | Easy | C++ |
 | [1406. Stone Game III](./1406-stone-game-iii/README.md) | Hard | C++ |
