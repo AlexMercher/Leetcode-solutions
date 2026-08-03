@@ -5,4 +5,4 @@ class Solution:
         for i in range(n):
             ans+=i//8+1
         return ans
-        
+##This should work now
