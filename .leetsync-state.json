@@ -3,9 +3,10 @@
   "hard_count": 1,
   "language_counts": {
     "cpp": 3,
+    "java": 1,
     "python": 1
   },
-  "last_synced": "2026-08-03T15:16:19Z",
+  "last_synced": "2026-08-03T15:17:36Z",
   "medium_count": 0,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -40,10 +41,11 @@
       "folder_name": "3014-minimum-number-of-pushes-to-type-word-i",
       "languages": [
         "cpp",
+        "java",
         "python"
       ],
-      "last_synced": "2026-08-03T15:16:19Z",
-      "notes": "",
+      "last_synced": "2026-08-03T15:17:36Z",
+      "notes": "Is it merging or not?",
       "problem_number": 3014,
       "problem_slug": "minimum-number-of-pushes-to-type-word-i",
       "problem_title": "Minimum Number of Pushes to Type Word I"
