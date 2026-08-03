@@ -4,7 +4,7 @@
   "language_counts": {
     "cpp": 1
   },
-  "last_synced": "2026-08-03T12:49:02Z",
+  "last_synced": "2026-08-03T12:49:09Z",
   "medium_count": 0,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -16,7 +16,7 @@
       "languages": [
         "cpp"
       ],
-      "last_synced": "2026-08-03T12:49:02Z",
+      "last_synced": "2026-08-03T12:49:09Z",
       "notes": "# DP Learning Notes (Stone Game III)\n\n## 1. Start with the **State**, not the DP Type\n\nDon't begin by thinking:\n\n* \"Is this Interval DP?\"\n* \"Is this Knapsack?\"\n\nInstead ask:\n\n> **What is the minimum information required to describe the remaining problem?**\n\nIf only one variable changes, use 1-D DP. Only introduce more dimensions if they are truly needed.\n\n---\n\n## 2. DP State\n\nA DP state should represent the **remaining problem**, not the history.\n\nThink:\n\n* What remains?\n* What choices can I make from here?\n\nAvoid thinking about what has already happened.\n\n---\n\n## 3. Separate Game Direction from DP Fill Order\n\nThese are independent.\n\n* **Game direction** tells you the next state.\n* **DP fill order** is chosen only to satisfy dependencies.\n\nNever use `i-1` just because you're iterating backwards.\n\n---\n\n## 4. Two-Player Game DP\n\nA powerful state definition is:\n\n`dp[i] = Current Player's Score - Opponent's Score`\n\nTransition:\n\n`Current Gain - Opponent's Best Advantage`\n\nThis naturally models optimal play.\n\n---\n\n## 5. Build the Recurrence in English First\n\nBefore writing code, explain the transition:\n\n> \"If I make this move, what do I gain, where does the opponent start, and what advantage will they have?\"\n\nThen convert that sentence into code.\n\n---\n\n## 6. Use Loops for Repeated Choices\n\nIf the problem allows taking **1 to K** items, avoid writing separate cases.\n\nPattern:\n\n```cpp\nsum = 0;\nfor (int k = 0; k < K && valid; k++) {\n    sum += value[i + k];\n    // Update answer\n}\n```\n\nThis reduces duplicate code and handles boundaries cleanly.\n\n---\n\n## 7. DP Checklist\n\nBefore coding, answer these questions:\n\n1. What is my state?\n2. What does `dp[state]` represent?\n3. What choices are available?\n4. What is the next state after each choice?\n5. How do I combine the current choice with the next state's answer?\n6. What is the base case?\n7. In what order should I compute the states?\n\n---\n\n## Common Mistakes to Avoid\n\n* Choosing the DP type before defining the state.\n* Thinking about the history instead of the remaining problem.\n* Confusing DP traversal order with state transitions.\n* Adding unnecessary DP dimensions.\n* Writing repeated transitions instead of using a loop.\n\n---\n\n## Golden Rule\n\n> **The DP state should contain only the minimum information needed to uniquely identify the remaining problem.**",
       "problem_number": 1406,
       "problem_slug": "stone-game-iii",
