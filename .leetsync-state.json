@@ -2,12 +2,12 @@
   "easy_count": 3,
   "hard_count": 1,
   "language_counts": {
-    "cpp": 4,
+    "cpp": 5,
     "java": 1,
     "python": 2
   },
-  "last_synced": "2026-08-04T07:33:06Z",
-  "medium_count": 1,
+  "last_synced": "2026-08-04T07:42:21Z",
+  "medium_count": 2,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -35,6 +35,18 @@
       "problem_number": 1406,
       "problem_slug": "stone-game-iii",
       "problem_title": "Stone Game III"
+    },
+    "2": {
+      "difficulty": "Medium",
+      "folder_name": "0002-add-two-numbers",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-04T07:42:21Z",
+      "notes": "Was not handling null very well i needed to do that.\n\nAlso need to ensure that the linked lists are handled carefully was not looking good for the edge cases.",
+      "problem_number": 2,
+      "problem_slug": "add-two-numbers",
+      "problem_title": "Add Two Numbers"
     },
     "3014": {
       "difficulty": "Easy",
@@ -76,5 +88,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 5
+  "total_solved": 6
 }
