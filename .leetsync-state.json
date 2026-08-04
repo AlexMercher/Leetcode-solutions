@@ -6,7 +6,7 @@
     "java": 1,
     "python": 2
   },
-  "last_synced": "2026-08-04T07:42:26Z",
+  "last_synced": "2026-08-04T07:50:54Z",
   "medium_count": 2,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -42,8 +42,8 @@
       "languages": [
         "cpp"
       ],
-      "last_synced": "2026-08-04T07:42:26Z",
-      "notes": "Was not handling null very well i needed to do that.\n\nAlso need to ensure that the linked lists are handled carefully was not looking good for the edge cases.",
+      "last_synced": "2026-08-04T07:50:54Z",
+      "notes": "Was not handling the linked list null states very well and not handling the edge cases well enought ",
       "problem_number": 2,
       "problem_slug": "add-two-numbers",
       "problem_title": "Add Two Numbers"
