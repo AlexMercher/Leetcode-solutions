@@ -6,7 +6,7 @@
     "java": 1,
     "python": 2
   },
-  "last_synced": "2026-08-04T06:33:10Z",
+  "last_synced": "2026-08-04T06:33:21Z",
   "medium_count": 0,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -56,7 +56,7 @@
       "languages": [
         "python"
       ],
-      "last_synced": "2026-08-04T06:33:10Z",
+      "last_synced": "2026-08-04T06:33:21Z",
       "notes": "Was not using sets before now need to ensure to use sets if there is a unique condition.",
       "problem_number": 3731,
       "problem_slug": "find-missing-elements",
