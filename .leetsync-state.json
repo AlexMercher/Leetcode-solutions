@@ -2,12 +2,12 @@
   "easy_count": 3,
   "hard_count": 1,
   "language_counts": {
-    "cpp": 3,
+    "cpp": 4,
     "java": 1,
     "python": 2
   },
-  "last_synced": "2026-08-04T06:33:39Z",
-  "medium_count": 0,
+  "last_synced": "2026-08-04T07:33:06Z",
+  "medium_count": 1,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -61,8 +61,20 @@
       "problem_number": 3731,
       "problem_slug": "find-missing-elements",
       "problem_title": "Find Missing Elements"
+    },
+    "486": {
+      "difficulty": "Medium",
+      "folder_name": "0486-predict-the-winner",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-04T07:33:06Z",
+      "notes": "did not think of the interval state rather let the length go to the point where its less than lenght of the array thus making a fatal mistake of not making the entire interval DP.",
+      "problem_number": 486,
+      "problem_slug": "predict-the-winner",
+      "problem_title": "Predict the Winner"
     }
   },
   "schema_version": 1,
-  "total_solved": 4
+  "total_solved": 5
 }
