@@ -1,12 +1,12 @@
 {
-  "easy_count": 2,
+  "easy_count": 3,
   "hard_count": 1,
   "language_counts": {
     "cpp": 3,
     "java": 1,
-    "python": 1
+    "python": 2
   },
-  "last_synced": "2026-08-03T15:17:36Z",
+  "last_synced": "2026-08-04T06:33:10Z",
   "medium_count": 0,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -49,8 +49,20 @@
       "problem_number": 3014,
       "problem_slug": "minimum-number-of-pushes-to-type-word-i",
       "problem_title": "Minimum Number of Pushes to Type Word I"
+    },
+    "3731": {
+      "difficulty": "Easy",
+      "folder_name": "3731-find-missing-elements",
+      "languages": [
+        "python"
+      ],
+      "last_synced": "2026-08-04T06:33:10Z",
+      "notes": "Was not using sets before now need to ensure to use sets if there is a unique condition.",
+      "problem_number": 3731,
+      "problem_slug": "find-missing-elements",
+      "problem_title": "Find Missing Elements"
     }
   },
   "schema_version": 1,
-  "total_solved": 3
+  "total_solved": 4
 }
