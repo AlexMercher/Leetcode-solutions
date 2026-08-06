@@ -1,12 +1,12 @@
 {
-  "easy_count": 3,
+  "easy_count": 4,
   "hard_count": 1,
   "language_counts": {
     "cpp": 5,
     "java": 1,
-    "python": 2
+    "python": 3
   },
-  "last_synced": "2026-08-04T07:50:54Z",
+  "last_synced": "2026-08-06T17:09:27Z",
   "medium_count": 2,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -48,6 +48,18 @@
       "problem_slug": "add-two-numbers",
       "problem_title": "Add Two Numbers"
     },
+    "278": {
+      "difficulty": "Easy",
+      "folder_name": "0278-first-bad-version",
+      "languages": [
+        "python"
+      ],
+      "last_synced": "2026-08-06T17:09:27Z",
+      "notes": "##The rule to remember\n\nThere are two common binary search templates.\n\nExact search\n\nSearching for an exact value:\n\nif (nums[mid] == target)\n    return mid;\n\nYou often do:\n\nhigh = mid - 1;\n\nor\n\nlow = mid + 1;\nBoundary search (this problem)\n\nSearching for:\n\nfirst true\nfirst bad version\nlower bound\ninsertion position\n\nWhen mid is a valid candidate:\n\nif (condition(mid))\n    high = mid;\n\nWhen mid is definitely not the answer:\n\nelse\n    low = mid + 1;\n\nNotice that you never discard mid when it could still be the boundary.",
+      "problem_number": 278,
+      "problem_slug": "first-bad-version",
+      "problem_title": "First Bad Version"
+    },
     "3014": {
       "difficulty": "Easy",
       "folder_name": "3014-minimum-number-of-pushes-to-type-word-i",
@@ -88,5 +100,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 6
+  "total_solved": 7
 }
