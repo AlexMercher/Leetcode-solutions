@@ -1,12 +1,12 @@
 {
-  "easy_count": 6,
+  "easy_count": 7,
   "hard_count": 1,
   "language_counts": {
-    "cpp": 7,
+    "cpp": 8,
     "java": 1,
     "python": 3
   },
-  "last_synced": "2026-08-07T04:36:00Z",
+  "last_synced": "2026-08-07T04:51:00Z",
   "medium_count": 2,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -121,8 +121,20 @@
       "problem_number": 486,
       "problem_slug": "predict-the-winner",
       "problem_title": "Predict the Winner"
+    },
+    "628": {
+      "difficulty": "Easy",
+      "folder_name": "0628-maximum-product-of-three-numbers",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-07T04:51:00Z",
+      "notes": "Nothing special to write here.",
+      "problem_number": 628,
+      "problem_slug": "maximum-product-of-three-numbers",
+      "problem_title": "Maximum Product of Three Numbers"
     }
   },
   "schema_version": 1,
-  "total_solved": 9
+  "total_solved": 10
 }
