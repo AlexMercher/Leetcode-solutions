@@ -1,12 +1,12 @@
 {
-  "easy_count": 4,
+  "easy_count": 5,
   "hard_count": 1,
   "language_counts": {
-    "cpp": 5,
+    "cpp": 6,
     "java": 1,
     "python": 3
   },
-  "last_synced": "2026-08-06T17:09:27Z",
+  "last_synced": "2026-08-07T04:25:55Z",
   "medium_count": 2,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -60,6 +60,18 @@
       "problem_slug": "first-bad-version",
       "problem_title": "First Bad Version"
     },
+    "292": {
+      "difficulty": "Easy",
+      "folder_name": "0292-nim-game",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-07T04:25:55Z",
+      "notes": "This can also be solved with boolean DP where the DP is dp[i]=!(dp[i-1] && dp[i-2] && dp[i-3]) because if all 3 states of dp are true for your opponent then you lose otherwise you can win in the given dp[i] state.\n\nExtra space=O(n). Thus not preferred here.",
+      "problem_number": 292,
+      "problem_slug": "nim-game",
+      "problem_title": "Nim Game"
+    },
     "3014": {
       "difficulty": "Easy",
       "folder_name": "3014-minimum-number-of-pushes-to-type-word-i",
@@ -100,5 +112,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 7
+  "total_solved": 8
 }
