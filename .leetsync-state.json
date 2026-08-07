@@ -2,12 +2,12 @@
   "easy_count": 8,
   "hard_count": 1,
   "language_counts": {
-    "cpp": 9,
+    "cpp": 10,
     "java": 1,
     "python": 4
   },
-  "last_synced": "2026-08-07T05:24:40Z",
-  "medium_count": 3,
+  "last_synced": "2026-08-07T10:03:08Z",
+  "medium_count": 4,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -157,8 +157,20 @@
       "problem_number": 628,
       "problem_slug": "maximum-product-of-three-numbers",
       "problem_title": "Maximum Product of Three Numbers"
+    },
+    "7": {
+      "difficulty": "Medium",
+      "folder_name": "0007-reverse-integer",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-07T10:03:08Z",
+      "notes": "Particular emphasis on the digits of MAX_INT and MIN_INT.\n\nThus now we need to ensure that there is no overflow.\nif(reverse>INT_MAX/10) return 0;\nelse if(reverse==INT_MAX/10&&digit>7) return 0;\nelse if(reverse<INT_MIN/10||(reverse==INT_MIN/10 && digit<-8)) return 0;\n\nThus this one make sure that it is working and no overflow happens",
+      "problem_number": 7,
+      "problem_slug": "reverse-integer",
+      "problem_title": "Reverse Integer"
     }
   },
   "schema_version": 1,
-  "total_solved": 12
+  "total_solved": 13
 }
