@@ -6,31 +6,31 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **11** |
+| Total Solved | **12** |
 | Easy | 8 |
-| Medium | 2 |
+| Medium | 3 |
 | Hard | 1 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **8** (73%)  
-🟡 Medium &nbsp; **2** (18%)  
-🔴 Hard &nbsp; **1** (9%)
+🟢 Easy &nbsp; **8** (67%)  
+🟡 Medium &nbsp; **3** (25%)  
+🔴 Hard &nbsp; **1** (8%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
 | C++ | 9 |
-| Python | 3 |
+| Python | 4 |
 | Java | 1 |
 
 ## Recent Activity
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [3016. Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/README.md) | Medium | Python |
 | [242. Valid Anagram](./0242-valid-anagram/README.md) | Easy | C++ |
 | [628. Maximum Product of Three Numbers](./0628-maximum-product-of-three-numbers/README.md) | Easy | C++ |
 | [1464. Maximum Product of Two Elements in an Array](./1464-maximum-product-of-two-elements-in-an-array/README.md) | Easy | C++ |
 | [292. Nim Game](./0292-nim-game/README.md) | Easy | C++ |
-| [278. First Bad Version](./0278-first-bad-version/README.md) | Easy | Python |

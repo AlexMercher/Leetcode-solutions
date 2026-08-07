@@ -4,10 +4,10 @@
   "language_counts": {
     "cpp": 9,
     "java": 1,
-    "python": 3
+    "python": 4
   },
-  "last_synced": "2026-08-07T05:07:18Z",
-  "medium_count": 2,
+  "last_synced": "2026-08-07T05:24:40Z",
+  "medium_count": 3,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -110,6 +110,18 @@
       "problem_slug": "minimum-number-of-pushes-to-type-word-i",
       "problem_title": "Minimum Number of Pushes to Type Word I"
     },
+    "3016": {
+      "difficulty": "Medium",
+      "folder_name": "3016-minimum-number-of-pushes-to-type-word-ii",
+      "languages": [
+        "python"
+      ],
+      "last_synced": "2026-08-07T05:24:40Z",
+      "notes": "## Mistakes\n\n* Sorting frequencies in ascending order.\n* Forgetting `reverse=True`.\n* Using `i // 8` instead of `i // 8 + 1` (first group would get cost `0`).\n* Using `%` instead of `//` for grouping.",
+      "problem_number": 3016,
+      "problem_slug": "minimum-number-of-pushes-to-type-word-ii",
+      "problem_title": "Minimum Number of Pushes to Type Word II"
+    },
     "3731": {
       "difficulty": "Easy",
       "folder_name": "3731-find-missing-elements",
@@ -148,5 +160,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 11
+  "total_solved": 12
 }
