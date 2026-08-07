@@ -1,12 +1,12 @@
 {
-  "easy_count": 5,
+  "easy_count": 6,
   "hard_count": 1,
   "language_counts": {
-    "cpp": 6,
+    "cpp": 7,
     "java": 1,
     "python": 3
   },
-  "last_synced": "2026-08-07T04:25:55Z",
+  "last_synced": "2026-08-07T04:36:00Z",
   "medium_count": 2,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -35,6 +35,18 @@
       "problem_number": 1406,
       "problem_slug": "stone-game-iii",
       "problem_title": "Stone Game III"
+    },
+    "1464": {
+      "difficulty": "Easy",
+      "folder_name": "1464-maximum-product-of-two-elements-in-an-array",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-07T04:36:00Z",
+      "notes": "No notes fairely easy question to handle",
+      "problem_number": 1464,
+      "problem_slug": "maximum-product-of-two-elements-in-an-array",
+      "problem_title": "Maximum Product of Two Elements in an Array"
     },
     "2": {
       "difficulty": "Medium",
@@ -112,5 +124,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 8
+  "total_solved": 9
 }
