@@ -1,12 +1,12 @@
 {
-  "easy_count": 7,
+  "easy_count": 8,
   "hard_count": 1,
   "language_counts": {
-    "cpp": 8,
+    "cpp": 9,
     "java": 1,
     "python": 3
   },
-  "last_synced": "2026-08-07T04:51:00Z",
+  "last_synced": "2026-08-07T05:07:18Z",
   "medium_count": 2,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -59,6 +59,18 @@
       "problem_number": 2,
       "problem_slug": "add-two-numbers",
       "problem_title": "Add Two Numbers"
+    },
+    "242": {
+      "difficulty": "Easy",
+      "folder_name": "0242-valid-anagram",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-07T05:07:18Z",
+      "notes": "Learn how to handle char you did count[s[i]] instead of count[s[i]-'a'].",
+      "problem_number": 242,
+      "problem_slug": "valid-anagram",
+      "problem_title": "Valid Anagram"
     },
     "278": {
       "difficulty": "Easy",
@@ -136,5 +148,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 10
+  "total_solved": 11
 }
