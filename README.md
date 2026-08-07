@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **15** |
+| Total Solved | **16** |
 | Easy | 8 |
 | Medium | 6 |
-| Hard | 1 |
+| Hard | 2 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **8** (53%)  
-🟡 Medium &nbsp; **6** (40%)  
-🔴 Hard &nbsp; **1** (7%)
+🟢 Easy &nbsp; **8** (50%)  
+🟡 Medium &nbsp; **6** (38%)  
+🔴 Hard &nbsp; **2** (12%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 12 |
+| C++ | 13 |
 | Python | 4 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [3348. Smallest Divisible Digit Product II](./3348-smallest-divisible-digit-product-ii/README.md) | Hard | C++ |
 | [34. Find First and Last Position of Element in Sorted Array](./0034-find-first-and-last-position-of-element-in-sorted-array/README.md) | Medium | C++ |
 | [29. Divide Two Integers](./0029-divide-two-integers/README.md) | Medium | C++ |
 | [7. Reverse Integer](./0007-reverse-integer/README.md) | Medium | C++ |
 | [3016. Minimum Number of Pushes to Type Word II](./3016-minimum-number-of-pushes-to-type-word-ii/README.md) | Medium | Python |
-| [242. Valid Anagram](./0242-valid-anagram/README.md) | Easy | C++ |
