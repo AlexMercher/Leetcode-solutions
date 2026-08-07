@@ -2,12 +2,12 @@
   "easy_count": 8,
   "hard_count": 1,
   "language_counts": {
-    "cpp": 10,
+    "cpp": 11,
     "java": 1,
     "python": 4
   },
-  "last_synced": "2026-08-07T10:03:08Z",
-  "medium_count": 4,
+  "last_synced": "2026-08-07T11:25:39Z",
+  "medium_count": 5,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -83,6 +83,18 @@
       "problem_number": 278,
       "problem_slug": "first-bad-version",
       "problem_title": "First Bad Version"
+    },
+    "29": {
+      "difficulty": "Medium",
+      "folder_name": "0029-divide-two-integers",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-07T11:25:39Z",
+      "notes": "## Mistakes\n\n* Using repeated subtraction (`O(dividend/divisor)`), which causes TLE.\n* Calling `abs(INT_MIN)`, which overflows.\n* Forgetting the overflow case `INT_MIN / -1`.\n* Incorrect sign handling.\n* Using `>` instead of `>=` when comparing the dividend and divisor.\n",
+      "problem_number": 29,
+      "problem_slug": "divide-two-integers",
+      "problem_title": "Divide Two Integers"
     },
     "292": {
       "difficulty": "Easy",
@@ -172,5 +184,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 13
+  "total_solved": 14
 }
