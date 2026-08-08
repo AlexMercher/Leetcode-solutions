@@ -1,12 +1,12 @@
 {
-  "easy_count": 13,
+  "easy_count": 14,
   "hard_count": 2,
   "language_counts": {
-    "cpp": 19,
+    "cpp": 20,
     "java": 1,
     "python": 4
   },
-  "last_synced": "2026-08-08T05:22:03Z",
+  "last_synced": "2026-08-08T05:23:41Z",
   "medium_count": 7,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -119,6 +119,18 @@
       "problem_number": 242,
       "problem_slug": "valid-anagram",
       "problem_title": "Valid Anagram"
+    },
+    "258": {
+      "difficulty": "Easy",
+      "folder_name": "0258-add-digits",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-08T05:23:41Z",
+      "notes": "NO mistakes commited here.",
+      "problem_number": 258,
+      "problem_slug": "add-digits",
+      "problem_title": "Add Digits"
     },
     "268": {
       "difficulty": "Easy",
@@ -280,5 +292,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 22
+  "total_solved": 23
 }
