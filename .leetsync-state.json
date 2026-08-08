@@ -1,12 +1,12 @@
 {
-  "easy_count": 11,
+  "easy_count": 12,
   "hard_count": 2,
   "language_counts": {
-    "cpp": 17,
+    "cpp": 18,
     "java": 1,
     "python": 4
   },
-  "last_synced": "2026-08-08T05:19:38Z",
+  "last_synced": "2026-08-08T05:21:06Z",
   "medium_count": 7,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -35,6 +35,18 @@
       "problem_number": 1406,
       "problem_slug": "stone-game-iii",
       "problem_title": "Stone Game III"
+    },
+    "144": {
+      "difficulty": "Easy",
+      "folder_name": "0144-binary-tree-preorder-traversal",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-08T05:21:06Z",
+      "notes": "did not think of the helper function at all.",
+      "problem_number": 144,
+      "problem_slug": "binary-tree-preorder-traversal",
+      "problem_title": "Binary Tree Preorder Traversal"
     },
     "1464": {
       "difficulty": "Easy",
@@ -256,5 +268,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 20
+  "total_solved": 21
 }
