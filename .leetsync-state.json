@@ -1,12 +1,12 @@
 {
-  "easy_count": 10,
+  "easy_count": 11,
   "hard_count": 2,
   "language_counts": {
-    "cpp": 16,
+    "cpp": 17,
     "java": 1,
     "python": 4
   },
-  "last_synced": "2026-08-08T05:15:18Z",
+  "last_synced": "2026-08-08T05:19:38Z",
   "medium_count": 7,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -95,6 +95,18 @@
       "problem_number": 242,
       "problem_slug": "valid-anagram",
       "problem_title": "Valid Anagram"
+    },
+    "268": {
+      "difficulty": "Easy",
+      "folder_name": "0268-missing-number",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-08T05:19:38Z",
+      "notes": "Fairly easy question. No mistakes",
+      "problem_number": 268,
+      "problem_slug": "missing-number",
+      "problem_title": "Missing Number"
     },
     "278": {
       "difficulty": "Easy",
@@ -244,5 +256,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 19
+  "total_solved": 20
 }
