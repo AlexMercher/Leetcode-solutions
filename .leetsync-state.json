@@ -1,12 +1,12 @@
 {
-  "easy_count": 9,
+  "easy_count": 10,
   "hard_count": 2,
   "language_counts": {
-    "cpp": 15,
+    "cpp": 16,
     "java": 1,
     "python": 4
   },
-  "last_synced": "2026-08-08T05:12:36Z",
+  "last_synced": "2026-08-08T05:15:18Z",
   "medium_count": 7,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -47,6 +47,18 @@
       "problem_number": 1464,
       "problem_slug": "maximum-product-of-two-elements-in-an-array",
       "problem_title": "Maximum Product of Two Elements in an Array"
+    },
+    "1979": {
+      "difficulty": "Easy",
+      "folder_name": "1979-find-greatest-common-divisor-of-array",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-08T05:15:18Z",
+      "notes": "Forgot the base case for this one.",
+      "problem_number": 1979,
+      "problem_slug": "find-greatest-common-divisor-of-array",
+      "problem_title": "Find Greatest Common Divisor of Array"
     },
     "2": {
       "difficulty": "Medium",
@@ -232,5 +244,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 18
+  "total_solved": 19
 }
