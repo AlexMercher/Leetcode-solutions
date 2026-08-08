@@ -1,12 +1,12 @@
 {
-  "easy_count": 8,
+  "easy_count": 9,
   "hard_count": 2,
   "language_counts": {
-    "cpp": 14,
+    "cpp": 15,
     "java": 1,
     "python": 4
   },
-  "last_synced": "2026-08-08T05:01:18Z",
+  "last_synced": "2026-08-08T05:12:36Z",
   "medium_count": 7,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -59,6 +59,18 @@
       "problem_number": 2,
       "problem_slug": "add-two-numbers",
       "problem_title": "Add Two Numbers"
+    },
+    "2413": {
+      "difficulty": "Easy",
+      "folder_name": "2413-smallest-even-multiple",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-08T05:12:36Z",
+      "notes": "No mistakes committed here",
+      "problem_number": 2413,
+      "problem_slug": "smallest-even-multiple",
+      "problem_title": "Smallest Even Multiple"
     },
     "242": {
       "difficulty": "Easy",
@@ -220,5 +232,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 17
+  "total_solved": 18
 }
