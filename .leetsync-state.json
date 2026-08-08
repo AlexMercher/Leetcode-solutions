@@ -1,12 +1,12 @@
 {
-  "easy_count": 12,
+  "easy_count": 13,
   "hard_count": 2,
   "language_counts": {
-    "cpp": 18,
+    "cpp": 19,
     "java": 1,
     "python": 4
   },
-  "last_synced": "2026-08-08T05:21:06Z",
+  "last_synced": "2026-08-08T05:22:03Z",
   "medium_count": 7,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -47,6 +47,18 @@
       "problem_number": 144,
       "problem_slug": "binary-tree-preorder-traversal",
       "problem_title": "Binary Tree Preorder Traversal"
+    },
+    "145": {
+      "difficulty": "Easy",
+      "folder_name": "0145-binary-tree-postorder-traversal",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-08T05:22:03Z",
+      "notes": "No mistakes commited.",
+      "problem_number": 145,
+      "problem_slug": "binary-tree-postorder-traversal",
+      "problem_title": "Binary Tree Postorder Traversal"
     },
     "1464": {
       "difficulty": "Easy",
@@ -268,5 +280,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 21
+  "total_solved": 22
 }
