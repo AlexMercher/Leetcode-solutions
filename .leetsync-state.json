@@ -2,12 +2,12 @@
   "easy_count": 14,
   "hard_count": 2,
   "language_counts": {
-    "cpp": 20,
+    "cpp": 21,
     "java": 1,
     "python": 4
   },
-  "last_synced": "2026-08-08T05:23:41Z",
-  "medium_count": 7,
+  "last_synced": "2026-08-09T05:58:36Z",
+  "medium_count": 8,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -23,6 +23,18 @@
       "problem_number": 1,
       "problem_slug": "two-sum",
       "problem_title": "Two Sum"
+    },
+    "1140": {
+      "difficulty": "Medium",
+      "folder_name": "1140-stone-game-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-09T05:58:36Z",
+      "notes": "should have categorized the recurrence properly in this case.",
+      "problem_number": 1140,
+      "problem_slug": "stone-game-ii",
+      "problem_title": "Stone Game II"
     },
     "1406": {
       "difficulty": "Hard",
@@ -292,5 +304,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 23
+  "total_solved": 24
 }
