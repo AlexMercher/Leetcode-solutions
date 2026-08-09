@@ -1,12 +1,12 @@
 {
-  "easy_count": 15,
+  "easy_count": 16,
   "hard_count": 2,
   "language_counts": {
-    "cpp": 21,
+    "cpp": 22,
     "java": 1,
     "python": 5
   },
-  "last_synced": "2026-08-09T08:52:35Z",
+  "last_synced": "2026-08-09T10:20:21Z",
   "medium_count": 8,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -155,6 +155,18 @@
       "problem_number": 258,
       "problem_slug": "add-digits",
       "problem_title": "Add Digits"
+    },
+    "2591": {
+      "difficulty": "Easy",
+      "folder_name": "2591-distribute-money-to-maximum-children",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-09T10:20:21Z",
+      "notes": "Took almost 30 mins to write the correct solution though it ran in one go still with practise we can make it better.",
+      "problem_number": 2591,
+      "problem_slug": "distribute-money-to-maximum-children",
+      "problem_title": "Distribute Money to Maximum Children"
     },
     "268": {
       "difficulty": "Easy",
@@ -316,5 +328,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 25
+  "total_solved": 26
 }
