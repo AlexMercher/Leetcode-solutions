@@ -1,12 +1,12 @@
 {
-  "easy_count": 14,
+  "easy_count": 15,
   "hard_count": 2,
   "language_counts": {
     "cpp": 21,
     "java": 1,
-    "python": 4
+    "python": 5
   },
-  "last_synced": "2026-08-09T05:58:36Z",
+  "last_synced": "2026-08-09T08:52:35Z",
   "medium_count": 8,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -131,6 +131,18 @@
       "problem_number": 242,
       "problem_slug": "valid-anagram",
       "problem_title": "Valid Anagram"
+    },
+    "2423": {
+      "difficulty": "Easy",
+      "folder_name": "2423-remove-letter-to-equalize-frequency",
+      "languages": [
+        "python"
+      ],
+      "last_synced": "2026-08-09T08:52:35Z",
+      "notes": "Mistakes\n1. Comparing character frequencies directly\n\nThe important thing is not which characters have which frequencies.\n\nWe only care about the distribution of frequencies.\n\nInstead of:\n\na → 2\n\nb → 3\nc → 3\n\nthink:\n\nfrequency 2 → 1 character\nfrequency 3 → 2 characters\n\nThat's why the second Counter is useful.\n\n2. Assuming frequencies can differ only by 1\n\nA case like:\n\n[1, 3]\n\nis valid.\n\nRemove the character with frequency 1 entirely:\n\n[3]\n\nSo a difference greater than 1 isn't automatically invalid.\n\n3. Forgetting that exactly one character must be removed\n\nIf:\n\n[2, 2]\n\nthe frequencies are already equal, but removing one character produces:\n\n[1, 2]\n\nso the answer is False.\n\nTherefore, equal frequencies are valid only when:\n\nfrequency == 1\n\nor there is only one distinct character.\n\n4. Not considering removal of the entire minimum-frequency character\n\nFor:\n\n[1, 2, 2]\n\nwe remove the character occurring once.\n\nThe result is:\n\n[2, 2]\n\nThis is why:\n\nf1 == 1 and c1 == 1\n\nis a separate valid case.\n\n5. Not requiring the higher frequency to be unique\n\nFor:\n\n[2, 3, 3]\n\nremoving one from either 3 gives:\n\n[2, 3]\n\nwhich is still invalid.\n\nTherefore:\n\nf2 - f1 == 1 and c2 == 1\n\nrequires exactly one character to have the higher frequency.",
+      "problem_number": 2423,
+      "problem_slug": "remove-letter-to-equalize-frequency",
+      "problem_title": "Remove Letter To Equalize Frequency"
     },
     "258": {
       "difficulty": "Easy",
@@ -304,5 +316,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 24
+  "total_solved": 25
 }
