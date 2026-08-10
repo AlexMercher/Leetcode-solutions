@@ -1,12 +1,12 @@
 {
-  "easy_count": 16,
+  "easy_count": 17,
   "hard_count": 3,
   "language_counts": {
-    "cpp": 23,
+    "cpp": 24,
     "java": 1,
     "python": 5
   },
-  "last_synced": "2026-08-10T13:14:41Z",
+  "last_synced": "2026-08-10T13:34:43Z",
   "medium_count": 8,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -314,6 +314,18 @@
       "problem_slug": "predict-the-winner",
       "problem_title": "Predict the Winner"
     },
+    "605": {
+      "difficulty": "Easy",
+      "folder_name": "0605-can-place-flowers",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-10T13:34:43Z",
+      "notes": "int prev=(i==0)?0:flowerbed[i-1];\nint next=(i==bed_len-1)?0:flowerbed[i+1];\n\nCould not think of this edge cases and was assuming that the ends of the flowerbed is always one. Good way to declare prev and next and can be used in a lot of places.",
+      "problem_number": 605,
+      "problem_slug": "can-place-flowers",
+      "problem_title": "Can Place Flowers"
+    },
     "628": {
       "difficulty": "Easy",
       "folder_name": "0628-maximum-product-of-three-numbers",
@@ -340,5 +352,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 27
+  "total_solved": 28
 }
