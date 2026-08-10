@@ -1,12 +1,12 @@
 {
   "easy_count": 16,
-  "hard_count": 2,
+  "hard_count": 3,
   "language_counts": {
-    "cpp": 22,
+    "cpp": 23,
     "java": 1,
     "python": 5
   },
-  "last_synced": "2026-08-09T10:20:21Z",
+  "last_synced": "2026-08-10T13:14:41Z",
   "medium_count": 8,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -83,6 +83,18 @@
       "problem_number": 1464,
       "problem_slug": "maximum-product-of-two-elements-in-an-array",
       "problem_title": "Maximum Product of Two Elements in an Array"
+    },
+    "1510": {
+      "difficulty": "Hard",
+      "folder_name": "1510-stone-game-iv",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-10T13:14:41Z",
+      "notes": "The derivation and the state thinking of the dp was reletively easier the hard part was reconciling with the fact that a 1d dp required two loops.\n\n### Keep yourself open to suggestions and make sure the way of thinking is not hardcoded",
+      "problem_number": 1510,
+      "problem_slug": "stone-game-iv",
+      "problem_title": "Stone Game IV"
     },
     "1979": {
       "difficulty": "Easy",
@@ -328,5 +340,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 26
+  "total_solved": 27
 }
