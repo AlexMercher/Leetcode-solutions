@@ -1,12 +1,12 @@
 {
-  "easy_count": 17,
+  "easy_count": 18,
   "hard_count": 3,
   "language_counts": {
-    "cpp": 24,
+    "cpp": 25,
     "java": 1,
     "python": 5
   },
-  "last_synced": "2026-08-10T13:34:43Z",
+  "last_synced": "2026-08-11T11:24:14Z",
   "medium_count": 8,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -228,6 +228,18 @@
       "problem_slug": "nim-game",
       "problem_title": "Nim Game"
     },
+    "2996": {
+      "difficulty": "Easy",
+      "folder_name": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-11T11:24:14Z",
+      "notes": "# Mistakes\n\n* Forgot to include `nums[0]` in the sequential-prefix sum.\n* Accessed `nums[i]` before checking `i < n`.\n* Forgot to increment `i`, causing an infinite loop and integer overflow.\n* Initially confused “smallest missing ≥ sum” with “smallest value greater than sum.”\n* The final search must check whether the candidate **exists**, not whether it is larger.\n",
+      "problem_number": 2996,
+      "problem_slug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+      "problem_title": "Smallest Missing Integer Greater Than Sequential Prefix Sum"
+    },
     "3014": {
       "difficulty": "Easy",
       "folder_name": "3014-minimum-number-of-pushes-to-type-word-i",
@@ -352,5 +364,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 28
+  "total_solved": 29
 }
