@@ -2,12 +2,12 @@
   "easy_count": 18,
   "hard_count": 3,
   "language_counts": {
-    "cpp": 25,
+    "cpp": 26,
     "java": 1,
     "python": 5
   },
-  "last_synced": "2026-08-11T11:24:14Z",
-  "medium_count": 8,
+  "last_synced": "2026-08-12T16:24:45Z",
+  "medium_count": 9,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -228,6 +228,18 @@
       "problem_slug": "nim-game",
       "problem_title": "Nim Game"
     },
+    "2958": {
+      "difficulty": "Medium",
+      "folder_name": "2958-length-of-longest-subarray-with-at-most-k-frequency",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-12T16:24:45Z",
+      "notes": "For some reason i try to go to the nested if and what not try to build a good and dynamic system easily. \n\n(Today i also got rejected in the LAM Research Interview feeling a bit depreesed and have no one to talk to.)",
+      "problem_number": 2958,
+      "problem_slug": "length-of-longest-subarray-with-at-most-k-frequency",
+      "problem_title": "Length of Longest Subarray With at Most K Frequency"
+    },
     "2996": {
       "difficulty": "Easy",
       "folder_name": "2996-smallest-missing-integer-greater-than-sequential-prefix-sum",
@@ -364,5 +376,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 29
+  "total_solved": 30
 }
