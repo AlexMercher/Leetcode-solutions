@@ -1,12 +1,12 @@
 {
-  "easy_count": 18,
+  "easy_count": 19,
   "hard_count": 3,
   "language_counts": {
-    "cpp": 26,
+    "cpp": 27,
     "java": 1,
     "python": 5
   },
-  "last_synced": "2026-08-12T16:24:45Z",
+  "last_synced": "2026-08-12T16:35:11Z",
   "medium_count": 9,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -326,6 +326,18 @@
       "problem_slug": "find-missing-elements",
       "problem_title": "Find Missing Elements"
     },
+    "3754": {
+      "difficulty": "Easy",
+      "folder_name": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-12T16:35:11Z",
+      "notes": "Was not able to think how to get the power of 10 now its clear\n\nwhile(temp>=10){\ntemp/=10;\npower*=10\n}",
+      "problem_number": 3754,
+      "problem_slug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+      "problem_title": "Concatenate Non-Zero Digits and Multiply by Sum I"
+    },
     "486": {
       "difficulty": "Medium",
       "folder_name": "0486-predict-the-winner",
@@ -376,5 +388,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 30
+  "total_solved": 31
 }
