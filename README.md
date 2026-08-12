@@ -6,31 +6,31 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **31** |
-| Easy | 19 |
+| Total Solved | **32** |
+| Easy | 20 |
 | Medium | 9 |
 | Hard | 3 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **19** (61%)  
-🟡 Medium &nbsp; **9** (29%)  
-🔴 Hard &nbsp; **3** (10%)
+🟢 Easy &nbsp; **20** (62%)  
+🟡 Medium &nbsp; **9** (28%)  
+🔴 Hard &nbsp; **3** (9%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
 | C++ | 27 |
-| Python | 5 |
+| Python | 6 |
 | Java | 1 |
 
 ## Recent Activity
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [1967. Number of Strings That Appear as Substrings in Word](./1967-number-of-strings-that-appear-as-substrings-in-word/README.md) | Easy | Python |
 | [3754. Concatenate Non-Zero Digits and Multiply by Sum I](./3754-concatenate-non-zero-digits-and-multiply-by-sum-i/README.md) | Easy | C++ |
 | [2958. Length of Longest Subarray With at Most K Frequency](./2958-length-of-longest-subarray-with-at-most-k-frequency/README.md) | Medium | C++ |
 | [2996. Smallest Missing Integer Greater Than Sequential Prefix Sum](./2996-smallest-missing-integer-greater-than-sequential-prefix-sum/README.md) | Easy | C++ |
 | [605. Can Place Flowers](./0605-can-place-flowers/README.md) | Easy | C++ |
-| [1510. Stone Game IV](./1510-stone-game-iv/README.md) | Hard | C++ |
