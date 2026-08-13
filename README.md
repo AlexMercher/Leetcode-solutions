@@ -6,14 +6,14 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **37** |
-| Easy | 24 |
+| Total Solved | **38** |
+| Easy | 25 |
 | Medium | 9 |
 | Hard | 4 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **24** (65%)  
+🟢 Easy &nbsp; **25** (66%)  
 🟡 Medium &nbsp; **9** (24%)  
 🔴 Hard &nbsp; **4** (11%)
 
@@ -21,7 +21,7 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 32 |
+| C++ | 33 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [2574. Left and Right Sum Differences](./2574-left-and-right-sum-differences/README.md) | Easy | C++ |
 | [3838. Weighted Word Mapping](./3838-weighted-word-mapping/README.md) | Easy | C++ |
 | [1732. Find the Highest Altitude](./1732-find-the-highest-altitude/README.md) | Easy | C++ |
 | [1189. Maximum Number of Balloons](./1189-maximum-number-of-balloons/README.md) | Easy | C++ |
 | [1331. Rank Transform of an Array](./1331-rank-transform-of-an-array/README.md) | Easy | C++ |
-| [2213. Longest Substring of One Repeating Character](./2213-longest-substring-of-one-repeating-character/README.md) | Hard | C++ |

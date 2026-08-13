@@ -1,12 +1,12 @@
 {
-  "easy_count": 24,
+  "easy_count": 25,
   "hard_count": 4,
   "language_counts": {
-    "cpp": 32,
+    "cpp": 33,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-13T12:49:50Z",
+  "last_synced": "2026-08-13T13:05:16Z",
   "medium_count": 9,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -215,6 +215,18 @@
       "problem_number": 2423,
       "problem_slug": "remove-letter-to-equalize-frequency",
       "problem_title": "Remove Letter To Equalize Frequency"
+    },
+    "2574": {
+      "difficulty": "Easy",
+      "folder_name": "2574-left-and-right-sum-differences",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-13T13:05:16Z",
+      "notes": "No mistakes commited only forgot one = sign in the for and thus was getting the wrong inputs, only one typing or logical error.",
+      "problem_number": 2574,
+      "problem_slug": "left-and-right-sum-differences",
+      "problem_title": "Left and Right Sum Differences"
     },
     "258": {
       "difficulty": "Easy",
@@ -460,5 +472,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 37
+  "total_solved": 38
 }
