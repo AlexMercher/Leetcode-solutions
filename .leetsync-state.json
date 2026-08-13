@@ -1,12 +1,12 @@
 {
-  "easy_count": 23,
+  "easy_count": 24,
   "hard_count": 4,
   "language_counts": {
-    "cpp": 31,
+    "cpp": 32,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-13T11:13:59Z",
+  "last_synced": "2026-08-13T12:49:50Z",
   "medium_count": 9,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -398,6 +398,18 @@
       "problem_slug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
       "problem_title": "Concatenate Non-Zero Digits and Multiply by Sum I"
     },
+    "3838": {
+      "difficulty": "Easy",
+      "folder_name": "3838-weighted-word-mapping",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-13T12:49:50Z",
+      "notes": "No mistakes commited only forgot to reinitialize the sum=0 inside the loop so was getting wrong values.",
+      "problem_number": 3838,
+      "problem_slug": "weighted-word-mapping",
+      "problem_title": "Weighted Word Mapping"
+    },
     "486": {
       "difficulty": "Medium",
       "folder_name": "0486-predict-the-winner",
@@ -448,5 +460,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 36
+  "total_solved": 37
 }
