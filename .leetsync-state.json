@@ -1,12 +1,12 @@
 {
-  "easy_count": 22,
+  "easy_count": 23,
   "hard_count": 4,
   "language_counts": {
-    "cpp": 30,
+    "cpp": 31,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-13T11:09:24Z",
+  "last_synced": "2026-08-13T11:13:59Z",
   "medium_count": 9,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -119,6 +119,18 @@
       "problem_number": 1510,
       "problem_slug": "stone-game-iv",
       "problem_title": "Stone Game IV"
+    },
+    "1732": {
+      "difficulty": "Easy",
+      "folder_name": "1732-find-the-highest-altitude",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-13T11:13:59Z",
+      "notes": "No mistakes made was able to do it in one go.\n",
+      "problem_number": 1732,
+      "problem_slug": "find-the-highest-altitude",
+      "problem_title": "Find the Highest Altitude"
     },
     "1967": {
       "difficulty": "Easy",
@@ -436,5 +448,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 35
+  "total_solved": 36
 }
