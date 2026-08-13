@@ -1,12 +1,12 @@
 {
-  "easy_count": 21,
+  "easy_count": 22,
   "hard_count": 4,
   "language_counts": {
-    "cpp": 29,
+    "cpp": 30,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-13T10:40:53Z",
+  "last_synced": "2026-08-13T11:09:24Z",
   "medium_count": 9,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -35,6 +35,18 @@
       "problem_number": 1140,
       "problem_slug": "stone-game-ii",
       "problem_title": "Stone Game II"
+    },
+    "1189": {
+      "difficulty": "Easy",
+      "folder_name": "1189-maximum-number-of-balloons",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-13T11:09:24Z",
+      "notes": "Instead of returning the \n\n### min({freq['b'-'a'],freq['a'-'a'],freq['l'-'a']/2,freq['o'-'a']/2,freq['n'-'a']});\n\nI was trying to get the count using a count variable this is much cleaner and better.",
+      "problem_number": 1189,
+      "problem_slug": "maximum-number-of-balloons",
+      "problem_title": "Maximum Number of Balloons"
     },
     "1331": {
       "difficulty": "Easy",
@@ -424,5 +436,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 34
+  "total_solved": 35
 }
