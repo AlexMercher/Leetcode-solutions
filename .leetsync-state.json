@@ -1,12 +1,12 @@
 {
-  "easy_count": 20,
+  "easy_count": 21,
   "hard_count": 4,
   "language_counts": {
-    "cpp": 28,
+    "cpp": 29,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-13T10:27:41Z",
+  "last_synced": "2026-08-13T10:40:53Z",
   "medium_count": 9,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -35,6 +35,18 @@
       "problem_number": 1140,
       "problem_slug": "stone-game-ii",
       "problem_title": "Stone Game II"
+    },
+    "1331": {
+      "difficulty": "Easy",
+      "folder_name": "1331-rank-transform-of-an-array",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-13T10:40:53Z",
+      "notes": "Was only trying to do it by sorting and not using hashmap for storing the rank was trying to find it dynamically.",
+      "problem_number": 1331,
+      "problem_slug": "rank-transform-of-an-array",
+      "problem_title": "Rank Transform of an Array"
     },
     "1406": {
       "difficulty": "Hard",
@@ -412,5 +424,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 33
+  "total_solved": 34
 }
