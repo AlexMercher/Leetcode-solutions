@@ -1,12 +1,12 @@
 {
-  "easy_count": 25,
+  "easy_count": 26,
   "hard_count": 4,
   "language_counts": {
-    "cpp": 33,
+    "cpp": 34,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-13T13:05:16Z",
+  "last_synced": "2026-08-13T18:28:48Z",
   "medium_count": 9,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -350,6 +350,18 @@
       "problem_slug": "minimum-number-of-pushes-to-type-word-ii",
       "problem_title": "Minimum Number of Pushes to Type Word II"
     },
+    "3300": {
+      "difficulty": "Easy",
+      "folder_name": "3300-minimum-element-after-replacement-with-digit-sum",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-13T18:28:48Z",
+      "notes": "No mistakes commited in this easy problem. Yay lets go 😁😁😁",
+      "problem_number": 3300,
+      "problem_slug": "minimum-element-after-replacement-with-digit-sum",
+      "problem_title": "Minimum Element After Replacement With Digit Sum"
+    },
     "3302": {
       "difficulty": "Medium",
       "folder_name": "3302-find-the-lexicographically-smallest-valid-sequence",
@@ -472,5 +484,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 38
+  "total_solved": 39
 }
