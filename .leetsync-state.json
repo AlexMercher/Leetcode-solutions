@@ -1,12 +1,12 @@
 {
   "easy_count": 20,
-  "hard_count": 3,
+  "hard_count": 4,
   "language_counts": {
-    "cpp": 27,
+    "cpp": 28,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-12T16:41:43Z",
+  "last_synced": "2026-08-13T10:27:41Z",
   "medium_count": 9,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -131,6 +131,18 @@
       "problem_number": 2,
       "problem_slug": "add-two-numbers",
       "problem_title": "Add Two Numbers"
+    },
+    "2213": {
+      "difficulty": "Hard",
+      "folder_name": "2213-longest-substring-of-one-repeating-character",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-13T10:27:41Z",
+      "notes": "No idea of what a segment tree is need to learn about it in a day or two.",
+      "problem_number": 2213,
+      "problem_slug": "longest-substring-of-one-repeating-character",
+      "problem_title": "Longest Substring of One Repeating Character"
     },
     "2413": {
       "difficulty": "Easy",
@@ -400,5 +412,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 32
+  "total_solved": 33
 }
