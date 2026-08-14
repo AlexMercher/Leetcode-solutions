@@ -1,12 +1,12 @@
 {
-  "easy_count": 30,
+  "easy_count": 31,
   "hard_count": 4,
   "language_counts": {
-    "cpp": 38,
+    "cpp": 39,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-14T09:47:03Z",
+  "last_synced": "2026-08-14T09:55:36Z",
   "medium_count": 9,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -227,6 +227,18 @@
       "problem_number": 2423,
       "problem_slug": "remove-letter-to-equalize-frequency",
       "problem_title": "Remove Letter To Equalize Frequency"
+    },
+    "2553": {
+      "difficulty": "Easy",
+      "folder_name": "2553-separate-the-digits-in-an-array",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-14T09:55:36Z",
+      "notes": "Was not thinking of the reverse process and hence was getting the order of the digits wrong all the time.",
+      "problem_number": 2553,
+      "problem_slug": "separate-the-digits-in-an-array",
+      "problem_title": "Separate the Digits in an Array"
     },
     "2574": {
       "difficulty": "Easy",
@@ -532,5 +544,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 43
+  "total_solved": 44
 }
