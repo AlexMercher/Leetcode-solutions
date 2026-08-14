@@ -1,12 +1,12 @@
 {
-  "easy_count": 32,
+  "easy_count": 33,
   "hard_count": 4,
   "language_counts": {
-    "cpp": 40,
+    "cpp": 41,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-14T17:13:58Z",
+  "last_synced": "2026-08-14T17:19:49Z",
   "medium_count": 9,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -131,6 +131,18 @@
       "problem_number": 168,
       "problem_slug": "excel-sheet-column-title",
       "problem_title": "Excel Sheet Column Title"
+    },
+    "171": {
+      "difficulty": "Easy",
+      "folder_name": "0171-excel-sheet-column-number",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-14T17:19:49Z",
+      "notes": "No mistakes commited here",
+      "problem_number": 171,
+      "problem_slug": "excel-sheet-column-number",
+      "problem_title": "Excel Sheet Column Number"
     },
     "1732": {
       "difficulty": "Easy",
@@ -556,5 +568,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 45
+  "total_solved": 46
 }
