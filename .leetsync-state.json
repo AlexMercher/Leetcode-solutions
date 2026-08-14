@@ -1,12 +1,12 @@
 {
-  "easy_count": 27,
+  "easy_count": 28,
   "hard_count": 4,
   "language_counts": {
-    "cpp": 35,
+    "cpp": 36,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-14T06:04:41Z",
+  "last_synced": "2026-08-14T08:09:40Z",
   "medium_count": 9,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -167,6 +167,18 @@
       "problem_number": 2,
       "problem_slug": "add-two-numbers",
       "problem_title": "Add Two Numbers"
+    },
+    "2144": {
+      "difficulty": "Easy",
+      "folder_name": "2144-minimum-cost-of-buying-candies-with-discount",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-14T08:09:40Z",
+      "notes": "No mistakes was commited while solving this question.",
+      "problem_number": 2144,
+      "problem_slug": "minimum-cost-of-buying-candies-with-discount",
+      "problem_title": "Minimum Cost of Buying Candies With Discount"
     },
     "2213": {
       "difficulty": "Hard",
@@ -496,5 +508,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 40
+  "total_solved": 41
 }
