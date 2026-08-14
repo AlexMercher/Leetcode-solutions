@@ -1,12 +1,12 @@
 {
-  "easy_count": 31,
+  "easy_count": 32,
   "hard_count": 4,
   "language_counts": {
-    "cpp": 39,
+    "cpp": 40,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-14T09:55:36Z",
+  "last_synced": "2026-08-14T17:13:58Z",
   "medium_count": 9,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -119,6 +119,18 @@
       "problem_number": 1510,
       "problem_slug": "stone-game-iv",
       "problem_title": "Stone Game IV"
+    },
+    "168": {
+      "difficulty": "Easy",
+      "folder_name": "0168-excel-sheet-column-title",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-14T17:13:58Z",
+      "notes": "Forgot to do columnNumber--; Thus char(dig+'A') was giving '[' as the answer.",
+      "problem_number": 168,
+      "problem_slug": "excel-sheet-column-title",
+      "problem_title": "Excel Sheet Column Title"
     },
     "1732": {
       "difficulty": "Easy",
@@ -544,5 +556,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 44
+  "total_solved": 45
 }
