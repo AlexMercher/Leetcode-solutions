@@ -1,12 +1,12 @@
 {
-  "easy_count": 26,
+  "easy_count": 27,
   "hard_count": 4,
   "language_counts": {
-    "cpp": 34,
+    "cpp": 35,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-13T18:28:48Z",
+  "last_synced": "2026-08-14T06:04:41Z",
   "medium_count": 9,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -350,6 +350,18 @@
       "problem_slug": "minimum-number-of-pushes-to-type-word-ii",
       "problem_title": "Minimum Number of Pushes to Type Word II"
     },
+    "3090": {
+      "difficulty": "Easy",
+      "folder_name": "3090-maximum-length-substring-with-two-occurrences",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-14T06:04:41Z",
+      "notes": "Keep the max of ans,right-left+1, I did max(ans,left-right+1). So it got wrong results.",
+      "problem_number": 3090,
+      "problem_slug": "maximum-length-substring-with-two-occurrences",
+      "problem_title": "Maximum Length Substring With Two Occurrences"
+    },
     "3300": {
       "difficulty": "Easy",
       "folder_name": "3300-minimum-element-after-replacement-with-digit-sum",
@@ -484,5 +496,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 39
+  "total_solved": 40
 }
