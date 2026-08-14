@@ -1,12 +1,12 @@
 {
-  "easy_count": 33,
+  "easy_count": 34,
   "hard_count": 4,
   "language_counts": {
-    "cpp": 41,
+    "cpp": 42,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-14T17:19:49Z",
+  "last_synced": "2026-08-14T17:34:56Z",
   "medium_count": 9,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -191,6 +191,18 @@
       "problem_number": 2,
       "problem_slug": "add-two-numbers",
       "problem_title": "Add Two Numbers"
+    },
+    "205": {
+      "difficulty": "Easy",
+      "folder_name": "0205-isomorphic-strings",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-14T17:34:56Z",
+      "notes": "# Mistakes\n\n1. Counting distinct characters is insufficient; isomorphism depends on positional mapping.\n2. A one-way mapping allows two different `s` characters to map to the same `t` character.\n3. `vector<int>(26)` is insufficient because the problem allows any ASCII character.\n4. Use ASCII values directly as indices: `s[i]` and `t[i]`.\n5. Always verify an existing mapping before accepting a character pair.",
+      "problem_number": 205,
+      "problem_slug": "isomorphic-strings",
+      "problem_title": "Isomorphic Strings"
     },
     "2144": {
       "difficulty": "Easy",
@@ -568,5 +580,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 46
+  "total_solved": 47
 }
