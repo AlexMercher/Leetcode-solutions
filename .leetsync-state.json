@@ -1,12 +1,12 @@
 {
-  "easy_count": 28,
+  "easy_count": 29,
   "hard_count": 4,
   "language_counts": {
-    "cpp": 36,
+    "cpp": 37,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-14T08:09:40Z",
+  "last_synced": "2026-08-14T08:10:54Z",
   "medium_count": 9,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -422,6 +422,18 @@
       "problem_slug": "find-first-and-last-position-of-element-in-sorted-array",
       "problem_title": "Find First and Last Position of Element in Sorted Array"
     },
+    "3633": {
+      "difficulty": "Easy",
+      "folder_name": "3633-earliest-finish-time-for-land-and-water-rides-i",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-14T08:10:54Z",
+      "notes": "Was not thinking of two loops rather i was trying to do it in one loop only.",
+      "problem_number": 3633,
+      "problem_slug": "earliest-finish-time-for-land-and-water-rides-i",
+      "problem_title": "Earliest Finish Time for Land and Water Rides I"
+    },
     "3731": {
       "difficulty": "Easy",
       "folder_name": "3731-find-missing-elements",
@@ -508,5 +520,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 41
+  "total_solved": 42
 }
