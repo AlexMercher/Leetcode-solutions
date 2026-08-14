@@ -1,12 +1,12 @@
 {
-  "easy_count": 29,
+  "easy_count": 30,
   "hard_count": 4,
   "language_counts": {
-    "cpp": 37,
+    "cpp": 38,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-14T08:10:54Z",
+  "last_synced": "2026-08-14T09:47:03Z",
   "medium_count": 9,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -288,6 +288,18 @@
       "problem_slug": "first-bad-version",
       "problem_title": "First Bad Version"
     },
+    "2784": {
+      "difficulty": "Easy",
+      "folder_name": "2784-check-if-array-is-good",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-14T09:47:03Z",
+      "notes": "Was trying to use the sum approach but this one required to use the frequency count and hence i had to use the frequency here. Using a vector as a hashmap.",
+      "problem_number": 2784,
+      "problem_slug": "check-if-array-is-good",
+      "problem_title": "Check if Array is Good"
+    },
     "29": {
       "difficulty": "Medium",
       "folder_name": "0029-divide-two-integers",
@@ -520,5 +532,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 42
+  "total_solved": 43
 }
