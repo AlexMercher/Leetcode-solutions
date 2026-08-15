@@ -2,12 +2,12 @@
   "easy_count": 34,
   "hard_count": 4,
   "language_counts": {
-    "cpp": 42,
+    "cpp": 43,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-14T17:34:56Z",
-  "medium_count": 9,
+  "last_synced": "2026-08-15T05:42:39Z",
+  "medium_count": 10,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -494,6 +494,18 @@
       "problem_slug": "earliest-finish-time-for-land-and-water-rides-i",
       "problem_title": "Earliest Finish Time for Land and Water Rides I"
     },
+    "3702": {
+      "difficulty": "Medium",
+      "folder_name": "3702-longest-subsequence-with-non-zero-bitwise-xor",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-15T05:42:39Z",
+      "notes": "### Sliding window is only valid on monotonic functions.\nWas trying to do Sliding window here but its only valid on Monotonic Functions.",
+      "problem_number": 3702,
+      "problem_slug": "longest-subsequence-with-non-zero-bitwise-xor",
+      "problem_title": "Longest Subsequence With Non-Zero Bitwise XOR"
+    },
     "3731": {
       "difficulty": "Easy",
       "folder_name": "3731-find-missing-elements",
@@ -580,5 +592,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 47
+  "total_solved": 48
 }

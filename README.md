@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **47** |
+| Total Solved | **48** |
 | Easy | 34 |
-| Medium | 9 |
+| Medium | 10 |
 | Hard | 4 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **34** (72%)  
-🟡 Medium &nbsp; **9** (19%)  
-🔴 Hard &nbsp; **4** (9%)
+🟢 Easy &nbsp; **34** (71%)  
+🟡 Medium &nbsp; **10** (21%)  
+🔴 Hard &nbsp; **4** (8%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 42 |
+| C++ | 43 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [3702. Longest Subsequence With Non-Zero Bitwise XOR](./3702-longest-subsequence-with-non-zero-bitwise-xor/README.md) | Medium | C++ |
 | [205. Isomorphic Strings](./0205-isomorphic-strings/README.md) | Easy | C++ |
 | [171. Excel Sheet Column Number](./0171-excel-sheet-column-number/README.md) | Easy | C++ |
 | [168. Excel Sheet Column Title](./0168-excel-sheet-column-title/README.md) | Easy | C++ |
 | [2553. Separate the Digits in an Array](./2553-separate-the-digits-in-an-array/README.md) | Easy | C++ |
-| [2784. Check if Array is Good](./2784-check-if-array-is-good/README.md) | Easy | C++ |
