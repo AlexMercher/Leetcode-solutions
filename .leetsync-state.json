@@ -1,12 +1,12 @@
 {
-  "easy_count": 34,
+  "easy_count": 35,
   "hard_count": 4,
   "language_counts": {
-    "cpp": 43,
+    "cpp": 44,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-15T05:42:39Z",
+  "last_synced": "2026-08-15T05:58:43Z",
   "medium_count": 10,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -360,6 +360,18 @@
       "problem_slug": "divide-two-integers",
       "problem_title": "Divide Two Integers"
     },
+    "290": {
+      "difficulty": "Easy",
+      "folder_name": "0290-word-pattern",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-15T05:58:43Z",
+      "notes": "Did not knew about the string handling of the String and needed to use the bijective mapping to ensure complete one to one dependence.",
+      "problem_number": 290,
+      "problem_slug": "word-pattern",
+      "problem_title": "Word Pattern"
+    },
     "292": {
       "difficulty": "Easy",
       "folder_name": "0292-nim-game",
@@ -592,5 +604,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 48
+  "total_solved": 49
 }
