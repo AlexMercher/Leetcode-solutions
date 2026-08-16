@@ -2,12 +2,12 @@
   "easy_count": 35,
   "hard_count": 4,
   "language_counts": {
-    "cpp": 44,
+    "cpp": 45,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-15T05:58:43Z",
-  "medium_count": 10,
+  "last_synced": "2026-08-16T18:35:00Z",
+  "medium_count": 11,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -191,6 +191,18 @@
       "problem_number": 2,
       "problem_slug": "add-two-numbers",
       "problem_title": "Add Two Numbers"
+    },
+    "2029": {
+      "difficulty": "Medium",
+      "folder_name": "2029-stone-game-ix",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-16T18:35:00Z",
+      "notes": "8. Final logical decision\n\nEverything reduces to:\n\n                 cnt[0]\n                   |\n          ┌────────┴────────┐\n          |                 |\n        EVEN               ODD\n          |                 |\n          ↓                 ↓\n     need BOTH         need a difference\n     1 and 2           greater than 2\n\n\ncnt[1] > 0          |cnt[1]-cnt[2]| > 2\nAND\ncnt[2] > 0\n\nSo:\n\nif (cnt[0] % 2 == 0)\n    return cnt[1] > 0 && cnt[2] > 0;\n\n\nreturn abs(cnt[1] - cnt[2]) > 2;\nThe important mental model\n\nDon't memorize the formula first. Remember the chain:\n\nOnly divisibility by 3 matters\n          ↓\nClassify stones by remainder\n          ↓\n0 doesn't change the remainder\nbut consumes a turn\n          ↓\nParity of 0-stones matters\n          ↓\n1 and 2 are opposing moves\n          ↓\nEven 0s → need both types\nOdd 0s  → need a sufficiently large imbalance\n\nThat's the actual reasoning behind the solution.",
+      "problem_number": 2029,
+      "problem_slug": "stone-game-ix",
+      "problem_title": "Stone Game IX"
     },
     "205": {
       "difficulty": "Easy",
@@ -604,5 +616,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 49
+  "total_solved": 50
 }
