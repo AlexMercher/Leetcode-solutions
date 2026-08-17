@@ -1,12 +1,12 @@
 {
-  "easy_count": 37,
+  "easy_count": 38,
   "hard_count": 6,
   "language_counts": {
-    "cpp": 49,
+    "cpp": 50,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-17T15:44:01Z",
+  "last_synced": "2026-08-17T15:53:00Z",
   "medium_count": 11,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -578,6 +578,18 @@
       "problem_slug": "weighted-word-mapping",
       "problem_title": "Weighted Word Mapping"
     },
+    "405": {
+      "difficulty": "Easy",
+      "folder_name": "0405-convert-a-number-to-hexadecimal",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-17T15:53:00Z",
+      "notes": "Was not doing n=n/16, because i am a Forgetful idiot.",
+      "problem_number": 405,
+      "problem_slug": "convert-a-number-to-hexadecimal",
+      "problem_title": "Convert a Number to Hexadecimal"
+    },
     "412": {
       "difficulty": "Easy",
       "folder_name": "0412-fizz-buzz",
@@ -664,5 +676,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 54
+  "total_solved": 55
 }
