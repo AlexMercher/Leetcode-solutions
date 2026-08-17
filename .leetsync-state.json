@@ -1,12 +1,12 @@
 {
-  "easy_count": 35,
+  "easy_count": 36,
   "hard_count": 5,
   "language_counts": {
-    "cpp": 46,
+    "cpp": 47,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-17T12:14:23Z",
+  "last_synced": "2026-08-17T12:34:38Z",
   "medium_count": 11,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -578,6 +578,18 @@
       "problem_slug": "weighted-word-mapping",
       "problem_title": "Weighted Word Mapping"
     },
+    "415": {
+      "difficulty": "Easy",
+      "folder_name": "0415-add-strings",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-17T12:34:38Z",
+      "notes": "None commited",
+      "problem_number": 415,
+      "problem_slug": "add-strings",
+      "problem_title": "Add Strings"
+    },
     "486": {
       "difficulty": "Medium",
       "folder_name": "0486-predict-the-winner",
@@ -628,5 +640,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 51
+  "total_solved": 52
 }
