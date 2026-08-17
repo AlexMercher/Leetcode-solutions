@@ -1,12 +1,12 @@
 {
-  "easy_count": 39,
+  "easy_count": 40,
   "hard_count": 6,
   "language_counts": {
-    "cpp": 51,
+    "cpp": 52,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-17T19:23:20Z",
+  "last_synced": "2026-08-17T19:26:58Z",
   "medium_count": 11,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -638,6 +638,18 @@
       "problem_slug": "strong-password-checker",
       "problem_title": "Strong Password Checker"
     },
+    "434": {
+      "difficulty": "Easy",
+      "folder_name": "0434-number-of-segments-in-a-string",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-17T19:26:58Z",
+      "notes": "Forgot the syntax of how to use the string stream.",
+      "problem_number": 434,
+      "problem_slug": "number-of-segments-in-a-string",
+      "problem_title": "Number of Segments in a String"
+    },
     "486": {
       "difficulty": "Medium",
       "folder_name": "0486-predict-the-winner",
@@ -688,5 +700,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 56
+  "total_solved": 57
 }
