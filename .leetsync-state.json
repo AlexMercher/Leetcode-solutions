@@ -1,12 +1,12 @@
 {
-  "easy_count": 40,
+  "easy_count": 41,
   "hard_count": 6,
   "language_counts": {
-    "cpp": 52,
+    "cpp": 53,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-17T19:26:58Z",
+  "last_synced": "2026-08-17T19:33:53Z",
   "medium_count": 11,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -650,6 +650,18 @@
       "problem_slug": "number-of-segments-in-a-string",
       "problem_title": "Number of Segments in a String"
     },
+    "459": {
+      "difficulty": "Easy",
+      "folder_name": "0459-repeated-substring-pattern",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-17T19:33:53Z",
+      "notes": "Now i was not able to think of division and was trying the brute force approach with some other bullshit. Let's try harder.",
+      "problem_number": 459,
+      "problem_slug": "repeated-substring-pattern",
+      "problem_title": "Repeated Substring Pattern"
+    },
     "486": {
       "difficulty": "Medium",
       "folder_name": "0486-predict-the-winner",
@@ -700,5 +712,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 57
+  "total_solved": 58
 }
