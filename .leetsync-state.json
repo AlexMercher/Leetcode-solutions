@@ -1,12 +1,12 @@
 {
-  "easy_count": 36,
+  "easy_count": 37,
   "hard_count": 6,
   "language_counts": {
-    "cpp": 48,
+    "cpp": 49,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-17T13:00:05Z",
+  "last_synced": "2026-08-17T15:44:01Z",
   "medium_count": 11,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -578,6 +578,18 @@
       "problem_slug": "weighted-word-mapping",
       "problem_title": "Weighted Word Mapping"
     },
+    "412": {
+      "difficulty": "Easy",
+      "folder_name": "0412-fizz-buzz",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-17T15:44:01Z",
+      "notes": "Did not knew about the to_string() function and thus was failing the tests, now i know.",
+      "problem_number": 412,
+      "problem_slug": "fizz-buzz",
+      "problem_title": "Fizz Buzz"
+    },
     "415": {
       "difficulty": "Easy",
       "folder_name": "0415-add-strings",
@@ -652,5 +664,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 53
+  "total_solved": 54
 }
