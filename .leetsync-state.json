@@ -1,12 +1,12 @@
 {
-  "easy_count": 38,
+  "easy_count": 39,
   "hard_count": 6,
   "language_counts": {
-    "cpp": 50,
+    "cpp": 51,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-17T15:53:00Z",
+  "last_synced": "2026-08-17T19:23:20Z",
   "medium_count": 11,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -590,6 +590,18 @@
       "problem_slug": "convert-a-number-to-hexadecimal",
       "problem_title": "Convert a Number to Hexadecimal"
     },
+    "409": {
+      "difficulty": "Easy",
+      "folder_name": "0409-longest-palindrome",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-17T19:23:20Z",
+      "notes": "NO mistakes commited here.",
+      "problem_number": 409,
+      "problem_slug": "longest-palindrome",
+      "problem_title": "Longest Palindrome"
+    },
     "412": {
       "difficulty": "Easy",
       "folder_name": "0412-fizz-buzz",
@@ -676,5 +688,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 55
+  "total_solved": 56
 }
