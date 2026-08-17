@@ -1,12 +1,12 @@
 {
   "easy_count": 35,
-  "hard_count": 4,
+  "hard_count": 5,
   "language_counts": {
-    "cpp": 45,
+    "cpp": 46,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-16T18:35:00Z",
+  "last_synced": "2026-08-17T12:14:23Z",
   "medium_count": 11,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -119,6 +119,18 @@
       "problem_number": 1510,
       "problem_slug": "stone-game-iv",
       "problem_title": "Stone Game IV"
+    },
+    "1563": {
+      "difficulty": "Hard",
+      "folder_name": "1563-stone-game-v",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-17T12:14:23Z",
+      "notes": "# Mistakes\n\n1. Don't split only at the middle; every partition is possible.\n2. Don't copy left/right vectors; use indices `[l,r]`.\n3. Don't repeatedly calculate sums; use prefix sums.\n4. Memoize overlapping interval states.\n5. Equal sums require Alice to choose the better surviving side.",
+      "problem_number": 1563,
+      "problem_slug": "stone-game-v",
+      "problem_title": "Stone Game V"
     },
     "168": {
       "difficulty": "Easy",
@@ -616,5 +628,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 50
+  "total_solved": 51
 }
