@@ -1,12 +1,12 @@
 {
   "easy_count": 36,
-  "hard_count": 5,
+  "hard_count": 6,
   "language_counts": {
-    "cpp": 47,
+    "cpp": 48,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-17T12:34:38Z",
+  "last_synced": "2026-08-17T13:00:05Z",
   "medium_count": 11,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -590,6 +590,18 @@
       "problem_slug": "add-strings",
       "problem_title": "Add Strings"
     },
+    "420": {
+      "difficulty": "Hard",
+      "folder_name": "0420-strong-password-checker",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-17T13:00:05Z",
+      "notes": "Could not think of this easily its hard for a reason.",
+      "problem_number": 420,
+      "problem_slug": "strong-password-checker",
+      "problem_title": "Strong Password Checker"
+    },
     "486": {
       "difficulty": "Medium",
       "folder_name": "0486-predict-the-winner",
@@ -640,5 +652,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 52
+  "total_solved": 53
 }
