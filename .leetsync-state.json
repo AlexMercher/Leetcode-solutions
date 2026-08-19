@@ -2,12 +2,12 @@
   "easy_count": 42,
   "hard_count": 6,
   "language_counts": {
-    "cpp": 55,
+    "cpp": 56,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-19T10:44:36Z",
-  "medium_count": 12,
+  "last_synced": "2026-08-19T10:57:14Z",
+  "medium_count": 13,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -698,6 +698,18 @@
       "problem_slug": "predict-the-winner",
       "problem_title": "Predict the Winner"
     },
+    "5": {
+      "difficulty": "Medium",
+      "folder_name": "0005-longest-palindromic-substring",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-19T10:57:14Z",
+      "notes": "Forgot to make the maxlen initialization as 1 and thus was failing some base cases where we were getting \"\" as output",
+      "problem_number": 5,
+      "problem_slug": "longest-palindromic-substring",
+      "problem_title": "Longest Palindromic Substring"
+    },
     "605": {
       "difficulty": "Easy",
       "folder_name": "0605-can-place-flowers",
@@ -736,5 +748,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 60
+  "total_solved": 61
 }
