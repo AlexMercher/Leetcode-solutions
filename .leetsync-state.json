@@ -2,12 +2,12 @@
   "easy_count": 42,
   "hard_count": 6,
   "language_counts": {
-    "cpp": 54,
+    "cpp": 55,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-18T15:28:57Z",
-  "medium_count": 11,
+  "last_synced": "2026-08-19T10:44:36Z",
+  "medium_count": 12,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -59,6 +59,18 @@
       "problem_number": 1331,
       "problem_slug": "rank-transform-of-an-array",
       "problem_title": "Rank Transform of an Array"
+    },
+    "1386": {
+      "difficulty": "Medium",
+      "folder_name": "1386-cinema-seat-allocation",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-19T10:44:36Z",
+      "notes": "Was not able to think of bitmasking and i was always getting the TLE errors;",
+      "problem_number": 1386,
+      "problem_slug": "cinema-seat-allocation",
+      "problem_title": "Cinema Seat Allocation"
     },
     "1406": {
       "difficulty": "Hard",
@@ -724,5 +736,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 59
+  "total_solved": 60
 }
