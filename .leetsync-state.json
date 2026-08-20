@@ -1,12 +1,12 @@
 {
-  "easy_count": 42,
+  "easy_count": 43,
   "hard_count": 6,
   "language_counts": {
-    "cpp": 56,
+    "cpp": 57,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-19T10:57:14Z",
+  "last_synced": "2026-08-20T06:15:42Z",
   "medium_count": 13,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -470,6 +470,18 @@
       "problem_slug": "minimum-number-of-pushes-to-type-word-ii",
       "problem_title": "Minimum Number of Pushes to Type Word II"
     },
+    "3069": {
+      "difficulty": "Easy",
+      "folder_name": "3069-distribute-elements-into-two-arrays-i",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-20T06:15:42Z",
+      "notes": "None committed.",
+      "problem_number": 3069,
+      "problem_slug": "distribute-elements-into-two-arrays-i",
+      "problem_title": "Distribute Elements Into Two Arrays I"
+    },
     "3090": {
       "difficulty": "Easy",
       "folder_name": "3090-maximum-length-substring-with-two-occurrences",
@@ -748,5 +760,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 61
+  "total_solved": 62
 }
