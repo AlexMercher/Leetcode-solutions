@@ -1,12 +1,12 @@
 {
   "easy_count": 43,
-  "hard_count": 6,
+  "hard_count": 7,
   "language_counts": {
-    "cpp": 57,
+    "cpp": 58,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-20T06:15:42Z",
+  "last_synced": "2026-08-20T06:28:40Z",
   "medium_count": 13,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -23,6 +23,18 @@
       "problem_number": 1,
       "problem_slug": "two-sum",
       "problem_title": "Two Sum"
+    },
+    "10": {
+      "difficulty": "Hard",
+      "folder_name": "0010-regular-expression-matching",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-20T06:28:40Z",
+      "notes": "Need to get stronger in dp took almost 2 hours to make this one.",
+      "problem_number": 10,
+      "problem_slug": "regular-expression-matching",
+      "problem_title": "Regular Expression Matching"
     },
     "1140": {
       "difficulty": "Medium",
@@ -760,5 +772,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 62
+  "total_solved": 63
 }
