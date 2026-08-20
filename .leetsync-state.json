@@ -1,12 +1,12 @@
 {
-  "easy_count": 49,
+  "easy_count": 50,
   "hard_count": 7,
   "language_counts": {
-    "cpp": 64,
+    "cpp": 65,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-20T12:42:11Z",
+  "last_synced": "2026-08-20T17:59:43Z",
   "medium_count": 13,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -841,8 +841,20 @@
       "problem_number": 7,
       "problem_slug": "reverse-integer",
       "problem_title": "Reverse Integer"
+    },
+    "746": {
+      "difficulty": "Easy",
+      "folder_name": "0746-min-cost-climbing-stairs",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-20T17:59:43Z",
+      "notes": "Mistakenly i did the dp[1]=1 instead of dp[1]=0 thus was gettin the wrong answers.",
+      "problem_number": 746,
+      "problem_slug": "min-cost-climbing-stairs",
+      "problem_title": "Min Cost Climbing Stairs"
     }
   },
   "schema_version": 1,
-  "total_solved": 69
+  "total_solved": 70
 }
