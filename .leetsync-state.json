@@ -1,12 +1,12 @@
 {
-  "easy_count": 44,
+  "easy_count": 45,
   "hard_count": 7,
   "language_counts": {
-    "cpp": 59,
+    "cpp": 60,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-20T09:44:07Z",
+  "last_synced": "2026-08-20T09:51:01Z",
   "medium_count": 13,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -71,6 +71,18 @@
       "problem_number": 1189,
       "problem_slug": "maximum-number-of-balloons",
       "problem_title": "Maximum Number of Balloons"
+    },
+    "119": {
+      "difficulty": "Easy",
+      "folder_name": "0119-pascals-triangle-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-20T09:51:01Z",
+      "notes": "Was not doing it in a space constrained manner.",
+      "problem_number": 119,
+      "problem_slug": "pascals-triangle-ii",
+      "problem_title": "Pascal's Triangle II"
     },
     "1331": {
       "difficulty": "Easy",
@@ -784,5 +796,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 64
+  "total_solved": 65
 }
