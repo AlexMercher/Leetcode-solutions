@@ -1,12 +1,12 @@
 {
-  "easy_count": 48,
+  "easy_count": 49,
   "hard_count": 7,
   "language_counts": {
-    "cpp": 63,
+    "cpp": 64,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-20T12:36:29Z",
+  "last_synced": "2026-08-20T12:42:11Z",
   "medium_count": 13,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -794,6 +794,18 @@
       "problem_slug": "longest-palindromic-substring",
       "problem_title": "Longest Palindromic Substring"
     },
+    "509": {
+      "difficulty": "Easy",
+      "folder_name": "0509-fibonacci-number",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-20T12:42:11Z",
+      "notes": "Was not handling the base case easily",
+      "problem_number": 509,
+      "problem_slug": "fibonacci-number",
+      "problem_title": "Fibonacci Number"
+    },
     "605": {
       "difficulty": "Easy",
       "folder_name": "0605-can-place-flowers",
@@ -832,5 +844,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 68
+  "total_solved": 69
 }
