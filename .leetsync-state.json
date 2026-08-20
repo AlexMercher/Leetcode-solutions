@@ -1,12 +1,12 @@
 {
-  "easy_count": 43,
+  "easy_count": 44,
   "hard_count": 7,
   "language_counts": {
-    "cpp": 58,
+    "cpp": 59,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-20T06:28:40Z",
+  "last_synced": "2026-08-20T09:44:07Z",
   "medium_count": 13,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -47,6 +47,18 @@
       "problem_number": 1140,
       "problem_slug": "stone-game-ii",
       "problem_title": "Stone Game II"
+    },
+    "118": {
+      "difficulty": "Easy",
+      "folder_name": "0118-pascals-triangle",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-20T09:44:07Z",
+      "notes": "Was starting the index of j with 0 and hence i was rewriting the 1 at the end while initialization and getting index errors at the last which i was not supposed to do.",
+      "problem_number": 118,
+      "problem_slug": "pascals-triangle",
+      "problem_title": "Pascal's Triangle"
     },
     "1189": {
       "difficulty": "Easy",
@@ -772,5 +784,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 63
+  "total_solved": 64
 }
