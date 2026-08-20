@@ -1,12 +1,12 @@
 {
-  "easy_count": 47,
+  "easy_count": 48,
   "hard_count": 7,
   "language_counts": {
-    "cpp": 62,
+    "cpp": 63,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-20T10:30:44Z",
+  "last_synced": "2026-08-20T12:36:29Z",
   "medium_count": 13,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -674,6 +674,18 @@
       "problem_slug": "weighted-word-mapping",
       "problem_title": "Weighted Word Mapping"
     },
+    "392": {
+      "difficulty": "Easy",
+      "folder_name": "0392-is-subsequence",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-20T12:36:29Z",
+      "notes": "# Upcoming Question\nSuppose there are lots of incoming s, say s1, s2, ..., sk where k >= 109, and you want to check one by one to see if t has its subsequence. In this scenario, how would you change your code?\n\nNow the problem changes.\n\nt is fixed, but you may receive billions of different s strings.\n\nDoing:\n\nscan t for every s\n\nis wasteful.\n\nThe important observation is:\n\nPreprocess t once so that we can quickly find the next occurrence of any character.\n\nSince characters are lowercase English letters, build:\n\nvector<int> pos[26];\n\nwhere:\n\npos[0] = positions of 'a' in t\npos[1] = positions of 'b'\n...\n\nFor:\n\nt = \"ahbgdc\"\n\nwe get roughly:\n\na → [0]\nb → [2]\nc → [5]\nd → [4]\ng → [3]\nh → [1]\n\nThen for each character of s, find the first occurrence after the current position using upper_bound().\n\nCode\nclass Solution {\npublic:\n    vector<int> pos[26];\n\n\n    void preprocess(string t) {\n        for(int i = 0; i < t.size(); i++) {\n            pos[t[i] - 'a'].push_back(i);\n        }\n    }\n\n\n    bool isSubsequence(string s, string t) {\n        // Preprocess only once in real usage.\n        preprocess(t);\n\n\n        int prev = -1;\n\n\n        for(char c : s) {\n            auto &v = pos[c - 'a'];\n\n\n            auto it = upper_bound(v.begin(), v.end(), prev);\n\n\n            if(it == v.end())\n                return false;\n\n\n            prev = *it;\n        }\n\n\n        return true;\n    }\n};\n\nFor many queries, you'd call preprocess(t) once, not every time.\n\nThen each query costs roughly:\n\nO(|s| log |t|)\n\ninstead of:\n\nO(|t|)\n\nper query.\n\nEven better for this exact problem\n\nBecause the alphabet has only 26 characters, you can precompute a next[position][character] table.\n\nThen each character lookup is O(1):\n\nnext[i][c] = next position >= i containing character c\n\nThat gives:\n\nPreprocessing: O(26 * |t|)\nEach query:     O(|s|)\n\nFor the stated follow-up with an enormous number of queries, this is the ideal approach.\n\nSo the progression to remember is:\n\nOne query:\n    two pointers → O(|t|)\n\n\nMany queries, t fixed:\n    preprocess t\n        ↓\n    fast next-occurrence lookup\n        ↓\n    each s processed in O(|s|)\n\nThat is the classic preprocessing for repeated subsequence queries pattern.",
+      "problem_number": 392,
+      "problem_slug": "is-subsequence",
+      "problem_title": "Is Subsequence"
+    },
     "405": {
       "difficulty": "Easy",
       "folder_name": "0405-convert-a-number-to-hexadecimal",
@@ -820,5 +832,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 67
+  "total_solved": 68
 }
