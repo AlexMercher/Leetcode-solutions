@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **66** |
-| Easy | 46 |
+| Total Solved | **67** |
+| Easy | 47 |
 | Medium | 13 |
 | Hard | 7 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **46** (70%)  
-🟡 Medium &nbsp; **13** (20%)  
-🔴 Hard &nbsp; **7** (11%)
+🟢 Easy &nbsp; **47** (70%)  
+🟡 Medium &nbsp; **13** (19%)  
+🔴 Hard &nbsp; **7** (10%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 61 |
+| C++ | 62 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [338. Counting Bits](./0338-counting-bits/README.md) | Easy | C++ |
 | [121. Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock/README.md) | Easy | C++ |
 | [119. Pascal's Triangle II](./0119-pascals-triangle-ii/README.md) | Easy | C++ |
 | [118. Pascal's Triangle](./0118-pascals-triangle/README.md) | Easy | C++ |
 | [10. Regular Expression Matching](./0010-regular-expression-matching/README.md) | Hard | C++ |
-| [3069. Distribute Elements Into Two Arrays I](./3069-distribute-elements-into-two-arrays-i/README.md) | Easy | C++ |

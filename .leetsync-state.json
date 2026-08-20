@@ -1,12 +1,12 @@
 {
-  "easy_count": 46,
+  "easy_count": 47,
   "hard_count": 7,
   "language_counts": {
-    "cpp": 61,
+    "cpp": 62,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-20T10:16:32Z",
+  "last_synced": "2026-08-20T10:30:44Z",
   "medium_count": 13,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -578,6 +578,18 @@
       "problem_slug": "smallest-divisible-digit-product-ii",
       "problem_title": "Smallest Divisible Digit Product II"
     },
+    "338": {
+      "difficulty": "Easy",
+      "folder_name": "0338-counting-bits",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-20T10:30:44Z",
+      "notes": "The use of bits in the dp is something that is mesmerizing and almost feels magical I may need to learn about them in a good enough manner.",
+      "problem_number": 338,
+      "problem_slug": "counting-bits",
+      "problem_title": "Counting Bits"
+    },
     "34": {
       "difficulty": "Medium",
       "folder_name": "0034-find-first-and-last-position-of-element-in-sorted-array",
@@ -808,5 +820,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 66
+  "total_solved": 67
 }
