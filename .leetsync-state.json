@@ -1,12 +1,12 @@
 {
-  "easy_count": 45,
+  "easy_count": 46,
   "hard_count": 7,
   "language_counts": {
-    "cpp": 60,
+    "cpp": 61,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-20T09:51:01Z",
+  "last_synced": "2026-08-20T10:16:32Z",
   "medium_count": 13,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -83,6 +83,18 @@
       "problem_number": 119,
       "problem_slug": "pascals-triangle-ii",
       "problem_title": "Pascal's Triangle II"
+    },
+    "121": {
+      "difficulty": "Easy",
+      "folder_name": "0121-best-time-to-buy-and-sell-stock",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-20T10:16:32Z",
+      "notes": "Was trying dp but we could also do it with greedy approach which i used now.\n",
+      "problem_number": 121,
+      "problem_slug": "best-time-to-buy-and-sell-stock",
+      "problem_title": "Best Time to Buy and Sell Stock"
     },
     "1331": {
       "difficulty": "Easy",
@@ -796,5 +808,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 65
+  "total_solved": 66
 }
