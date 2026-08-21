@@ -1,12 +1,12 @@
 {
-  "easy_count": 52,
+  "easy_count": 53,
   "hard_count": 8,
   "language_counts": {
-    "cpp": 68,
+    "cpp": 69,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-21T08:44:27Z",
+  "last_synced": "2026-08-21T09:00:43Z",
   "medium_count": 13,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -215,6 +215,18 @@
       "problem_number": 1563,
       "problem_slug": "stone-game-v",
       "problem_title": "Stone Game V"
+    },
+    "1668": {
+      "difficulty": "Easy",
+      "folder_name": "1668-maximum-repeating-substring",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-21T09:00:43Z",
+      "notes": "No mistakes commited, got to learn about the string::npos",
+      "problem_number": 1668,
+      "problem_slug": "maximum-repeating-substring",
+      "problem_title": "Maximum Repeating Substring"
     },
     "168": {
       "difficulty": "Easy",
@@ -892,5 +904,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 73
+  "total_solved": 74
 }
