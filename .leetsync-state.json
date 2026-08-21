@@ -1,12 +1,12 @@
 {
-  "easy_count": 51,
+  "easy_count": 52,
   "hard_count": 8,
   "language_counts": {
-    "cpp": 67,
+    "cpp": 68,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-21T08:33:49Z",
+  "last_synced": "2026-08-21T08:44:27Z",
   "medium_count": 13,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -47,6 +47,18 @@
       "problem_number": 1025,
       "problem_slug": "divisor-game",
       "problem_title": "Divisor Game"
+    },
+    "1137": {
+      "difficulty": "Easy",
+      "folder_name": "1137-n-th-tribonacci-number",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-21T08:44:27Z",
+      "notes": "Best to ensure that the return is not so nested though i wrote it myself i should have handelled it better in the first of the program only.",
+      "problem_number": 1137,
+      "problem_slug": "n-th-tribonacci-number",
+      "problem_title": "N-th Tribonacci Number"
     },
     "1140": {
       "difficulty": "Medium",
@@ -880,5 +892,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 72
+  "total_solved": 73
 }
