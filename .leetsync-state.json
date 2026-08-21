@@ -1,12 +1,12 @@
 {
-  "easy_count": 50,
+  "easy_count": 51,
   "hard_count": 8,
   "language_counts": {
-    "cpp": 66,
+    "cpp": 67,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-21T08:11:56Z",
+  "last_synced": "2026-08-21T08:33:49Z",
   "medium_count": 13,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -35,6 +35,18 @@
       "problem_number": 10,
       "problem_slug": "regular-expression-matching",
       "problem_title": "Regular Expression Matching"
+    },
+    "1025": {
+      "difficulty": "Easy",
+      "folder_name": "1025-divisor-game",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-21T08:33:49Z",
+      "notes": "None commited here.",
+      "problem_number": 1025,
+      "problem_slug": "divisor-game",
+      "problem_title": "Divisor Game"
     },
     "1140": {
       "difficulty": "Medium",
@@ -868,5 +880,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 71
+  "total_solved": 72
 }
