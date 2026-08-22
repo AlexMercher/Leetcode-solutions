@@ -1,12 +1,12 @@
 {
-  "easy_count": 53,
+  "easy_count": 54,
   "hard_count": 8,
   "language_counts": {
-    "cpp": 69,
+    "cpp": 70,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-21T09:00:43Z",
+  "last_synced": "2026-08-22T07:33:45Z",
   "medium_count": 13,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -662,6 +662,18 @@
       "problem_slug": "find-the-largest-almost-missing-integer",
       "problem_title": "Find the Largest Almost Missing Integer"
     },
+    "3622": {
+      "difficulty": "Easy",
+      "folder_name": "3622-check-divisibility-by-digit-sum-and-product",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-22T07:33:45Z",
+      "notes": "No mistakes commited.",
+      "problem_number": 3622,
+      "problem_slug": "check-divisibility-by-digit-sum-and-product",
+      "problem_title": "Check Divisibility by Digit Sum and Product"
+    },
     "3633": {
       "difficulty": "Easy",
       "folder_name": "3633-earliest-finish-time-for-land-and-water-rides-i",
@@ -904,5 +916,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 74
+  "total_solved": 75
 }
