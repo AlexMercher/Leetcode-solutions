@@ -2,12 +2,12 @@
   "easy_count": 54,
   "hard_count": 8,
   "language_counts": {
-    "cpp": 70,
+    "cpp": 71,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-22T07:33:45Z",
-  "medium_count": 13,
+  "last_synced": "2026-08-23T13:04:01Z",
+  "medium_count": 14,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -263,6 +263,18 @@
       "problem_number": 1732,
       "problem_slug": "find-the-highest-altitude",
       "problem_title": "Find the Highest Altitude"
+    },
+    "1927": {
+      "difficulty": "Medium",
+      "folder_name": "1927-sum-game",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-23T13:04:01Z",
+      "notes": "\n### `mistakes.md`\n\n```md\n# Mistakes\n\n1. Checking only the final total sum is insufficient because `?` positions are controlled by players.\n2. The odd/even `?` case was initially reversed: odd → Alice wins immediately.\n3. Do NOT use `abs()` for the final comparison; the direction of the imbalance matters.\n4. `leftSum - rightSum` must be compared against the signed correction from `rightQ - leftQ`.\n5. Use `2 * diff == 9 * qdiff` to avoid integer-division ambiguity.",
+      "problem_number": 1927,
+      "problem_slug": "sum-game",
+      "problem_title": "Sum Game"
     },
     "1967": {
       "difficulty": "Easy",
@@ -916,5 +928,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 75
+  "total_solved": 76
 }
