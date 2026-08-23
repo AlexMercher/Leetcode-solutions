@@ -1,12 +1,12 @@
 {
   "easy_count": 54,
-  "hard_count": 8,
+  "hard_count": 9,
   "language_counts": {
-    "cpp": 71,
+    "cpp": 72,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-23T13:04:01Z",
+  "last_synced": "2026-08-23T13:49:07Z",
   "medium_count": 14,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -107,6 +107,18 @@
       "problem_number": 119,
       "problem_slug": "pascals-triangle-ii",
       "problem_title": "Pascal's Triangle II"
+    },
+    "1192": {
+      "difficulty": "Hard",
+      "folder_name": "1192-critical-connections-in-a-network",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-23T13:49:07Z",
+      "notes": "Did not knew about the tarjan's algorithm.",
+      "problem_number": 1192,
+      "problem_slug": "critical-connections-in-a-network",
+      "problem_title": "Critical Connections in a Network"
     },
     "121": {
       "difficulty": "Easy",
@@ -928,5 +940,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 76
+  "total_solved": 77
 }
