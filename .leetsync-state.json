@@ -1,12 +1,12 @@
 {
-  "easy_count": 54,
+  "easy_count": 55,
   "hard_count": 9,
   "language_counts": {
-    "cpp": 72,
+    "cpp": 73,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-23T13:49:07Z",
+  "last_synced": "2026-08-23T19:16:06Z",
   "medium_count": 14,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -516,6 +516,18 @@
       "problem_slug": "word-pattern",
       "problem_title": "Word Pattern"
     },
+    "2900": {
+      "difficulty": "Easy",
+      "folder_name": "2900-longest-unequal-adjacent-groups-subsequence-i",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-23T19:16:06Z",
+      "notes": "I was thinkin in the terms of dp but this was normal greedy solution that can be done with it.",
+      "problem_number": 2900,
+      "problem_slug": "longest-unequal-adjacent-groups-subsequence-i",
+      "problem_title": "Longest Unequal Adjacent Groups Subsequence I"
+    },
     "292": {
       "difficulty": "Easy",
       "folder_name": "0292-nim-game",
@@ -940,5 +952,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 77
+  "total_solved": 78
 }
