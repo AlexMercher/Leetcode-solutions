@@ -2,12 +2,12 @@
   "easy_count": 56,
   "hard_count": 9,
   "language_counts": {
-    "cpp": 75,
+    "cpp": 76,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-23T19:45:40Z",
-  "medium_count": 15,
+  "last_synced": "2026-08-23T20:07:50Z",
+  "medium_count": 16,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -926,6 +926,18 @@
       "problem_slug": "fibonacci-number",
       "problem_title": "Fibonacci Number"
     },
+    "53": {
+      "difficulty": "Medium",
+      "folder_name": "0053-maximum-subarray",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-23T20:07:50Z",
+      "notes": "Was not storing the best candidate and hence was losing the best solution, this is a compressed 1d dp to two variables.",
+      "problem_number": 53,
+      "problem_slug": "maximum-subarray",
+      "problem_title": "Maximum Subarray"
+    },
     "605": {
       "difficulty": "Easy",
       "folder_name": "0605-can-place-flowers",
@@ -976,5 +988,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 80
+  "total_solved": 81
 }
