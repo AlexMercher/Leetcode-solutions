@@ -1,12 +1,12 @@
 {
-  "easy_count": 55,
+  "easy_count": 56,
   "hard_count": 9,
   "language_counts": {
-    "cpp": 73,
+    "cpp": 74,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-23T19:16:06Z",
+  "last_synced": "2026-08-23T19:26:04Z",
   "medium_count": 14,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -782,6 +782,18 @@
       "problem_slug": "is-subsequence",
       "problem_title": "Is Subsequence"
     },
+    "3954": {
+      "difficulty": "Easy",
+      "folder_name": "3954-sum-of-compatible-numbers-in-range-i",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-23T19:26:04Z",
+      "notes": "Did not read the question well enought to understand the fact that the x will range from left=max(1,n-k) to right = n+k; thus was iterating a lot.",
+      "problem_number": 3954,
+      "problem_slug": "sum-of-compatible-numbers-in-range-i",
+      "problem_title": "Sum of Compatible Numbers in Range I"
+    },
     "405": {
       "difficulty": "Easy",
       "folder_name": "0405-convert-a-number-to-hexadecimal",
@@ -952,5 +964,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 78
+  "total_solved": 79
 }
