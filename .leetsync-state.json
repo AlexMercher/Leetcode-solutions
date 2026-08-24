@@ -2,12 +2,12 @@
   "easy_count": 56,
   "hard_count": 10,
   "language_counts": {
-    "cpp": 84,
+    "cpp": 85,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-24T19:30:17Z",
-  "medium_count": 23,
+  "last_synced": "2026-08-24T19:40:08Z",
+  "medium_count": 24,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1081,8 +1081,20 @@
       "problem_number": 95,
       "problem_slug": "unique-binary-search-trees-ii",
       "problem_title": "Unique Binary Search Trees II"
+    },
+    "96": {
+      "difficulty": "Medium",
+      "folder_name": "0096-unique-binary-search-trees",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-24T19:40:08Z",
+      "notes": "1. Do not confuse `C(2n,n)` with the Catalan number; Catalan needs division by `n+1`.\n2. The loop `ans = ans * (n+i) / i` calculates the binomial coefficient incrementally.\n3. Use `long long` for intermediate values instead of `int`.\n4. Do not use factorials directly; they grow extremely quickly.\n5. Unique BST count is Catalan because every root splits the problem into independent left and right subtrees.\n6. For n = 0, the Catalan value is 1, representing the empty tree.",
+      "problem_number": 96,
+      "problem_slug": "unique-binary-search-trees",
+      "problem_title": "Unique Binary Search Trees"
     }
   },
   "schema_version": 1,
-  "total_solved": 89
+  "total_solved": 90
 }
