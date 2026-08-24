@@ -2,12 +2,12 @@
   "easy_count": 56,
   "hard_count": 10,
   "language_counts": {
-    "cpp": 86,
+    "cpp": 87,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-24T19:50:39Z",
-  "medium_count": 25,
+  "last_synced": "2026-08-24T19:59:38Z",
+  "medium_count": 26,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -119,6 +119,18 @@
       "problem_number": 1192,
       "problem_slug": "critical-connections-in-a-network",
       "problem_title": "Critical Connections in a Network"
+    },
+    "120": {
+      "difficulty": "Medium",
+      "folder_name": "0120-triangle",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-24T19:59:38Z",
+      "notes": "",
+      "problem_number": 120,
+      "problem_slug": "triangle",
+      "problem_title": "Triangle"
     },
     "121": {
       "difficulty": "Easy",
@@ -1108,5 +1120,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 91
+  "total_solved": 92
 }
