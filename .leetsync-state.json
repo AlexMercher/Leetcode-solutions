@@ -2,12 +2,12 @@
   "easy_count": 56,
   "hard_count": 9,
   "language_counts": {
-    "cpp": 77,
+    "cpp": 78,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-24T08:02:23Z",
-  "medium_count": 17,
+  "last_synced": "2026-08-24T08:07:40Z",
+  "medium_count": 18,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -962,6 +962,18 @@
       "problem_slug": "can-place-flowers",
       "problem_title": "Can Place Flowers"
     },
+    "62": {
+      "difficulty": "Medium",
+      "folder_name": "0062-unique-paths",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-24T08:07:40Z",
+      "notes": "None commited, though it can be compressed to 1d dp I was not able to think of it independently.",
+      "problem_number": 62,
+      "problem_slug": "unique-paths",
+      "problem_title": "Unique Paths"
+    },
     "628": {
       "difficulty": "Easy",
       "folder_name": "0628-maximum-product-of-three-numbers",
@@ -1000,5 +1012,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 82
+  "total_solved": 83
 }
