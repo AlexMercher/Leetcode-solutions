@@ -2,12 +2,12 @@
   "easy_count": 56,
   "hard_count": 10,
   "language_counts": {
-    "cpp": 83,
+    "cpp": 84,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-24T19:19:38Z",
-  "medium_count": 22,
+  "last_synced": "2026-08-24T19:30:17Z",
+  "medium_count": 23,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1069,8 +1069,20 @@
       "problem_number": 91,
       "problem_slug": "decode-ways",
       "problem_title": "Decode Ways"
+    },
+    "95": {
+      "difficulty": "Medium",
+      "folder_name": "0095-unique-binary-search-trees-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-24T19:30:17Z",
+      "notes": "# Mistakes\n\n1. Do not generate only one root; try every possible choice.\n2. Left and right parts must be generated independently.\n3. Combine every left result with every right result.\n4. Base case must return `{nullptr}`, not an empty vector.\n5. Do not forget to return/collect every generated structure.\n6. Think: Choose → Recurse → Combine.",
+      "problem_number": 95,
+      "problem_slug": "unique-binary-search-trees-ii",
+      "problem_title": "Unique Binary Search Trees II"
     }
   },
   "schema_version": 1,
-  "total_solved": 88
+  "total_solved": 89
 }
