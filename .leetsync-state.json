@@ -2,12 +2,12 @@
   "easy_count": 56,
   "hard_count": 10,
   "language_counts": {
-    "cpp": 81,
+    "cpp": 82,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-24T17:38:10Z",
-  "medium_count": 20,
+  "last_synced": "2026-08-24T17:48:28Z",
+  "medium_count": 21,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1034,6 +1034,18 @@
       "problem_slug": "reverse-integer",
       "problem_title": "Reverse Integer"
     },
+    "72": {
+      "difficulty": "Medium",
+      "folder_name": "0072-edit-distance",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-24T17:48:28Z",
+      "notes": "# Mistakes\n\n1. Base-case loops must use `<=`, not `<`, because the DP table has `m+1` and `n+1` states.\n2. `dp[i][0] = i` represents `i` deletions.\n3. `dp[0][j] = j` represents `j` insertions.\n4. Equal characters require no operation: `dp[i-1][j-1]`.\n5. For different characters, consider insert, delete, and replace.",
+      "problem_number": 72,
+      "problem_slug": "edit-distance",
+      "problem_title": "Edit Distance"
+    },
     "746": {
       "difficulty": "Easy",
       "folder_name": "0746-min-cost-climbing-stairs",
@@ -1048,5 +1060,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 86
+  "total_solved": 87
 }
