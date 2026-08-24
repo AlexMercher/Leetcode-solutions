@@ -2,12 +2,12 @@
   "easy_count": 56,
   "hard_count": 10,
   "language_counts": {
-    "cpp": 85,
+    "cpp": 86,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-24T19:40:08Z",
-  "medium_count": 24,
+  "last_synced": "2026-08-24T19:50:39Z",
+  "medium_count": 25,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1093,8 +1093,20 @@
       "problem_number": 96,
       "problem_slug": "unique-binary-search-trees",
       "problem_title": "Unique Binary Search Trees"
+    },
+    "97": {
+      "difficulty": "Medium",
+      "folder_name": "0097-interleaving-string",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-24T19:50:39Z",
+      "notes": "",
+      "problem_number": 97,
+      "problem_slug": "interleaving-string",
+      "problem_title": "Interleaving String"
     }
   },
   "schema_version": 1,
-  "total_solved": 90
+  "total_solved": 91
 }
