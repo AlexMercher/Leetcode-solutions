@@ -2,12 +2,12 @@
   "easy_count": 56,
   "hard_count": 9,
   "language_counts": {
-    "cpp": 76,
+    "cpp": 77,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-23T20:07:50Z",
-  "medium_count": 16,
+  "last_synced": "2026-08-24T08:02:23Z",
+  "medium_count": 17,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -938,6 +938,18 @@
       "problem_slug": "maximum-subarray",
       "problem_title": "Maximum Subarray"
     },
+    "55": {
+      "difficulty": "Medium",
+      "folder_name": "0055-jump-game",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-24T08:02:23Z",
+      "notes": "Forgot the base case of returning true;",
+      "problem_number": 55,
+      "problem_slug": "jump-game",
+      "problem_title": "Jump Game"
+    },
     "605": {
       "difficulty": "Easy",
       "folder_name": "0605-can-place-flowers",
@@ -988,5 +1000,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 81
+  "total_solved": 82
 }

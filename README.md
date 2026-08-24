@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **81** |
+| Total Solved | **82** |
 | Easy | 56 |
-| Medium | 16 |
+| Medium | 17 |
 | Hard | 9 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **56** (69%)  
-🟡 Medium &nbsp; **16** (20%)  
+🟢 Easy &nbsp; **56** (68%)  
+🟡 Medium &nbsp; **17** (21%)  
 🔴 Hard &nbsp; **9** (11%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 76 |
+| C++ | 77 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [55. Jump Game](./0055-jump-game/README.md) | Medium | C++ |
 | [53. Maximum Subarray](./0053-maximum-subarray/README.md) | Medium | C++ |
 | [45. Jump Game II](./0045-jump-game-ii/README.md) | Medium | C++ |
 | [3954. Sum of Compatible Numbers in Range I](./3954-sum-of-compatible-numbers-in-range-i/README.md) | Easy | C++ |
 | [2900. Longest Unequal Adjacent Groups Subsequence I](./2900-longest-unequal-adjacent-groups-subsequence-i/README.md) | Easy | C++ |
-| [1192. Critical Connections in a Network](./1192-critical-connections-in-a-network/README.md) | Hard | C++ |
