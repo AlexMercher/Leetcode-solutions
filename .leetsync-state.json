@@ -2,12 +2,12 @@
   "easy_count": 56,
   "hard_count": 10,
   "language_counts": {
-    "cpp": 80,
+    "cpp": 81,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-24T09:49:29Z",
-  "medium_count": 19,
+  "last_synced": "2026-08-24T17:38:10Z",
+  "medium_count": 20,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1010,6 +1010,18 @@
       "problem_slug": "unique-paths-ii",
       "problem_title": "Unique Paths II"
     },
+    "64": {
+      "difficulty": "Medium",
+      "folder_name": "0064-minimum-path-sum",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-24T17:38:10Z",
+      "notes": "\n# Mistakes\n\n1. Do not use the interior recurrence for `(0,j)` or `(i,0)` because one predecessor is out of bounds.\n2. Initialize `dp[0][0]` with `grid[0][0]`.\n3. First row uses only the left cell.\n4. First column uses only the top cell.\n5. Interior cells use `min(top, left) + current`.",
+      "problem_number": 64,
+      "problem_slug": "minimum-path-sum",
+      "problem_title": "Minimum Path Sum"
+    },
     "7": {
       "difficulty": "Medium",
       "folder_name": "0007-reverse-integer",
@@ -1036,5 +1048,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 85
+  "total_solved": 86
 }
