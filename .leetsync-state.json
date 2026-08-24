@@ -2,12 +2,12 @@
   "easy_count": 56,
   "hard_count": 10,
   "language_counts": {
-    "cpp": 82,
+    "cpp": 83,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-24T17:48:28Z",
-  "medium_count": 21,
+  "last_synced": "2026-08-24T19:19:38Z",
+  "medium_count": 22,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1057,8 +1057,20 @@
       "problem_number": 746,
       "problem_slug": "min-cost-climbing-stairs",
       "problem_title": "Min Cost Climbing Stairs"
+    },
+    "91": {
+      "difficulty": "Medium",
+      "folder_name": "0091-decode-ways",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-24T19:19:38Z",
+      "notes": "1. `dp[0]` must be `1`, not `0`; it represents one way to decode an empty prefix.\n2. Use `i <= n` because `dp[n]` is the final state.\n3. A single digit `0` is invalid.\n4. A two-digit code must be between `10` and `26`.\n5. Codes like `\"06\"` are invalid because leading zeroes are not allowed.\n6. `dp[i]` represents the first `i` characters, not index `i`.",
+      "problem_number": 91,
+      "problem_slug": "decode-ways",
+      "problem_title": "Decode Ways"
     }
   },
   "schema_version": 1,
-  "total_solved": 87
+  "total_solved": 88
 }
