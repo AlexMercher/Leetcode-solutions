@@ -1,12 +1,12 @@
 {
   "easy_count": 56,
-  "hard_count": 9,
+  "hard_count": 10,
   "language_counts": {
-    "cpp": 79,
+    "cpp": 80,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-24T08:16:10Z",
+  "last_synced": "2026-08-24T09:49:29Z",
   "medium_count": 19,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -275,6 +275,18 @@
       "problem_number": 1732,
       "problem_slug": "find-the-highest-altitude",
       "problem_title": "Find the Highest Altitude"
+    },
+    "1872": {
+      "difficulty": "Hard",
+      "folder_name": "1872-stone-game-viii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-24T09:49:29Z",
+      "notes": "\n### `mistakes.md`\n\n```md\n# Mistakes\n\n1. The backward loop must use `i--`, not `i++`.\n2. State `dp[i]` represents the current player's best score difference.\n3. The score gained by a move is a prefix sum.\n4. The recurrence subtracts `dp[j]` because the opponent becomes the current player.\n5. `best` stores the suffix maximum `max(prefix[j] - dp[j])`.\n6. Use `long long` because prefix sums can exceed `int`.",
+      "problem_number": 1872,
+      "problem_slug": "stone-game-viii",
+      "problem_title": "Stone Game VIII"
     },
     "1927": {
       "difficulty": "Medium",
@@ -1024,5 +1036,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 84
+  "total_solved": 85
 }
