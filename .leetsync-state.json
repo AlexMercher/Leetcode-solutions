@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 10,
   "language_counts": {
-    "cpp": 91,
+    "cpp": 92,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-25T12:53:46Z",
-  "medium_count": 29,
+  "last_synced": "2026-08-25T13:11:51Z",
+  "medium_count": 30,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -155,6 +155,18 @@
       "problem_number": 122,
       "problem_slug": "best-time-to-buy-and-sell-stock-ii",
       "problem_title": "Best Time to Buy and Sell Stock II"
+    },
+    "131": {
+      "difficulty": "Medium",
+      "folder_name": "0131-palindrome-partitioning",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-25T13:11:51Z",
+      "notes": "Instead of end+1 i was doing start+1 and getting the wrong answers there.\n",
+      "problem_number": 131,
+      "problem_slug": "palindrome-partitioning",
+      "problem_title": "Palindrome Partitioning"
     },
     "1331": {
       "difficulty": "Easy",
@@ -1168,5 +1180,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 96
+  "total_solved": 97
 }
