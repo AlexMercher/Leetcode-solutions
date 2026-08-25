@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 10,
   "language_counts": {
-    "cpp": 90,
+    "cpp": 91,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-25T10:49:03Z",
-  "medium_count": 28,
+  "last_synced": "2026-08-25T12:53:46Z",
+  "medium_count": 29,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -143,6 +143,18 @@
       "problem_number": 121,
       "problem_slug": "best-time-to-buy-and-sell-stock",
       "problem_title": "Best Time to Buy and Sell Stock"
+    },
+    "122": {
+      "difficulty": "Medium",
+      "folder_name": "0122-best-time-to-buy-and-sell-stock-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-25T12:53:46Z",
+      "notes": "None commited ran in the first go.",
+      "problem_number": 122,
+      "problem_slug": "best-time-to-buy-and-sell-stock-ii",
+      "problem_title": "Best Time to Buy and Sell Stock II"
     },
     "1331": {
       "difficulty": "Easy",
@@ -1156,5 +1168,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 95
+  "total_solved": 96
 }
