@@ -1,12 +1,12 @@
 {
-  "easy_count": 56,
+  "easy_count": 57,
   "hard_count": 10,
   "language_counts": {
-    "cpp": 87,
+    "cpp": 88,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-24T19:59:38Z",
+  "last_synced": "2026-08-25T08:14:16Z",
   "medium_count": 26,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -758,6 +758,18 @@
       "problem_slug": "longest-subsequence-with-non-zero-bitwise-xor",
       "problem_title": "Longest Subsequence With Non-Zero Bitwise XOR"
     },
+    "3718": {
+      "difficulty": "Easy",
+      "folder_name": "3718-smallest-missing-multiple-of-k",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-25T08:14:16Z",
+      "notes": "None commited.",
+      "problem_number": 3718,
+      "problem_slug": "smallest-missing-multiple-of-k",
+      "problem_title": "Smallest Missing Multiple of K"
+    },
     "3731": {
       "difficulty": "Easy",
       "folder_name": "3731-find-missing-elements",
@@ -1120,5 +1132,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 92
+  "total_solved": 93
 }
