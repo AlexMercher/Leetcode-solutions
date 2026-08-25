@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 10,
   "language_counts": {
-    "cpp": 89,
+    "cpp": 90,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-25T08:21:35Z",
-  "medium_count": 27,
+  "last_synced": "2026-08-25T10:49:03Z",
+  "medium_count": 28,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -938,6 +938,18 @@
       "problem_slug": "implement-rand10-using-rand7",
       "problem_title": "Implement Rand10() Using Rand7()"
     },
+    "478": {
+      "difficulty": "Medium",
+      "folder_name": "0478-generate-random-point-in-a-circle",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-25T10:49:03Z",
+      "notes": "None commited.",
+      "problem_number": 478,
+      "problem_slug": "generate-random-point-in-a-circle",
+      "problem_title": "Generate Random Point in a Circle"
+    },
     "486": {
       "difficulty": "Medium",
       "folder_name": "0486-predict-the-winner",
@@ -1144,5 +1156,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 94
+  "total_solved": 95
 }
