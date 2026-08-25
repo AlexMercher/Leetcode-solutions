@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 10,
   "language_counts": {
-    "cpp": 88,
+    "cpp": 89,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-25T08:14:16Z",
-  "medium_count": 26,
+  "last_synced": "2026-08-25T08:21:35Z",
+  "medium_count": 27,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -926,6 +926,18 @@
       "problem_slug": "repeated-substring-pattern",
       "problem_title": "Repeated Substring Pattern"
     },
+    "470": {
+      "difficulty": "Medium",
+      "folder_name": "0470-implement-rand10-using-rand7",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-25T08:21:35Z",
+      "notes": "could not think of the part where its going to be two rand7() i was simply multiplying it by 10/7 hoping that it would upscale consistently.",
+      "problem_number": 470,
+      "problem_slug": "implement-rand10-using-rand7",
+      "problem_title": "Implement Rand10() Using Rand7()"
+    },
     "486": {
       "difficulty": "Medium",
       "folder_name": "0486-predict-the-winner",
@@ -1132,5 +1144,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 93
+  "total_solved": 94
 }
