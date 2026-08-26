@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 10,
   "language_counts": {
-    "cpp": 92,
+    "cpp": 93,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-25T13:11:51Z",
-  "medium_count": 30,
+  "last_synced": "2026-08-26T05:30:39Z",
+  "medium_count": 31,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -575,6 +575,18 @@
       "problem_number": 2900,
       "problem_slug": "longest-unequal-adjacent-groups-subsequence-i",
       "problem_title": "Longest Unequal Adjacent Groups Subsequence I"
+    },
+    "2904": {
+      "difficulty": "Medium",
+      "folder_name": "2904-shortest-and-lexicographically-smallest-beautiful-string",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-26T05:30:39Z",
+      "notes": "Was not updating the left and hence was getting the wrong answers.",
+      "problem_number": 2904,
+      "problem_slug": "shortest-and-lexicographically-smallest-beautiful-string",
+      "problem_title": "Shortest and Lexicographically Smallest Beautiful String"
     },
     "292": {
       "difficulty": "Easy",
@@ -1180,5 +1192,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 97
+  "total_solved": 98
 }
