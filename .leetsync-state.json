@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 10,
   "language_counts": {
-    "cpp": 94,
+    "cpp": 95,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-27T10:59:50Z",
-  "medium_count": 32,
+  "last_synced": "2026-08-27T13:36:25Z",
+  "medium_count": 33,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1154,6 +1154,18 @@
       "problem_slug": "min-cost-climbing-stairs",
       "problem_title": "Min Cost Climbing Stairs"
     },
+    "8": {
+      "difficulty": "Medium",
+      "folder_name": "0008-string-to-integer-atoi",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-27T13:36:25Z",
+      "notes": "Was not returning the INT_MIN or the INT_MAX and thus there was a overflow for 32 bits.",
+      "problem_number": 8,
+      "problem_slug": "string-to-integer-atoi",
+      "problem_title": "String to Integer (atoi)"
+    },
     "91": {
       "difficulty": "Medium",
       "folder_name": "0091-decode-ways",
@@ -1204,5 +1216,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 99
+  "total_solved": 100
 }
