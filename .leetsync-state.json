@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 10,
   "language_counts": {
-    "cpp": 93,
+    "cpp": 94,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-26T05:30:39Z",
-  "medium_count": 31,
+  "last_synced": "2026-08-27T10:59:50Z",
+  "medium_count": 32,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -806,6 +806,18 @@
       "problem_slug": "smallest-missing-multiple-of-k",
       "problem_title": "Smallest Missing Multiple of K"
     },
+    "3720": {
+      "difficulty": "Medium",
+      "folder_name": "3720-lexicographically-smallest-permutation-greater-than-target",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-27T10:59:50Z",
+      "notes": "Was not making sure that we backtrack if we just match the entire target, then we need to ensure that we try all the different permutations i was returning Empty string (\"\").",
+      "problem_number": 3720,
+      "problem_slug": "lexicographically-smallest-permutation-greater-than-target",
+      "problem_title": "Lexicographically Smallest Permutation Greater Than Target"
+    },
     "3731": {
       "difficulty": "Easy",
       "folder_name": "3731-find-missing-elements",
@@ -1192,5 +1204,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 98
+  "total_solved": 99
 }
