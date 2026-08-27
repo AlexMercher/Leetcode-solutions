@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **103** |
+| Total Solved | **104** |
 | Easy | 57 |
-| Medium | 36 |
+| Medium | 37 |
 | Hard | 10 |
 
 ## Difficulty Distribution
 
 🟢 Easy &nbsp; **57** (55%)  
-🟡 Medium &nbsp; **36** (35%)  
+🟡 Medium &nbsp; **37** (36%)  
 🔴 Hard &nbsp; **10** (10%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 98 |
+| C++ | 99 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [213. House Robber II](./0213-house-robber-ii/README.md) | Medium | C++ |
 | [198. House Robber](./0198-house-robber/README.md) | Medium | C++ |
 | [152. Maximum Product Subarray](./0152-maximum-product-subarray/README.md) | Medium | C++ |
 | [139. Word Break](./0139-word-break/README.md) | Medium | C++ |
 | [8. String to Integer (atoi)](./0008-string-to-integer-atoi/README.md) | Medium | C++ |
-| [3720. Lexicographically Smallest Permutation Greater Than Target](./3720-lexicographically-smallest-permutation-greater-than-target/README.md) | Medium | C++ |
