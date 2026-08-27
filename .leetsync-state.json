@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 10,
   "language_counts": {
-    "cpp": 95,
+    "cpp": 96,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-27T13:36:25Z",
-  "medium_count": 33,
+  "last_synced": "2026-08-27T13:48:32Z",
+  "medium_count": 34,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -191,6 +191,18 @@
       "problem_number": 1386,
       "problem_slug": "cinema-seat-allocation",
       "problem_title": "Cinema Seat Allocation"
+    },
+    "139": {
+      "difficulty": "Medium",
+      "folder_name": "0139-word-break",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-27T13:48:32Z",
+      "notes": "was not iterating till n was only iterating till n-1 and hence i was getting a false all the time whenver the dp is till n+1 we need to go the n.",
+      "problem_number": 139,
+      "problem_slug": "word-break",
+      "problem_title": "Word Break"
     },
     "1406": {
       "difficulty": "Hard",
@@ -1216,5 +1228,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 100
+  "total_solved": 101
 }
