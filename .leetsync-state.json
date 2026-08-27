@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 10,
   "language_counts": {
-    "cpp": 97,
+    "cpp": 98,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-27T14:00:23Z",
-  "medium_count": 35,
+  "last_synced": "2026-08-27T15:42:13Z",
+  "medium_count": 36,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -383,6 +383,18 @@
       "problem_number": 1979,
       "problem_slug": "find-greatest-common-divisor-of-array",
       "problem_title": "Find Greatest Common Divisor of Array"
+    },
+    "198": {
+      "difficulty": "Medium",
+      "folder_name": "0198-house-robber",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-27T15:42:13Z",
+      "notes": "None commited only index out of bound errors.",
+      "problem_number": 198,
+      "problem_slug": "house-robber",
+      "problem_title": "House Robber"
     },
     "2": {
       "difficulty": "Medium",
@@ -1240,5 +1252,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 102
+  "total_solved": 103
 }
