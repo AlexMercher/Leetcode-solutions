@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 10,
   "language_counts": {
-    "cpp": 96,
+    "cpp": 97,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-27T13:48:32Z",
-  "medium_count": 34,
+  "last_synced": "2026-08-27T14:00:23Z",
+  "medium_count": 35,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -263,6 +263,18 @@
       "problem_number": 1510,
       "problem_slug": "stone-game-iv",
       "problem_title": "Stone Game IV"
+    },
+    "152": {
+      "difficulty": "Medium",
+      "folder_name": "0152-maximum-product-subarray",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-27T14:00:23Z",
+      "notes": "### Cannot use sliding window => Only works on the monotonic functions\n\nPresence of -ve numbers makes it non-monotonic in nature.",
+      "problem_number": 152,
+      "problem_slug": "maximum-product-subarray",
+      "problem_title": "Maximum Product Subarray"
     },
     "1563": {
       "difficulty": "Hard",
@@ -1228,5 +1240,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 101
+  "total_solved": 102
 }
