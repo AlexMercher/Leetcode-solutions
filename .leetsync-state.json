@@ -1,12 +1,12 @@
 {
   "easy_count": 57,
-  "hard_count": 10,
+  "hard_count": 11,
   "language_counts": {
-    "cpp": 99,
+    "cpp": 100,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-27T15:52:49Z",
+  "last_synced": "2026-08-28T13:58:11Z",
   "medium_count": 37,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -878,6 +878,18 @@
       "problem_slug": "find-missing-elements",
       "problem_title": "Find Missing Elements"
     },
+    "3734": {
+      "difficulty": "Hard",
+      "folder_name": "3734-lexicographically-smallest-palindromic-permutation-greater-than-target",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-28T13:58:11Z",
+      "notes": "# Mistakes\n\n1. Counting even frequencies instead of odd frequencies caused zero-frequency characters to be counted incorrectly.\n\n2. The middle character must be:\n```cpp\nmiddle = 'a' + i;\nnot a fixed character.\n\nThe palindrome condition is:\nodd <= n % 2\n\nnot odd <= n / 2.\n\nWe must compare the complete palindrome with target when the entire half matches. Checking only the middle misses cases like:\nabb → bab.\nBacktracking loops must use:\nfor(int c = cur + 1; c < 26; c++)\n\nnot cur < 26.\n\nWhen constructing the remaining part, characters must be placed in ascending order to keep the result lexicographically smallest.\nreturn \"\" is only reached after no position can be increased and therefore no valid palindrome is strictly greater than target.",
+      "problem_number": 3734,
+      "problem_slug": "lexicographically-smallest-palindromic-permutation-greater-than-target",
+      "problem_title": "Lexicographically Smallest Palindromic Permutation Greater Than Target"
+    },
     "3754": {
       "difficulty": "Easy",
       "folder_name": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i",
@@ -1264,5 +1276,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 104
+  "total_solved": 105
 }
