@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 101,
+    "cpp": 102,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-28T16:15:34Z",
-  "medium_count": 38,
+  "last_synced": "2026-08-29T13:15:14Z",
+  "medium_count": 39,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -660,6 +660,18 @@
       "problem_slug": "nim-game",
       "problem_title": "Nim Game"
     },
+    "2948": {
+      "difficulty": "Medium",
+      "folder_name": "2948-make-lexicographically-smallest-array-by-swapping-elements",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-29T13:15:14Z",
+      "notes": "Did not recognize that we need to do it with a dsu and was trying to do just some sqaps thill not valid thing was left which was giving tle very easily.",
+      "problem_number": 2948,
+      "problem_slug": "make-lexicographically-smallest-array-by-swapping-elements",
+      "problem_title": "Make Lexicographically Smallest Array by Swapping Elements"
+    },
     "2958": {
       "difficulty": "Medium",
       "folder_name": "2958-length-of-longest-subarray-with-at-most-k-frequency",
@@ -1288,5 +1300,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 106
+  "total_solved": 107
 }

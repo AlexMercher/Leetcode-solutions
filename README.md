@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **106** |
+| Total Solved | **107** |
 | Easy | 57 |
-| Medium | 38 |
+| Medium | 39 |
 | Hard | 11 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **57** (54%)  
-🟡 Medium &nbsp; **38** (36%)  
+🟢 Easy &nbsp; **57** (53%)  
+🟡 Medium &nbsp; **39** (36%)  
 🔴 Hard &nbsp; **11** (10%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 101 |
+| C++ | 102 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [2948. Make Lexicographically Smallest Array by Swapping Elements](./2948-make-lexicographically-smallest-array-by-swapping-elements/README.md) | Medium | C++ |
 | [221. Maximal Square](./0221-maximal-square/README.md) | Medium | C++ |
 | [3734. Lexicographically Smallest Palindromic Permutation Greater Than Target](./3734-lexicographically-smallest-palindromic-permutation-greater-than-target/README.md) | Hard | C++ |
 | [213. House Robber II](./0213-house-robber-ii/README.md) | Medium | C++ |
 | [198. House Robber](./0198-house-robber/README.md) | Medium | C++ |
-| [152. Maximum Product Subarray](./0152-maximum-product-subarray/README.md) | Medium | C++ |
