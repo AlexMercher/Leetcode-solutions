@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 106,
+    "cpp": 107,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-29T15:55:35Z",
-  "medium_count": 43,
+  "last_synced": "2026-08-29T16:06:37Z",
+  "medium_count": 44,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -782,6 +782,18 @@
       "problem_slug": "distribute-elements-into-two-arrays-i",
       "problem_title": "Distribute Elements Into Two Arrays I"
     },
+    "309": {
+      "difficulty": "Medium",
+      "folder_name": "0309-best-time-to-buy-and-sell-stock-with-cooldown",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-29T16:06:37Z",
+      "notes": "Was trying to fix it in 1d dp with a buy flag and it became messy.",
+      "problem_number": 309,
+      "problem_slug": "best-time-to-buy-and-sell-stock-with-cooldown",
+      "problem_title": "Best Time to Buy and Sell Stock with Cooldown"
+    },
     "3090": {
       "difficulty": "Easy",
       "folder_name": "3090-maximum-length-substring-with-two-occurrences",
@@ -1348,5 +1360,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 111
+  "total_solved": 112
 }
