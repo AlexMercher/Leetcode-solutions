@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **109** |
+| Total Solved | **110** |
 | Easy | 57 |
-| Medium | 41 |
+| Medium | 42 |
 | Hard | 11 |
 
 ## Difficulty Distribution
 
 🟢 Easy &nbsp; **57** (52%)  
-🟡 Medium &nbsp; **41** (38%)  
+🟡 Medium &nbsp; **42** (38%)  
 🔴 Hard &nbsp; **11** (10%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 104 |
+| C++ | 105 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [279. Perfect Squares](./0279-perfect-squares/README.md) | Medium | C++ |
 | [264. Ugly Number II](./0264-ugly-number-ii/README.md) | Medium | C++ |
 | [241. Different Ways to Add Parentheses](./0241-different-ways-to-add-parentheses/README.md) | Medium | C++ |
 | [2948. Make Lexicographically Smallest Array by Swapping Elements](./2948-make-lexicographically-smallest-array-by-swapping-elements/README.md) | Medium | C++ |
 | [221. Maximal Square](./0221-maximal-square/README.md) | Medium | C++ |
-| [3734. Lexicographically Smallest Palindromic Permutation Greater Than Target](./3734-lexicographically-smallest-palindromic-permutation-greater-than-target/README.md) | Hard | C++ |

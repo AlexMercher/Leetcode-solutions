@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 104,
+    "cpp": 105,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-29T13:39:01Z",
-  "medium_count": 41,
+  "last_synced": "2026-08-29T15:45:52Z",
+  "medium_count": 42,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -623,6 +623,18 @@
       "problem_number": 2784,
       "problem_slug": "check-if-array-is-good",
       "problem_title": "Check if Array is Good"
+    },
+    "279": {
+      "difficulty": "Medium",
+      "folder_name": "0279-perfect-squares",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-29T15:45:52Z",
+      "notes": "Did not write the base case where each of the number can be a perfect square as given.",
+      "problem_number": 279,
+      "problem_slug": "perfect-squares",
+      "problem_title": "Perfect Squares"
     },
     "29": {
       "difficulty": "Medium",
@@ -1324,5 +1336,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 109
+  "total_solved": 110
 }
