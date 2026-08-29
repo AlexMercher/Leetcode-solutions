@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 105,
+    "cpp": 106,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-29T15:45:52Z",
-  "medium_count": 42,
+  "last_synced": "2026-08-29T15:55:35Z",
+  "medium_count": 43,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -732,6 +732,18 @@
       "problem_slug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
       "problem_title": "Smallest Missing Integer Greater Than Sequential Prefix Sum"
     },
+    "300": {
+      "difficulty": "Medium",
+      "folder_name": "0300-longest-increasing-subsequence",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-29T15:55:35Z",
+      "notes": "Had to figure out how the lower bound works in order to write this program, its incredibally clever.",
+      "problem_number": 300,
+      "problem_slug": "longest-increasing-subsequence",
+      "problem_title": "Longest Increasing Subsequence"
+    },
     "3014": {
       "difficulty": "Easy",
       "folder_name": "3014-minimum-number-of-pushes-to-type-word-i",
@@ -1336,5 +1348,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 110
+  "total_solved": 111
 }
