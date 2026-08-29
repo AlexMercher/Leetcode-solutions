@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 102,
+    "cpp": 103,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-29T13:15:14Z",
-  "medium_count": 39,
+  "last_synced": "2026-08-29T13:27:41Z",
+  "medium_count": 40,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -479,6 +479,18 @@
       "problem_number": 2213,
       "problem_slug": "longest-substring-of-one-repeating-character",
       "problem_title": "Longest Substring of One Repeating Character"
+    },
+    "241": {
+      "difficulty": "Medium",
+      "folder_name": "0241-different-ways-to-add-parentheses",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-29T13:27:41Z",
+      "notes": "Was trying to just evaluate the expression in two nested for loops and the cases were giving tle or failing directly.",
+      "problem_number": 241,
+      "problem_slug": "different-ways-to-add-parentheses",
+      "problem_title": "Different Ways to Add Parentheses"
     },
     "2413": {
       "difficulty": "Easy",
@@ -1300,5 +1312,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 107
+  "total_solved": 108
 }
