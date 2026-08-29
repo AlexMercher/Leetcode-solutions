@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 103,
+    "cpp": 104,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-29T13:27:41Z",
-  "medium_count": 40,
+  "last_synced": "2026-08-29T13:39:01Z",
+  "medium_count": 41,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -575,6 +575,18 @@
       "problem_number": 2591,
       "problem_slug": "distribute-money-to-maximum-children",
       "problem_title": "Distribute Money to Maximum Children"
+    },
+    "264": {
+      "difficulty": "Medium",
+      "folder_name": "0264-ugly-number-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-29T13:39:01Z",
+      "notes": "was using if and else if and thus i was getting the duplicate members and not getting the correct answer in this question.",
+      "problem_number": 264,
+      "problem_slug": "ugly-number-ii",
+      "problem_title": "Ugly Number II"
     },
     "268": {
       "difficulty": "Easy",
@@ -1312,5 +1324,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 108
+  "total_solved": 109
 }
