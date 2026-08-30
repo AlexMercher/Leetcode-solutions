@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 107,
+    "cpp": 108,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-29T16:06:37Z",
-  "medium_count": 44,
+  "last_synced": "2026-08-30T16:04:34Z",
+  "medium_count": 45,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -431,6 +431,18 @@
       "problem_number": 205,
       "problem_slug": "isomorphic-strings",
       "problem_title": "Isomorphic Strings"
+    },
+    "2091": {
+      "difficulty": "Medium",
+      "folder_name": "2091-removing-minimum-and-maximum-from-array",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-30T16:04:34Z",
+      "notes": "No mistakes commited was more or less confused in how to impliment the given front,back and bothends logic.",
+      "problem_number": 2091,
+      "problem_slug": "removing-minimum-and-maximum-from-array",
+      "problem_title": "Removing Minimum and Maximum From Array"
     },
     "213": {
       "difficulty": "Medium",
@@ -1360,5 +1372,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 112
+  "total_solved": 113
 }
