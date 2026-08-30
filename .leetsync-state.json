@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 109,
+    "cpp": 110,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-30T17:56:33Z",
-  "medium_count": 46,
+  "last_synced": "2026-08-30T18:12:02Z",
+  "medium_count": 47,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -842,6 +842,18 @@
       "problem_slug": "super-ugly-number",
       "problem_title": "Super Ugly Number"
     },
+    "322": {
+      "difficulty": "Medium",
+      "folder_name": "0322-coin-change",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-30T18:12:02Z",
+      "notes": "Did not initialize the dp with a max integer and thus i was getting the error.",
+      "problem_number": 322,
+      "problem_slug": "coin-change",
+      "problem_title": "Coin Change"
+    },
     "3300": {
       "difficulty": "Easy",
       "folder_name": "3300-minimum-element-after-replacement-with-digit-sum",
@@ -1384,5 +1396,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 114
+  "total_solved": 115
 }
