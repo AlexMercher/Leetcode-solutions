@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 113,
+    "cpp": 114,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-31T13:43:26Z",
-  "medium_count": 50,
+  "last_synced": "2026-08-31T13:49:39Z",
+  "medium_count": 51,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -962,6 +962,18 @@
       "problem_slug": "find-the-largest-almost-missing-integer",
       "problem_title": "Find the Largest Almost Missing Integer"
     },
+    "357": {
+      "difficulty": "Medium",
+      "folder_name": "0357-count-numbers-with-unique-digits",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-31T13:49:39Z",
+      "notes": "Nothing hard was encountered.",
+      "problem_number": 357,
+      "problem_slug": "count-numbers-with-unique-digits",
+      "problem_title": "Count Numbers with Unique Digits"
+    },
     "3622": {
       "difficulty": "Easy",
       "folder_name": "3622-check-divisibility-by-digit-sum-and-product",
@@ -1432,5 +1444,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 118
+  "total_solved": 119
 }
