@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 112,
+    "cpp": 113,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-31T07:46:16Z",
-  "medium_count": 49,
+  "last_synced": "2026-08-31T13:43:26Z",
+  "medium_count": 50,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -938,6 +938,18 @@
       "problem_slug": "find-first-and-last-position-of-element-in-sorted-array",
       "problem_title": "Find First and Last Position of Element in Sorted Array"
     },
+    "343": {
+      "difficulty": "Medium",
+      "folder_name": "0343-integer-break",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-31T13:43:26Z",
+      "notes": "Don't know why this is categorized in dp when its not using dp but rather just plain maths. Did this one in one go but hard to categorize and find the maths behind it. Got rejected in nutamix as well today. Wish me luck.",
+      "problem_number": 343,
+      "problem_slug": "integer-break",
+      "problem_title": "Integer Break"
+    },
     "3471": {
       "difficulty": "Easy",
       "folder_name": "3471-find-the-largest-almost-missing-integer",
@@ -1420,5 +1432,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 117
+  "total_solved": 118
 }
