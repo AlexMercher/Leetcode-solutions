@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **115** |
+| Total Solved | **116** |
 | Easy | 57 |
-| Medium | 47 |
+| Medium | 48 |
 | Hard | 11 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **57** (50%)  
-🟡 Medium &nbsp; **47** (41%)  
-🔴 Hard &nbsp; **11** (10%)
+🟢 Easy &nbsp; **57** (49%)  
+🟡 Medium &nbsp; **48** (41%)  
+🔴 Hard &nbsp; **11** (9%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 110 |
+| C++ | 111 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](./2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/README.md) | Medium | C++ |
 | [322. Coin Change](./0322-coin-change/README.md) | Medium | C++ |
 | [313. Super Ugly Number](./0313-super-ugly-number/README.md) | Medium | C++ |
 | [2091. Removing Minimum and Maximum From Array](./2091-removing-minimum-and-maximum-from-array/README.md) | Medium | C++ |
 | [309. Best Time to Buy and Sell Stock with Cooldown](./0309-best-time-to-buy-and-sell-stock-with-cooldown/README.md) | Medium | C++ |
-| [300. Longest Increasing Subsequence](./0300-longest-increasing-subsequence/README.md) | Medium | C++ |

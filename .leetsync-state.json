@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 110,
+    "cpp": 111,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-30T18:12:02Z",
-  "medium_count": 47,
+  "last_synced": "2026-08-31T07:30:10Z",
+  "medium_count": 48,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -431,6 +431,18 @@
       "problem_number": 205,
       "problem_slug": "isomorphic-strings",
       "problem_title": "Isomorphic Strings"
+    },
+    "2058": {
+      "difficulty": "Medium",
+      "folder_name": "2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-31T07:30:10Z",
+      "notes": "Common syntax mistakes commited, no major mistake.",
+      "problem_number": 2058,
+      "problem_slug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+      "problem_title": "Find the Minimum and Maximum Number of Nodes Between Critical Points"
     },
     "2091": {
       "difficulty": "Medium",
@@ -1396,5 +1408,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 115
+  "total_solved": 116
 }
