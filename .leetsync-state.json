@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 111,
+    "cpp": 112,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-31T07:30:10Z",
-  "medium_count": 48,
+  "last_synced": "2026-08-31T07:46:16Z",
+  "medium_count": 49,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -902,6 +902,18 @@
       "problem_slug": "smallest-divisible-digit-product-ii",
       "problem_title": "Smallest Divisible Digit Product II"
     },
+    "337": {
+      "difficulty": "Medium",
+      "folder_name": "0337-house-robber-iii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-08-31T07:46:16Z",
+      "notes": "### Mistakes\nI was forcing the robbing of the child if the parent did not get robbed and thus was losing the optimal answer.\n\nThis is the important distinction:\n\nskip means we skip robbing the CURRENT node. It does NOT mean we skip its children.\n\nSo if we do:\n\nint skip = max(left.first, left.second)\n         + max(right.first, right.second);\n\nwe are saying:\n\nSince I am not robbing this node, I am now free to choose the better option for each child independently.\n\nWhy not left.first + right.first?\n\nBecause left.first means:\n\nWe are definitely robbing the left child.\n\nBut skipping the current node does not force us to rob the child.\n\nFor example:\n\n      10\n      /\n     5\n    /\n   20\n\nIf we skip 10, the best choice for the left subtree might actually be to skip 5 and rob 20.\n\nSo:\n\nskip 10\n    ↓\ndon't rob 10\n    ↓\nleft subtree is completely free\n    ↓\nchoose best of:\n    rob 5\n    skip 5\n\nThat's exactly what the max() represents.\n\nThink of the two states like this\n\nFor every node:\n\nrob[node]\n    → I HAVE ROBBED this node\n    → therefore children MUST be skipped\n\nskip[node]\n    → I DID NOT ROB this node\n    → therefore children can be either robbed OR skipped\n\nSo:\n\nrob = root->val\n    + left.second\n    + right.second;\n\nbecause children must be skipped.\n\nBut:\n\nskip = max(left.first, left.second)\n     + max(right.first, right.second);\n\nbecause children are now free to choose their better state.\n\nThe key rule to memorize\nCurrent node ROBBED\n        ↓\nchildren MUST SKIP\n\nCurrent node SKIPPED\n        ↓\nchildren can ROB or SKIP\n        ↓\ntake MAX of both\n\nThis is the standard take/skip Tree DP pattern.\n\nYour original thought of:\n\nleft.first + right.first\n\nwould actually mean:\n\n\"I skipped the current node, but I am forcing both children to be robbed.\"\n\nThat's unnecessarily restrictive, so you'd potentially lose the optimal answer.",
+      "problem_number": 337,
+      "problem_slug": "house-robber-iii",
+      "problem_title": "House Robber III"
+    },
     "338": {
       "difficulty": "Easy",
       "folder_name": "0338-counting-bits",
@@ -1408,5 +1420,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 116
+  "total_solved": 117
 }
