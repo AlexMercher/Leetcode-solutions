@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 114,
+    "cpp": 115,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-08-31T13:49:39Z",
-  "medium_count": 51,
+  "last_synced": "2026-09-01T04:26:20Z",
+  "medium_count": 52,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -962,6 +962,18 @@
       "problem_slug": "find-the-largest-almost-missing-integer",
       "problem_title": "Find the Largest Almost Missing Integer"
     },
+    "3568": {
+      "difficulty": "Medium",
+      "folder_name": "3568-minimum-moves-to-clean-the-classroom",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-01T04:26:20Z",
+      "notes": "Did not knew how to handle the best state transition from the mask to the new mask and thus was comparing with new_mask and thus i was always comparing with -1 and therefore it was not updating.",
+      "problem_number": 3568,
+      "problem_slug": "minimum-moves-to-clean-the-classroom",
+      "problem_title": "Minimum Moves to Clean the Classroom"
+    },
     "357": {
       "difficulty": "Medium",
       "folder_name": "0357-count-numbers-with-unique-digits",
@@ -1444,5 +1456,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 119
+  "total_solved": 120
 }
