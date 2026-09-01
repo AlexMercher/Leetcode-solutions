@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 119,
+    "cpp": 120,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-01T17:31:25Z",
-  "medium_count": 56,
+  "last_synced": "2026-09-01T17:44:43Z",
+  "medium_count": 57,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1166,6 +1166,18 @@
       "problem_slug": "sum-of-compatible-numbers-in-range-i",
       "problem_title": "Sum of Compatible Numbers in Range I"
     },
+    "396": {
+      "difficulty": "Medium",
+      "folder_name": "0396-rotate-function",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-01T17:44:43Z",
+      "notes": "Could not understand the relation at first and was thinking of generating the array and then computing.\n\n### Remember:\nGenerating and then computing is the slowest way for any algorithm find a way to generate optimally.\n",
+      "problem_number": 396,
+      "problem_slug": "rotate-function",
+      "problem_title": "Rotate Function"
+    },
     "405": {
       "difficulty": "Easy",
       "folder_name": "0405-convert-a-number-to-hexadecimal",
@@ -1504,5 +1516,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 124
+  "total_solved": 125
 }
