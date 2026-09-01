@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 116,
+    "cpp": 117,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-01T04:35:14Z",
-  "medium_count": 53,
+  "last_synced": "2026-09-01T04:49:05Z",
+  "medium_count": 54,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1082,6 +1082,18 @@
       "problem_slug": "lexicographically-smallest-palindromic-permutation-greater-than-target",
       "problem_title": "Lexicographically Smallest Palindromic Permutation Greater Than Target"
     },
+    "375": {
+      "difficulty": "Medium",
+      "folder_name": "0375-guess-number-higher-or-lower-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-01T04:49:05Z",
+      "notes": "The recurrence was too hard to think and array index out of bounds error was still there because i was only using the n+1 not n+2 in the dp state init.",
+      "problem_number": 375,
+      "problem_slug": "guess-number-higher-or-lower-ii",
+      "problem_title": "Guess Number Higher or Lower II"
+    },
     "3754": {
       "difficulty": "Easy",
       "folder_name": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i",
@@ -1468,5 +1480,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 121
+  "total_solved": 122
 }
