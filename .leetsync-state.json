@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 115,
+    "cpp": 116,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-01T04:26:20Z",
-  "medium_count": 52,
+  "last_synced": "2026-09-01T04:35:14Z",
+  "medium_count": 53,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1010,6 +1010,18 @@
       "problem_slug": "earliest-finish-time-for-land-and-water-rides-i",
       "problem_title": "Earliest Finish Time for Land and Water Rides I"
     },
+    "368": {
+      "difficulty": "Medium",
+      "folder_name": "0368-largest-divisible-subset",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-01T04:35:14Z",
+      "notes": "Was trying to match all the elements will the given elements and thus was too restrictive in nature.\n",
+      "problem_number": 368,
+      "problem_slug": "largest-divisible-subset",
+      "problem_title": "Largest Divisible Subset"
+    },
     "3702": {
       "difficulty": "Medium",
       "folder_name": "3702-longest-subsequence-with-non-zero-bitwise-xor",
@@ -1456,5 +1468,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 120
+  "total_solved": 121
 }

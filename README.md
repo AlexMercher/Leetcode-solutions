@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **120** |
+| Total Solved | **121** |
 | Easy | 57 |
-| Medium | 52 |
+| Medium | 53 |
 | Hard | 11 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **57** (48%)  
-🟡 Medium &nbsp; **52** (43%)  
+🟢 Easy &nbsp; **57** (47%)  
+🟡 Medium &nbsp; **53** (44%)  
 🔴 Hard &nbsp; **11** (9%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 115 |
+| C++ | 116 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [368. Largest Divisible Subset](./0368-largest-divisible-subset/README.md) | Medium | C++ |
 | [3568. Minimum Moves to Clean the Classroom](./3568-minimum-moves-to-clean-the-classroom/README.md) | Medium | C++ |
 | [357. Count Numbers with Unique Digits](./0357-count-numbers-with-unique-digits/README.md) | Medium | C++ |
 | [343. Integer Break](./0343-integer-break/README.md) | Medium | C++ |
 | [337. House Robber III](./0337-house-robber-iii/README.md) | Medium | C++ |
-| [2058. Find the Minimum and Maximum Number of Nodes Between Critical Points](./2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/README.md) | Medium | C++ |
