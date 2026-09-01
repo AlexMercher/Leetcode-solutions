@@ -2,12 +2,12 @@
   "easy_count": 57,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 117,
+    "cpp": 118,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-01T04:49:05Z",
-  "medium_count": 54,
+  "last_synced": "2026-09-01T17:10:03Z",
+  "medium_count": 55,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1106,6 +1106,18 @@
       "problem_slug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
       "problem_title": "Concatenate Non-Zero Digits and Multiply by Sum I"
     },
+    "376": {
+      "difficulty": "Medium",
+      "folder_name": "0376-wiggle-subsequence",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-01T17:10:03Z",
+      "notes": "Could not think of the up and down approach was thinking of building the direction and then checking but was getting the wrong answers all the time.",
+      "problem_number": 376,
+      "problem_slug": "wiggle-subsequence",
+      "problem_title": "Wiggle Subsequence"
+    },
     "3838": {
       "difficulty": "Easy",
       "folder_name": "3838-weighted-word-mapping",
@@ -1480,5 +1492,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 122
+  "total_solved": 123
 }
