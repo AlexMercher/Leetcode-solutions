@@ -1,12 +1,12 @@
 {
-  "easy_count": 57,
+  "easy_count": 58,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 121,
+    "cpp": 122,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-01T18:05:52Z",
+  "last_synced": "2026-09-02T05:21:09Z",
   "medium_count": 58,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1142,6 +1142,18 @@
       "problem_slug": "weighted-word-mapping",
       "problem_title": "Weighted Word Mapping"
     },
+    "3875": {
+      "difficulty": "Easy",
+      "folder_name": "3875-construct-uniform-parity-array-i",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-02T05:21:09Z",
+      "notes": "It took a bit of time to understand this logic and how it will always return true only.",
+      "problem_number": 3875,
+      "problem_slug": "construct-uniform-parity-array-i",
+      "problem_title": "Construct Uniform Parity Array I"
+    },
     "392": {
       "difficulty": "Easy",
       "folder_name": "0392-is-subsequence",
@@ -1528,5 +1540,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 126
+  "total_solved": 127
 }

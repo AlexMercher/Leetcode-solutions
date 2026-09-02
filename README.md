@@ -6,14 +6,14 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **126** |
-| Easy | 57 |
+| Total Solved | **127** |
+| Easy | 58 |
 | Medium | 58 |
 | Hard | 11 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **57** (45%)  
+🟢 Easy &nbsp; **58** (46%)  
 🟡 Medium &nbsp; **58** (46%)  
 🔴 Hard &nbsp; **11** (9%)
 
@@ -21,7 +21,7 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 121 |
+| C++ | 122 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [3875. Construct Uniform Parity Array I](./3875-construct-uniform-parity-array-i/README.md) | Easy | C++ |
 | [397. Integer Replacement](./0397-integer-replacement/README.md) | Medium | C++ |
 | [396. Rotate Function](./0396-rotate-function/README.md) | Medium | C++ |
 | [377. Combination Sum IV](./0377-combination-sum-iv/README.md) | Medium | C++ |
 | [376. Wiggle Subsequence](./0376-wiggle-subsequence/README.md) | Medium | C++ |
-| [375. Guess Number Higher or Lower II](./0375-guess-number-higher-or-lower-ii/README.md) | Medium | C++ |
