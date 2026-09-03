@@ -1,12 +1,12 @@
 {
-  "easy_count": 58,
+  "easy_count": 59,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 123,
+    "cpp": 124,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-03T11:52:13Z",
+  "last_synced": "2026-09-03T12:00:03Z",
   "medium_count": 59,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1502,6 +1502,18 @@
       "problem_slug": "string-to-integer-atoi",
       "problem_title": "String to Integer (atoi)"
     },
+    "905": {
+      "difficulty": "Easy",
+      "folder_name": "0905-sort-array-by-parity",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-03T12:00:03Z",
+      "notes": "Was not incrementing in the given space though it was working the time complexity was a bit higher there then.",
+      "problem_number": 905,
+      "problem_slug": "sort-array-by-parity",
+      "problem_title": "Sort Array By Parity"
+    },
     "91": {
       "difficulty": "Medium",
       "folder_name": "0091-decode-ways",
@@ -1552,5 +1564,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 128
+  "total_solved": 129
 }
