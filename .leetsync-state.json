@@ -2,12 +2,12 @@
   "easy_count": 59,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 128,
+    "cpp": 129,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-03T16:46:01Z",
-  "medium_count": 63,
+  "last_synced": "2026-09-03T17:04:44Z",
+  "medium_count": 64,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1358,6 +1358,18 @@
       "problem_slug": "can-i-win",
       "problem_title": "Can I Win"
     },
+    "467": {
+      "difficulty": "Medium",
+      "folder_name": "0467-unique-substrings-in-wraparound-string",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-03T17:04:44Z",
+      "notes": "😭",
+      "problem_number": 467,
+      "problem_slug": "unique-substrings-in-wraparound-string",
+      "problem_title": "Unique Substrings in Wraparound String"
+    },
     "470": {
       "difficulty": "Medium",
       "folder_name": "0470-implement-rand10-using-rand7",
@@ -1612,5 +1624,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 133
+  "total_solved": 134
 }
