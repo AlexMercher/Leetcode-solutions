@@ -2,12 +2,12 @@
   "easy_count": 59,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 126,
+    "cpp": 127,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-03T16:18:56Z",
-  "medium_count": 61,
+  "last_synced": "2026-09-03T16:30:31Z",
+  "medium_count": 62,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1310,6 +1310,18 @@
       "problem_slug": "number-of-segments-in-a-string",
       "problem_title": "Number of Segments in a String"
     },
+    "435": {
+      "difficulty": "Medium",
+      "folder_name": "0435-non-overlapping-intervals",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-03T16:30:31Z",
+      "notes": "Was doing wrong initialization and updation.",
+      "problem_number": 435,
+      "problem_slug": "non-overlapping-intervals",
+      "problem_title": "Non-overlapping Intervals"
+    },
     "45": {
       "difficulty": "Medium",
       "folder_name": "0045-jump-game-ii",
@@ -1588,5 +1600,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 131
+  "total_solved": 132
 }
