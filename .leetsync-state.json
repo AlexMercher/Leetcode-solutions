@@ -2,12 +2,12 @@
   "easy_count": 59,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 127,
+    "cpp": 128,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-03T16:30:31Z",
-  "medium_count": 62,
+  "last_synced": "2026-09-03T16:46:01Z",
+  "medium_count": 63,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1346,6 +1346,18 @@
       "problem_slug": "repeated-substring-pattern",
       "problem_title": "Repeated Substring Pattern"
     },
+    "464": {
+      "difficulty": "Medium",
+      "folder_name": "0464-can-i-win",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-03T16:46:01Z",
+      "notes": "Bitmask dp is tough and needed the help of AI for this one.",
+      "problem_number": 464,
+      "problem_slug": "can-i-win",
+      "problem_title": "Can I Win"
+    },
     "470": {
       "difficulty": "Medium",
       "folder_name": "0470-implement-rand10-using-rand7",
@@ -1600,5 +1612,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 132
+  "total_solved": 133
 }
