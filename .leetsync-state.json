@@ -2,12 +2,12 @@
   "easy_count": 59,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 125,
+    "cpp": 126,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-03T16:09:58Z",
-  "medium_count": 60,
+  "last_synced": "2026-09-03T16:18:56Z",
+  "medium_count": 61,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1274,6 +1274,18 @@
       "problem_slug": "add-strings",
       "problem_title": "Add Strings"
     },
+    "416": {
+      "difficulty": "Medium",
+      "folder_name": "0416-partition-equal-subset-sum",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-03T16:18:56Z",
+      "notes": "No mistakes commited, was only initialising the dp to target and not to target+1.",
+      "problem_number": 416,
+      "problem_slug": "partition-equal-subset-sum",
+      "problem_title": "Partition Equal Subset Sum"
+    },
     "420": {
       "difficulty": "Hard",
       "folder_name": "0420-strong-password-checker",
@@ -1576,5 +1588,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 130
+  "total_solved": 131
 }
