@@ -2,12 +2,12 @@
   "easy_count": 59,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 124,
+    "cpp": 125,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-03T12:00:03Z",
-  "medium_count": 59,
+  "last_synced": "2026-09-03T16:09:58Z",
+  "medium_count": 60,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1250,6 +1250,18 @@
       "problem_slug": "fizz-buzz",
       "problem_title": "Fizz Buzz"
     },
+    "413": {
+      "difficulty": "Medium",
+      "folder_name": "0413-arithmetic-slices",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-03T16:09:58Z",
+      "notes": "No mistakes commited here.",
+      "problem_number": 413,
+      "problem_slug": "arithmetic-slices",
+      "problem_title": "Arithmetic Slices"
+    },
     "415": {
       "difficulty": "Easy",
       "folder_name": "0415-add-strings",
@@ -1564,5 +1576,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 129
+  "total_solved": 130
 }
