@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **134** |
+| Total Solved | **135** |
 | Easy | 59 |
-| Medium | 64 |
+| Medium | 65 |
 | Hard | 11 |
 
 ## Difficulty Distribution
 
 🟢 Easy &nbsp; **59** (44%)  
-🟡 Medium &nbsp; **64** (48%)  
+🟡 Medium &nbsp; **65** (48%)  
 🔴 Hard &nbsp; **11** (8%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 129 |
+| C++ | 130 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [473. Matchsticks to Square](./0473-matchsticks-to-square/README.md) | Medium | C++ |
 | [467. Unique Substrings in Wraparound String](./0467-unique-substrings-in-wraparound-string/README.md) | Medium | C++ |
 | [464. Can I Win](./0464-can-i-win/README.md) | Medium | C++ |
 | [435. Non-overlapping Intervals](./0435-non-overlapping-intervals/README.md) | Medium | C++ |
 | [416. Partition Equal Subset Sum](./0416-partition-equal-subset-sum/README.md) | Medium | C++ |
-| [413. Arithmetic Slices](./0413-arithmetic-slices/README.md) | Medium | C++ |

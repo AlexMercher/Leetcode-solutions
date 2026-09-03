@@ -2,12 +2,12 @@
   "easy_count": 59,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 129,
+    "cpp": 130,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-03T17:04:44Z",
-  "medium_count": 64,
+  "last_synced": "2026-09-03T18:11:49Z",
+  "medium_count": 65,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1382,6 +1382,18 @@
       "problem_slug": "implement-rand10-using-rand7",
       "problem_title": "Implement Rand10() Using Rand7()"
     },
+    "473": {
+      "difficulty": "Medium",
+      "folder_name": "0473-matchsticks-to-square",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-03T18:11:49Z",
+      "notes": "Could not think in this was trying to make in using knapsack and making sure that we can make the total/4 and total/2 and thus increasing the learning complexity of the given question.",
+      "problem_number": 473,
+      "problem_slug": "matchsticks-to-square",
+      "problem_title": "Matchsticks to Square"
+    },
     "478": {
       "difficulty": "Medium",
       "folder_name": "0478-generate-random-point-in-a-circle",
@@ -1624,5 +1636,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 134
+  "total_solved": 135
 }
