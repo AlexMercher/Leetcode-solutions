@@ -2,12 +2,12 @@
   "easy_count": 58,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 122,
+    "cpp": 123,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-02T05:21:09Z",
-  "medium_count": 58,
+  "last_synced": "2026-09-03T11:52:13Z",
+  "medium_count": 59,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1154,6 +1154,18 @@
       "problem_slug": "construct-uniform-parity-array-i",
       "problem_title": "Construct Uniform Parity Array I"
     },
+    "3876": {
+      "difficulty": "Medium",
+      "folder_name": "3876-construct-uniform-parity-array-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-03T11:52:13Z",
+      "notes": "None commited here.",
+      "problem_number": 3876,
+      "problem_slug": "construct-uniform-parity-array-ii",
+      "problem_title": "Construct Uniform Parity Array II"
+    },
     "392": {
       "difficulty": "Easy",
       "folder_name": "0392-is-subsequence",
@@ -1540,5 +1552,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 127
+  "total_solved": 128
 }
