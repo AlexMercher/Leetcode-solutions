@@ -1,12 +1,12 @@
 {
   "easy_count": 60,
-  "hard_count": 11,
+  "hard_count": 12,
   "language_counts": {
-    "cpp": 133,
+    "cpp": 134,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-04T06:07:18Z",
+  "last_synced": "2026-09-04T06:09:41Z",
   "medium_count": 67,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1250,6 +1250,18 @@
       "problem_slug": "integer-replacement",
       "problem_title": "Integer Replacement"
     },
+    "4": {
+      "difficulty": "Hard",
+      "folder_name": "0004-median-of-two-sorted-arrays",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-04T06:09:41Z",
+      "notes": "Could not think of this needed the help of gpt for this one.",
+      "problem_number": 4,
+      "problem_slug": "median-of-two-sorted-arrays",
+      "problem_title": "Median of Two Sorted Arrays"
+    },
     "405": {
       "difficulty": "Easy",
       "folder_name": "0405-convert-a-number-to-hexadecimal",
@@ -1672,5 +1684,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 138
+  "total_solved": 139
 }
