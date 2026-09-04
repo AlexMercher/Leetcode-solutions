@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **137** |
+| Total Solved | **138** |
 | Easy | 60 |
-| Medium | 66 |
+| Medium | 67 |
 | Hard | 11 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **60** (44%)  
-🟡 Medium &nbsp; **66** (48%)  
+🟢 Easy &nbsp; **60** (43%)  
+🟡 Medium &nbsp; **67** (49%)  
 🔴 Hard &nbsp; **11** (8%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 132 |
+| C++ | 133 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [3. Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters/README.md) | Medium | C++ |
 | [3904. Smallest Stable Index II](./3904-smallest-stable-index-ii/README.md) | Medium | C++ |
 | [3903. Smallest Stable Index I](./3903-smallest-stable-index-i/README.md) | Easy | C++ |
 | [473. Matchsticks to Square](./0473-matchsticks-to-square/README.md) | Medium | C++ |
 | [467. Unique Substrings in Wraparound String](./0467-unique-substrings-in-wraparound-string/README.md) | Medium | C++ |
-| [464. Can I Win](./0464-can-i-win/README.md) | Medium | C++ |
