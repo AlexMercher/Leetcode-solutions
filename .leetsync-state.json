@@ -1,12 +1,12 @@
 {
-  "easy_count": 59,
+  "easy_count": 60,
   "hard_count": 11,
   "language_counts": {
-    "cpp": 130,
+    "cpp": 131,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-03T18:11:49Z",
+  "last_synced": "2026-09-04T05:55:13Z",
   "medium_count": 65,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1166,6 +1166,18 @@
       "problem_slug": "construct-uniform-parity-array-ii",
       "problem_title": "Construct Uniform Parity Array II"
     },
+    "3903": {
+      "difficulty": "Easy",
+      "folder_name": "3903-smallest-stable-index-i",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-04T05:55:13Z",
+      "notes": "No personal notes.",
+      "problem_number": 3903,
+      "problem_slug": "smallest-stable-index-i",
+      "problem_title": "Smallest Stable Index I"
+    },
     "392": {
       "difficulty": "Easy",
       "folder_name": "0392-is-subsequence",
@@ -1636,5 +1648,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 135
+  "total_solved": 136
 }
