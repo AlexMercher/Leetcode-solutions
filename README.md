@@ -6,14 +6,14 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **139** |
-| Easy | 60 |
+| Total Solved | **140** |
+| Easy | 61 |
 | Medium | 67 |
 | Hard | 12 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **60** (43%)  
+🟢 Easy &nbsp; **61** (44%)  
 🟡 Medium &nbsp; **67** (48%)  
 🔴 Hard &nbsp; **12** (9%)
 
@@ -21,7 +21,7 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 134 |
+| C++ | 135 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [9. Palindrome Number](./0009-palindrome-number/README.md) | Easy | C++ |
 | [4. Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays/README.md) | Hard | C++ |
 | [3. Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters/README.md) | Medium | C++ |
 | [3904. Smallest Stable Index II](./3904-smallest-stable-index-ii/README.md) | Medium | C++ |
 | [3903. Smallest Stable Index I](./3903-smallest-stable-index-i/README.md) | Easy | C++ |
-| [473. Matchsticks to Square](./0473-matchsticks-to-square/README.md) | Medium | C++ |

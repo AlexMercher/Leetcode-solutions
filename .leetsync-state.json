@@ -1,12 +1,12 @@
 {
-  "easy_count": 60,
+  "easy_count": 61,
   "hard_count": 12,
   "language_counts": {
-    "cpp": 134,
+    "cpp": 135,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-04T06:09:41Z",
+  "last_synced": "2026-09-04T06:10:59Z",
   "medium_count": 67,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1622,6 +1622,18 @@
       "problem_slug": "string-to-integer-atoi",
       "problem_title": "String to Integer (atoi)"
     },
+    "9": {
+      "difficulty": "Easy",
+      "folder_name": "0009-palindrome-number",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-04T06:10:59Z",
+      "notes": "None, fairly easy.",
+      "problem_number": 9,
+      "problem_slug": "palindrome-number",
+      "problem_title": "Palindrome Number"
+    },
     "905": {
       "difficulty": "Easy",
       "folder_name": "0905-sort-array-by-parity",
@@ -1684,5 +1696,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 139
+  "total_solved": 140
 }
