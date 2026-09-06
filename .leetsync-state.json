@@ -1,12 +1,12 @@
 {
   "easy_count": 61,
-  "hard_count": 12,
+  "hard_count": 13,
   "language_counts": {
-    "cpp": 135,
+    "cpp": 136,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-04T06:10:59Z",
+  "last_synced": "2026-09-06T05:56:11Z",
   "medium_count": 67,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -71,6 +71,18 @@
       "problem_number": 1140,
       "problem_slug": "stone-game-ii",
       "problem_title": "Stone Game II"
+    },
+    "115": {
+      "difficulty": "Hard",
+      "folder_name": "0115-distinct-subsequences",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-06T05:56:11Z",
+      "notes": "Was not rounding it off to the intmax when it used to cross the value of int max and hence i was getting the errors.\n\nLine 12: Char 57: runtime error: signed integer overflow: 1474397256 + 891953512 cannot be represented in type 'value_type' (aka 'int') (solution.cpp) SUMMARY: UndefinedBehaviorSanitizer: undefined-behavior prog_joined.cpp:21:57",
+      "problem_number": 115,
+      "problem_slug": "distinct-subsequences",
+      "problem_title": "Distinct Subsequences"
     },
     "118": {
       "difficulty": "Easy",
@@ -1696,5 +1708,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 140
+  "total_solved": 141
 }
