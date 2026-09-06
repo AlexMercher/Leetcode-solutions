@@ -6,14 +6,14 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **146** |
-| Easy | 64 |
+| Total Solved | **147** |
+| Easy | 65 |
 | Medium | 69 |
 | Hard | 13 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **64** (44%)  
+🟢 Easy &nbsp; **65** (44%)  
 🟡 Medium &nbsp; **69** (47%)  
 🔴 Hard &nbsp; **13** (9%)
 
@@ -21,7 +21,7 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 141 |
+| C++ | 142 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [342. Power of Four](./0342-power-of-four/README.md) | Easy | C++ |
 | [231. Power of Two](./0231-power-of-two/README.md) | Easy | C++ |
 | [191. Number of 1 Bits](./0191-number-of-1-bits/README.md) | Easy | C++ |
 | [190. Reverse Bits](./0190-reverse-bits/README.md) | Easy | C++ |
 | [494. Target Sum](./0494-target-sum/README.md) | Medium | C++ |
-| [474. Ones and Zeroes](./0474-ones-and-zeroes/README.md) | Medium | C++ |

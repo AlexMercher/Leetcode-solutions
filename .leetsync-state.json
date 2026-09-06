@@ -1,12 +1,12 @@
 {
-  "easy_count": 64,
+  "easy_count": 65,
   "hard_count": 13,
   "language_counts": {
-    "cpp": 141,
+    "cpp": 142,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-06T06:43:41Z",
+  "last_synced": "2026-09-06T06:50:10Z",
   "medium_count": 69,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -998,6 +998,18 @@
       "problem_slug": "find-first-and-last-position-of-element-in-sorted-array",
       "problem_title": "Find First and Last Position of Element in Sorted Array"
     },
+    "342": {
+      "difficulty": "Easy",
+      "folder_name": "0342-power-of-four",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-06T06:50:10Z",
+      "notes": "Could not think of the ox55555555 as i am not a machine had to lookup the efficient version of the code as it is not humanly possible to think in the terms of hexadecimals.",
+      "problem_number": 342,
+      "problem_slug": "power-of-four",
+      "problem_title": "Power of Four"
+    },
     "343": {
       "difficulty": "Medium",
       "folder_name": "0343-integer-break",
@@ -1768,5 +1780,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 146
+  "total_solved": 147
 }
