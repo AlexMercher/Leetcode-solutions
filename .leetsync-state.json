@@ -2,12 +2,12 @@
   "easy_count": 61,
   "hard_count": 13,
   "language_counts": {
-    "cpp": 136,
+    "cpp": 137,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-06T05:56:11Z",
-  "medium_count": 67,
+  "last_synced": "2026-09-06T06:08:37Z",
+  "medium_count": 68,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1454,6 +1454,18 @@
       "problem_slug": "matchsticks-to-square",
       "problem_title": "Matchsticks to Square"
     },
+    "474": {
+      "difficulty": "Medium",
+      "folder_name": "0474-ones-and-zeroes",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-06T06:08:37Z",
+      "notes": "None.",
+      "problem_number": 474,
+      "problem_slug": "ones-and-zeroes",
+      "problem_title": "Ones and Zeroes"
+    },
     "478": {
       "difficulty": "Medium",
       "folder_name": "0478-generate-random-point-in-a-circle",
@@ -1708,5 +1720,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 141
+  "total_solved": 142
 }
