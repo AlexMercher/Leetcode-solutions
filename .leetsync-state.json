@@ -1,12 +1,12 @@
 {
-  "easy_count": 65,
+  "easy_count": 66,
   "hard_count": 13,
   "language_counts": {
-    "cpp": 142,
+    "cpp": 143,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-06T06:50:10Z",
+  "last_synced": "2026-09-06T06:54:21Z",
   "medium_count": 69,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1238,6 +1238,18 @@
       "problem_slug": "construct-uniform-parity-array-ii",
       "problem_title": "Construct Uniform Parity Array II"
     },
+    "389": {
+      "difficulty": "Easy",
+      "folder_name": "0389-find-the-difference",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-06T06:54:21Z",
+      "notes": "did not knew that we could directly xor a char.",
+      "problem_number": 389,
+      "problem_slug": "find-the-difference",
+      "problem_title": "Find the Difference"
+    },
     "3903": {
       "difficulty": "Easy",
       "folder_name": "3903-smallest-stable-index-i",
@@ -1780,5 +1792,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 147
+  "total_solved": 148
 }
