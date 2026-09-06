@@ -1,12 +1,12 @@
 {
-  "easy_count": 63,
+  "easy_count": 64,
   "hard_count": 13,
   "language_counts": {
-    "cpp": 140,
+    "cpp": 141,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-06T06:40:06Z",
+  "last_synced": "2026-09-06T06:43:41Z",
   "medium_count": 69,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -539,6 +539,18 @@
       "problem_number": 2213,
       "problem_slug": "longest-substring-of-one-repeating-character",
       "problem_title": "Longest Substring of One Repeating Character"
+    },
+    "231": {
+      "difficulty": "Easy",
+      "folder_name": "0231-power-of-two",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-06T06:43:41Z",
+      "notes": "No mistakes commited.",
+      "problem_number": 231,
+      "problem_slug": "power-of-two",
+      "problem_title": "Power of Two"
     },
     "241": {
       "difficulty": "Medium",
@@ -1756,5 +1768,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 145
+  "total_solved": 146
 }
