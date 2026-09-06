@@ -1,12 +1,12 @@
 {
-  "easy_count": 61,
+  "easy_count": 62,
   "hard_count": 13,
   "language_counts": {
-    "cpp": 138,
+    "cpp": 139,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-06T06:21:05Z",
+  "last_synced": "2026-09-06T06:35:49Z",
   "medium_count": 69,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -359,6 +359,18 @@
       "problem_number": 1872,
       "problem_slug": "stone-game-viii",
       "problem_title": "Stone Game VIII"
+    },
+    "190": {
+      "difficulty": "Easy",
+      "folder_name": "0190-reverse-bits",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-06T06:35:49Z",
+      "notes": "was not assigning the value of n>>1 back to n and hence i was getting wrong answers.",
+      "problem_number": 190,
+      "problem_slug": "reverse-bits",
+      "problem_title": "Reverse Bits"
     },
     "1927": {
       "difficulty": "Medium",
@@ -1732,5 +1744,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 143
+  "total_solved": 144
 }
