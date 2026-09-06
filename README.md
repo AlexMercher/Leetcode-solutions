@@ -6,14 +6,14 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **144** |
-| Easy | 62 |
+| Total Solved | **145** |
+| Easy | 63 |
 | Medium | 69 |
 | Hard | 13 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **62** (43%)  
+🟢 Easy &nbsp; **63** (43%)  
 🟡 Medium &nbsp; **69** (48%)  
 🔴 Hard &nbsp; **13** (9%)
 
@@ -21,7 +21,7 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 139 |
+| C++ | 140 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [191. Number of 1 Bits](./0191-number-of-1-bits/README.md) | Easy | C++ |
 | [190. Reverse Bits](./0190-reverse-bits/README.md) | Easy | C++ |
 | [494. Target Sum](./0494-target-sum/README.md) | Medium | C++ |
 | [474. Ones and Zeroes](./0474-ones-and-zeroes/README.md) | Medium | C++ |
 | [115. Distinct Subsequences](./0115-distinct-subsequences/README.md) | Hard | C++ |
-| [9. Palindrome Number](./0009-palindrome-number/README.md) | Easy | C++ |

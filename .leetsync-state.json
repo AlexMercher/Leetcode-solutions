@@ -1,12 +1,12 @@
 {
-  "easy_count": 62,
+  "easy_count": 63,
   "hard_count": 13,
   "language_counts": {
-    "cpp": 139,
+    "cpp": 140,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-06T06:35:49Z",
+  "last_synced": "2026-09-06T06:40:06Z",
   "medium_count": 69,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -371,6 +371,18 @@
       "problem_number": 190,
       "problem_slug": "reverse-bits",
       "problem_title": "Reverse Bits"
+    },
+    "191": {
+      "difficulty": "Easy",
+      "folder_name": "0191-number-of-1-bits",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-06T06:40:06Z",
+      "notes": "No mistakes commited.",
+      "problem_number": 191,
+      "problem_slug": "number-of-1-bits",
+      "problem_title": "Number of 1 Bits"
     },
     "1927": {
       "difficulty": "Medium",
@@ -1744,5 +1756,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 144
+  "total_solved": 145
 }
