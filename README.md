@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **142** |
+| Total Solved | **143** |
 | Easy | 61 |
-| Medium | 68 |
+| Medium | 69 |
 | Hard | 13 |
 
 ## Difficulty Distribution
 
 🟢 Easy &nbsp; **61** (43%)  
-🟡 Medium &nbsp; **68** (48%)  
+🟡 Medium &nbsp; **69** (48%)  
 🔴 Hard &nbsp; **13** (9%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 137 |
+| C++ | 138 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [494. Target Sum](./0494-target-sum/README.md) | Medium | C++ |
 | [474. Ones and Zeroes](./0474-ones-and-zeroes/README.md) | Medium | C++ |
 | [115. Distinct Subsequences](./0115-distinct-subsequences/README.md) | Hard | C++ |
 | [9. Palindrome Number](./0009-palindrome-number/README.md) | Easy | C++ |
 | [4. Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays/README.md) | Hard | C++ |
-| [3. Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters/README.md) | Medium | C++ |
