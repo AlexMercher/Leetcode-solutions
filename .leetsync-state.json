@@ -1,12 +1,12 @@
 {
-  "easy_count": 66,
+  "easy_count": 67,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 144,
+    "cpp": 145,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-07T15:59:57Z",
+  "last_synced": "2026-09-07T16:39:42Z",
   "medium_count": 69,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1334,6 +1334,18 @@
       "problem_slug": "median-of-two-sorted-arrays",
       "problem_title": "Median of Two Sorted Arrays"
     },
+    "401": {
+      "difficulty": "Easy",
+      "folder_name": "0401-binary-watch",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-07T16:39:42Z",
+      "notes": "The appending process was sequential and had to ensure that fact that hour<12 and minutes is less than 60 as it was giving invalid results for minutes <=60;\n\nTC: O(60*12) =>O(1);\n",
+      "problem_number": 401,
+      "problem_slug": "binary-watch",
+      "problem_title": "Binary Watch"
+    },
     "405": {
       "difficulty": "Easy",
       "folder_name": "0405-convert-a-number-to-hexadecimal",
@@ -1804,5 +1816,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 149
+  "total_solved": 150
 }
