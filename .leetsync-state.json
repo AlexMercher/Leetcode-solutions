@@ -1,12 +1,12 @@
 {
-  "easy_count": 68,
+  "easy_count": 69,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 146,
+    "cpp": 147,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-07T16:46:21Z",
+  "last_synced": "2026-09-07T17:06:32Z",
   "medium_count": 69,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1466,6 +1466,18 @@
       "problem_slug": "jump-game-ii",
       "problem_title": "Jump Game II"
     },
+    "455": {
+      "difficulty": "Easy",
+      "folder_name": "0455-assign-cookies",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-07T17:06:32Z",
+      "notes": "No mistakes commited.",
+      "problem_number": 455,
+      "problem_slug": "assign-cookies",
+      "problem_title": "Assign Cookies"
+    },
     "459": {
       "difficulty": "Easy",
       "folder_name": "0459-repeated-substring-pattern",
@@ -1828,5 +1840,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 151
+  "total_solved": 152
 }
