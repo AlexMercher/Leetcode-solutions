@@ -2,12 +2,12 @@
   "easy_count": 69,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 147,
+    "cpp": 148,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-07T17:06:32Z",
-  "medium_count": 69,
+  "last_synced": "2026-09-07T17:24:22Z",
+  "medium_count": 70,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -455,6 +455,18 @@
       "problem_number": 2029,
       "problem_slug": "stone-game-ix",
       "problem_title": "Stone Game IX"
+    },
+    "204": {
+      "difficulty": "Medium",
+      "folder_name": "0204-count-primes",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-07T17:24:22Z",
+      "notes": "It was too much of Time complexity constraints was frequently hitting the tle.\n",
+      "problem_number": 204,
+      "problem_slug": "count-primes",
+      "problem_title": "Count Primes"
     },
     "205": {
       "difficulty": "Easy",
@@ -1840,5 +1852,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 152
+  "total_solved": 153
 }
