@@ -1,12 +1,12 @@
 {
   "easy_count": 66,
-  "hard_count": 13,
+  "hard_count": 14,
   "language_counts": {
-    "cpp": 143,
+    "cpp": 144,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-06T06:54:21Z",
+  "last_synced": "2026-09-07T15:59:57Z",
   "medium_count": 69,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1754,6 +1754,18 @@
       "problem_slug": "decode-ways",
       "problem_title": "Decode Ways"
     },
+    "940": {
+      "difficulty": "Hard",
+      "folder_name": "0940-distinct-subsequences-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-07T15:59:57Z",
+      "notes": "😭😭😭😭😭😭",
+      "problem_number": 940,
+      "problem_slug": "distinct-subsequences-ii",
+      "problem_title": "Distinct Subsequences II"
+    },
     "95": {
       "difficulty": "Medium",
       "folder_name": "0095-unique-binary-search-trees-ii",
@@ -1792,5 +1804,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 148
+  "total_solved": 149
 }

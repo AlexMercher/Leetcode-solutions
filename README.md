@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **148** |
+| Total Solved | **149** |
 | Easy | 66 |
 | Medium | 69 |
-| Hard | 13 |
+| Hard | 14 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **66** (45%)  
-🟡 Medium &nbsp; **69** (47%)  
-🔴 Hard &nbsp; **13** (9%)
+🟢 Easy &nbsp; **66** (44%)  
+🟡 Medium &nbsp; **69** (46%)  
+🔴 Hard &nbsp; **14** (9%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 143 |
+| C++ | 144 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [940. Distinct Subsequences II](./0940-distinct-subsequences-ii/README.md) | Hard | C++ |
 | [389. Find the Difference](./0389-find-the-difference/README.md) | Easy | C++ |
 | [342. Power of Four](./0342-power-of-four/README.md) | Easy | C++ |
 | [231. Power of Two](./0231-power-of-two/README.md) | Easy | C++ |
 | [191. Number of 1 Bits](./0191-number-of-1-bits/README.md) | Easy | C++ |
-| [190. Reverse Bits](./0190-reverse-bits/README.md) | Easy | C++ |
