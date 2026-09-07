@@ -1,12 +1,12 @@
 {
-  "easy_count": 67,
+  "easy_count": 68,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 145,
+    "cpp": 146,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-07T16:39:42Z",
+  "last_synced": "2026-09-07T16:46:21Z",
   "medium_count": 69,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1478,6 +1478,18 @@
       "problem_slug": "repeated-substring-pattern",
       "problem_title": "Repeated Substring Pattern"
     },
+    "461": {
+      "difficulty": "Easy",
+      "folder_name": "0461-hamming-distance",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-07T16:46:21Z",
+      "notes": "NO mistakes were made here.",
+      "problem_number": 461,
+      "problem_slug": "hamming-distance",
+      "problem_title": "Hamming Distance"
+    },
     "464": {
       "difficulty": "Medium",
       "folder_name": "0464-can-i-win",
@@ -1816,5 +1828,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 150
+  "total_solved": 151
 }
