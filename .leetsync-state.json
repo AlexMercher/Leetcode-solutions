@@ -1,12 +1,12 @@
 {
-  "easy_count": 74,
+  "easy_count": 75,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 153,
+    "cpp": 154,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-08T08:03:35Z",
+  "last_synced": "2026-09-08T10:46:24Z",
   "medium_count": 70,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1814,6 +1814,18 @@
       "problem_slug": "min-cost-climbing-stairs",
       "problem_title": "Min Cost Climbing Stairs"
     },
+    "762": {
+      "difficulty": "Easy",
+      "folder_name": "0762-prime-number-of-set-bits-in-binary-representation",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-08T10:46:24Z",
+      "notes": "None commited.",
+      "problem_number": 762,
+      "problem_slug": "prime-number-of-set-bits-in-binary-representation",
+      "problem_title": "Prime Number of Set Bits in Binary Representation"
+    },
     "8": {
       "difficulty": "Medium",
       "folder_name": "0008-string-to-integer-atoi",
@@ -1912,5 +1924,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 158
+  "total_solved": 159
 }
