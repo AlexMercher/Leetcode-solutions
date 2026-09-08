@@ -1,12 +1,12 @@
 {
-  "easy_count": 77,
+  "easy_count": 78,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 156,
+    "cpp": 157,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-08T11:04:27Z",
+  "last_synced": "2026-09-08T12:23:20Z",
   "medium_count": 70,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1766,6 +1766,18 @@
       "problem_slug": "set-mismatch",
       "problem_title": "Set Mismatch"
     },
+    "680": {
+      "difficulty": "Easy",
+      "folder_name": "0680-valid-palindrome-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-08T12:23:20Z",
+      "notes": "",
+      "problem_number": 680,
+      "problem_slug": "valid-palindrome-ii",
+      "problem_title": "Valid Palindrome II"
+    },
     "693": {
       "difficulty": "Easy",
       "folder_name": "0693-binary-number-with-alternating-bits",
@@ -1948,5 +1960,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 161
+  "total_solved": 162
 }
