@@ -6,14 +6,14 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **154** |
-| Easy | 70 |
+| Total Solved | **155** |
+| Easy | 71 |
 | Medium | 70 |
 | Hard | 14 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **70** (45%)  
+🟢 Easy &nbsp; **71** (46%)  
 🟡 Medium &nbsp; **70** (45%)  
 🔴 Hard &nbsp; **14** (9%)
 
@@ -21,7 +21,7 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 149 |
+| C++ | 150 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [476. Number Complement](./0476-number-complement/README.md) | Easy | C++ |
 | [3870. Count Commas in Range](./3870-count-commas-in-range/README.md) | Easy | C++ |
 | [204. Count Primes](./0204-count-primes/README.md) | Medium | C++ |
 | [455. Assign Cookies](./0455-assign-cookies/README.md) | Easy | C++ |
 | [461. Hamming Distance](./0461-hamming-distance/README.md) | Easy | C++ |
-| [401. Binary Watch](./0401-binary-watch/README.md) | Easy | C++ |

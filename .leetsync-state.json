@@ -1,12 +1,12 @@
 {
-  "easy_count": 70,
+  "easy_count": 71,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 149,
+    "cpp": 150,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-08T07:17:53Z",
+  "last_synced": "2026-09-08T07:30:14Z",
   "medium_count": 70,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1586,6 +1586,18 @@
       "problem_slug": "ones-and-zeroes",
       "problem_title": "Ones and Zeroes"
     },
+    "476": {
+      "difficulty": "Easy",
+      "folder_name": "0476-number-complement",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-08T07:30:14Z",
+      "notes": "",
+      "problem_number": 476,
+      "problem_slug": "number-complement",
+      "problem_title": "Number Complement"
+    },
     "478": {
       "difficulty": "Medium",
       "folder_name": "0478-generate-random-point-in-a-circle",
@@ -1864,5 +1876,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 154
+  "total_solved": 155
 }
