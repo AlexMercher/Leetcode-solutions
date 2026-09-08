@@ -1,12 +1,12 @@
 {
-  "easy_count": 72,
+  "easy_count": 73,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 151,
+    "cpp": 152,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-08T07:45:40Z",
+  "last_synced": "2026-09-08T07:51:38Z",
   "medium_count": 70,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1682,6 +1682,18 @@
       "problem_slug": "jump-game",
       "problem_title": "Jump Game"
     },
+    "561": {
+      "difficulty": "Easy",
+      "folder_name": "0561-array-partition",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-08T07:51:38Z",
+      "notes": "No mistakes commited here.",
+      "problem_number": 561,
+      "problem_slug": "array-partition",
+      "problem_title": "Array Partition"
+    },
     "605": {
       "difficulty": "Easy",
       "folder_name": "0605-can-place-flowers",
@@ -1888,5 +1900,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 156
+  "total_solved": 157
 }
