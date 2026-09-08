@@ -1,12 +1,12 @@
 {
-  "easy_count": 75,
+  "easy_count": 76,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 154,
+    "cpp": 155,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-08T10:46:24Z",
+  "last_synced": "2026-09-08T10:53:31Z",
   "medium_count": 70,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1838,6 +1838,18 @@
       "problem_slug": "string-to-integer-atoi",
       "problem_title": "String to Integer (atoi)"
     },
+    "832": {
+      "difficulty": "Easy",
+      "folder_name": "0832-flipping-an-image",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-08T10:53:31Z",
+      "notes": "no comments.",
+      "problem_number": 832,
+      "problem_slug": "flipping-an-image",
+      "problem_title": "Flipping an Image"
+    },
     "9": {
       "difficulty": "Easy",
       "folder_name": "0009-palindrome-number",
@@ -1924,5 +1936,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 159
+  "total_solved": 160
 }
