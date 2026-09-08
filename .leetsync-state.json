@@ -1,12 +1,12 @@
 {
-  "easy_count": 76,
+  "easy_count": 77,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 155,
+    "cpp": 156,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-08T10:53:31Z",
+  "last_synced": "2026-09-08T11:04:27Z",
   "medium_count": 70,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1850,6 +1850,18 @@
       "problem_slug": "flipping-an-image",
       "problem_title": "Flipping an Image"
     },
+    "868": {
+      "difficulty": "Easy",
+      "folder_name": "0868-binary-gap",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-08T11:04:27Z",
+      "notes": "",
+      "problem_number": 868,
+      "problem_slug": "binary-gap",
+      "problem_title": "Binary Gap"
+    },
     "9": {
       "difficulty": "Easy",
       "folder_name": "0009-palindrome-number",
@@ -1936,5 +1948,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 160
+  "total_solved": 161
 }
