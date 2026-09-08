@@ -1,12 +1,12 @@
 {
-  "easy_count": 71,
+  "easy_count": 72,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 150,
+    "cpp": 151,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-08T07:30:14Z",
+  "last_synced": "2026-09-08T07:45:40Z",
   "medium_count": 70,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1742,6 +1742,18 @@
       "problem_slug": "minimum-path-sum",
       "problem_title": "Minimum Path Sum"
     },
+    "645": {
+      "difficulty": "Easy",
+      "folder_name": "0645-set-mismatch",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-08T07:45:40Z",
+      "notes": "",
+      "problem_number": 645,
+      "problem_slug": "set-mismatch",
+      "problem_title": "Set Mismatch"
+    },
     "7": {
       "difficulty": "Medium",
       "folder_name": "0007-reverse-integer",
@@ -1876,5 +1888,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 155
+  "total_solved": 156
 }
