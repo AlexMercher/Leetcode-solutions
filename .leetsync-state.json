@@ -1,12 +1,12 @@
 {
-  "easy_count": 78,
+  "easy_count": 79,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 157,
+    "cpp": 158,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-08T12:23:20Z",
+  "last_synced": "2026-09-08T12:28:08Z",
   "medium_count": 70,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -35,6 +35,18 @@
       "problem_number": 10,
       "problem_slug": "regular-expression-matching",
       "problem_title": "Regular Expression Matching"
+    },
+    "1009": {
+      "difficulty": "Easy",
+      "folder_name": "1009-complement-of-base-10-integer",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-08T12:28:08Z",
+      "notes": "No mistakes commited for got to get the base case only.",
+      "problem_number": 1009,
+      "problem_slug": "complement-of-base-10-integer",
+      "problem_title": "Complement of Base 10 Integer"
     },
     "1025": {
       "difficulty": "Easy",
@@ -1960,5 +1972,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 162
+  "total_solved": 163
 }
