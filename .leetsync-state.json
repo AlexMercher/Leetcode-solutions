@@ -1,12 +1,12 @@
 {
-  "easy_count": 79,
+  "easy_count": 80,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 159,
+    "cpp": 160,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-09T10:10:19Z",
+  "last_synced": "2026-09-09T10:16:11Z",
   "medium_count": 71,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -925,6 +925,18 @@
       "problem_number": 3116,
       "problem_slug": "kth-smallest-amount-with-single-denomination-combination",
       "problem_title": "Kth Smallest Amount With Single Denomination Combination"
+    },
+    "3120": {
+      "difficulty": "Easy",
+      "folder_name": "3120-count-the-number-of-special-characters-i",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-09T10:16:11Z",
+      "notes": "",
+      "problem_number": 3120,
+      "problem_slug": "count-the-number-of-special-characters-i",
+      "problem_title": "Count the Number of Special Characters I"
     },
     "313": {
       "difficulty": "Medium",
@@ -1984,5 +1996,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 164
+  "total_solved": 165
 }

@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **164** |
-| Easy | 79 |
+| Total Solved | **165** |
+| Easy | 80 |
 | Medium | 71 |
 | Hard | 14 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **79** (48%)  
+🟢 Easy &nbsp; **80** (48%)  
 🟡 Medium &nbsp; **71** (43%)  
-🔴 Hard &nbsp; **14** (9%)
+🔴 Hard &nbsp; **14** (8%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 159 |
+| C++ | 160 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [3120. Count the Number of Special Characters I](./3120-count-the-number-of-special-characters-i/README.md) | Easy | C++ |
 | [3871. Count Commas in Range II](./3871-count-commas-in-range-ii/README.md) | Medium | C++ |
 | [1009. Complement of Base 10 Integer](./1009-complement-of-base-10-integer/README.md) | Easy | C++ |
 | [680. Valid Palindrome II](./0680-valid-palindrome-ii/README.md) | Easy | C++ |
 | [868. Binary Gap](./0868-binary-gap/README.md) | Easy | C++ |
-| [832. Flipping an Image](./0832-flipping-an-image/README.md) | Easy | C++ |
