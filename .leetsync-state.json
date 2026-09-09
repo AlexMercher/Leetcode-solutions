@@ -1,12 +1,12 @@
 {
-  "easy_count": 80,
+  "easy_count": 81,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 160,
+    "cpp": 161,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-09T10:16:11Z",
+  "last_synced": "2026-09-09T11:37:34Z",
   "medium_count": 71,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -623,6 +623,18 @@
       "problem_number": 2423,
       "problem_slug": "remove-letter-to-equalize-frequency",
       "problem_title": "Remove Letter To Equalize Frequency"
+    },
+    "2540": {
+      "difficulty": "Easy",
+      "folder_name": "2540-minimum-common-value",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-09T11:37:34Z",
+      "notes": "No mistakes commited.",
+      "problem_number": 2540,
+      "problem_slug": "minimum-common-value",
+      "problem_title": "Minimum Common Value"
     },
     "2553": {
       "difficulty": "Easy",
@@ -1996,5 +2008,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 165
+  "total_solved": 166
 }
