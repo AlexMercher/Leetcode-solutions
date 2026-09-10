@@ -1,12 +1,12 @@
 {
-  "easy_count": 85,
+  "easy_count": 86,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 166,
+    "cpp": 167,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-10T07:30:02Z",
+  "last_synced": "2026-09-10T07:42:10Z",
   "medium_count": 72,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -227,6 +227,18 @@
       "problem_number": 1342,
       "problem_slug": "number-of-steps-to-reduce-a-number-to-zero",
       "problem_title": "Number of Steps to Reduce a Number to Zero"
+    },
+    "1356": {
+      "difficulty": "Easy",
+      "folder_name": "1356-sort-integers-by-the-number-of-1-bits",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-10T07:42:10Z",
+      "notes": "Did not knew how to write the custom comparator and thus needed help.\nnow i know write a.begin(),a.end(), [](int a,int b){\n//funciton definition of the comparator\n});",
+      "problem_number": 1356,
+      "problem_slug": "sort-integers-by-the-number-of-1-bits",
+      "problem_title": "Sort Integers by The Number of 1 Bits"
     },
     "1386": {
       "difficulty": "Medium",
@@ -2068,5 +2080,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 171
+  "total_solved": 172
 }
