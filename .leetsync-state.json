@@ -1,12 +1,12 @@
 {
-  "easy_count": 90,
+  "easy_count": 91,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 171,
+    "cpp": 172,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-10T10:12:59Z",
+  "last_synced": "2026-09-10T10:15:44Z",
   "medium_count": 72,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2042,6 +2042,18 @@
       "problem_slug": "binary-gap",
       "problem_title": "Binary Gap"
     },
+    "876": {
+      "difficulty": "Easy",
+      "folder_name": "0876-middle-of-the-linked-list",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-10T10:15:44Z",
+      "notes": "Nothing.",
+      "problem_number": 876,
+      "problem_slug": "middle-of-the-linked-list",
+      "problem_title": "Middle of the Linked List"
+    },
     "9": {
       "difficulty": "Easy",
       "folder_name": "0009-palindrome-number",
@@ -2128,5 +2140,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 176
+  "total_solved": 177
 }
