@@ -2,12 +2,12 @@
   "easy_count": 81,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 161,
+    "cpp": 162,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-09T11:37:34Z",
-  "medium_count": 71,
+  "last_synced": "2026-09-10T06:53:54Z",
+  "medium_count": 72,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -563,6 +563,18 @@
       "problem_number": 2213,
       "problem_slug": "longest-substring-of-one-repeating-character",
       "problem_title": "Longest Substring of One Repeating Character"
+    },
+    "2265": {
+      "difficulty": "Medium",
+      "folder_name": "2265-count-nodes-equal-to-average-of-subtree",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-10T06:53:54Z",
+      "notes": "No mistakes.",
+      "problem_number": 2265,
+      "problem_slug": "count-nodes-equal-to-average-of-subtree",
+      "problem_title": "Count Nodes Equal to Average of Subtree"
     },
     "231": {
       "difficulty": "Easy",
@@ -2008,5 +2020,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 166
+  "total_solved": 167
 }

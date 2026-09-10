@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **166** |
+| Total Solved | **167** |
 | Easy | 81 |
-| Medium | 71 |
+| Medium | 72 |
 | Hard | 14 |
 
 ## Difficulty Distribution
 
 🟢 Easy &nbsp; **81** (49%)  
-🟡 Medium &nbsp; **71** (43%)  
+🟡 Medium &nbsp; **72** (43%)  
 🔴 Hard &nbsp; **14** (8%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 161 |
+| C++ | 162 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [2265. Count Nodes Equal to Average of Subtree](./2265-count-nodes-equal-to-average-of-subtree/README.md) | Medium | C++ |
 | [2540. Minimum Common Value](./2540-minimum-common-value/README.md) | Easy | C++ |
 | [3120. Count the Number of Special Characters I](./3120-count-the-number-of-special-characters-i/README.md) | Easy | C++ |
 | [3871. Count Commas in Range II](./3871-count-commas-in-range-ii/README.md) | Medium | C++ |
 | [1009. Complement of Base 10 Integer](./1009-complement-of-base-10-integer/README.md) | Easy | C++ |
-| [680. Valid Palindrome II](./0680-valid-palindrome-ii/README.md) | Easy | C++ |
