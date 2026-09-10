@@ -1,12 +1,12 @@
 {
-  "easy_count": 87,
+  "easy_count": 88,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 168,
+    "cpp": 169,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-10T07:45:15Z",
+  "last_synced": "2026-09-10T07:52:51Z",
   "medium_count": 72,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1994,6 +1994,18 @@
       "problem_slug": "flipping-an-image",
       "problem_title": "Flipping an Image"
     },
+    "860": {
+      "difficulty": "Easy",
+      "folder_name": "0860-lemonade-change",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-10T07:52:51Z",
+      "notes": "",
+      "problem_number": 860,
+      "problem_slug": "lemonade-change",
+      "problem_title": "Lemonade Change"
+    },
     "868": {
       "difficulty": "Easy",
       "folder_name": "0868-binary-gap",
@@ -2092,5 +2104,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 173
+  "total_solved": 174
 }
