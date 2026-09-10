@@ -1,12 +1,12 @@
 {
-  "easy_count": 81,
+  "easy_count": 82,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 162,
+    "cpp": 163,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-10T06:53:54Z",
+  "last_synced": "2026-09-10T07:01:42Z",
   "medium_count": 72,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -311,6 +311,18 @@
       "problem_number": 1563,
       "problem_slug": "stone-game-v",
       "problem_title": "Stone Game V"
+    },
+    "160": {
+      "difficulty": "Easy",
+      "folder_name": "0160-intersection-of-two-linked-lists",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-10T07:01:42Z",
+      "notes": "This was a bit tricky to think on the go and thus did not get selected in the interview, another day another rejection 🥲🥲",
+      "problem_number": 160,
+      "problem_slug": "intersection-of-two-linked-lists",
+      "problem_title": "Intersection of Two Linked Lists"
     },
     "1668": {
       "difficulty": "Easy",
@@ -2020,5 +2032,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 167
+  "total_solved": 168
 }
