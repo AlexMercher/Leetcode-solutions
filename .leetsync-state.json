@@ -1,12 +1,12 @@
 {
-  "easy_count": 83,
+  "easy_count": 84,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 164,
+    "cpp": 165,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-10T07:13:54Z",
+  "last_synced": "2026-09-10T07:24:52Z",
   "medium_count": 72,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -47,6 +47,18 @@
       "problem_number": 1009,
       "problem_slug": "complement-of-base-10-integer",
       "problem_title": "Complement of Base 10 Integer"
+    },
+    "1018": {
+      "difficulty": "Easy",
+      "folder_name": "1018-binary-prefix-divisible-by-5",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-10T07:24:52Z",
+      "notes": "### Mistakes\n\nOnce the prefix becomes longer than 32 bits, int ans overflows, and after that:\n\nans % 5\n\nis no longer the remainder of the actual binary number.\n\nThat's why your first wrong result starts appearing around the later bits in the testcase.\n\nFix it by keeping only the remainder\n\nIf the current prefix represents number N, and we append bit x:\n\nnew number = N * 2 + x\n\nTherefore modulo 5:\n\nnew remainder = (old remainder * 2 + x) % 5",
+      "problem_number": 1018,
+      "problem_slug": "binary-prefix-divisible-by-5",
+      "problem_title": "Binary Prefix Divisible By 5"
     },
     "1025": {
       "difficulty": "Easy",
@@ -2044,5 +2056,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 169
+  "total_solved": 170
 }
