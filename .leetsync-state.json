@@ -1,12 +1,12 @@
 {
-  "easy_count": 82,
+  "easy_count": 83,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 163,
+    "cpp": 164,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-10T07:01:42Z",
+  "last_synced": "2026-09-10T07:13:54Z",
   "medium_count": 72,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -479,6 +479,18 @@
       "problem_number": 2029,
       "problem_slug": "stone-game-ix",
       "problem_title": "Stone Game IX"
+    },
+    "203": {
+      "difficulty": "Easy",
+      "folder_name": "0203-remove-linked-list-elements",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-10T07:13:54Z",
+      "notes": "Edge cases were missing.",
+      "problem_number": 203,
+      "problem_slug": "remove-linked-list-elements",
+      "problem_title": "Remove Linked List Elements"
     },
     "204": {
       "difficulty": "Medium",
@@ -2032,5 +2044,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 168
+  "total_solved": 169
 }

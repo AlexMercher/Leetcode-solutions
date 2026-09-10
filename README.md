@@ -6,14 +6,14 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **168** |
-| Easy | 82 |
+| Total Solved | **169** |
+| Easy | 83 |
 | Medium | 72 |
 | Hard | 14 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **82** (49%)  
+🟢 Easy &nbsp; **83** (49%)  
 🟡 Medium &nbsp; **72** (43%)  
 🔴 Hard &nbsp; **14** (8%)
 
@@ -21,7 +21,7 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 163 |
+| C++ | 164 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [203. Remove Linked List Elements](./0203-remove-linked-list-elements/README.md) | Easy | C++ |
 | [160. Intersection of Two Linked Lists](./0160-intersection-of-two-linked-lists/README.md) | Easy | C++ |
 | [2265. Count Nodes Equal to Average of Subtree](./2265-count-nodes-equal-to-average-of-subtree/README.md) | Medium | C++ |
 | [2540. Minimum Common Value](./2540-minimum-common-value/README.md) | Easy | C++ |
 | [3120. Count the Number of Special Characters I](./3120-count-the-number-of-special-characters-i/README.md) | Easy | C++ |
-| [3871. Count Commas in Range II](./3871-count-commas-in-range-ii/README.md) | Medium | C++ |
