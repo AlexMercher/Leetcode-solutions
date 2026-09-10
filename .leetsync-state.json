@@ -1,12 +1,12 @@
 {
-  "easy_count": 88,
+  "easy_count": 89,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 169,
+    "cpp": 170,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-10T07:52:51Z",
+  "last_synced": "2026-09-10T10:04:01Z",
   "medium_count": 72,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -575,6 +575,18 @@
       "problem_number": 2058,
       "problem_slug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
       "problem_title": "Find the Minimum and Maximum Number of Nodes Between Critical Points"
+    },
+    "206": {
+      "difficulty": "Easy",
+      "folder_name": "0206-reverse-linked-list",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-10T10:04:01Z",
+      "notes": "",
+      "problem_number": 206,
+      "problem_slug": "reverse-linked-list",
+      "problem_title": "Reverse Linked List"
     },
     "2091": {
       "difficulty": "Medium",
@@ -2104,5 +2116,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 174
+  "total_solved": 175
 }
