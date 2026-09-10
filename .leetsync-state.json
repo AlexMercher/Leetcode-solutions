@@ -1,12 +1,12 @@
 {
-  "easy_count": 86,
+  "easy_count": 87,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 167,
+    "cpp": 168,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-10T07:42:10Z",
+  "last_synced": "2026-09-10T07:45:15Z",
   "medium_count": 72,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -311,6 +311,18 @@
       "problem_number": 1464,
       "problem_slug": "maximum-product-of-two-elements-in-an-array",
       "problem_title": "Maximum Product of Two Elements in an Array"
+    },
+    "1486": {
+      "difficulty": "Easy",
+      "folder_name": "1486-xor-operation-in-an-array",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-10T07:45:15Z",
+      "notes": "# Question\nYou are given an integer n and an integer start.\n\nDefine an array nums where nums[i] = start + 2 * i (0-indexed) and n == nums.length.\n\nReturn the bitwise XOR of all elements of nums.\n\n \n\nExample 1:\n\nInput: n = 5, start = 0\nOutput: 8\nExplanation: Array nums is equal to [0, 2, 4, 6, 8] where (0 ^ 2 ^ 4 ^ 6 ^ 8) = 8.\nWhere \"^\" corresponds to bitwise XOR operator.\nExample 2:\n\nInput: n = 4, start = 3\nOutput: 8\nExplanation: Array nums is equal to [3, 5, 7, 9] where (3 ^ 5 ^ 7 ^ 9) = 8.",
+      "problem_number": 1486,
+      "problem_slug": "xor-operation-in-an-array",
+      "problem_title": "XOR Operation in an Array"
     },
     "1510": {
       "difficulty": "Hard",
@@ -2080,5 +2092,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 172
+  "total_solved": 173
 }
