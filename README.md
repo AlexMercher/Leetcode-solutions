@@ -6,14 +6,14 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **175** |
-| Easy | 89 |
+| Total Solved | **176** |
+| Easy | 90 |
 | Medium | 72 |
 | Hard | 14 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **89** (51%)  
+🟢 Easy &nbsp; **90** (51%)  
 🟡 Medium &nbsp; **72** (41%)  
 🔴 Hard &nbsp; **14** (8%)
 
@@ -21,7 +21,7 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 170 |
+| C++ | 171 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [234. Palindrome Linked List](./0234-palindrome-linked-list/README.md) | Easy | C++ |
 | [206. Reverse Linked List](./0206-reverse-linked-list/README.md) | Easy | C++ |
 | [860. Lemonade Change](./0860-lemonade-change/README.md) | Easy | C++ |
 | [1486. XOR Operation in an Array](./1486-xor-operation-in-an-array/README.md) | Easy | C++ |
 | [1356. Sort Integers by The Number of 1 Bits](./1356-sort-integers-by-the-number-of-1-bits/README.md) | Easy | C++ |
-| [1342. Number of Steps to Reduce a Number to Zero](./1342-number-of-steps-to-reduce-a-number-to-zero/README.md) | Easy | C++ |

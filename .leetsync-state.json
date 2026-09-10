@@ -1,12 +1,12 @@
 {
-  "easy_count": 89,
+  "easy_count": 90,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 170,
+    "cpp": 171,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-10T10:04:01Z",
+  "last_synced": "2026-09-10T10:12:59Z",
   "medium_count": 72,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -671,6 +671,18 @@
       "problem_number": 231,
       "problem_slug": "power-of-two",
       "problem_title": "Power of Two"
+    },
+    "234": {
+      "difficulty": "Easy",
+      "folder_name": "0234-palindrome-linked-list",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-10T10:12:59Z",
+      "notes": "### Mistakes\n\nWas not checking for the odd elements if the fast!=nullptr => that the list has odd elements and thus can still be a palindrom and thus it should be skipped.",
+      "problem_number": 234,
+      "problem_slug": "palindrome-linked-list",
+      "problem_title": "Palindrome Linked List"
     },
     "241": {
       "difficulty": "Medium",
@@ -2116,5 +2128,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 175
+  "total_solved": 176
 }
