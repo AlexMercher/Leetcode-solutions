@@ -1,12 +1,12 @@
 {
-  "easy_count": 92,
+  "easy_count": 93,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 173,
+    "cpp": 174,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-11T15:06:23Z",
+  "last_synced": "2026-09-11T15:13:18Z",
   "medium_count": 72,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1970,6 +1970,18 @@
       "problem_slug": "reverse-integer",
       "problem_title": "Reverse Integer"
     },
+    "705": {
+      "difficulty": "Easy",
+      "folder_name": "0705-design-hashset",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-11T15:13:18Z",
+      "notes": "No mistakes commited.",
+      "problem_number": 705,
+      "problem_slug": "design-hashset",
+      "problem_title": "Design HashSet"
+    },
     "72": {
       "difficulty": "Medium",
       "folder_name": "0072-edit-distance",
@@ -2152,5 +2164,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 178
+  "total_solved": 179
 }
