@@ -1,12 +1,12 @@
 {
-  "easy_count": 94,
+  "easy_count": 95,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 175,
+    "cpp": 176,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-11T15:17:08Z",
+  "last_synced": "2026-09-11T15:19:09Z",
   "medium_count": 72,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -191,6 +191,18 @@
       "problem_number": 122,
       "problem_slug": "best-time-to-buy-and-sell-stock-ii",
       "problem_title": "Best Time to Buy and Sell Stock II"
+    },
+    "1290": {
+      "difficulty": "Easy",
+      "folder_name": "1290-convert-binary-number-in-a-linked-list-to-integer",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-11T15:19:09Z",
+      "notes": "",
+      "problem_number": 1290,
+      "problem_slug": "convert-binary-number-in-a-linked-list-to-integer",
+      "problem_title": "Convert Binary Number in a Linked List to Integer"
     },
     "131": {
       "difficulty": "Medium",
@@ -2176,5 +2188,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 180
+  "total_solved": 181
 }
