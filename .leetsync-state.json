@@ -1,12 +1,12 @@
 {
-  "easy_count": 91,
+  "easy_count": 92,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 172,
+    "cpp": 173,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-10T10:15:44Z",
+  "last_synced": "2026-09-11T15:06:23Z",
   "medium_count": 72,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1190,6 +1190,18 @@
       "problem_slug": "find-the-largest-almost-missing-integer",
       "problem_title": "Find the Largest Almost Missing Integer"
     },
+    "3483": {
+      "difficulty": "Easy",
+      "folder_name": "3483-unique-3-digit-even-numbers",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-11T15:06:23Z",
+      "notes": "No Mistakes were made.",
+      "problem_number": 3483,
+      "problem_slug": "unique-3-digit-even-numbers",
+      "problem_title": "Unique 3-Digit Even Numbers"
+    },
     "3568": {
       "difficulty": "Medium",
       "folder_name": "3568-minimum-moves-to-clean-the-classroom",
@@ -2140,5 +2152,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 177
+  "total_solved": 178
 }
