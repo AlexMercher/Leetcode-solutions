@@ -6,14 +6,14 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **179** |
-| Easy | 93 |
+| Total Solved | **180** |
+| Easy | 94 |
 | Medium | 72 |
 | Hard | 14 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **93** (52%)  
+🟢 Easy &nbsp; **94** (52%)  
 🟡 Medium &nbsp; **72** (40%)  
 🔴 Hard &nbsp; **14** (8%)
 
@@ -21,7 +21,7 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 174 |
+| C++ | 175 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [706. Design HashMap](./0706-design-hashmap/README.md) | Easy | C++ |
 | [705. Design HashSet](./0705-design-hashset/README.md) | Easy | C++ |
 | [3483. Unique 3-Digit Even Numbers](./3483-unique-3-digit-even-numbers/README.md) | Easy | C++ |
 | [876. Middle of the Linked List](./0876-middle-of-the-linked-list/README.md) | Easy | C++ |
 | [234. Palindrome Linked List](./0234-palindrome-linked-list/README.md) | Easy | C++ |
-| [206. Reverse Linked List](./0206-reverse-linked-list/README.md) | Easy | C++ |
