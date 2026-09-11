@@ -1,12 +1,12 @@
 {
-  "easy_count": 95,
+  "easy_count": 96,
   "hard_count": 14,
   "language_counts": {
-    "cpp": 176,
+    "cpp": 177,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-11T15:19:09Z",
+  "last_synced": "2026-09-11T15:32:27Z",
   "medium_count": 72,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -407,6 +407,18 @@
       "problem_number": 168,
       "problem_slug": "excel-sheet-column-title",
       "problem_title": "Excel Sheet Column Title"
+    },
+    "1684": {
+      "difficulty": "Easy",
+      "folder_name": "1684-count-the-number-of-consistent-strings",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-11T15:32:27Z",
+      "notes": "This solution is highly efficent in space complexity.",
+      "problem_number": 1684,
+      "problem_slug": "count-the-number-of-consistent-strings",
+      "problem_title": "Count the Number of Consistent Strings"
     },
     "171": {
       "difficulty": "Easy",
@@ -2188,5 +2200,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 181
+  "total_solved": 182
 }
