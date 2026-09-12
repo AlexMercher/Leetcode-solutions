@@ -1,12 +1,12 @@
 {
   "easy_count": 96,
-  "hard_count": 14,
+  "hard_count": 15,
   "language_counts": {
-    "cpp": 177,
+    "cpp": 178,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-11T15:32:27Z",
+  "last_synced": "2026-09-12T07:28:27Z",
   "medium_count": 72,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1178,6 +1178,18 @@
       "problem_slug": "find-first-and-last-position-of-element-in-sorted-array",
       "problem_title": "Find First and Last Position of Element in Sorted Array"
     },
+    "3414": {
+      "difficulty": "Hard",
+      "folder_name": "3414-maximum-score-of-non-overlapping-intervals",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-12T07:28:27Z",
+      "notes": "🥲🥲🥲🥲",
+      "problem_number": 3414,
+      "problem_slug": "maximum-score-of-non-overlapping-intervals",
+      "problem_title": "Maximum Score of Non-overlapping Intervals"
+    },
     "342": {
       "difficulty": "Easy",
       "folder_name": "0342-power-of-four",
@@ -2200,5 +2212,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 182
+  "total_solved": 183
 }
