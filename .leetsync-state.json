@@ -1,12 +1,12 @@
 {
-  "easy_count": 98,
+  "easy_count": 99,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 180,
+    "cpp": 181,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-12T10:18:53Z",
+  "last_synced": "2026-09-12T13:27:02Z",
   "medium_count": 72,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1262,6 +1262,18 @@
       "problem_slug": "unique-3-digit-even-numbers",
       "problem_title": "Unique 3-Digit Even Numbers"
     },
+    "3507": {
+      "difficulty": "Easy",
+      "folder_name": "3507-minimum-pair-removal-to-sort-array-i",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-12T13:27:02Z",
+      "notes": "### Mistakes\n\nForgot how to use nums.erase and also was using nums.size() in a wrong manner.",
+      "problem_number": 3507,
+      "problem_slug": "minimum-pair-removal-to-sort-array-i",
+      "problem_title": "Minimum Pair Removal to Sort Array I"
+    },
     "3568": {
       "difficulty": "Medium",
       "folder_name": "3568-minimum-moves-to-clean-the-classroom",
@@ -2236,5 +2248,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 185
+  "total_solved": 186
 }
