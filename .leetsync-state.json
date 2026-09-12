@@ -1,12 +1,12 @@
 {
-  "easy_count": 96,
+  "easy_count": 97,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 178,
+    "cpp": 179,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-12T07:28:27Z",
+  "last_synced": "2026-09-12T07:33:26Z",
   "medium_count": 72,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -431,6 +431,18 @@
       "problem_number": 171,
       "problem_slug": "excel-sheet-column-number",
       "problem_title": "Excel Sheet Column Number"
+    },
+    "1720": {
+      "difficulty": "Easy",
+      "folder_name": "1720-decode-xored-array",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-12T07:33:26Z",
+      "notes": "Ran in the first go let's goooooooo.",
+      "problem_number": 1720,
+      "problem_slug": "decode-xored-array",
+      "problem_title": "Decode XORed Array"
     },
     "1732": {
       "difficulty": "Easy",
@@ -2212,5 +2224,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 183
+  "total_solved": 184
 }
