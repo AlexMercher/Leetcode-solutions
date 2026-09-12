@@ -1,12 +1,12 @@
 {
-  "easy_count": 97,
+  "easy_count": 98,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 179,
+    "cpp": 180,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-12T07:33:26Z",
+  "last_synced": "2026-09-12T10:18:53Z",
   "medium_count": 72,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -455,6 +455,18 @@
       "problem_number": 1732,
       "problem_slug": "find-the-highest-altitude",
       "problem_title": "Find the Highest Altitude"
+    },
+    "1763": {
+      "difficulty": "Easy",
+      "folder_name": "1763-longest-nice-substring",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-12T10:18:53Z",
+      "notes": "",
+      "problem_number": 1763,
+      "problem_slug": "longest-nice-substring",
+      "problem_title": "Longest Nice Substring"
     },
     "1872": {
       "difficulty": "Hard",
@@ -2224,5 +2236,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 184
+  "total_solved": 185
 }
