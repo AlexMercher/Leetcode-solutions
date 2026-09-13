@@ -2,12 +2,12 @@
   "easy_count": 108,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 193,
+    "cpp": 194,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-13T10:21:51Z",
-  "medium_count": 75,
+  "last_synced": "2026-09-13T17:21:21Z",
+  "medium_count": 76,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -2078,6 +2078,18 @@
       "problem_slug": "can-place-flowers",
       "problem_title": "Can Place Flowers"
     },
+    "61": {
+      "difficulty": "Medium",
+      "folder_name": "0061-rotate-list",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-13T17:21:21Z",
+      "notes": "No mistakes commited only fucked up the pointer handling a bit.",
+      "problem_number": 61,
+      "problem_slug": "rotate-list",
+      "problem_title": "Rotate List"
+    },
     "62": {
       "difficulty": "Medium",
       "folder_name": "0062-unique-paths",
@@ -2392,5 +2404,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 198
+  "total_solved": 199
 }
