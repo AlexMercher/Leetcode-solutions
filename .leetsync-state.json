@@ -2,12 +2,12 @@
   "easy_count": 99,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 181,
+    "cpp": 182,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-12T13:27:02Z",
-  "medium_count": 72,
+  "last_synced": "2026-09-13T08:30:48Z",
+  "medium_count": 73,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -2126,6 +2126,18 @@
       "problem_slug": "flipping-an-image",
       "problem_title": "Flipping an Image"
     },
+    "835": {
+      "difficulty": "Medium",
+      "folder_name": "0835-image-overlap",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-13T08:30:48Z",
+      "notes": "## Mistakes.\n\nBrute force was too hard to think of as i was thinking of making four loops but then i was suspecting the it would make the program too bulky.",
+      "problem_number": 835,
+      "problem_slug": "image-overlap",
+      "problem_title": "Image Overlap"
+    },
     "860": {
       "difficulty": "Easy",
       "folder_name": "0860-lemonade-change",
@@ -2248,5 +2260,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 186
+  "total_solved": 187
 }
