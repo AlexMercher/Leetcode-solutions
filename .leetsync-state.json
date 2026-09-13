@@ -1,12 +1,12 @@
 {
-  "easy_count": 103,
+  "easy_count": 104,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 188,
+    "cpp": 189,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-13T09:43:00Z",
+  "last_synced": "2026-09-13T09:47:05Z",
   "medium_count": 75,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -791,6 +791,18 @@
       "problem_number": 234,
       "problem_slug": "palindrome-linked-list",
       "problem_title": "Palindrome Linked List"
+    },
+    "2351": {
+      "difficulty": "Easy",
+      "folder_name": "2351-first-letter-to-appear-twice",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-13T09:47:05Z",
+      "notes": "",
+      "problem_number": 2351,
+      "problem_slug": "first-letter-to-appear-twice",
+      "problem_title": "First Letter to Appear Twice"
     },
     "24": {
       "difficulty": "Medium",
@@ -2332,5 +2344,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 193
+  "total_solved": 194
 }
