@@ -1,12 +1,12 @@
 {
-  "easy_count": 99,
+  "easy_count": 100,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 184,
+    "cpp": 185,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-13T08:48:31Z",
+  "last_synced": "2026-09-13T08:58:16Z",
   "medium_count": 75,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -467,6 +467,18 @@
       "problem_number": 1763,
       "problem_slug": "longest-nice-substring",
       "problem_title": "Longest Nice Substring"
+    },
+    "1863": {
+      "difficulty": "Easy",
+      "folder_name": "1863-sum-of-all-subset-xor-totals",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-13T08:58:16Z",
+      "notes": "## Mistakes\n\nWas trying the brute force approach.",
+      "problem_number": 1863,
+      "problem_slug": "sum-of-all-subset-xor-totals",
+      "problem_title": "Sum of All Subset XOR Totals"
     },
     "1872": {
       "difficulty": "Hard",
@@ -2284,5 +2296,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 189
+  "total_solved": 190
 }
