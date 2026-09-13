@@ -1,12 +1,12 @@
 {
-  "easy_count": 106,
+  "easy_count": 107,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 191,
+    "cpp": 192,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-13T10:03:32Z",
+  "last_synced": "2026-09-13T10:07:59Z",
   "medium_count": 75,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1007,6 +1007,18 @@
       "problem_number": 279,
       "problem_slug": "perfect-squares",
       "problem_title": "Perfect Squares"
+    },
+    "2859": {
+      "difficulty": "Easy",
+      "folder_name": "2859-sum-of-values-at-indices-with-k-set-bits",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-13T10:07:59Z",
+      "notes": "No mistakes commited here.",
+      "problem_number": 2859,
+      "problem_slug": "sum-of-values-at-indices-with-k-set-bits",
+      "problem_title": "Sum of Values at Indices With K Set Bits"
     },
     "29": {
       "difficulty": "Medium",
@@ -2368,5 +2380,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 196
+  "total_solved": 197
 }
