@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **188** |
+| Total Solved | **189** |
 | Easy | 99 |
-| Medium | 74 |
+| Medium | 75 |
 | Hard | 15 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **99** (53%)  
-🟡 Medium &nbsp; **74** (39%)  
+🟢 Easy &nbsp; **99** (52%)  
+🟡 Medium &nbsp; **75** (40%)  
 🔴 Hard &nbsp; **15** (8%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 183 |
+| C++ | 184 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [24. Swap Nodes in Pairs](./0024-swap-nodes-in-pairs/README.md) | Medium | C++ |
 | [19. Remove Nth Node From End of List](./0019-remove-nth-node-from-end-of-list/README.md) | Medium | C++ |
 | [835. Image Overlap](./0835-image-overlap/README.md) | Medium | C++ |
 | [3507. Minimum Pair Removal to Sort Array I](./3507-minimum-pair-removal-to-sort-array-i/README.md) | Easy | C++ |
 | [1763. Longest Nice Substring](./1763-longest-nice-substring/README.md) | Easy | C++ |
-| [1720. Decode XORed Array](./1720-decode-xored-array/README.md) | Easy | C++ |
