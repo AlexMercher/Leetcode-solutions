@@ -1,12 +1,12 @@
 {
-  "easy_count": 107,
+  "easy_count": 108,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 192,
+    "cpp": 193,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-13T10:07:59Z",
+  "last_synced": "2026-09-13T10:21:51Z",
   "medium_count": 75,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1019,6 +1019,18 @@
       "problem_number": 2859,
       "problem_slug": "sum-of-values-at-indices-with-k-set-bits",
       "problem_title": "Sum of Values at Indices With K Set Bits"
+    },
+    "2869": {
+      "difficulty": "Easy",
+      "folder_name": "2869-minimum-operations-to-collect-elements",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-13T10:21:51Z",
+      "notes": "### Mistakes\n\nWas not doing the bit making in the build function properly.",
+      "problem_number": 2869,
+      "problem_slug": "minimum-operations-to-collect-elements",
+      "problem_title": "Minimum Operations to Collect Elements"
     },
     "29": {
       "difficulty": "Medium",
@@ -2380,5 +2392,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 197
+  "total_solved": 198
 }
