@@ -1,12 +1,12 @@
 {
-  "easy_count": 108,
+  "easy_count": 109,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 196,
+    "cpp": 197,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-13T17:43:57Z",
+  "last_synced": "2026-09-13T17:55:11Z",
   "medium_count": 78,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1079,6 +1079,18 @@
       "problem_number": 2904,
       "problem_slug": "shortest-and-lexicographically-smallest-beautiful-string",
       "problem_title": "Shortest and Lexicographically Smallest Beautiful String"
+    },
+    "2917": {
+      "difficulty": "Easy",
+      "folder_name": "2917-find-the-k-or-of-an-array",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-13T17:55:11Z",
+      "notes": "",
+      "problem_number": 2917,
+      "problem_slug": "find-the-k-or-of-an-array",
+      "problem_title": "Find the K-or of an Array"
     },
     "292": {
       "difficulty": "Easy",
@@ -2428,5 +2440,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 201
+  "total_solved": 202
 }
