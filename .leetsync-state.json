@@ -2,12 +2,12 @@
   "easy_count": 108,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 194,
+    "cpp": 195,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-13T17:21:21Z",
-  "medium_count": 76,
+  "last_synced": "2026-09-13T17:35:42Z",
+  "medium_count": 77,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -2258,6 +2258,18 @@
       "problem_slug": "string-to-integer-atoi",
       "problem_title": "String to Integer (atoi)"
     },
+    "82": {
+      "difficulty": "Medium",
+      "folder_name": "0082-remove-duplicates-from-sorted-list-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-13T17:35:42Z",
+      "notes": "## Mistakes\n\nIt was tough to handle pointers again.",
+      "problem_number": 82,
+      "problem_slug": "remove-duplicates-from-sorted-list-ii",
+      "problem_title": "Remove Duplicates from Sorted List II"
+    },
     "832": {
       "difficulty": "Easy",
       "folder_name": "0832-flipping-an-image",
@@ -2404,5 +2416,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 199
+  "total_solved": 200
 }
