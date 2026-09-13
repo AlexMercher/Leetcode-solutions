@@ -1,12 +1,12 @@
 {
-  "easy_count": 100,
+  "easy_count": 101,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 185,
+    "cpp": 186,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-13T08:58:16Z",
+  "last_synced": "2026-09-13T09:26:47Z",
   "medium_count": 75,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -611,6 +611,18 @@
       "problem_number": 203,
       "problem_slug": "remove-linked-list-elements",
       "problem_title": "Remove Linked List Elements"
+    },
+    "2032": {
+      "difficulty": "Easy",
+      "folder_name": "2032-two-out-of-three",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-13T09:26:47Z",
+      "notes": "## Mistakes\n\nWas producing duplicates in the code thus need to improve the masking strategy.",
+      "problem_number": 2032,
+      "problem_slug": "two-out-of-three",
+      "problem_title": "Two Out of Three"
     },
     "204": {
       "difficulty": "Medium",
@@ -2296,5 +2308,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 190
+  "total_solved": 191
 }
