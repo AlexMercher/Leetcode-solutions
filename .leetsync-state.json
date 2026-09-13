@@ -1,12 +1,12 @@
 {
-  "easy_count": 104,
+  "easy_count": 105,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 189,
+    "cpp": 190,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-13T09:47:05Z",
+  "last_synced": "2026-09-13T09:57:15Z",
   "medium_count": 75,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -863,6 +863,18 @@
       "problem_number": 2423,
       "problem_slug": "remove-letter-to-equalize-frequency",
       "problem_title": "Remove Letter To Equalize Frequency"
+    },
+    "2506": {
+      "difficulty": "Easy",
+      "folder_name": "2506-count-pairs-of-similar-strings",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-13T09:57:15Z",
+      "notes": "### Mistakes\n\nThe only mistake was the vector declaration:\n\nvector<int> mask(0, n);   // ❌\nvector<int> mask(n, 0);   // ✅\n\nEasy rule to remember:\n\nvector<int> v(size, initial_value);\n\nSo:\n\nvector<int> mask(n, 0);\n\nmeans n zeros.",
+      "problem_number": 2506,
+      "problem_slug": "count-pairs-of-similar-strings",
+      "problem_title": "Count Pairs Of Similar Strings"
     },
     "2540": {
       "difficulty": "Easy",
@@ -2344,5 +2356,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 194
+  "total_solved": 195
 }
