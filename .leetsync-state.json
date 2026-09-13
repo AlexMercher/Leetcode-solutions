@@ -2,12 +2,12 @@
   "easy_count": 99,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 182,
+    "cpp": 183,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-13T08:30:48Z",
-  "medium_count": 73,
+  "last_synced": "2026-09-13T08:38:27Z",
+  "medium_count": 74,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -479,6 +479,18 @@
       "problem_number": 1872,
       "problem_slug": "stone-game-viii",
       "problem_title": "Stone Game VIII"
+    },
+    "19": {
+      "difficulty": "Medium",
+      "folder_name": "0019-remove-nth-node-from-end-of-list",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-13T08:38:27Z",
+      "notes": "# Mistakes:\n\nNone commited.",
+      "problem_number": 19,
+      "problem_slug": "remove-nth-node-from-end-of-list",
+      "problem_title": "Remove Nth Node From End of List"
     },
     "190": {
       "difficulty": "Easy",
@@ -2260,5 +2272,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 187
+  "total_solved": 188
 }
