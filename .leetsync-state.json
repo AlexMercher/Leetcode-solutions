@@ -1,12 +1,12 @@
 {
-  "easy_count": 105,
+  "easy_count": 106,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 190,
+    "cpp": 191,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-13T09:57:15Z",
+  "last_synced": "2026-09-13T10:03:32Z",
   "medium_count": 75,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -935,6 +935,18 @@
       "problem_number": 2591,
       "problem_slug": "distribute-money-to-maximum-children",
       "problem_title": "Distribute Money to Maximum Children"
+    },
+    "2595": {
+      "difficulty": "Easy",
+      "folder_name": "2595-number-of-even-and-odd-bits",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-13T10:03:32Z",
+      "notes": "# Mistakes\n\nNone commited",
+      "problem_number": 2595,
+      "problem_slug": "number-of-even-and-odd-bits",
+      "problem_title": "Number of Even and Odd Bits"
     },
     "264": {
       "difficulty": "Medium",
@@ -2356,5 +2368,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 195
+  "total_solved": 196
 }
