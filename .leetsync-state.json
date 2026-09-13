@@ -2,12 +2,12 @@
   "easy_count": 108,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 195,
+    "cpp": 196,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-13T17:35:42Z",
-  "medium_count": 77,
+  "last_synced": "2026-09-13T17:43:57Z",
+  "medium_count": 78,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -2294,6 +2294,18 @@
       "problem_slug": "image-overlap",
       "problem_title": "Image Overlap"
     },
+    "86": {
+      "difficulty": "Medium",
+      "folder_name": "0086-partition-list",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-13T17:43:57Z",
+      "notes": "## Mistakes\n\nAgain the same point where we get the same error in which I did not handle the pointers in a better way.",
+      "problem_number": 86,
+      "problem_slug": "partition-list",
+      "problem_title": "Partition List"
+    },
     "860": {
       "difficulty": "Easy",
       "folder_name": "0860-lemonade-change",
@@ -2416,5 +2428,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 200
+  "total_solved": 201
 }

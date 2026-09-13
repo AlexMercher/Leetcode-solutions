@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **200** |
+| Total Solved | **201** |
 | Easy | 108 |
-| Medium | 77 |
+| Medium | 78 |
 | Hard | 15 |
 
 ## Difficulty Distribution
 
 🟢 Easy &nbsp; **108** (54%)  
-🟡 Medium &nbsp; **77** (38%)  
-🔴 Hard &nbsp; **15** (8%)
+🟡 Medium &nbsp; **78** (39%)  
+🔴 Hard &nbsp; **15** (7%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 195 |
+| C++ | 196 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [86. Partition List](./0086-partition-list/README.md) | Medium | C++ |
 | [82. Remove Duplicates from Sorted List II](./0082-remove-duplicates-from-sorted-list-ii/README.md) | Medium | C++ |
 | [61. Rotate List](./0061-rotate-list/README.md) | Medium | C++ |
 | [2869. Minimum Operations to Collect Elements](./2869-minimum-operations-to-collect-elements/README.md) | Easy | C++ |
 | [2859. Sum of Values at Indices With K Set Bits](./2859-sum-of-values-at-indices-with-k-set-bits/README.md) | Easy | C++ |
-| [2595. Number of Even and Odd Bits](./2595-number-of-even-and-odd-bits/README.md) | Easy | C++ |
