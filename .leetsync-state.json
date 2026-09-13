@@ -1,12 +1,12 @@
 {
-  "easy_count": 102,
+  "easy_count": 103,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 187,
+    "cpp": 188,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-13T09:38:16Z",
+  "last_synced": "2026-09-13T09:43:00Z",
   "medium_count": 75,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -743,6 +743,18 @@
       "problem_number": 2213,
       "problem_slug": "longest-substring-of-one-repeating-character",
       "problem_title": "Longest Substring of One Repeating Character"
+    },
+    "2220": {
+      "difficulty": "Easy",
+      "folder_name": "2220-minimum-bit-flips-to-convert-number",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-13T09:43:00Z",
+      "notes": "## Mistakes none commited.",
+      "problem_number": 2220,
+      "problem_slug": "minimum-bit-flips-to-convert-number",
+      "problem_title": "Minimum Bit Flips to Convert Number"
     },
     "2265": {
       "difficulty": "Medium",
@@ -2320,5 +2332,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 192
+  "total_solved": 193
 }
