@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **205** |
+| Total Solved | **206** |
 | Easy | 110 |
-| Medium | 80 |
+| Medium | 81 |
 | Hard | 15 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **110** (54%)  
-🟡 Medium &nbsp; **80** (39%)  
+🟢 Easy &nbsp; **110** (53%)  
+🟡 Medium &nbsp; **81** (39%)  
 🔴 Hard &nbsp; **15** (7%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 200 |
+| C++ | 201 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [114. Flatten Binary Tree to Linked List](./0114-flatten-binary-tree-to-linked-list/README.md) | Medium | C++ |
 | [109. Convert Sorted List to Binary Search Tree](./0109-convert-sorted-list-to-binary-search-tree/README.md) | Medium | C++ |
 | [92. Reverse Linked List II](./0092-reverse-linked-list-ii/README.md) | Medium | C++ |
 | [836. Rectangle Overlap](./0836-rectangle-overlap/README.md) | Easy | C++ |
 | [2917. Find the K-or of an Array](./2917-find-the-k-or-of-an-array/README.md) | Easy | C++ |
-| [86. Partition List](./0086-partition-list/README.md) | Medium | C++ |
