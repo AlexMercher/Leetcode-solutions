@@ -1,12 +1,12 @@
 {
-  "easy_count": 112,
+  "easy_count": 113,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 204,
+    "cpp": 205,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-14T12:42:06Z",
+  "last_synced": "2026-09-14T12:48:19Z",
   "medium_count": 82,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1286,6 +1286,18 @@
       "problem_slug": "maximum-length-substring-with-two-occurrences",
       "problem_title": "Maximum Length Substring With Two Occurrences"
     },
+    "3095": {
+      "difficulty": "Easy",
+      "folder_name": "3095-shortest-subarray-with-or-at-least-k-i",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-14T12:48:19Z",
+      "notes": "No mistakes",
+      "problem_number": 3095,
+      "problem_slug": "shortest-subarray-with-or-at-least-k-i",
+      "problem_title": "Shortest Subarray With OR at Least K I"
+    },
     "3116": {
       "difficulty": "Hard",
       "folder_name": "3116-kth-smallest-amount-with-single-denomination-combination",
@@ -2524,5 +2536,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 209
+  "total_solved": 210
 }
