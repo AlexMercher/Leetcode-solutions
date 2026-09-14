@@ -1,12 +1,12 @@
 {
-  "easy_count": 114,
+  "easy_count": 115,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 206,
+    "cpp": 207,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-14T12:51:52Z",
+  "last_synced": "2026-09-14T12:57:34Z",
   "medium_count": 82,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1358,6 +1358,18 @@
       "problem_slug": "coin-change",
       "problem_title": "Coin Change"
     },
+    "3226": {
+      "difficulty": "Easy",
+      "folder_name": "3226-number-of-bit-changes-to-make-two-integers-equal",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-14T12:57:34Z",
+      "notes": "## Mistakes\n\nCould not think of the n&k ==k and was checking for only the even or the odd ones.",
+      "problem_number": 3226,
+      "problem_slug": "number-of-bit-changes-to-make-two-integers-equal",
+      "problem_title": "Number of Bit Changes to Make Two Integers Equal"
+    },
     "3300": {
       "difficulty": "Easy",
       "folder_name": "3300-minimum-element-after-replacement-with-digit-sum",
@@ -2548,5 +2560,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 211
+  "total_solved": 212
 }
