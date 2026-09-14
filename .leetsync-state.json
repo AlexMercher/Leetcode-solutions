@@ -2,12 +2,12 @@
   "easy_count": 110,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 201,
+    "cpp": 202,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-14T10:32:52Z",
-  "medium_count": 81,
+  "last_synced": "2026-09-14T12:29:15Z",
+  "medium_count": 82,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -131,6 +131,18 @@
       "problem_number": 115,
       "problem_slug": "distinct-subsequences",
       "problem_title": "Distinct Subsequences"
+    },
+    "116": {
+      "difficulty": "Medium",
+      "folder_name": "0116-populating-next-right-pointers-in-each-node",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-14T12:29:15Z",
+      "notes": "",
+      "problem_number": 116,
+      "problem_slug": "populating-next-right-pointers-in-each-node",
+      "problem_title": "Populating Next Right Pointers in Each Node"
     },
     "118": {
       "difficulty": "Easy",
@@ -2488,5 +2500,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 206
+  "total_solved": 207
 }
