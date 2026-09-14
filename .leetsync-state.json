@@ -2,12 +2,12 @@
   "easy_count": 110,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 198,
+    "cpp": 199,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-14T09:45:08Z",
-  "medium_count": 78,
+  "last_synced": "2026-09-14T09:58:36Z",
+  "medium_count": 79,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -2402,6 +2402,18 @@
       "problem_slug": "decode-ways",
       "problem_title": "Decode Ways"
     },
+    "92": {
+      "difficulty": "Medium",
+      "folder_name": "0092-reverse-linked-list-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-14T09:58:36Z",
+      "notes": "Again the same pointer handling is wrongly done by me.",
+      "problem_number": 92,
+      "problem_slug": "reverse-linked-list-ii",
+      "problem_title": "Reverse Linked List II"
+    },
     "940": {
       "difficulty": "Hard",
       "folder_name": "0940-distinct-subsequences-ii",
@@ -2452,5 +2464,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 203
+  "total_solved": 204
 }
