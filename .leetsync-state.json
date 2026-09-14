@@ -1,12 +1,12 @@
 {
-  "easy_count": 118,
+  "easy_count": 119,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 210,
+    "cpp": 211,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-14T15:05:51Z",
+  "last_synced": "2026-09-14T16:40:37Z",
   "medium_count": 82,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1718,6 +1718,18 @@
       "problem_slug": "combination-sum-iv",
       "problem_title": "Combination Sum IV"
     },
+    "3827": {
+      "difficulty": "Easy",
+      "folder_name": "3827-count-monobit-integers",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-14T16:40:37Z",
+      "notes": "",
+      "problem_number": 3827,
+      "problem_slug": "count-monobit-integers",
+      "problem_title": "Count Monobit Integers"
+    },
     "3838": {
       "difficulty": "Easy",
       "folder_name": "3838-weighted-word-mapping",
@@ -2596,5 +2608,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 215
+  "total_solved": 216
 }
