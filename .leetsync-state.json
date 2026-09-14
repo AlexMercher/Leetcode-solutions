@@ -1,12 +1,12 @@
 {
-  "easy_count": 119,
+  "easy_count": 120,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 211,
+    "cpp": 212,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-14T16:40:37Z",
+  "last_synced": "2026-09-14T16:47:43Z",
   "medium_count": 82,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1838,6 +1838,18 @@
       "problem_slug": "is-subsequence",
       "problem_title": "Is Subsequence"
     },
+    "3950": {
+      "difficulty": "Easy",
+      "folder_name": "3950-exactly-one-consecutive-set-bits-pair",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-14T16:47:43Z",
+      "notes": "No mistakes commited.",
+      "problem_number": 3950,
+      "problem_slug": "exactly-one-consecutive-set-bits-pair",
+      "problem_title": "Exactly One Consecutive Set Bits Pair"
+    },
     "3954": {
       "difficulty": "Easy",
       "folder_name": "3954-sum-of-compatible-numbers-in-range-i",
@@ -2608,5 +2620,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 216
+  "total_solved": 217
 }
