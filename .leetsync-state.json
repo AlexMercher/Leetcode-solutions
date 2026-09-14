@@ -1,12 +1,12 @@
 {
-  "easy_count": 117,
+  "easy_count": 118,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 209,
+    "cpp": 210,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-14T14:57:00Z",
+  "last_synced": "2026-09-14T15:05:51Z",
   "medium_count": 82,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1598,6 +1598,18 @@
       "problem_slug": "largest-divisible-subset",
       "problem_title": "Largest Divisible Subset"
     },
+    "3688": {
+      "difficulty": "Easy",
+      "folder_name": "3688-bitwise-or-of-even-numbers-in-an-array",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-14T15:05:51Z",
+      "notes": "",
+      "problem_number": 3688,
+      "problem_slug": "bitwise-or-of-even-numbers-in-an-array",
+      "problem_title": "Bitwise OR of Even Numbers in an Array"
+    },
     "3702": {
       "difficulty": "Medium",
       "folder_name": "3702-longest-subsequence-with-non-zero-bitwise-xor",
@@ -2584,5 +2596,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 214
+  "total_solved": 215
 }
