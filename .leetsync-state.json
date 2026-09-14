@@ -1,12 +1,12 @@
 {
-  "easy_count": 113,
+  "easy_count": 114,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 205,
+    "cpp": 206,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-14T12:48:19Z",
+  "last_synced": "2026-09-14T12:51:52Z",
   "medium_count": 82,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1334,6 +1334,18 @@
       "problem_slug": "super-ugly-number",
       "problem_title": "Super Ugly Number"
     },
+    "3158": {
+      "difficulty": "Easy",
+      "folder_name": "3158-find-the-xor-of-numbers-which-appear-twice",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-14T12:51:52Z",
+      "notes": "No mistakes commited.....",
+      "problem_number": 3158,
+      "problem_slug": "find-the-xor-of-numbers-which-appear-twice",
+      "problem_title": "Find the XOR of Numbers Which Appear Twice"
+    },
     "322": {
       "difficulty": "Medium",
       "folder_name": "0322-coin-change",
@@ -2536,5 +2548,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 210
+  "total_solved": 211
 }
