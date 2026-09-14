@@ -1,12 +1,12 @@
 {
-  "easy_count": 109,
+  "easy_count": 110,
   "hard_count": 15,
   "language_counts": {
-    "cpp": 197,
+    "cpp": 198,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-13T17:55:11Z",
+  "last_synced": "2026-09-14T09:45:08Z",
   "medium_count": 78,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2306,6 +2306,18 @@
       "problem_slug": "image-overlap",
       "problem_title": "Image Overlap"
     },
+    "836": {
+      "difficulty": "Easy",
+      "folder_name": "0836-rectangle-overlap",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-14T09:45:08Z",
+      "notes": "",
+      "problem_number": 836,
+      "problem_slug": "rectangle-overlap",
+      "problem_title": "Rectangle Overlap"
+    },
     "86": {
       "difficulty": "Medium",
       "folder_name": "0086-partition-list",
@@ -2440,5 +2452,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 202
+  "total_solved": 203
 }
