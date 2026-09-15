@@ -2,12 +2,12 @@
   "easy_count": 120,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 213,
+    "cpp": 214,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-15T06:02:36Z",
-  "medium_count": 82,
+  "last_synced": "2026-09-15T07:54:47Z",
+  "medium_count": 83,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -143,6 +143,18 @@
       "problem_number": 116,
       "problem_slug": "populating-next-right-pointers-in-each-node",
       "problem_title": "Populating Next Right Pointers in Each Node"
+    },
+    "117": {
+      "difficulty": "Medium",
+      "folder_name": "0117-populating-next-right-pointers-in-each-node-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-15T07:54:47Z",
+      "notes": "",
+      "problem_number": 117,
+      "problem_slug": "populating-next-right-pointers-in-each-node-ii",
+      "problem_title": "Populating Next Right Pointers in Each Node II"
     },
     "118": {
       "difficulty": "Easy",
@@ -2632,5 +2644,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 218
+  "total_solved": 219
 }
