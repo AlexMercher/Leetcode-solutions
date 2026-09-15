@@ -1,12 +1,12 @@
 {
   "easy_count": 120,
-  "hard_count": 15,
+  "hard_count": 16,
   "language_counts": {
-    "cpp": 212,
+    "cpp": 213,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-14T16:47:43Z",
+  "last_synced": "2026-09-15T06:02:36Z",
   "medium_count": 82,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -899,6 +899,18 @@
       "problem_number": 2423,
       "problem_slug": "remove-letter-to-equalize-frequency",
       "problem_title": "Remove Letter To Equalize Frequency"
+    },
+    "2472": {
+      "difficulty": "Hard",
+      "folder_name": "2472-maximum-number-of-non-overlapping-palindrome-substrings",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-15T06:02:36Z",
+      "notes": "",
+      "problem_number": 2472,
+      "problem_slug": "maximum-number-of-non-overlapping-palindrome-substrings",
+      "problem_title": "Maximum Number of Non-overlapping Palindrome Substrings"
     },
     "2506": {
       "difficulty": "Easy",
@@ -2620,5 +2632,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 217
+  "total_solved": 218
 }
