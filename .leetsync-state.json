@@ -2,12 +2,12 @@
   "easy_count": 123,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 217,
+    "cpp": 218,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-15T10:33:45Z",
-  "medium_count": 83,
+  "last_synced": "2026-09-15T10:42:17Z",
+  "medium_count": 84,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1091,6 +1091,18 @@
       "problem_number": 2869,
       "problem_slug": "minimum-operations-to-collect-elements",
       "problem_title": "Minimum Operations to Collect Elements"
+    },
+    "287": {
+      "difficulty": "Medium",
+      "folder_name": "0287-find-the-duplicate-number",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-15T10:42:17Z",
+      "notes": "",
+      "problem_number": 287,
+      "problem_slug": "find-the-duplicate-number",
+      "problem_title": "Find the Duplicate Number"
     },
     "29": {
       "difficulty": "Medium",
@@ -2680,5 +2692,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 222
+  "total_solved": 223
 }
