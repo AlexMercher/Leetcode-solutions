@@ -1,12 +1,12 @@
 {
-  "easy_count": 120,
+  "easy_count": 121,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 214,
+    "cpp": 215,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-15T07:54:47Z",
+  "last_synced": "2026-09-15T08:00:40Z",
   "medium_count": 83,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1706,6 +1706,18 @@
       "problem_slug": "guess-number-higher-or-lower-ii",
       "problem_title": "Guess Number Higher or Lower II"
     },
+    "3750": {
+      "difficulty": "Easy",
+      "folder_name": "3750-minimum-number-of-flips-to-reverse-binary-string",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-15T08:00:40Z",
+      "notes": "",
+      "problem_number": 3750,
+      "problem_slug": "minimum-number-of-flips-to-reverse-binary-string",
+      "problem_title": "Minimum Number of Flips to Reverse Binary String"
+    },
     "3754": {
       "difficulty": "Easy",
       "folder_name": "3754-concatenate-non-zero-digits-and-multiply-by-sum-i",
@@ -2644,5 +2656,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 219
+  "total_solved": 220
 }
