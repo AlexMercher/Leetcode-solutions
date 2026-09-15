@@ -1,12 +1,12 @@
 {
-  "easy_count": 121,
+  "easy_count": 122,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 215,
+    "cpp": 216,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-15T08:00:40Z",
+  "last_synced": "2026-09-15T10:25:59Z",
   "medium_count": 83,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1418,6 +1418,18 @@
       "problem_slug": "find-the-lexicographically-smallest-valid-sequence",
       "problem_title": "Find the Lexicographically Smallest Valid Sequence"
     },
+    "3304": {
+      "difficulty": "Easy",
+      "folder_name": "3304-find-the-k-th-character-in-string-game-i",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-15T10:25:59Z",
+      "notes": "",
+      "problem_number": 3304,
+      "problem_slug": "find-the-k-th-character-in-string-game-i",
+      "problem_title": "Find the K-th Character in String Game I"
+    },
     "3348": {
       "difficulty": "Hard",
       "folder_name": "3348-smallest-divisible-digit-product-ii",
@@ -2656,5 +2668,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 220
+  "total_solved": 221
 }
