@@ -1,12 +1,12 @@
 {
-  "easy_count": 122,
+  "easy_count": 123,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 216,
+    "cpp": 217,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-15T10:25:59Z",
+  "last_synced": "2026-09-15T10:33:45Z",
   "medium_count": 83,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1430,6 +1430,18 @@
       "problem_slug": "find-the-k-th-character-in-string-game-i",
       "problem_title": "Find the K-th Character in String Game I"
     },
+    "3314": {
+      "difficulty": "Easy",
+      "folder_name": "3314-construct-the-minimum-bitwise-array-i",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-15T10:33:45Z",
+      "notes": "",
+      "problem_number": 3314,
+      "problem_slug": "construct-the-minimum-bitwise-array-i",
+      "problem_title": "Construct the Minimum Bitwise Array I"
+    },
     "3348": {
       "difficulty": "Hard",
       "folder_name": "3348-smallest-divisible-digit-product-ii",
@@ -2668,5 +2680,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 221
+  "total_solved": 222
 }

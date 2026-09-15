@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **221** |
-| Easy | 122 |
+| Total Solved | **222** |
+| Easy | 123 |
 | Medium | 83 |
 | Hard | 16 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **122** (55%)  
-🟡 Medium &nbsp; **83** (38%)  
+🟢 Easy &nbsp; **123** (55%)  
+🟡 Medium &nbsp; **83** (37%)  
 🔴 Hard &nbsp; **16** (7%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 216 |
+| C++ | 217 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [3314. Construct the Minimum Bitwise Array I](./3314-construct-the-minimum-bitwise-array-i/README.md) | Easy | C++ |
 | [3304. Find the K-th Character in String Game I](./3304-find-the-k-th-character-in-string-game-i/README.md) | Easy | C++ |
 | [3750. Minimum Number of Flips to Reverse Binary String](./3750-minimum-number-of-flips-to-reverse-binary-string/README.md) | Easy | C++ |
 | [117. Populating Next Right Pointers in Each Node II](./0117-populating-next-right-pointers-in-each-node-ii/README.md) | Medium | C++ |
 | [2472. Maximum Number of Non-overlapping Palindrome Substrings](./2472-maximum-number-of-non-overlapping-palindrome-substrings/README.md) | Hard | C++ |
-| [3950. Exactly One Consecutive Set Bits Pair](./3950-exactly-one-consecutive-set-bits-pair/README.md) | Easy | C++ |
