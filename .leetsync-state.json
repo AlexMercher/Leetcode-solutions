@@ -1,12 +1,12 @@
 {
-  "easy_count": 137,
+  "easy_count": 138,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 233,
+    "cpp": 234,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-16T15:06:37Z",
+  "last_synced": "2026-09-16T15:13:47Z",
   "medium_count": 85,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -827,6 +827,18 @@
       "problem_number": 2032,
       "problem_slug": "two-out-of-three",
       "problem_title": "Two Out of Three"
+    },
+    "2037": {
+      "difficulty": "Easy",
+      "folder_name": "2037-minimum-number-of-moves-to-seat-everyone",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-16T15:13:47Z",
+      "notes": "",
+      "problem_number": 2037,
+      "problem_slug": "minimum-number-of-moves-to-seat-everyone",
+      "problem_title": "Minimum Number of Moves to Seat Everyone"
     },
     "204": {
       "difficulty": "Medium",
@@ -2872,5 +2884,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 238
+  "total_solved": 239
 }
