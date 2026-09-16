@@ -1,12 +1,12 @@
 {
-  "easy_count": 138,
+  "easy_count": 139,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 234,
+    "cpp": 235,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-16T15:13:47Z",
+  "last_synced": "2026-09-16T15:24:14Z",
   "medium_count": 85,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -887,6 +887,18 @@
       "problem_number": 206,
       "problem_slug": "reverse-linked-list",
       "problem_title": "Reverse Linked List"
+    },
+    "2078": {
+      "difficulty": "Easy",
+      "folder_name": "2078-two-furthest-houses-with-different-colors",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-16T15:24:14Z",
+      "notes": "",
+      "problem_number": 2078,
+      "problem_slug": "two-furthest-houses-with-different-colors",
+      "problem_title": "Two Furthest Houses With Different Colors"
     },
     "2091": {
       "difficulty": "Medium",
@@ -2884,5 +2896,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 239
+  "total_solved": 240
 }
