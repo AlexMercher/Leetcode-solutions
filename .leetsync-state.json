@@ -1,12 +1,12 @@
 {
-  "easy_count": 124,
+  "easy_count": 125,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 220,
+    "cpp": 221,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-16T05:35:08Z",
+  "last_synced": "2026-09-16T05:43:02Z",
   "medium_count": 85,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2713,8 +2713,20 @@
       "problem_number": 97,
       "problem_slug": "interleaving-string",
       "problem_title": "Interleaving String"
+    },
+    "976": {
+      "difficulty": "Easy",
+      "folder_name": "0976-largest-perimeter-triangle",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-16T05:43:02Z",
+      "notes": "",
+      "problem_number": 976,
+      "problem_slug": "largest-perimeter-triangle",
+      "problem_title": "Largest Perimeter Triangle"
     }
   },
   "schema_version": 1,
-  "total_solved": 225
+  "total_solved": 226
 }
