@@ -1,12 +1,12 @@
 {
-  "easy_count": 134,
+  "easy_count": 135,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 230,
+    "cpp": 231,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-16T12:38:27Z",
+  "last_synced": "2026-09-16T12:46:34Z",
   "medium_count": 85,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -683,6 +683,18 @@
       "problem_number": 190,
       "problem_slug": "reverse-bits",
       "problem_title": "Reverse Bits"
+    },
+    "1903": {
+      "difficulty": "Easy",
+      "folder_name": "1903-largest-odd-number-in-string",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-16T12:46:34Z",
+      "notes": "## Mistakes\n\nFor a string:\n\nstring num = \"35427\";\n\nthe indices are:\n\n character:   3   5   4   2   7\n index:       0   1   2   3   4\n\nSo:\n\nnum[0] = '3'\nnum[1] = '5'\nnum[2] = '4'\nnum[3] = '2'\nnum[4] = '7'",
+      "problem_number": 1903,
+      "problem_slug": "largest-odd-number-in-string",
+      "problem_title": "Largest Odd Number in String"
     },
     "191": {
       "difficulty": "Easy",
@@ -2836,5 +2848,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 235
+  "total_solved": 236
 }
