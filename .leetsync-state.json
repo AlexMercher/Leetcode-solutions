@@ -1,12 +1,12 @@
 {
-  "easy_count": 125,
+  "easy_count": 126,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 221,
+    "cpp": 222,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-16T05:43:02Z",
+  "last_synced": "2026-09-16T05:54:50Z",
   "medium_count": 85,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -35,6 +35,18 @@
       "problem_number": 10,
       "problem_slug": "regular-expression-matching",
       "problem_title": "Regular Expression Matching"
+    },
+    "1005": {
+      "difficulty": "Easy",
+      "folder_name": "1005-maximize-sum-of-array-after-k-negations",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-16T05:54:50Z",
+      "notes": "",
+      "problem_number": 1005,
+      "problem_slug": "maximize-sum-of-array-after-k-negations",
+      "problem_title": "Maximize Sum Of Array After K Negations"
     },
     "1009": {
       "difficulty": "Easy",
@@ -2728,5 +2740,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 226
+  "total_solved": 227
 }
