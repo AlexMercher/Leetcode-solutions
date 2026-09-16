@@ -1,12 +1,12 @@
 {
-  "easy_count": 131,
+  "easy_count": 132,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 227,
+    "cpp": 228,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-16T12:03:55Z",
+  "last_synced": "2026-09-16T12:18:52Z",
   "medium_count": 85,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -563,6 +563,18 @@
       "problem_number": 171,
       "problem_slug": "excel-sheet-column-number",
       "problem_title": "Excel Sheet Column Number"
+    },
+    "1710": {
+      "difficulty": "Easy",
+      "folder_name": "1710-maximum-units-on-a-truck",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-16T12:18:52Z",
+      "notes": "Made a mistake in making the final number that is there left in the truck and hence was getting the wrong answer all the time.",
+      "problem_number": 1710,
+      "problem_slug": "maximum-units-on-a-truck",
+      "problem_title": "Maximum Units on a Truck"
     },
     "1720": {
       "difficulty": "Easy",
@@ -2800,5 +2812,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 232
+  "total_solved": 233
 }
