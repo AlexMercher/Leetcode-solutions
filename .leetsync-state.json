@@ -1,12 +1,12 @@
 {
-  "easy_count": 132,
+  "easy_count": 133,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 228,
+    "cpp": 229,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-16T12:18:52Z",
+  "last_synced": "2026-09-16T12:29:48Z",
   "medium_count": 85,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -599,6 +599,18 @@
       "problem_number": 1732,
       "problem_slug": "find-the-highest-altitude",
       "problem_title": "Find the Highest Altitude"
+    },
+    "1736": {
+      "difficulty": "Easy",
+      "folder_name": "1736-latest-time-by-replacing-hidden-digits",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-16T12:29:48Z",
+      "notes": "",
+      "problem_number": 1736,
+      "problem_slug": "latest-time-by-replacing-hidden-digits",
+      "problem_title": "Latest Time by Replacing Hidden Digits"
     },
     "1763": {
       "difficulty": "Easy",
@@ -2812,5 +2824,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 233
+  "total_solved": 234
 }
