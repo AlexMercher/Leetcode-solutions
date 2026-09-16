@@ -2,12 +2,12 @@
   "easy_count": 123,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 218,
+    "cpp": 219,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-15T10:42:17Z",
-  "medium_count": 84,
+  "last_synced": "2026-09-16T05:13:24Z",
+  "medium_count": 85,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -431,6 +431,18 @@
       "problem_number": 160,
       "problem_slug": "intersection-of-two-linked-lists",
       "problem_title": "Intersection of Two Linked Lists"
+    },
+    "1621": {
+      "difficulty": "Medium",
+      "folder_name": "1621-number-of-sets-of-k-non-overlapping-line-segments",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-16T05:13:24Z",
+      "notes": "Note: Took a lot of time to come to the n-k+1 C 2k analogy for this one.",
+      "problem_number": 1621,
+      "problem_slug": "number-of-sets-of-k-non-overlapping-line-segments",
+      "problem_title": "Number of Sets of K Non-Overlapping Line Segments"
     },
     "1668": {
       "difficulty": "Easy",
@@ -2692,5 +2704,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 223
+  "total_solved": 224
 }
