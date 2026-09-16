@@ -1,12 +1,12 @@
 {
-  "easy_count": 127,
+  "easy_count": 128,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 223,
+    "cpp": 224,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-16T06:03:50Z",
+  "last_synced": "2026-09-16T06:09:22Z",
   "medium_count": 85,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -251,6 +251,18 @@
       "problem_number": 121,
       "problem_slug": "best-time-to-buy-and-sell-stock",
       "problem_title": "Best Time to Buy and Sell Stock"
+    },
+    "1217": {
+      "difficulty": "Easy",
+      "folder_name": "1217-minimum-cost-to-move-chips-to-the-same-position",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-16T06:09:22Z",
+      "notes": "",
+      "problem_number": 1217,
+      "problem_slug": "minimum-cost-to-move-chips-to-the-same-position",
+      "problem_title": "Minimum Cost to Move Chips to The Same Position"
     },
     "122": {
       "difficulty": "Medium",
@@ -2752,5 +2764,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 228
+  "total_solved": 229
 }
