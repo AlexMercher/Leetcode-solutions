@@ -1,12 +1,12 @@
 {
-  "easy_count": 123,
+  "easy_count": 124,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 219,
+    "cpp": 220,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-16T05:13:24Z",
+  "last_synced": "2026-09-16T05:35:08Z",
   "medium_count": 85,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2666,6 +2666,18 @@
       "problem_slug": "distinct-subsequences-ii",
       "problem_title": "Distinct Subsequences II"
     },
+    "942": {
+      "difficulty": "Easy",
+      "folder_name": "0942-di-string-match",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-16T05:35:08Z",
+      "notes": "Looked intimidating at first now its good.",
+      "problem_number": 942,
+      "problem_slug": "di-string-match",
+      "problem_title": "DI String Match"
+    },
     "95": {
       "difficulty": "Medium",
       "folder_name": "0095-unique-binary-search-trees-ii",
@@ -2704,5 +2716,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 224
+  "total_solved": 225
 }

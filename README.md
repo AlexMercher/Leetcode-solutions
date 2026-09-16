@@ -6,14 +6,14 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **224** |
-| Easy | 123 |
+| Total Solved | **225** |
+| Easy | 124 |
 | Medium | 85 |
 | Hard | 16 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **123** (55%)  
+🟢 Easy &nbsp; **124** (55%)  
 🟡 Medium &nbsp; **85** (38%)  
 🔴 Hard &nbsp; **16** (7%)
 
@@ -21,7 +21,7 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 219 |
+| C++ | 220 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [942. DI String Match](./0942-di-string-match/README.md) | Easy | C++ |
 | [1621. Number of Sets of K Non-Overlapping Line Segments](./1621-number-of-sets-of-k-non-overlapping-line-segments/README.md) | Medium | C++ |
 | [287. Find the Duplicate Number](./0287-find-the-duplicate-number/README.md) | Medium | C++ |
 | [3314. Construct the Minimum Bitwise Array I](./3314-construct-the-minimum-bitwise-array-i/README.md) | Easy | C++ |
 | [3304. Find the K-th Character in String Game I](./3304-find-the-k-th-character-in-string-game-i/README.md) | Easy | C++ |
-| [3750. Minimum Number of Flips to Reverse Binary String](./3750-minimum-number-of-flips-to-reverse-binary-string/README.md) | Easy | C++ |
