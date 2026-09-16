@@ -1,12 +1,12 @@
 {
-  "easy_count": 128,
+  "easy_count": 129,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 224,
+    "cpp": 225,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-16T06:09:22Z",
+  "last_synced": "2026-09-16T06:14:43Z",
   "medium_count": 85,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -275,6 +275,18 @@
       "problem_number": 122,
       "problem_slug": "best-time-to-buy-and-sell-stock-ii",
       "problem_title": "Best Time to Buy and Sell Stock II"
+    },
+    "1221": {
+      "difficulty": "Easy",
+      "folder_name": "1221-split-a-string-in-balanced-strings",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-16T06:14:43Z",
+      "notes": "",
+      "problem_number": 1221,
+      "problem_slug": "split-a-string-in-balanced-strings",
+      "problem_title": "Split a String in Balanced Strings"
     },
     "1290": {
       "difficulty": "Easy",
@@ -2764,5 +2776,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 229
+  "total_solved": 230
 }
