@@ -1,12 +1,12 @@
 {
-  "easy_count": 133,
+  "easy_count": 134,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 229,
+    "cpp": 230,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-16T12:29:48Z",
+  "last_synced": "2026-09-16T12:38:27Z",
   "medium_count": 85,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -623,6 +623,18 @@
       "problem_number": 1763,
       "problem_slug": "longest-nice-substring",
       "problem_title": "Longest Nice Substring"
+    },
+    "1827": {
+      "difficulty": "Easy",
+      "folder_name": "1827-minimum-operations-to-make-the-array-increasing",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-16T12:38:27Z",
+      "notes": "",
+      "problem_number": 1827,
+      "problem_slug": "minimum-operations-to-make-the-array-increasing",
+      "problem_title": "Minimum Operations to Make the Array Increasing"
     },
     "1863": {
       "difficulty": "Easy",
@@ -2824,5 +2836,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 234
+  "total_solved": 235
 }
