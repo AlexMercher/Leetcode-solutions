@@ -1,12 +1,12 @@
 {
-  "easy_count": 136,
+  "easy_count": 137,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 232,
+    "cpp": 233,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-16T15:00:17Z",
+  "last_synced": "2026-09-16T15:06:37Z",
   "medium_count": 85,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -779,6 +779,18 @@
       "problem_number": 2,
       "problem_slug": "add-two-numbers",
       "problem_title": "Add Two Numbers"
+    },
+    "2027": {
+      "difficulty": "Easy",
+      "folder_name": "2027-minimum-moves-to-convert-string",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-16T15:06:37Z",
+      "notes": "",
+      "problem_number": 2027,
+      "problem_slug": "minimum-moves-to-convert-string",
+      "problem_title": "Minimum Moves to Convert String"
     },
     "2029": {
       "difficulty": "Medium",
@@ -2860,5 +2872,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 237
+  "total_solved": 238
 }
