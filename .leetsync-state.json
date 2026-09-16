@@ -1,12 +1,12 @@
 {
-  "easy_count": 130,
+  "easy_count": 131,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 226,
+    "cpp": 227,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-16T06:21:13Z",
+  "last_synced": "2026-09-16T12:03:55Z",
   "medium_count": 85,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -383,6 +383,18 @@
       "problem_number": 139,
       "problem_slug": "word-break",
       "problem_title": "Word Break"
+    },
+    "1403": {
+      "difficulty": "Easy",
+      "folder_name": "1403-minimum-subsequence-in-non-increasing-order",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-16T12:03:55Z",
+      "notes": "# Mistakes\n\nDid not make updation in a correct way instead of i-- i did i++;",
+      "problem_number": 1403,
+      "problem_slug": "minimum-subsequence-in-non-increasing-order",
+      "problem_title": "Minimum Subsequence in Non-Increasing Order"
     },
     "1406": {
       "difficulty": "Hard",
@@ -2788,5 +2800,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 231
+  "total_solved": 232
 }
