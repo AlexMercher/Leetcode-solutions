@@ -1,12 +1,12 @@
 {
-  "easy_count": 135,
+  "easy_count": 136,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 231,
+    "cpp": 232,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-16T12:46:34Z",
+  "last_synced": "2026-09-16T15:00:17Z",
   "medium_count": 85,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -731,6 +731,18 @@
       "problem_number": 1967,
       "problem_slug": "number-of-strings-that-appear-as-substrings-in-word",
       "problem_title": "Number of Strings That Appear as Substrings in Word"
+    },
+    "1974": {
+      "difficulty": "Easy",
+      "folder_name": "1974-minimum-time-to-type-word-using-special-typewriter",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-16T15:00:17Z",
+      "notes": "",
+      "problem_number": 1974,
+      "problem_slug": "minimum-time-to-type-word-using-special-typewriter",
+      "problem_title": "Minimum Time to Type Word Using Special Typewriter"
     },
     "1979": {
       "difficulty": "Easy",
@@ -2848,5 +2860,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 236
+  "total_solved": 237
 }
