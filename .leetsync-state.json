@@ -1,12 +1,12 @@
 {
-  "easy_count": 141,
+  "easy_count": 142,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 241,
+    "cpp": 242,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-17T12:05:17Z",
+  "last_synced": "2026-09-17T12:12:05Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1031,6 +1031,18 @@
       "problem_number": 2220,
       "problem_slug": "minimum-bit-flips-to-convert-number",
       "problem_title": "Minimum Bit Flips to Convert Number"
+    },
+    "2224": {
+      "difficulty": "Easy",
+      "folder_name": "2224-minimum-number-of-operations-to-convert-time",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-17T12:12:05Z",
+      "notes": "",
+      "problem_number": 2224,
+      "problem_slug": "minimum-number-of-operations-to-convert-time",
+      "problem_title": "Minimum Number of Operations to Convert Time"
     },
     "2259": {
       "difficulty": "Easy",
@@ -2968,5 +2980,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 246
+  "total_solved": 247
 }
