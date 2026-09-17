@@ -1,12 +1,12 @@
 {
-  "easy_count": 150,
+  "easy_count": 151,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 250,
+    "cpp": 251,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-17T15:38:27Z",
+  "last_synced": "2026-09-17T15:41:24Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1379,6 +1379,18 @@
       "problem_number": 268,
       "problem_slug": "missing-number",
       "problem_title": "Missing Number"
+    },
+    "2697": {
+      "difficulty": "Easy",
+      "folder_name": "2697-lexicographically-smallest-palindrome",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-17T15:41:24Z",
+      "notes": "",
+      "problem_number": 2697,
+      "problem_slug": "lexicographically-smallest-palindrome",
+      "problem_title": "Lexicographically Smallest Palindrome"
     },
     "278": {
       "difficulty": "Easy",
@@ -3076,5 +3088,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 255
+  "total_solved": 256
 }

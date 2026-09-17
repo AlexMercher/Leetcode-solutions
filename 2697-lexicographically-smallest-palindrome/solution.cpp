@@ -1,0 +1,20 @@
+#pragma GCC optimize("O3")
+#pragma GCC optimize("Ofast")
+#pragma GCC optimize("unroll-loops")
+
+class Solution {
+public:
+    string makeSmallestPalindrome(string s) {
+        int left=0;
+        int right=s.size()-1;
+        while(left<right){
+            if(s[left]!=s[right]){
+                if(s[left]<s[right]) s[right]=s[left];
+                else s[left]=s[right];
+            }
+            left++;
+            right--;
+        }
+        return s;
+    }
+};
