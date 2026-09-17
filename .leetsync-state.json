@@ -1,12 +1,12 @@
 {
-  "easy_count": 151,
+  "easy_count": 152,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 251,
+    "cpp": 252,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-17T15:41:24Z",
+  "last_synced": "2026-09-17T15:54:42Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1439,6 +1439,18 @@
       "problem_number": 2859,
       "problem_slug": "sum-of-values-at-indices-with-k-set-bits",
       "problem_title": "Sum of Values at Indices With K Set Bits"
+    },
+    "2864": {
+      "difficulty": "Easy",
+      "folder_name": "2864-maximum-odd-binary-number",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-17T15:54:42Z",
+      "notes": "",
+      "problem_number": 2864,
+      "problem_slug": "maximum-odd-binary-number",
+      "problem_title": "Maximum Odd Binary Number"
     },
     "2869": {
       "difficulty": "Easy",
@@ -3088,5 +3100,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 256
+  "total_solved": 257
 }
