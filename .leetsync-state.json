@@ -1,12 +1,12 @@
 {
-  "easy_count": 142,
+  "easy_count": 143,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 242,
+    "cpp": 243,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-17T12:12:05Z",
+  "last_synced": "2026-09-17T12:58:22Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1079,6 +1079,18 @@
       "problem_number": 231,
       "problem_slug": "power-of-two",
       "problem_title": "Power of Two"
+    },
+    "2335": {
+      "difficulty": "Easy",
+      "folder_name": "2335-minimum-amount-of-time-to-fill-cups",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-17T12:58:22Z",
+      "notes": "",
+      "problem_number": 2335,
+      "problem_slug": "minimum-amount-of-time-to-fill-cups",
+      "problem_title": "Minimum Amount of Time to Fill Cups"
     },
     "234": {
       "difficulty": "Easy",
@@ -2980,5 +2992,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 247
+  "total_solved": 248
 }
