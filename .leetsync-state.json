@@ -1,12 +1,12 @@
 {
-  "easy_count": 152,
+  "easy_count": 153,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 252,
+    "cpp": 253,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-17T15:54:42Z",
+  "last_synced": "2026-09-17T16:02:16Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1391,6 +1391,18 @@
       "problem_number": 2697,
       "problem_slug": "lexicographically-smallest-palindrome",
       "problem_title": "Lexicographically Smallest Palindrome"
+    },
+    "2706": {
+      "difficulty": "Easy",
+      "folder_name": "2706-buy-two-chocolates",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-17T16:02:16Z",
+      "notes": "",
+      "problem_number": 2706,
+      "problem_slug": "buy-two-chocolates",
+      "problem_title": "Buy Two Chocolates"
     },
     "278": {
       "difficulty": "Easy",
@@ -3100,5 +3112,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 257
+  "total_solved": 258
 }
