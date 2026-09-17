@@ -1,12 +1,12 @@
 {
-  "easy_count": 149,
+  "easy_count": 150,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 249,
+    "cpp": 250,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-17T15:37:02Z",
+  "last_synced": "2026-09-17T15:38:27Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1355,6 +1355,18 @@
       "problem_number": 264,
       "problem_slug": "ugly-number-ii",
       "problem_title": "Ugly Number II"
+    },
+    "2656": {
+      "difficulty": "Easy",
+      "folder_name": "2656-maximum-sum-with-exactly-k-elements",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-17T15:38:27Z",
+      "notes": "No mistakes were made now.",
+      "problem_number": 2656,
+      "problem_slug": "maximum-sum-with-exactly-k-elements",
+      "problem_title": "Maximum Sum With Exactly K Elements "
     },
     "268": {
       "difficulty": "Easy",
@@ -3064,5 +3076,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 254
+  "total_solved": 255
 }
