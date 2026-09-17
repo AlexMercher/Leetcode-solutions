@@ -1,12 +1,12 @@
 {
-  "easy_count": 145,
+  "easy_count": 146,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 245,
+    "cpp": 246,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-17T13:16:58Z",
+  "last_synced": "2026-09-17T13:37:52Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1247,6 +1247,18 @@
       "problem_number": 2553,
       "problem_slug": "separate-the-digits-in-an-array",
       "problem_title": "Separate the Digits in an Array"
+    },
+    "2566": {
+      "difficulty": "Easy",
+      "folder_name": "2566-maximum-difference-by-remapping-a-digit",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-17T13:37:52Z",
+      "notes": "Very few mistakes was donw because of type casting only.",
+      "problem_number": 2566,
+      "problem_slug": "maximum-difference-by-remapping-a-digit",
+      "problem_title": "Maximum Difference by Remapping a Digit"
     },
     "2574": {
       "difficulty": "Easy",
@@ -3016,5 +3028,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 250
+  "total_solved": 251
 }
