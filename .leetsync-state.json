@@ -2,12 +2,12 @@
   "easy_count": 140,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 237,
+    "cpp": 238,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-17T07:08:26Z",
-  "medium_count": 86,
+  "last_synced": "2026-09-17T07:18:08Z",
+  "medium_count": 87,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -407,6 +407,18 @@
       "problem_number": 1406,
       "problem_slug": "stone-game-iii",
       "problem_title": "Stone Game III"
+    },
+    "142": {
+      "difficulty": "Medium",
+      "folder_name": "0142-linked-list-cycle-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-17T07:18:08Z",
+      "notes": "Use do while loop to ensure that it runs for the first time at least other wise slow==head and the loop never runs hence we used an exit controlled loop..",
+      "problem_number": 142,
+      "problem_slug": "linked-list-cycle-ii",
+      "problem_title": "Linked List Cycle II"
     },
     "144": {
       "difficulty": "Easy",
@@ -2920,5 +2932,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 242
+  "total_solved": 243
 }
