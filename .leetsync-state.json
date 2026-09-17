@@ -2,12 +2,12 @@
   "easy_count": 140,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 239,
+    "cpp": 240,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-17T07:29:01Z",
-  "medium_count": 88,
+  "last_synced": "2026-09-17T07:40:06Z",
+  "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -359,6 +359,18 @@
       "problem_number": 1356,
       "problem_slug": "sort-integers-by-the-number-of-1-bits",
       "problem_title": "Sort Integers by The Number of 1 Bits"
+    },
+    "137": {
+      "difficulty": "Medium",
+      "folder_name": "0137-single-number-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-17T07:40:06Z",
+      "notes": "",
+      "problem_number": 137,
+      "problem_slug": "single-number-ii",
+      "problem_title": "Single Number II"
     },
     "1386": {
       "difficulty": "Medium",
@@ -2944,5 +2956,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 244
+  "total_solved": 245
 }
