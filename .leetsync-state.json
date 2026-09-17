@@ -1,12 +1,12 @@
 {
-  "easy_count": 147,
+  "easy_count": 148,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 247,
+    "cpp": 248,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-17T13:44:34Z",
+  "last_synced": "2026-09-17T15:36:13Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1139,6 +1139,18 @@
       "problem_number": 2383,
       "problem_slug": "minimum-hours-of-training-to-win-a-competition",
       "problem_title": "Minimum Hours of Training to Win a Competition"
+    },
+    "2389": {
+      "difficulty": "Easy",
+      "folder_name": "2389-longest-subsequence-with-limited-sum",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-17T15:36:13Z",
+      "notes": "No mistakes commited.\n",
+      "problem_number": 2389,
+      "problem_slug": "longest-subsequence-with-limited-sum",
+      "problem_title": "Longest Subsequence With Limited Sum"
     },
     "24": {
       "difficulty": "Medium",
@@ -3040,5 +3052,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 252
+  "total_solved": 253
 }
