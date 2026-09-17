@@ -1,12 +1,12 @@
 {
-  "easy_count": 148,
+  "easy_count": 149,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 248,
+    "cpp": 249,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-17T15:36:13Z",
+  "last_synced": "2026-09-17T15:37:02Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1331,6 +1331,18 @@
       "problem_number": 2595,
       "problem_slug": "number-of-even-and-odd-bits",
       "problem_title": "Number of Even and Odd Bits"
+    },
+    "2600": {
+      "difficulty": "Easy",
+      "folder_name": "2600-k-items-with-the-maximum-sum",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-17T15:37:02Z",
+      "notes": "",
+      "problem_number": 2600,
+      "problem_slug": "k-items-with-the-maximum-sum",
+      "problem_title": "K Items With the Maximum Sum"
     },
     "264": {
       "difficulty": "Medium",
@@ -3052,5 +3064,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 253
+  "total_solved": 254
 }
