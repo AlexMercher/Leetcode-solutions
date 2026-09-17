@@ -1,12 +1,12 @@
 {
-  "easy_count": 143,
+  "easy_count": 144,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 243,
+    "cpp": 244,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-17T12:58:22Z",
+  "last_synced": "2026-09-17T13:03:55Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1115,6 +1115,18 @@
       "problem_number": 2351,
       "problem_slug": "first-letter-to-appear-twice",
       "problem_title": "First Letter to Appear Twice"
+    },
+    "2357": {
+      "difficulty": "Easy",
+      "folder_name": "2357-make-array-zero-by-subtracting-equal-amounts",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-17T13:03:55Z",
+      "notes": "",
+      "problem_number": 2357,
+      "problem_slug": "make-array-zero-by-subtracting-equal-amounts",
+      "problem_title": "Make Array Zero by Subtracting Equal Amounts"
     },
     "24": {
       "difficulty": "Medium",
@@ -2992,5 +3004,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 248
+  "total_solved": 249
 }
