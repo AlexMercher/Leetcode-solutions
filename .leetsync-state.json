@@ -1,12 +1,12 @@
 {
-  "easy_count": 144,
+  "easy_count": 145,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 244,
+    "cpp": 245,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-17T13:03:55Z",
+  "last_synced": "2026-09-17T13:16:58Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1127,6 +1127,18 @@
       "problem_number": 2357,
       "problem_slug": "make-array-zero-by-subtracting-equal-amounts",
       "problem_title": "Make Array Zero by Subtracting Equal Amounts"
+    },
+    "2383": {
+      "difficulty": "Easy",
+      "folder_name": "2383-minimum-hours-of-training-to-win-a-competition",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-17T13:16:58Z",
+      "notes": "",
+      "problem_number": 2383,
+      "problem_slug": "minimum-hours-of-training-to-win-a-competition",
+      "problem_title": "Minimum Hours of Training to Win a Competition"
     },
     "24": {
       "difficulty": "Medium",
@@ -3004,5 +3016,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 249
+  "total_solved": 250
 }

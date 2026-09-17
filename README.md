@@ -6,14 +6,14 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **249** |
-| Easy | 144 |
+| Total Solved | **250** |
+| Easy | 145 |
 | Medium | 89 |
 | Hard | 16 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **144** (58%)  
+🟢 Easy &nbsp; **145** (58%)  
 🟡 Medium &nbsp; **89** (36%)  
 🔴 Hard &nbsp; **16** (6%)
 
@@ -21,7 +21,7 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 244 |
+| C++ | 245 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [2383. Minimum Hours of Training to Win a Competition](./2383-minimum-hours-of-training-to-win-a-competition/README.md) | Easy | C++ |
 | [2357. Make Array Zero by Subtracting Equal Amounts](./2357-make-array-zero-by-subtracting-equal-amounts/README.md) | Easy | C++ |
 | [2335. Minimum Amount of Time to Fill Cups](./2335-minimum-amount-of-time-to-fill-cups/README.md) | Easy | C++ |
 | [2224. Minimum Number of Operations to Convert Time](./2224-minimum-number-of-operations-to-convert-time/README.md) | Easy | C++ |
 | [2259. Remove Digit From Number to Maximize Result](./2259-remove-digit-from-number-to-maximize-result/README.md) | Easy | C++ |
-| [137. Single Number II](./0137-single-number-ii/README.md) | Medium | C++ |
