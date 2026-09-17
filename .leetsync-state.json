@@ -1,12 +1,12 @@
 {
-  "easy_count": 146,
+  "easy_count": 147,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 246,
+    "cpp": 247,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-17T13:37:52Z",
+  "last_synced": "2026-09-17T13:44:34Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1271,6 +1271,18 @@
       "problem_number": 2574,
       "problem_slug": "left-and-right-sum-differences",
       "problem_title": "Left and Right Sum Differences"
+    },
+    "2578": {
+      "difficulty": "Easy",
+      "folder_name": "2578-split-with-minimum-sum",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-17T13:44:34Z",
+      "notes": "Minor mistakes commited nothing major.",
+      "problem_number": 2578,
+      "problem_slug": "split-with-minimum-sum",
+      "problem_title": "Split With Minimum Sum"
     },
     "258": {
       "difficulty": "Easy",
@@ -3028,5 +3040,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 251
+  "total_solved": 252
 }
