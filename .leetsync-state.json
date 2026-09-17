@@ -2,12 +2,12 @@
   "easy_count": 140,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 238,
+    "cpp": 239,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-17T07:18:08Z",
-  "medium_count": 87,
+  "last_synced": "2026-09-17T07:29:01Z",
+  "medium_count": 88,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -2702,6 +2702,18 @@
       "problem_slug": "prime-number-of-set-bits-in-binary-representation",
       "problem_title": "Prime Number of Set Bits in Binary Representation"
     },
+    "78": {
+      "difficulty": "Medium",
+      "folder_name": "0078-subsets",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-17T07:29:01Z",
+      "notes": "",
+      "problem_number": 78,
+      "problem_slug": "subsets",
+      "problem_title": "Subsets"
+    },
     "8": {
       "difficulty": "Medium",
       "folder_name": "0008-string-to-integer-atoi",
@@ -2932,5 +2944,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 243
+  "total_solved": 244
 }
