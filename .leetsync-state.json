@@ -2,12 +2,12 @@
   "easy_count": 140,
   "hard_count": 16,
   "language_counts": {
-    "cpp": 236,
+    "cpp": 237,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-16T15:36:21Z",
-  "medium_count": 85,
+  "last_synced": "2026-09-17T07:08:26Z",
+  "medium_count": 86,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -443,6 +443,18 @@
       "problem_number": 1464,
       "problem_slug": "maximum-product-of-two-elements-in-an-array",
       "problem_title": "Maximum Product of Two Elements in an Array"
+    },
+    "1477": {
+      "difficulty": "Medium",
+      "folder_name": "1477-find-two-non-overlapping-sub-arrays-each-with-target-sum",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-17T07:08:26Z",
+      "notes": "",
+      "problem_number": 1477,
+      "problem_slug": "find-two-non-overlapping-sub-arrays-each-with-target-sum",
+      "problem_title": "Find Two Non-overlapping Sub-arrays Each With Target Sum"
     },
     "1486": {
       "difficulty": "Easy",
@@ -2908,5 +2920,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 241
+  "total_solved": 242
 }
