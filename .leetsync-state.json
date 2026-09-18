@@ -1,12 +1,12 @@
 {
-  "easy_count": 174,
+  "easy_count": 175,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 275,
+    "cpp": 276,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T15:51:32Z",
+  "last_synced": "2026-09-18T17:26:45Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -803,6 +803,18 @@
       "problem_number": 1967,
       "problem_slug": "number-of-strings-that-appear-as-substrings-in-word",
       "problem_title": "Number of Strings That Appear as Substrings in Word"
+    },
+    "1971": {
+      "difficulty": "Easy",
+      "folder_name": "1971-find-if-path-exists-in-graph",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T17:26:45Z",
+      "notes": "Learned to build and treaverse adjacency lists.",
+      "problem_number": 1971,
+      "problem_slug": "find-if-path-exists-in-graph",
+      "problem_title": "Find if Path Exists in Graph"
     },
     "1974": {
       "difficulty": "Easy",
@@ -3376,5 +3388,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 280
+  "total_solved": 281
 }
