@@ -1,12 +1,12 @@
 {
-  "easy_count": 167,
+  "easy_count": 168,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 268,
+    "cpp": 269,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T13:41:30Z",
+  "last_synced": "2026-09-18T13:47:56Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2834,6 +2834,18 @@
       "problem_slug": "maximum-subarray",
       "problem_title": "Maximum Subarray"
     },
+    "530": {
+      "difficulty": "Easy",
+      "folder_name": "0530-minimum-absolute-difference-in-bst",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T13:47:56Z",
+      "notes": "",
+      "problem_number": 530,
+      "problem_slug": "minimum-absolute-difference-in-bst",
+      "problem_title": "Minimum Absolute Difference in BST"
+    },
     "55": {
       "difficulty": "Medium",
       "folder_name": "0055-jump-game",
@@ -3292,5 +3304,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 273
+  "total_solved": 274
 }
