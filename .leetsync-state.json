@@ -1,12 +1,12 @@
 {
-  "easy_count": 161,
+  "easy_count": 162,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 262,
+    "cpp": 263,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T10:52:11Z",
+  "last_synced": "2026-09-18T11:01:38Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -107,6 +107,18 @@
       "problem_number": 109,
       "problem_slug": "convert-sorted-list-to-binary-search-tree",
       "problem_title": "Convert Sorted List to Binary Search Tree"
+    },
+    "111": {
+      "difficulty": "Easy",
+      "folder_name": "0111-minimum-depth-of-binary-tree",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T11:01:38Z",
+      "notes": "",
+      "problem_number": 111,
+      "problem_slug": "minimum-depth-of-binary-tree",
+      "problem_title": "Minimum Depth of Binary Tree"
     },
     "1137": {
       "difficulty": "Easy",
@@ -3220,5 +3232,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 267
+  "total_solved": 268
 }

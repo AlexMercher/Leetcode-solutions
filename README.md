@@ -6,14 +6,14 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **267** |
-| Easy | 161 |
+| Total Solved | **268** |
+| Easy | 162 |
 | Medium | 89 |
 | Hard | 17 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **161** (60%)  
+🟢 Easy &nbsp; **162** (60%)  
 🟡 Medium &nbsp; **89** (33%)  
 🔴 Hard &nbsp; **17** (6%)
 
@@ -21,7 +21,7 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 262 |
+| C++ | 263 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [111. Minimum Depth of Binary Tree](./0111-minimum-depth-of-binary-tree/README.md) | Easy | C++ |
 | [3684. Maximize Sum of At Most K Distinct Elements](./3684-maximize-sum-of-at-most-k-distinct-elements/README.md) | Easy | C++ |
 | [3745. Maximize Expression of Three Elements](./3745-maximize-expression-of-three-elements/README.md) | Easy | C++ |
 | [4000. Largest Integer With Given Digit Sum](./4000-largest-integer-with-given-digit-sum/README.md) | Easy | C++ |
 | [3545. Minimum Deletions for At Most K Distinct Characters](./3545-minimum-deletions-for-at-most-k-distinct-characters/README.md) | Easy | C++ |
-| [3487. Maximum Unique Subarray Sum After Deletion](./3487-maximum-unique-subarray-sum-after-deletion/README.md) | Easy | C++ |
