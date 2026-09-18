@@ -1,12 +1,12 @@
 {
-  "easy_count": 158,
+  "easy_count": 159,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 259,
+    "cpp": 260,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T09:10:20Z",
+  "last_synced": "2026-09-18T10:36:49Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2426,6 +2426,18 @@
       "problem_slug": "median-of-two-sorted-arrays",
       "problem_title": "Median of Two Sorted Arrays"
     },
+    "4000": {
+      "difficulty": "Easy",
+      "folder_name": "4000-largest-integer-with-given-digit-sum",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T10:36:49Z",
+      "notes": "",
+      "problem_number": 4000,
+      "problem_slug": "largest-integer-with-given-digit-sum",
+      "problem_title": "Largest Integer With Given Digit Sum"
+    },
     "401": {
       "difficulty": "Easy",
       "folder_name": "0401-binary-watch",
@@ -3184,5 +3196,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 264
+  "total_solved": 265
 }
