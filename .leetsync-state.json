@@ -1,12 +1,12 @@
 {
-  "easy_count": 154,
+  "easy_count": 155,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 255,
+    "cpp": 256,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T08:28:14Z",
+  "last_synced": "2026-09-18T08:34:05Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1790,6 +1790,18 @@
       "problem_slug": "find-the-xor-of-numbers-which-appear-twice",
       "problem_title": "Find the XOR of Numbers Which Appear Twice"
     },
+    "3216": {
+      "difficulty": "Easy",
+      "folder_name": "3216-lexicographically-smallest-string-after-a-swap",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T08:34:05Z",
+      "notes": "",
+      "problem_number": 3216,
+      "problem_slug": "lexicographically-smallest-string-after-a-swap",
+      "problem_title": "Lexicographically Smallest String After a Swap"
+    },
     "322": {
       "difficulty": "Medium",
       "folder_name": "0322-coin-change",
@@ -3136,5 +3148,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 260
+  "total_solved": 261
 }
