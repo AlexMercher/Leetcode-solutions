@@ -1,12 +1,12 @@
 {
-  "easy_count": 153,
+  "easy_count": 154,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 254,
+    "cpp": 255,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T08:18:37Z",
+  "last_synced": "2026-09-18T08:28:14Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1694,6 +1694,18 @@
       "problem_slug": "distribute-elements-into-two-arrays-i",
       "problem_title": "Distribute Elements Into Two Arrays I"
     },
+    "3074": {
+      "difficulty": "Easy",
+      "folder_name": "3074-apple-redistribution-into-boxes",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T08:28:14Z",
+      "notes": "",
+      "problem_number": 3074,
+      "problem_slug": "apple-redistribution-into-boxes",
+      "problem_title": "Apple Redistribution into Boxes"
+    },
     "309": {
       "difficulty": "Medium",
       "folder_name": "0309-best-time-to-buy-and-sell-stock-with-cooldown",
@@ -3124,5 +3136,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 259
+  "total_solved": 260
 }
