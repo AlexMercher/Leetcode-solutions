@@ -6,14 +6,14 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **272** |
-| Easy | 166 |
+| Total Solved | **273** |
+| Easy | 167 |
 | Medium | 89 |
 | Hard | 17 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **166** (61%)  
+🟢 Easy &nbsp; **167** (61%)  
 🟡 Medium &nbsp; **89** (33%)  
 🔴 Hard &nbsp; **17** (6%)
 
@@ -21,7 +21,7 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 267 |
+| C++ | 268 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [559. Maximum Depth of N-ary Tree](./0559-maximum-depth-of-n-ary-tree/README.md) | Easy | C++ |
 | [463. Island Perimeter](./0463-island-perimeter/README.md) | Easy | C++ |
 | [404. Sum of Left Leaves](./0404-sum-of-left-leaves/README.md) | Easy | C++ |
 | [226. Invert Binary Tree](./0226-invert-binary-tree/README.md) | Easy | C++ |
 | [112. Path Sum](./0112-path-sum/README.md) | Easy | C++ |
-| [111. Minimum Depth of Binary Tree](./0111-minimum-depth-of-binary-tree/README.md) | Easy | C++ |

@@ -1,12 +1,12 @@
 {
-  "easy_count": 166,
+  "easy_count": 167,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 267,
+    "cpp": 268,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T13:35:03Z",
+  "last_synced": "2026-09-18T13:41:30Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2846,6 +2846,18 @@
       "problem_slug": "jump-game",
       "problem_title": "Jump Game"
     },
+    "559": {
+      "difficulty": "Easy",
+      "folder_name": "0559-maximum-depth-of-n-ary-tree",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T13:41:30Z",
+      "notes": "## Another Approach\n\nWe could also use a bfs and them make sure that we are calculating the levels as we go and then just return the level since in this the level is the maximum depth that we could have.",
+      "problem_number": 559,
+      "problem_slug": "maximum-depth-of-n-ary-tree",
+      "problem_title": "Maximum Depth of N-ary Tree"
+    },
     "561": {
       "difficulty": "Easy",
       "folder_name": "0561-array-partition",
@@ -3280,5 +3292,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 272
+  "total_solved": 273
 }
