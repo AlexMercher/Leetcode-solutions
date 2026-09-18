@@ -1,12 +1,12 @@
 {
-  "easy_count": 164,
+  "easy_count": 165,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 265,
+    "cpp": 266,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T13:15:39Z",
+  "last_synced": "2026-09-18T13:24:40Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2510,6 +2510,18 @@
       "problem_slug": "binary-watch",
       "problem_title": "Binary Watch"
     },
+    "404": {
+      "difficulty": "Easy",
+      "folder_name": "0404-sum-of-left-leaves",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T13:24:40Z",
+      "notes": "# Mistakes\n\nWas not handling and checking the pointers carefully.",
+      "problem_number": 404,
+      "problem_slug": "sum-of-left-leaves",
+      "problem_title": "Sum of Left Leaves"
+    },
     "405": {
       "difficulty": "Easy",
       "folder_name": "0405-convert-a-number-to-hexadecimal",
@@ -3256,5 +3268,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 270
+  "total_solved": 271
 }
