@@ -1,12 +1,12 @@
 {
-  "easy_count": 163,
+  "easy_count": 164,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 264,
+    "cpp": 265,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T13:09:11Z",
+  "last_synced": "2026-09-18T13:15:39Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1091,6 +1091,18 @@
       "problem_number": 2259,
       "problem_slug": "remove-digit-from-number-to-maximize-result",
       "problem_title": "Remove Digit From Number to Maximize Result"
+    },
+    "226": {
+      "difficulty": "Easy",
+      "folder_name": "0226-invert-binary-tree",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T13:15:39Z",
+      "notes": "# Mistakes\n\nWas try to swap only when both the roots existed but this was wrong and i needed to swap regardless of the fact if the roots exist or not.",
+      "problem_number": 226,
+      "problem_slug": "invert-binary-tree",
+      "problem_title": "Invert Binary Tree"
     },
     "2265": {
       "difficulty": "Medium",
@@ -3244,5 +3256,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 269
+  "total_solved": 270
 }
