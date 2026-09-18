@@ -1,12 +1,12 @@
 {
-  "easy_count": 157,
+  "easy_count": 158,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 258,
+    "cpp": 259,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T08:56:12Z",
+  "last_synced": "2026-09-18T09:10:20Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2030,6 +2030,18 @@
       "problem_slug": "minimum-pair-removal-to-sort-array-i",
       "problem_title": "Minimum Pair Removal to Sort Array I"
     },
+    "3545": {
+      "difficulty": "Easy",
+      "folder_name": "3545-minimum-deletions-for-at-most-k-distinct-characters",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T09:10:20Z",
+      "notes": "",
+      "problem_number": 3545,
+      "problem_slug": "minimum-deletions-for-at-most-k-distinct-characters",
+      "problem_title": "Minimum Deletions for At Most K Distinct Characters"
+    },
     "3568": {
       "difficulty": "Medium",
       "folder_name": "3568-minimum-moves-to-clean-the-classroom",
@@ -3172,5 +3184,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 263
+  "total_solved": 264
 }
