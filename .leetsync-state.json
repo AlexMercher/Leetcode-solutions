@@ -1,12 +1,12 @@
 {
-  "easy_count": 169,
+  "easy_count": 170,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 270,
+    "cpp": 271,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T13:53:52Z",
+  "last_synced": "2026-09-18T14:01:59Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2954,6 +2954,18 @@
       "problem_slug": "unique-paths-ii",
       "problem_title": "Unique Paths II"
     },
+    "637": {
+      "difficulty": "Easy",
+      "folder_name": "0637-average-of-levels-in-binary-tree",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T14:01:59Z",
+      "notes": "No mistakes done here ran in one go.",
+      "problem_number": 637,
+      "problem_slug": "average-of-levels-in-binary-tree",
+      "problem_title": "Average of Levels in Binary Tree"
+    },
     "64": {
       "difficulty": "Medium",
       "folder_name": "0064-minimum-path-sum",
@@ -3316,5 +3328,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 275
+  "total_solved": 276
 }
