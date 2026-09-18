@@ -1,12 +1,12 @@
 {
-  "easy_count": 155,
+  "easy_count": 156,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 256,
+    "cpp": 257,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T08:34:05Z",
+  "last_synced": "2026-09-18T08:45:46Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1934,6 +1934,18 @@
       "problem_slug": "find-first-and-last-position-of-element-in-sorted-array",
       "problem_title": "Find First and Last Position of Element in Sorted Array"
     },
+    "3402": {
+      "difficulty": "Easy",
+      "folder_name": "3402-minimum-operations-to-make-columns-strictly-increasing",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T08:45:46Z",
+      "notes": "",
+      "problem_number": 3402,
+      "problem_slug": "minimum-operations-to-make-columns-strictly-increasing",
+      "problem_title": "Minimum Operations to Make Columns Strictly Increasing"
+    },
     "3414": {
       "difficulty": "Hard",
       "folder_name": "3414-maximum-score-of-non-overlapping-intervals",
@@ -3148,5 +3160,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 261
+  "total_solved": 262
 }

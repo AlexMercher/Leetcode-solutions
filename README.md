@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **261** |
-| Easy | 155 |
+| Total Solved | **262** |
+| Easy | 156 |
 | Medium | 89 |
 | Hard | 17 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **155** (59%)  
+🟢 Easy &nbsp; **156** (60%)  
 🟡 Medium &nbsp; **89** (34%)  
-🔴 Hard &nbsp; **17** (7%)
+🔴 Hard &nbsp; **17** (6%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 256 |
+| C++ | 257 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [3402. Minimum Operations to Make Columns Strictly Increasing](./3402-minimum-operations-to-make-columns-strictly-increasing/README.md) | Easy | C++ |
 | [3216. Lexicographically Smallest String After a Swap](./3216-lexicographically-smallest-string-after-a-swap/README.md) | Easy | C++ |
 | [3074. Apple Redistribution into Boxes](./3074-apple-redistribution-into-boxes/README.md) | Easy | C++ |
 | [1520. Maximum Number of Non-Overlapping Substrings](./1520-maximum-number-of-non-overlapping-substrings/README.md) | Hard | C++ |
 | [2706. Buy Two Chocolates](./2706-buy-two-chocolates/README.md) | Easy | C++ |
-| [2864. Maximum Odd Binary Number](./2864-maximum-odd-binary-number/README.md) | Easy | C++ |
