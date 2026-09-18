@@ -1,12 +1,12 @@
 {
-  "easy_count": 160,
+  "easy_count": 161,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 261,
+    "cpp": 262,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T10:39:54Z",
+  "last_synced": "2026-09-18T10:52:11Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2114,6 +2114,18 @@
       "problem_slug": "largest-divisible-subset",
       "problem_title": "Largest Divisible Subset"
     },
+    "3684": {
+      "difficulty": "Easy",
+      "folder_name": "3684-maximize-sum-of-at-most-k-distinct-elements",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T10:52:11Z",
+      "notes": "",
+      "problem_number": 3684,
+      "problem_slug": "maximize-sum-of-at-most-k-distinct-elements",
+      "problem_title": "Maximize Sum of At Most K Distinct Elements"
+    },
     "3688": {
       "difficulty": "Easy",
       "folder_name": "3688-bitwise-or-of-even-numbers-in-an-array",
@@ -3208,5 +3220,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 266
+  "total_solved": 267
 }
