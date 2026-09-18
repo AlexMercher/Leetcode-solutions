@@ -1,12 +1,12 @@
 {
-  "easy_count": 171,
+  "easy_count": 172,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 272,
+    "cpp": 273,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T15:25:21Z",
+  "last_synced": "2026-09-18T15:38:27Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3074,6 +3074,18 @@
       "problem_slug": "edit-distance",
       "problem_title": "Edit Distance"
     },
+    "733": {
+      "difficulty": "Easy",
+      "folder_name": "0733-flood-fill",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T15:38:27Z",
+      "notes": "",
+      "problem_number": 733,
+      "problem_slug": "flood-fill",
+      "problem_title": "Flood Fill"
+    },
     "746": {
       "difficulty": "Easy",
       "folder_name": "0746-min-cost-climbing-stairs",
@@ -3340,5 +3352,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 277
+  "total_solved": 278
 }
