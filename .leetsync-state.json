@@ -1,12 +1,12 @@
 {
   "easy_count": 153,
-  "hard_count": 16,
+  "hard_count": 17,
   "language_counts": {
-    "cpp": 253,
+    "cpp": 254,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-17T16:02:16Z",
+  "last_synced": "2026-09-18T08:18:37Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -515,6 +515,18 @@
       "problem_number": 152,
       "problem_slug": "maximum-product-subarray",
       "problem_title": "Maximum Product Subarray"
+    },
+    "1520": {
+      "difficulty": "Hard",
+      "folder_name": "1520-maximum-number-of-non-overlapping-substrings",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T08:18:37Z",
+      "notes": "",
+      "problem_number": 1520,
+      "problem_slug": "maximum-number-of-non-overlapping-substrings",
+      "problem_title": "Maximum Number of Non-Overlapping Substrings"
     },
     "1563": {
       "difficulty": "Hard",
@@ -3112,5 +3124,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 258
+  "total_solved": 259
 }
