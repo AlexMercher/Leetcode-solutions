@@ -1,12 +1,12 @@
 {
-  "easy_count": 168,
+  "easy_count": 169,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 269,
+    "cpp": 270,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T13:47:56Z",
+  "last_synced": "2026-09-18T13:53:52Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2906,6 +2906,18 @@
       "problem_slug": "rotate-list",
       "problem_title": "Rotate List"
     },
+    "617": {
+      "difficulty": "Easy",
+      "folder_name": "0617-merge-two-binary-trees",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T13:53:52Z",
+      "notes": "",
+      "problem_number": 617,
+      "problem_slug": "merge-two-binary-trees",
+      "problem_title": "Merge Two Binary Trees"
+    },
     "62": {
       "difficulty": "Medium",
       "folder_name": "0062-unique-paths",
@@ -3304,5 +3316,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 274
+  "total_solved": 275
 }
