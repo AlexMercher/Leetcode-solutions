@@ -1,12 +1,12 @@
 {
-  "easy_count": 165,
+  "easy_count": 166,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 266,
+    "cpp": 267,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T13:24:40Z",
+  "last_synced": "2026-09-18T13:35:03Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2678,6 +2678,18 @@
       "problem_slug": "hamming-distance",
       "problem_title": "Hamming Distance"
     },
+    "463": {
+      "difficulty": "Easy",
+      "folder_name": "0463-island-perimeter",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T13:35:03Z",
+      "notes": "",
+      "problem_number": 463,
+      "problem_slug": "island-perimeter",
+      "problem_title": "Island Perimeter"
+    },
     "464": {
       "difficulty": "Medium",
       "folder_name": "0464-can-i-win",
@@ -3268,5 +3280,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 271
+  "total_solved": 272
 }
