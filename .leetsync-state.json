@@ -1,12 +1,12 @@
 {
-  "easy_count": 162,
+  "easy_count": 163,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 263,
+    "cpp": 264,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T11:01:38Z",
+  "last_synced": "2026-09-18T13:09:11Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -119,6 +119,18 @@
       "problem_number": 111,
       "problem_slug": "minimum-depth-of-binary-tree",
       "problem_title": "Minimum Depth of Binary Tree"
+    },
+    "112": {
+      "difficulty": "Easy",
+      "folder_name": "0112-path-sum",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T13:09:11Z",
+      "notes": "",
+      "problem_number": 112,
+      "problem_slug": "path-sum",
+      "problem_title": "Path Sum"
     },
     "1137": {
       "difficulty": "Easy",
@@ -3232,5 +3244,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 268
+  "total_solved": 269
 }
