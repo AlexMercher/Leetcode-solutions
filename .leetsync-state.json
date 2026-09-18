@@ -1,12 +1,12 @@
 {
-  "easy_count": 175,
+  "easy_count": 176,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 276,
+    "cpp": 277,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T17:26:45Z",
+  "last_synced": "2026-09-18T17:34:12Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -395,6 +395,18 @@
       "problem_number": 137,
       "problem_slug": "single-number-ii",
       "problem_title": "Single Number II"
+    },
+    "1379": {
+      "difficulty": "Easy",
+      "folder_name": "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T17:34:12Z",
+      "notes": "",
+      "problem_number": 1379,
+      "problem_slug": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+      "problem_title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree"
     },
     "1386": {
       "difficulty": "Medium",
@@ -3388,5 +3400,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 281
+  "total_solved": 282
 }
