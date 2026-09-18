@@ -1,12 +1,12 @@
 {
-  "easy_count": 172,
+  "easy_count": 173,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 273,
+    "cpp": 274,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T15:38:27Z",
+  "last_synced": "2026-09-18T15:47:10Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3122,6 +3122,18 @@
       "problem_slug": "subsets",
       "problem_title": "Subsets"
     },
+    "783": {
+      "difficulty": "Easy",
+      "folder_name": "0783-minimum-distance-between-bst-nodes",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T15:47:10Z",
+      "notes": "",
+      "problem_number": 783,
+      "problem_slug": "minimum-distance-between-bst-nodes",
+      "problem_title": "Minimum Distance Between BST Nodes"
+    },
     "8": {
       "difficulty": "Medium",
       "folder_name": "0008-string-to-integer-atoi",
@@ -3352,5 +3364,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 278
+  "total_solved": 279
 }
