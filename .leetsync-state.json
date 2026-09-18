@@ -1,12 +1,12 @@
 {
-  "easy_count": 170,
+  "easy_count": 171,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 271,
+    "cpp": 272,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T14:01:59Z",
+  "last_synced": "2026-09-18T15:25:21Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2990,6 +2990,18 @@
       "problem_slug": "set-mismatch",
       "problem_title": "Set Mismatch"
     },
+    "653": {
+      "difficulty": "Easy",
+      "folder_name": "0653-two-sum-iv-input-is-a-bst",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T15:25:21Z",
+      "notes": "",
+      "problem_number": 653,
+      "problem_slug": "two-sum-iv-input-is-a-bst",
+      "problem_title": "Two Sum IV - Input is a BST"
+    },
     "680": {
       "difficulty": "Easy",
       "folder_name": "0680-valid-palindrome-ii",
@@ -3328,5 +3340,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 276
+  "total_solved": 277
 }
