@@ -6,14 +6,14 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **262** |
-| Easy | 156 |
+| Total Solved | **263** |
+| Easy | 157 |
 | Medium | 89 |
 | Hard | 17 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **156** (60%)  
+🟢 Easy &nbsp; **157** (60%)  
 🟡 Medium &nbsp; **89** (34%)  
 🔴 Hard &nbsp; **17** (6%)
 
@@ -21,7 +21,7 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 257 |
+| C++ | 258 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [3487. Maximum Unique Subarray Sum After Deletion](./3487-maximum-unique-subarray-sum-after-deletion/README.md) | Easy | C++ |
 | [3402. Minimum Operations to Make Columns Strictly Increasing](./3402-minimum-operations-to-make-columns-strictly-increasing/README.md) | Easy | C++ |
 | [3216. Lexicographically Smallest String After a Swap](./3216-lexicographically-smallest-string-after-a-swap/README.md) | Easy | C++ |
 | [3074. Apple Redistribution into Boxes](./3074-apple-redistribution-into-boxes/README.md) | Easy | C++ |
 | [1520. Maximum Number of Non-Overlapping Substrings](./1520-maximum-number-of-non-overlapping-substrings/README.md) | Hard | C++ |
-| [2706. Buy Two Chocolates](./2706-buy-two-chocolates/README.md) | Easy | C++ |

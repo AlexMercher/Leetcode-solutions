@@ -1,12 +1,12 @@
 {
-  "easy_count": 156,
+  "easy_count": 157,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 257,
+    "cpp": 258,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T08:45:46Z",
+  "last_synced": "2026-09-18T08:56:12Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2006,6 +2006,18 @@
       "problem_slug": "unique-3-digit-even-numbers",
       "problem_title": "Unique 3-Digit Even Numbers"
     },
+    "3487": {
+      "difficulty": "Easy",
+      "folder_name": "3487-maximum-unique-subarray-sum-after-deletion",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T08:56:12Z",
+      "notes": "",
+      "problem_number": 3487,
+      "problem_slug": "maximum-unique-subarray-sum-after-deletion",
+      "problem_title": "Maximum Unique Subarray Sum After Deletion"
+    },
     "3507": {
       "difficulty": "Easy",
       "folder_name": "3507-minimum-pair-removal-to-sort-array-i",
@@ -3160,5 +3172,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 262
+  "total_solved": 263
 }
