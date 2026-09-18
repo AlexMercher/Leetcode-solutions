@@ -1,12 +1,12 @@
 {
-  "easy_count": 159,
+  "easy_count": 160,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 260,
+    "cpp": 261,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T10:36:49Z",
+  "last_synced": "2026-09-18T10:39:54Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2186,6 +2186,18 @@
       "problem_slug": "lexicographically-smallest-palindromic-permutation-greater-than-target",
       "problem_title": "Lexicographically Smallest Palindromic Permutation Greater Than Target"
     },
+    "3745": {
+      "difficulty": "Easy",
+      "folder_name": "3745-maximize-expression-of-three-elements",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T10:39:54Z",
+      "notes": "",
+      "problem_number": 3745,
+      "problem_slug": "maximize-expression-of-three-elements",
+      "problem_title": "Maximize Expression of Three Elements"
+    },
     "375": {
       "difficulty": "Medium",
       "folder_name": "0375-guess-number-higher-or-lower-ii",
@@ -3196,5 +3208,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 265
+  "total_solved": 266
 }
