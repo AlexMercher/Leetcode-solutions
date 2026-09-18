@@ -1,12 +1,12 @@
 {
-  "easy_count": 173,
+  "easy_count": 174,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 274,
+    "cpp": 275,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T15:47:10Z",
+  "last_synced": "2026-09-18T15:51:32Z",
   "medium_count": 89,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3338,6 +3338,18 @@
       "problem_slug": "unique-binary-search-trees",
       "problem_title": "Unique Binary Search Trees"
     },
+    "965": {
+      "difficulty": "Easy",
+      "folder_name": "0965-univalued-binary-tree",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-18T15:51:32Z",
+      "notes": "",
+      "problem_number": 965,
+      "problem_slug": "univalued-binary-tree",
+      "problem_title": "Univalued Binary Tree"
+    },
     "97": {
       "difficulty": "Medium",
       "folder_name": "0097-interleaving-string",
@@ -3364,5 +3376,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 279
+  "total_solved": 280
 }
