@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **282** |
+| Total Solved | **283** |
 | Easy | 176 |
-| Medium | 89 |
+| Medium | 90 |
 | Hard | 17 |
 
 ## Difficulty Distribution
 
 🟢 Easy &nbsp; **176** (62%)  
-🟡 Medium &nbsp; **89** (32%)  
+🟡 Medium &nbsp; **90** (32%)  
 🔴 Hard &nbsp; **17** (6%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 277 |
+| C++ | 278 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [1401. Circle and Rectangle Overlapping](./1401-circle-and-rectangle-overlapping/README.md) | Medium | C++ |
 | [1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](./1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/README.md) | Easy | C++ |
 | [1971. Find if Path Exists in Graph](./1971-find-if-path-exists-in-graph/README.md) | Easy | C++ |
 | [965. Univalued Binary Tree](./0965-univalued-binary-tree/README.md) | Easy | C++ |
 | [783. Minimum Distance Between BST Nodes](./0783-minimum-distance-between-bst-nodes/README.md) | Easy | C++ |
-| [733. Flood Fill](./0733-flood-fill/README.md) | Easy | C++ |

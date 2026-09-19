@@ -2,12 +2,12 @@
   "easy_count": 176,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 277,
+    "cpp": 278,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-18T17:34:12Z",
-  "medium_count": 89,
+  "last_synced": "2026-09-19T08:59:26Z",
+  "medium_count": 90,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -431,6 +431,18 @@
       "problem_number": 139,
       "problem_slug": "word-break",
       "problem_title": "Word Break"
+    },
+    "1401": {
+      "difficulty": "Medium",
+      "folder_name": "1401-circle-and-rectangle-overlapping",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-19T08:59:26Z",
+      "notes": "",
+      "problem_number": 1401,
+      "problem_slug": "circle-and-rectangle-overlapping",
+      "problem_title": "Circle and Rectangle Overlapping"
     },
     "1403": {
       "difficulty": "Easy",
@@ -3400,5 +3412,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 282
+  "total_solved": 283
 }
