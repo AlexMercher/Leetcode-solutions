@@ -1,12 +1,12 @@
 {
-  "easy_count": 177,
+  "easy_count": 178,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 279,
+    "cpp": 280,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-19T09:01:26Z",
+  "last_synced": "2026-09-19T09:16:44Z",
   "medium_count": 90,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3421,8 +3421,20 @@
       "problem_number": 976,
       "problem_slug": "largest-perimeter-triangle",
       "problem_title": "Largest Perimeter Triangle"
+    },
+    "993": {
+      "difficulty": "Easy",
+      "folder_name": "0993-cousins-in-binary-tree",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-19T09:16:44Z",
+      "notes": "",
+      "problem_number": 993,
+      "problem_slug": "cousins-in-binary-tree",
+      "problem_title": "Cousins in Binary Tree"
     }
   },
   "schema_version": 1,
-  "total_solved": 284
+  "total_solved": 285
 }
