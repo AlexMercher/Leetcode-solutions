@@ -1,12 +1,12 @@
 {
-  "easy_count": 178,
+  "easy_count": 179,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 280,
+    "cpp": 281,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-19T09:16:44Z",
+  "last_synced": "2026-09-19T11:54:59Z",
   "medium_count": 90,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1367,6 +1367,18 @@
       "problem_number": 2566,
       "problem_slug": "maximum-difference-by-remapping-a-digit",
       "problem_title": "Maximum Difference by Remapping a Digit"
+    },
+    "257": {
+      "difficulty": "Easy",
+      "folder_name": "0257-binary-tree-paths",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-19T11:54:59Z",
+      "notes": "some mistakes were made but they were minor in nature.",
+      "problem_number": 257,
+      "problem_slug": "binary-tree-paths",
+      "problem_title": "Binary Tree Paths"
     },
     "2574": {
       "difficulty": "Easy",
@@ -3436,5 +3448,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 285
+  "total_solved": 286
 }
