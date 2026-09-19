@@ -1,12 +1,12 @@
 {
-  "easy_count": 179,
+  "easy_count": 180,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 282,
+    "cpp": 283,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-19T12:07:04Z",
+  "last_synced": "2026-09-19T12:12:33Z",
   "medium_count": 91,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -107,6 +107,18 @@
       "problem_number": 109,
       "problem_slug": "convert-sorted-list-to-binary-search-tree",
       "problem_title": "Convert Sorted List to Binary Search Tree"
+    },
+    "110": {
+      "difficulty": "Easy",
+      "folder_name": "0110-balanced-binary-tree",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-19T12:12:33Z",
+      "notes": "",
+      "problem_number": 110,
+      "problem_slug": "balanced-binary-tree",
+      "problem_title": "Balanced Binary Tree"
     },
     "111": {
       "difficulty": "Easy",
@@ -3460,5 +3472,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 287
+  "total_solved": 288
 }
