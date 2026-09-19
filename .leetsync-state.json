@@ -1,12 +1,12 @@
 {
-  "easy_count": 180,
+  "easy_count": 181,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 283,
+    "cpp": 284,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-19T12:12:33Z",
+  "last_synced": "2026-09-19T12:17:37Z",
   "medium_count": 91,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2930,6 +2930,18 @@
       "problem_slug": "minimum-absolute-difference-in-bst",
       "problem_title": "Minimum Absolute Difference in BST"
     },
+    "543": {
+      "difficulty": "Easy",
+      "folder_name": "0543-diameter-of-binary-tree",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-19T12:17:37Z",
+      "notes": "",
+      "problem_number": 543,
+      "problem_slug": "diameter-of-binary-tree",
+      "problem_title": "Diameter of Binary Tree"
+    },
     "55": {
       "difficulty": "Medium",
       "folder_name": "0055-jump-game",
@@ -3472,5 +3484,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 288
+  "total_solved": 289
 }
