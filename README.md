@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **290** |
+| Total Solved | **291** |
 | Easy | 182 |
-| Medium | 91 |
+| Medium | 92 |
 | Hard | 17 |
 
 ## Difficulty Distribution
 
 🟢 Easy &nbsp; **182** (63%)  
-🟡 Medium &nbsp; **91** (31%)  
+🟡 Medium &nbsp; **92** (32%)  
 🔴 Hard &nbsp; **17** (6%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 285 |
+| C++ | 286 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [98. Validate Binary Search Tree](./0098-validate-binary-search-tree/README.md) | Medium | C++ |
 | [501. Find Mode in Binary Search Tree](./0501-find-mode-in-binary-search-tree/README.md) | Easy | C++ |
 | [543. Diameter of Binary Tree](./0543-diameter-of-binary-tree/README.md) | Easy | C++ |
 | [110. Balanced Binary Tree](./0110-balanced-binary-tree/README.md) | Easy | C++ |
 | [2641. Cousins in Binary Tree II](./2641-cousins-in-binary-tree-ii/README.md) | Medium | C++ |
-| [257. Binary Tree Paths](./0257-binary-tree-paths/README.md) | Easy | C++ |

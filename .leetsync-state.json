@@ -2,12 +2,12 @@
   "easy_count": 182,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 285,
+    "cpp": 286,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-19T12:34:58Z",
-  "medium_count": 91,
+  "last_synced": "2026-09-19T12:46:37Z",
+  "medium_count": 92,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -3482,6 +3482,18 @@
       "problem_slug": "largest-perimeter-triangle",
       "problem_title": "Largest Perimeter Triangle"
     },
+    "98": {
+      "difficulty": "Medium",
+      "folder_name": "0098-validate-binary-search-tree",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-19T12:46:37Z",
+      "notes": "For a valid Binary Search Tree (BST), the rule is stronger:\n\nevery node in the left subtree must be < root->val\nevery node in the right subtree must be > root->val\n\nYour code checks only:\n\nroot->left->val > root->val\nroot->right->val < root->val\n\nThat misses violations deeper in the subtree.\n\nYour example\n    2\n   / \\\n  2   2\n\nYour checks use:\n\nleft->val > root->val\n2 > 2   // false\n\nright->val < root->val\n2 < 2   // false\n\nSo you return true.\n\nBut BST requires strict inequality, so 2 cannot appear as either child of 2.",
+      "problem_number": 98,
+      "problem_slug": "validate-binary-search-tree",
+      "problem_title": "Validate Binary Search Tree"
+    },
     "993": {
       "difficulty": "Easy",
       "folder_name": "0993-cousins-in-binary-tree",
@@ -3496,5 +3508,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 290
+  "total_solved": 291
 }
