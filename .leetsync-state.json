@@ -1,12 +1,12 @@
 {
-  "easy_count": 176,
+  "easy_count": 177,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 278,
+    "cpp": 279,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-19T08:59:26Z",
+  "last_synced": "2026-09-19T09:01:26Z",
   "medium_count": 90,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -311,6 +311,18 @@
       "problem_number": 1221,
       "problem_slug": "split-a-string-in-balanced-strings",
       "problem_title": "Split a String in Balanced Strings"
+    },
+    "1281": {
+      "difficulty": "Easy",
+      "folder_name": "1281-subtract-the-product-and-sum-of-digits-of-an-integer",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-19T09:01:26Z",
+      "notes": "",
+      "problem_number": 1281,
+      "problem_slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+      "problem_title": "Subtract the Product and Sum of Digits of an Integer"
     },
     "1290": {
       "difficulty": "Easy",
@@ -3412,5 +3424,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 283
+  "total_solved": 284
 }
