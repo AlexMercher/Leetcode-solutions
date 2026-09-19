@@ -2,12 +2,12 @@
   "easy_count": 179,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 281,
+    "cpp": 282,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-19T11:54:59Z",
-  "medium_count": 90,
+  "last_synced": "2026-09-19T12:07:04Z",
+  "medium_count": 91,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1463,6 +1463,18 @@
       "problem_number": 264,
       "problem_slug": "ugly-number-ii",
       "problem_title": "Ugly Number II"
+    },
+    "2641": {
+      "difficulty": "Medium",
+      "folder_name": "2641-cousins-in-binary-tree-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-19T12:07:04Z",
+      "notes": "",
+      "problem_number": 2641,
+      "problem_slug": "cousins-in-binary-tree-ii",
+      "problem_title": "Cousins in Binary Tree II"
     },
     "2656": {
       "difficulty": "Easy",
@@ -3448,5 +3460,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 286
+  "total_solved": 287
 }
