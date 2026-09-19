@@ -1,12 +1,12 @@
 {
-  "easy_count": 181,
+  "easy_count": 182,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 284,
+    "cpp": 285,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-19T12:17:37Z",
+  "last_synced": "2026-09-19T12:34:58Z",
   "medium_count": 91,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2894,6 +2894,18 @@
       "problem_slug": "longest-palindromic-substring",
       "problem_title": "Longest Palindromic Substring"
     },
+    "501": {
+      "difficulty": "Easy",
+      "folder_name": "0501-find-mode-in-binary-search-tree",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-19T12:34:58Z",
+      "notes": "",
+      "problem_number": 501,
+      "problem_slug": "find-mode-in-binary-search-tree",
+      "problem_title": "Find Mode in Binary Search Tree"
+    },
     "509": {
       "difficulty": "Easy",
       "folder_name": "0509-fibonacci-number",
@@ -3484,5 +3496,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 289
+  "total_solved": 290
 }
