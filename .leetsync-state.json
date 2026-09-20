@@ -1,12 +1,12 @@
 {
-  "easy_count": 183,
+  "easy_count": 184,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 287,
+    "cpp": 288,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-20T04:11:49Z",
+  "last_synced": "2026-09-20T04:21:58Z",
   "medium_count": 92,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3002,6 +3002,18 @@
       "problem_slug": "array-partition",
       "problem_title": "Array Partition"
     },
+    "563": {
+      "difficulty": "Easy",
+      "folder_name": "0563-binary-tree-tilt",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-20T04:21:58Z",
+      "notes": "",
+      "problem_number": 563,
+      "problem_slug": "binary-tree-tilt",
+      "problem_title": "Binary Tree Tilt"
+    },
     "605": {
       "difficulty": "Easy",
       "folder_name": "0605-can-place-flowers",
@@ -3520,5 +3532,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 292
+  "total_solved": 293
 }
