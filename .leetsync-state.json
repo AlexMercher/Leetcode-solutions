@@ -1,12 +1,12 @@
 {
-  "easy_count": 182,
+  "easy_count": 183,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 286,
+    "cpp": 287,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-19T12:46:37Z",
+  "last_synced": "2026-09-20T04:11:49Z",
   "medium_count": 92,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2138,6 +2138,18 @@
       "problem_slug": "maximum-unique-subarray-sum-after-deletion",
       "problem_title": "Maximum Unique Subarray Sum After Deletion"
     },
+    "3498": {
+      "difficulty": "Easy",
+      "folder_name": "3498-reverse-degree-of-a-string",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-20T04:11:49Z",
+      "notes": "",
+      "problem_number": 3498,
+      "problem_slug": "reverse-degree-of-a-string",
+      "problem_title": "Reverse Degree of a String"
+    },
     "3507": {
       "difficulty": "Easy",
       "folder_name": "3507-minimum-pair-removal-to-sort-array-i",
@@ -3508,5 +3520,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 291
+  "total_solved": 292
 }
