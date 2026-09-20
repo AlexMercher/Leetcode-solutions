@@ -1,12 +1,12 @@
 {
-  "easy_count": 189,
+  "easy_count": 190,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 293,
+    "cpp": 294,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-20T05:23:38Z",
+  "last_synced": "2026-09-20T15:23:17Z",
   "medium_count": 92,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3434,6 +3434,18 @@
       "problem_slug": "middle-of-the-linked-list",
       "problem_title": "Middle of the Linked List"
     },
+    "897": {
+      "difficulty": "Easy",
+      "folder_name": "0897-increasing-order-search-tree",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-20T15:23:17Z",
+      "notes": "",
+      "problem_number": 897,
+      "problem_slug": "increasing-order-search-tree",
+      "problem_title": "Increasing Order Search Tree"
+    },
     "9": {
       "difficulty": "Easy",
       "folder_name": "0009-palindrome-number",
@@ -3592,5 +3604,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 298
+  "total_solved": 299
 }
