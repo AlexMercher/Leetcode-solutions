@@ -1,12 +1,12 @@
 {
-  "easy_count": 188,
+  "easy_count": 189,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 292,
+    "cpp": 293,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-20T05:15:23Z",
+  "last_synced": "2026-09-20T05:23:38Z",
   "medium_count": 92,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3410,6 +3410,18 @@
       "problem_slug": "binary-gap",
       "problem_title": "Binary Gap"
     },
+    "872": {
+      "difficulty": "Easy",
+      "folder_name": "0872-leaf-similar-trees",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-20T05:23:38Z",
+      "notes": "### Mistakes\n\nWas passing the leaf by value and not by reference;",
+      "problem_number": 872,
+      "problem_slug": "leaf-similar-trees",
+      "problem_title": "Leaf-Similar Trees"
+    },
     "876": {
       "difficulty": "Easy",
       "folder_name": "0876-middle-of-the-linked-list",
@@ -3580,5 +3592,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 297
+  "total_solved": 298
 }
