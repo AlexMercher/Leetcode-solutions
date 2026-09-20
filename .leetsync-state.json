@@ -1,12 +1,12 @@
 {
-  "easy_count": 194,
+  "easy_count": 195,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 298,
+    "cpp": 299,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-20T15:54:25Z",
+  "last_synced": "2026-09-20T15:56:09Z",
   "medium_count": 92,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2138,6 +2138,18 @@
       "problem_slug": "integer-break",
       "problem_title": "Integer Break"
     },
+    "344": {
+      "difficulty": "Easy",
+      "folder_name": "0344-reverse-string",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-20T15:56:09Z",
+      "notes": "",
+      "problem_number": 344,
+      "problem_slug": "reverse-string",
+      "problem_title": "Reverse String"
+    },
     "3471": {
       "difficulty": "Easy",
       "folder_name": "3471-find-the-largest-almost-missing-integer",
@@ -3652,5 +3664,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 303
+  "total_solved": 304
 }
