@@ -1,12 +1,12 @@
 {
-  "easy_count": 192,
+  "easy_count": 193,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 296,
+    "cpp": 297,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-20T15:35:58Z",
+  "last_synced": "2026-09-20T15:44:50Z",
   "medium_count": 92,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1199,6 +1199,18 @@
       "problem_number": 231,
       "problem_slug": "power-of-two",
       "problem_title": "Power of Two"
+    },
+    "2331": {
+      "difficulty": "Easy",
+      "folder_name": "2331-evaluate-boolean-binary-tree",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-20T15:44:50Z",
+      "notes": "",
+      "problem_number": 2331,
+      "problem_slug": "evaluate-boolean-binary-tree",
+      "problem_title": "Evaluate Boolean Binary Tree"
     },
     "2335": {
       "difficulty": "Easy",
@@ -3628,5 +3640,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 301
+  "total_solved": 302
 }
