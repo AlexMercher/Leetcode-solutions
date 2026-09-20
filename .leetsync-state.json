@@ -1,12 +1,12 @@
 {
-  "easy_count": 193,
+  "easy_count": 194,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 297,
+    "cpp": 298,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-20T15:44:50Z",
+  "last_synced": "2026-09-20T15:54:25Z",
   "medium_count": 92,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1595,6 +1595,18 @@
       "problem_number": 279,
       "problem_slug": "perfect-squares",
       "problem_title": "Perfect Squares"
+    },
+    "283": {
+      "difficulty": "Easy",
+      "folder_name": "0283-move-zeroes",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-20T15:54:25Z",
+      "notes": "",
+      "problem_number": 283,
+      "problem_slug": "move-zeroes",
+      "problem_title": "Move Zeroes"
     },
     "2859": {
       "difficulty": "Easy",
@@ -3640,5 +3652,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 302
+  "total_solved": 303
 }
