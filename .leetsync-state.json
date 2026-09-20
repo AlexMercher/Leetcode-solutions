@@ -1,12 +1,12 @@
 {
-  "easy_count": 185,
+  "easy_count": 186,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 289,
+    "cpp": 290,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-20T04:37:56Z",
+  "last_synced": "2026-09-20T04:47:04Z",
   "medium_count": 92,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3026,6 +3026,18 @@
       "problem_slug": "subtree-of-another-tree",
       "problem_title": "Subtree of Another Tree"
     },
+    "589": {
+      "difficulty": "Easy",
+      "folder_name": "0589-n-ary-tree-preorder-traversal",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-20T04:47:04Z",
+      "notes": "",
+      "problem_number": 589,
+      "problem_slug": "n-ary-tree-preorder-traversal",
+      "problem_title": "N-ary Tree Preorder Traversal"
+    },
     "605": {
       "difficulty": "Easy",
       "folder_name": "0605-can-place-flowers",
@@ -3544,5 +3556,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 294
+  "total_solved": 295
 }
