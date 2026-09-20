@@ -1,12 +1,12 @@
 {
-  "easy_count": 187,
+  "easy_count": 188,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 291,
+    "cpp": 292,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-20T04:56:39Z",
+  "last_synced": "2026-09-20T05:15:23Z",
   "medium_count": 92,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3170,6 +3170,18 @@
       "problem_slug": "two-sum-iv-input-is-a-bst",
       "problem_title": "Two Sum IV - Input is a BST"
     },
+    "671": {
+      "difficulty": "Easy",
+      "folder_name": "0671-second-minimum-node-in-a-binary-tree",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-20T05:15:23Z",
+      "notes": "Was only searching the children of the root and not propogating downwards thus getting the wrong answers.",
+      "problem_number": 671,
+      "problem_slug": "second-minimum-node-in-a-binary-tree",
+      "problem_title": "Second Minimum Node In a Binary Tree"
+    },
     "680": {
       "difficulty": "Easy",
       "folder_name": "0680-valid-palindrome-ii",
@@ -3568,5 +3580,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 296
+  "total_solved": 297
 }
