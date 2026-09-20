@@ -6,14 +6,14 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **299** |
-| Easy | 190 |
+| Total Solved | **300** |
+| Easy | 191 |
 | Medium | 92 |
 | Hard | 17 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **190** (64%)  
+🟢 Easy &nbsp; **191** (64%)  
 🟡 Medium &nbsp; **92** (31%)  
 🔴 Hard &nbsp; **17** (6%)
 
@@ -21,7 +21,7 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 294 |
+| C++ | 295 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [938. Range Sum of BST](./0938-range-sum-of-bst/README.md) | Easy | C++ |
 | [897. Increasing Order Search Tree](./0897-increasing-order-search-tree/README.md) | Easy | C++ |
 | [872. Leaf-Similar Trees](./0872-leaf-similar-trees/README.md) | Easy | C++ |
 | [671. Second Minimum Node In a Binary Tree](./0671-second-minimum-node-in-a-binary-tree/README.md) | Easy | C++ |
 | [590. N-ary Tree Postorder Traversal](./0590-n-ary-tree-postorder-traversal/README.md) | Easy | C++ |
-| [589. N-ary Tree Preorder Traversal](./0589-n-ary-tree-preorder-traversal/README.md) | Easy | C++ |

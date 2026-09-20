@@ -1,12 +1,12 @@
 {
-  "easy_count": 190,
+  "easy_count": 191,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 294,
+    "cpp": 295,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-20T15:23:17Z",
+  "last_synced": "2026-09-20T15:29:41Z",
   "medium_count": 92,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3494,6 +3494,18 @@
       "problem_slug": "reverse-linked-list-ii",
       "problem_title": "Reverse Linked List II"
     },
+    "938": {
+      "difficulty": "Easy",
+      "folder_name": "0938-range-sum-of-bst",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-20T15:29:41Z",
+      "notes": "The key mistake was: when the current node is inside the range, you must recurse into both sides instead of stopping at the current node.",
+      "problem_number": 938,
+      "problem_slug": "range-sum-of-bst",
+      "problem_title": "Range Sum of BST"
+    },
     "940": {
       "difficulty": "Hard",
       "folder_name": "0940-distinct-subsequences-ii",
@@ -3604,5 +3616,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 299
+  "total_solved": 300
 }
