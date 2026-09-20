@@ -1,12 +1,12 @@
 {
-  "easy_count": 196,
+  "easy_count": 197,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 300,
+    "cpp": 301,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-20T16:01:31Z",
+  "last_synced": "2026-09-20T16:07:11Z",
   "medium_count": 92,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1982,6 +1982,18 @@
       "problem_slug": "number-of-bit-changes-to-make-two-integers-equal",
       "problem_title": "Number of Bit Changes to Make Two Integers Equal"
     },
+    "326": {
+      "difficulty": "Easy",
+      "folder_name": "0326-power-of-three",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-20T16:07:11Z",
+      "notes": "",
+      "problem_number": 326,
+      "problem_slug": "power-of-three",
+      "problem_title": "Power of Three"
+    },
     "3300": {
       "difficulty": "Easy",
       "folder_name": "3300-minimum-element-after-replacement-with-digit-sum",
@@ -3676,5 +3688,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 305
+  "total_solved": 306
 }
