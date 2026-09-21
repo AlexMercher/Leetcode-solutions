@@ -1,12 +1,12 @@
 {
-  "easy_count": 201,
+  "easy_count": 202,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 308,
+    "cpp": 309,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-21T05:40:36Z",
+  "last_synced": "2026-09-21T05:48:47Z",
   "medium_count": 95,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1235,6 +1235,18 @@
       "problem_number": 231,
       "problem_slug": "power-of-two",
       "problem_title": "Power of Two"
+    },
+    "232": {
+      "difficulty": "Easy",
+      "folder_name": "0232-implement-queue-using-stacks",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-21T05:48:47Z",
+      "notes": "",
+      "problem_number": 232,
+      "problem_slug": "implement-queue-using-stacks",
+      "problem_title": "Implement Queue using Stacks"
     },
     "2331": {
       "difficulty": "Easy",
@@ -3772,5 +3784,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 313
+  "total_solved": 314
 }
