@@ -1,12 +1,12 @@
 {
-  "easy_count": 207,
+  "easy_count": 208,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 314,
+    "cpp": 315,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-21T09:08:01Z",
+  "last_synced": "2026-09-21T09:14:34Z",
   "medium_count": 95,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3254,6 +3254,18 @@
       "problem_slug": "n-ary-tree-postorder-traversal",
       "problem_title": "N-ary Tree Postorder Traversal"
     },
+    "594": {
+      "difficulty": "Easy",
+      "folder_name": "0594-longest-harmonious-subsequence",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-21T09:14:34Z",
+      "notes": "",
+      "problem_number": 594,
+      "problem_slug": "longest-harmonious-subsequence",
+      "problem_title": "Longest Harmonious Subsequence"
+    },
     "605": {
       "difficulty": "Easy",
       "folder_name": "0605-can-place-flowers",
@@ -3844,5 +3856,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 319
+  "total_solved": 320
 }
