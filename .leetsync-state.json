@@ -2,12 +2,12 @@
   "easy_count": 211,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 318,
+    "cpp": 319,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-21T10:37:52Z",
-  "medium_count": 95,
+  "last_synced": "2026-09-21T17:04:09Z",
+  "medium_count": 96,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -3110,6 +3110,18 @@
       "problem_slug": "longest-palindromic-substring",
       "problem_title": "Longest Palindromic Substring"
     },
+    "50": {
+      "difficulty": "Medium",
+      "folder_name": "0050-powx-n",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-21T17:04:09Z",
+      "notes": "",
+      "problem_number": 50,
+      "problem_slug": "powx-n",
+      "problem_title": "Pow(x, n)"
+    },
     "501": {
       "difficulty": "Easy",
       "folder_name": "0501-find-mode-in-binary-search-tree",
@@ -3892,5 +3904,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 323
+  "total_solved": 324
 }
