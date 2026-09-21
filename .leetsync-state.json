@@ -1,12 +1,12 @@
 {
-  "easy_count": 197,
+  "easy_count": 198,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 302,
+    "cpp": 303,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-21T04:33:24Z",
+  "last_synced": "2026-09-21T04:41:08Z",
   "medium_count": 93,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2978,6 +2978,18 @@
       "problem_slug": "target-sum",
       "problem_title": "Target Sum"
     },
+    "496": {
+      "difficulty": "Easy",
+      "folder_name": "0496-next-greater-element-i",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-21T04:41:08Z",
+      "notes": "",
+      "problem_number": 496,
+      "problem_slug": "next-greater-element-i",
+      "problem_title": "Next Greater Element I"
+    },
     "5": {
       "difficulty": "Medium",
       "folder_name": "0005-longest-palindromic-substring",
@@ -3700,5 +3712,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 307
+  "total_solved": 308
 }
