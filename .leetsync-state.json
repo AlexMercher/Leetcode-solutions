@@ -1,12 +1,12 @@
 {
-  "easy_count": 198,
+  "easy_count": 199,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 303,
+    "cpp": 304,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-21T04:41:08Z",
+  "last_synced": "2026-09-21T04:46:16Z",
   "medium_count": 93,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3050,6 +3050,18 @@
       "problem_slug": "minimum-absolute-difference-in-bst",
       "problem_title": "Minimum Absolute Difference in BST"
     },
+    "541": {
+      "difficulty": "Easy",
+      "folder_name": "0541-reverse-string-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-21T04:46:16Z",
+      "notes": "",
+      "problem_number": 541,
+      "problem_slug": "reverse-string-ii",
+      "problem_title": "Reverse String II"
+    },
     "543": {
       "difficulty": "Easy",
       "folder_name": "0543-diameter-of-binary-tree",
@@ -3712,5 +3724,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 308
+  "total_solved": 309
 }
