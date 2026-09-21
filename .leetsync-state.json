@@ -2,12 +2,12 @@
   "easy_count": 200,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 306,
+    "cpp": 307,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-21T05:00:35Z",
-  "medium_count": 94,
+  "last_synced": "2026-09-21T05:10:01Z",
+  "medium_count": 95,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -2594,6 +2594,18 @@
       "problem_slug": "find-the-difference",
       "problem_title": "Find the Difference"
     },
+    "39": {
+      "difficulty": "Medium",
+      "folder_name": "0039-combination-sum",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-21T05:10:01Z",
+      "notes": "",
+      "problem_number": 39,
+      "problem_slug": "combination-sum",
+      "problem_title": "Combination Sum"
+    },
     "3903": {
       "difficulty": "Easy",
       "folder_name": "3903-smallest-stable-index-i",
@@ -3748,5 +3760,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 311
+  "total_solved": 312
 }
