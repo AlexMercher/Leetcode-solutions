@@ -1,12 +1,12 @@
 {
-  "easy_count": 210,
+  "easy_count": 211,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 317,
+    "cpp": 318,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-21T10:30:55Z",
+  "last_synced": "2026-09-21T10:37:52Z",
   "medium_count": 95,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2018,6 +2018,18 @@
       "problem_slug": "find-the-xor-of-numbers-which-appear-twice",
       "problem_title": "Find the XOR of Numbers Which Appear Twice"
     },
+    "3174": {
+      "difficulty": "Easy",
+      "folder_name": "3174-clear-digits",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-21T10:37:52Z",
+      "notes": "",
+      "problem_number": 3174,
+      "problem_slug": "clear-digits",
+      "problem_title": "Clear Digits"
+    },
     "3216": {
       "difficulty": "Easy",
       "folder_name": "3216-lexicographically-smallest-string-after-a-swap",
@@ -3880,5 +3892,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 322
+  "total_solved": 323
 }
