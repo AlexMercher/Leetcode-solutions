@@ -6,14 +6,14 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **312** |
-| Easy | 200 |
+| Total Solved | **313** |
+| Easy | 201 |
 | Medium | 95 |
 | Hard | 17 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **200** (64%)  
+🟢 Easy &nbsp; **201** (64%)  
 🟡 Medium &nbsp; **95** (30%)  
 🔴 Hard &nbsp; **17** (5%)
 
@@ -21,7 +21,7 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 307 |
+| C++ | 308 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [225. Implement Stack using Queues](./0225-implement-stack-using-queues/README.md) | Easy | C++ |
 | [39. Combination Sum](./0039-combination-sum/README.md) | Medium | C++ |
 | [17. Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number/README.md) | Medium | C++ |
 | [219. Contains Duplicate II](./0219-contains-duplicate-ii/README.md) | Easy | C++ |
 | [541. Reverse String II](./0541-reverse-string-ii/README.md) | Easy | C++ |
-| [496. Next Greater Element I](./0496-next-greater-element-i/README.md) | Easy | C++ |

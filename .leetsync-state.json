@@ -1,12 +1,12 @@
 {
-  "easy_count": 200,
+  "easy_count": 201,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 307,
+    "cpp": 308,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-21T05:10:01Z",
+  "last_synced": "2026-09-21T05:40:36Z",
   "medium_count": 95,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1175,6 +1175,18 @@
       "problem_number": 2224,
       "problem_slug": "minimum-number-of-operations-to-convert-time",
       "problem_title": "Minimum Number of Operations to Convert Time"
+    },
+    "225": {
+      "difficulty": "Easy",
+      "folder_name": "0225-implement-stack-using-queues",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-21T05:40:36Z",
+      "notes": "",
+      "problem_number": 225,
+      "problem_slug": "implement-stack-using-queues",
+      "problem_title": "Implement Stack using Queues"
     },
     "2259": {
       "difficulty": "Easy",
@@ -3760,5 +3772,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 312
+  "total_solved": 313
 }
