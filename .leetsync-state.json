@@ -1,12 +1,12 @@
 {
-  "easy_count": 209,
+  "easy_count": 210,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 316,
+    "cpp": 317,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-21T10:27:05Z",
+  "last_synced": "2026-09-21T10:30:55Z",
   "medium_count": 95,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -83,6 +83,18 @@
       "problem_number": 1018,
       "problem_slug": "binary-prefix-divisible-by-5",
       "problem_title": "Binary Prefix Divisible By 5"
+    },
+    "1021": {
+      "difficulty": "Easy",
+      "folder_name": "1021-remove-outermost-parentheses",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-21T10:30:55Z",
+      "notes": "",
+      "problem_number": 1021,
+      "problem_slug": "remove-outermost-parentheses",
+      "problem_title": "Remove Outermost Parentheses"
     },
     "1022": {
       "difficulty": "Easy",
@@ -3868,5 +3880,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 321
+  "total_solved": 322
 }
