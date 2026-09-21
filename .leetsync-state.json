@@ -2,12 +2,12 @@
   "easy_count": 197,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 301,
+    "cpp": 302,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-20T16:07:11Z",
-  "medium_count": 92,
+  "last_synced": "2026-09-21T04:33:24Z",
+  "medium_count": 93,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -2234,6 +2234,18 @@
       "problem_slug": "minimum-pair-removal-to-sort-array-i",
       "problem_title": "Minimum Pair Removal to Sort Array I"
     },
+    "3524": {
+      "difficulty": "Medium",
+      "folder_name": "3524-find-x-value-of-array-i",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-21T04:33:24Z",
+      "notes": "",
+      "problem_number": 3524,
+      "problem_slug": "find-x-value-of-array-i",
+      "problem_title": "Find X Value of Array I"
+    },
     "3545": {
       "difficulty": "Easy",
       "folder_name": "3545-minimum-deletions-for-at-most-k-distinct-characters",
@@ -3688,5 +3700,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 306
+  "total_solved": 307
 }
