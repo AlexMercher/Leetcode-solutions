@@ -1,12 +1,12 @@
 {
-  "easy_count": 205,
+  "easy_count": 206,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 312,
+    "cpp": 313,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-21T08:54:46Z",
+  "last_synced": "2026-09-21T09:02:53Z",
   "medium_count": 95,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3578,6 +3578,18 @@
       "problem_slug": "rectangle-overlap",
       "problem_title": "Rectangle Overlap"
     },
+    "844": {
+      "difficulty": "Easy",
+      "folder_name": "0844-backspace-string-compare",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-21T09:02:53Z",
+      "notes": "",
+      "problem_number": 844,
+      "problem_slug": "backspace-string-compare",
+      "problem_title": "Backspace String Compare"
+    },
     "86": {
       "difficulty": "Medium",
       "folder_name": "0086-partition-list",
@@ -3820,5 +3832,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 317
+  "total_solved": 318
 }
