@@ -1,12 +1,12 @@
 {
-  "easy_count": 204,
+  "easy_count": 205,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 311,
+    "cpp": 312,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-21T08:47:33Z",
+  "last_synced": "2026-09-21T08:54:46Z",
   "medium_count": 95,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1067,6 +1067,18 @@
       "problem_number": 2091,
       "problem_slug": "removing-minimum-and-maximum-from-array",
       "problem_title": "Removing Minimum and Maximum From Array"
+    },
+    "2094": {
+      "difficulty": "Easy",
+      "folder_name": "2094-finding-3-digit-even-numbers",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-21T08:54:46Z",
+      "notes": "",
+      "problem_number": 2094,
+      "problem_slug": "finding-3-digit-even-numbers",
+      "problem_title": "Finding 3-Digit Even Numbers"
     },
     "213": {
       "difficulty": "Medium",
@@ -3808,5 +3820,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 316
+  "total_solved": 317
 }
