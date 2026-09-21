@@ -1,12 +1,12 @@
 {
-  "easy_count": 206,
+  "easy_count": 207,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 313,
+    "cpp": 314,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-21T09:02:53Z",
+  "last_synced": "2026-09-21T09:08:01Z",
   "medium_count": 95,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3170,6 +3170,18 @@
       "problem_slug": "jump-game",
       "problem_title": "Jump Game"
     },
+    "557": {
+      "difficulty": "Easy",
+      "folder_name": "0557-reverse-words-in-a-string-iii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-21T09:08:01Z",
+      "notes": "",
+      "problem_number": 557,
+      "problem_slug": "reverse-words-in-a-string-iii",
+      "problem_title": "Reverse Words in a String III"
+    },
     "559": {
       "difficulty": "Easy",
       "folder_name": "0559-maximum-depth-of-n-ary-tree",
@@ -3832,5 +3844,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 318
+  "total_solved": 319
 }
