@@ -1,12 +1,12 @@
 {
-  "easy_count": 208,
+  "easy_count": 209,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 315,
+    "cpp": 316,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-21T09:14:34Z",
+  "last_synced": "2026-09-21T10:27:05Z",
   "medium_count": 95,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3362,6 +3362,18 @@
       "problem_slug": "minimum-path-sum",
       "problem_title": "Minimum Path Sum"
     },
+    "643": {
+      "difficulty": "Easy",
+      "folder_name": "0643-maximum-average-subarray-i",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-21T10:27:05Z",
+      "notes": "",
+      "problem_number": 643,
+      "problem_slug": "maximum-average-subarray-i",
+      "problem_title": "Maximum Average Subarray I"
+    },
     "645": {
       "difficulty": "Easy",
       "folder_name": "0645-set-mismatch",
@@ -3856,5 +3868,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 320
+  "total_solved": 321
 }
