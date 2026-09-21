@@ -1,12 +1,12 @@
 {
-  "easy_count": 202,
+  "easy_count": 203,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 309,
+    "cpp": 310,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-21T05:48:47Z",
+  "last_synced": "2026-09-21T05:54:37Z",
   "medium_count": 95,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2558,6 +2558,18 @@
       "problem_slug": "weighted-word-mapping",
       "problem_title": "Weighted Word Mapping"
     },
+    "387": {
+      "difficulty": "Easy",
+      "folder_name": "0387-first-unique-character-in-a-string",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-21T05:54:37Z",
+      "notes": "",
+      "problem_number": 387,
+      "problem_slug": "first-unique-character-in-a-string",
+      "problem_title": "First Unique Character in a String"
+    },
     "3870": {
       "difficulty": "Easy",
       "folder_name": "3870-count-commas-in-range",
@@ -3784,5 +3796,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 314
+  "total_solved": 315
 }
