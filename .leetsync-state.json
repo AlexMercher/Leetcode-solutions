@@ -2,12 +2,12 @@
   "easy_count": 200,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 305,
+    "cpp": 306,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-21T04:50:22Z",
-  "medium_count": 93,
+  "last_synced": "2026-09-21T05:00:35Z",
+  "medium_count": 94,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -683,6 +683,18 @@
       "problem_number": 1684,
       "problem_slug": "count-the-number-of-consistent-strings",
       "problem_title": "Count the Number of Consistent Strings"
+    },
+    "17": {
+      "difficulty": "Medium",
+      "folder_name": "0017-letter-combinations-of-a-phone-number",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-21T05:00:35Z",
+      "notes": "",
+      "problem_number": 17,
+      "problem_slug": "letter-combinations-of-a-phone-number",
+      "problem_title": "Letter Combinations of a Phone Number"
     },
     "171": {
       "difficulty": "Easy",
@@ -3736,5 +3748,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 310
+  "total_solved": 311
 }
