@@ -1,12 +1,12 @@
 {
-  "easy_count": 203,
+  "easy_count": 204,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 310,
+    "cpp": 311,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-21T05:54:37Z",
+  "last_synced": "2026-09-21T08:47:33Z",
   "medium_count": 95,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3374,6 +3374,18 @@
       "problem_slug": "valid-palindrome-ii",
       "problem_title": "Valid Palindrome II"
     },
+    "682": {
+      "difficulty": "Easy",
+      "folder_name": "0682-baseball-game",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-21T08:47:33Z",
+      "notes": "",
+      "problem_number": 682,
+      "problem_slug": "baseball-game",
+      "problem_title": "Baseball Game"
+    },
     "693": {
       "difficulty": "Easy",
       "folder_name": "0693-binary-number-with-alternating-bits",
@@ -3796,5 +3808,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 315
+  "total_solved": 316
 }
