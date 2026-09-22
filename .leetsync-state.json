@@ -1,12 +1,12 @@
 {
-  "easy_count": 211,
+  "easy_count": 212,
   "hard_count": 17,
   "language_counts": {
-    "cpp": 319,
+    "cpp": 320,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-21T17:04:09Z",
+  "last_synced": "2026-09-22T04:27:11Z",
   "medium_count": 96,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1607,6 +1607,18 @@
       "problem_number": 268,
       "problem_slug": "missing-number",
       "problem_title": "Missing Number"
+    },
+    "2696": {
+      "difficulty": "Easy",
+      "folder_name": "2696-minimum-string-length-after-removing-substrings",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-22T04:27:11Z",
+      "notes": "",
+      "problem_number": 2696,
+      "problem_slug": "minimum-string-length-after-removing-substrings",
+      "problem_title": "Minimum String Length After Removing Substrings"
     },
     "2697": {
       "difficulty": "Easy",
@@ -3904,5 +3916,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 324
+  "total_solved": 325
 }
