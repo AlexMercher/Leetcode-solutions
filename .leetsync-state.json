@@ -1,12 +1,12 @@
 {
-  "easy_count": 213,
+  "easy_count": 214,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 322,
+    "cpp": 323,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-22T12:29:26Z",
+  "last_synced": "2026-09-22T12:33:57Z",
   "medium_count": 96,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3818,6 +3818,18 @@
       "problem_slug": "reverse-linked-list-ii",
       "problem_title": "Reverse Linked List II"
     },
+    "933": {
+      "difficulty": "Easy",
+      "folder_name": "0933-number-of-recent-calls",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-22T12:33:57Z",
+      "notes": "",
+      "problem_number": 933,
+      "problem_slug": "number-of-recent-calls",
+      "problem_title": "Number of Recent Calls"
+    },
     "938": {
       "difficulty": "Easy",
       "folder_name": "0938-range-sum-of-bst",
@@ -3940,5 +3952,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 327
+  "total_solved": 328
 }
