@@ -1,12 +1,12 @@
 {
-  "easy_count": 214,
+  "easy_count": 215,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 323,
+    "cpp": 324,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-22T12:33:57Z",
+  "last_synced": "2026-09-22T13:14:14Z",
   "medium_count": 96,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -659,6 +659,18 @@
       "problem_number": 1621,
       "problem_slug": "number-of-sets-of-k-non-overlapping-line-segments",
       "problem_title": "Number of Sets of K Non-Overlapping Line Segments"
+    },
+    "1656": {
+      "difficulty": "Easy",
+      "folder_name": "1656-design-an-ordered-stream",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-22T13:14:14Z",
+      "notes": "",
+      "problem_number": 1656,
+      "problem_slug": "design-an-ordered-stream",
+      "problem_title": "Design an Ordered Stream"
     },
     "1668": {
       "difficulty": "Easy",
@@ -3952,5 +3964,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 328
+  "total_solved": 329
 }
