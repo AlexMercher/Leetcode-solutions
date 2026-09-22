@@ -1,12 +1,12 @@
 {
-  "easy_count": 212,
+  "easy_count": 213,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 321,
+    "cpp": 322,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-22T05:15:51Z",
+  "last_synced": "2026-09-22T12:29:26Z",
   "medium_count": 96,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3518,6 +3518,18 @@
       "problem_slug": "reverse-integer",
       "problem_title": "Reverse Integer"
     },
+    "703": {
+      "difficulty": "Easy",
+      "folder_name": "0703-kth-largest-element-in-a-stream",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-22T12:29:26Z",
+      "notes": "",
+      "problem_number": 703,
+      "problem_slug": "kth-largest-element-in-a-stream",
+      "problem_title": "Kth Largest Element in a Stream"
+    },
     "705": {
       "difficulty": "Easy",
       "folder_name": "0705-design-hashset",
@@ -3928,5 +3940,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 326
+  "total_solved": 327
 }
