@@ -1,12 +1,12 @@
 {
-  "easy_count": 216,
+  "easy_count": 217,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 325,
+    "cpp": 326,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-22T13:24:49Z",
+  "last_synced": "2026-09-22T14:07:17Z",
   "medium_count": 96,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -575,6 +575,18 @@
       "problem_number": 1464,
       "problem_slug": "maximum-product-of-two-elements-in-an-array",
       "problem_title": "Maximum Product of Two Elements in an Array"
+    },
+    "1475": {
+      "difficulty": "Easy",
+      "folder_name": "1475-final-prices-with-a-special-discount-in-a-shop",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-22T14:07:17Z",
+      "notes": "",
+      "problem_number": 1475,
+      "problem_slug": "final-prices-with-a-special-discount-in-a-shop",
+      "problem_title": "Final Prices With a Special Discount in a Shop"
     },
     "1477": {
       "difficulty": "Medium",
@@ -3976,5 +3988,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 330
+  "total_solved": 331
 }
