@@ -2,12 +2,12 @@
   "easy_count": 218,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 327,
+    "cpp": 328,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-22T14:13:19Z",
-  "medium_count": 96,
+  "last_synced": "2026-09-22T20:59:45Z",
+  "medium_count": 97,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -3374,6 +3374,18 @@
       "problem_slug": "longest-harmonious-subsequence",
       "problem_title": "Longest Harmonious Subsequence"
     },
+    "6": {
+      "difficulty": "Medium",
+      "folder_name": "0006-zigzag-conversion",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-22T20:59:45Z",
+      "notes": "",
+      "problem_number": 6,
+      "problem_slug": "zigzag-conversion",
+      "problem_title": "Zigzag Conversion"
+    },
     "605": {
       "difficulty": "Easy",
       "folder_name": "0605-can-place-flowers",
@@ -4000,5 +4012,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 332
+  "total_solved": 333
 }
