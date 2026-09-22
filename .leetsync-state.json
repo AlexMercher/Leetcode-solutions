@@ -1,12 +1,12 @@
 {
   "easy_count": 212,
-  "hard_count": 17,
+  "hard_count": 18,
   "language_counts": {
-    "cpp": 320,
+    "cpp": 321,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-22T04:27:11Z",
+  "last_synced": "2026-09-22T05:15:51Z",
   "medium_count": 96,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2342,6 +2342,18 @@
       "problem_slug": "find-x-value-of-array-i",
       "problem_title": "Find X Value of Array I"
     },
+    "3525": {
+      "difficulty": "Hard",
+      "folder_name": "3525-find-x-value-of-array-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-22T05:15:51Z",
+      "notes": "",
+      "problem_number": 3525,
+      "problem_slug": "find-x-value-of-array-ii",
+      "problem_title": "Find X Value of Array II"
+    },
     "3545": {
       "difficulty": "Easy",
       "folder_name": "3545-minimum-deletions-for-at-most-k-distinct-characters",
@@ -3916,5 +3928,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 325
+  "total_solved": 326
 }
