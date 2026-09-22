@@ -1,12 +1,12 @@
 {
-  "easy_count": 217,
+  "easy_count": 218,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 326,
+    "cpp": 327,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-22T14:07:17Z",
+  "last_synced": "2026-09-22T14:13:19Z",
   "medium_count": 96,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -647,6 +647,18 @@
       "problem_number": 1520,
       "problem_slug": "maximum-number-of-non-overlapping-substrings",
       "problem_title": "Maximum Number of Non-Overlapping Substrings"
+    },
+    "1544": {
+      "difficulty": "Easy",
+      "folder_name": "1544-make-the-string-great",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-22T14:13:19Z",
+      "notes": "",
+      "problem_number": 1544,
+      "problem_slug": "make-the-string-great",
+      "problem_title": "Make The String Great"
     },
     "1563": {
       "difficulty": "Hard",
@@ -3988,5 +4000,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 331
+  "total_solved": 332
 }
