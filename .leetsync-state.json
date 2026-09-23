@@ -2,12 +2,12 @@
   "easy_count": 218,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 330,
+    "cpp": 331,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-23T05:49:47Z",
-  "medium_count": 99,
+  "last_synced": "2026-09-23T06:05:21Z",
+  "medium_count": 100,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -431,6 +431,18 @@
       "problem_number": 1342,
       "problem_slug": "number-of-steps-to-reduce-a-number-to-zero",
       "problem_title": "Number of Steps to Reduce a Number to Zero"
+    },
+    "1352": {
+      "difficulty": "Medium",
+      "folder_name": "1352-product-of-the-last-k-numbers",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-23T06:05:21Z",
+      "notes": "",
+      "problem_number": 1352,
+      "problem_slug": "product-of-the-last-k-numbers",
+      "problem_title": "Product of the Last K Numbers"
     },
     "1356": {
       "difficulty": "Easy",
@@ -4036,5 +4048,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 335
+  "total_solved": 336
 }
