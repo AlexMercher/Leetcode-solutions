@@ -1,12 +1,12 @@
 {
-  "easy_count": 222,
+  "easy_count": 223,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 335,
+    "cpp": 336,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-23T09:49:07Z",
+  "last_synced": "2026-09-23T10:01:00Z",
   "medium_count": 100,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -731,6 +731,18 @@
       "problem_number": 1621,
       "problem_slug": "number-of-sets-of-k-non-overlapping-line-segments",
       "problem_title": "Number of Sets of K Non-Overlapping Line Segments"
+    },
+    "1652": {
+      "difficulty": "Easy",
+      "folder_name": "1652-defuse-the-bomb",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-23T10:01:00Z",
+      "notes": "",
+      "problem_number": 1652,
+      "problem_slug": "defuse-the-bomb",
+      "problem_title": "Defuse the Bomb"
     },
     "1656": {
       "difficulty": "Easy",
@@ -4096,5 +4108,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 340
+  "total_solved": 341
 }
