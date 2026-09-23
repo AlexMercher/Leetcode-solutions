@@ -2,12 +2,12 @@
   "easy_count": 218,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 329,
+    "cpp": 330,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-23T05:35:24Z",
-  "medium_count": 98,
+  "last_synced": "2026-09-23T05:49:47Z",
+  "medium_count": 99,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -3854,6 +3854,18 @@
       "problem_slug": "palindrome-number",
       "problem_title": "Palindrome Number"
     },
+    "901": {
+      "difficulty": "Medium",
+      "folder_name": "0901-online-stock-span",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-23T05:49:47Z",
+      "notes": "",
+      "problem_number": 901,
+      "problem_slug": "online-stock-span",
+      "problem_title": "Online Stock Span"
+    },
     "905": {
       "difficulty": "Easy",
       "folder_name": "0905-sort-array-by-parity",
@@ -4024,5 +4036,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 334
+  "total_solved": 335
 }
