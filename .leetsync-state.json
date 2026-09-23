@@ -1,12 +1,12 @@
 {
-  "easy_count": 220,
+  "easy_count": 221,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 333,
+    "cpp": 334,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-23T09:40:01Z",
+  "last_synced": "2026-09-23T09:45:28Z",
   "medium_count": 100,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1043,6 +1043,18 @@
       "problem_number": 2,
       "problem_slug": "add-two-numbers",
       "problem_title": "Add Two Numbers"
+    },
+    "2000": {
+      "difficulty": "Easy",
+      "folder_name": "2000-reverse-prefix-of-word",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-23T09:45:28Z",
+      "notes": "",
+      "problem_number": 2000,
+      "problem_slug": "reverse-prefix-of-word",
+      "problem_title": "Reverse Prefix of Word"
     },
     "2027": {
       "difficulty": "Easy",
@@ -4072,5 +4084,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 338
+  "total_solved": 339
 }
