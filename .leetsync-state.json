@@ -1,12 +1,12 @@
 {
-  "easy_count": 219,
+  "easy_count": 220,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 332,
+    "cpp": 333,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-23T06:08:11Z",
+  "last_synced": "2026-09-23T09:40:01Z",
   "medium_count": 100,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -791,6 +791,18 @@
       "problem_number": 17,
       "problem_slug": "letter-combinations-of-a-phone-number",
       "problem_title": "Letter Combinations of a Phone Number"
+    },
+    "1700": {
+      "difficulty": "Easy",
+      "folder_name": "1700-number-of-students-unable-to-eat-lunch",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-23T09:40:01Z",
+      "notes": "",
+      "problem_number": 1700,
+      "problem_slug": "number-of-students-unable-to-eat-lunch",
+      "problem_title": "Number of Students Unable to Eat Lunch"
     },
     "171": {
       "difficulty": "Easy",
@@ -4060,5 +4072,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 337
+  "total_solved": 338
 }
