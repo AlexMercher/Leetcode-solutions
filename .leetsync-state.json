@@ -1,12 +1,12 @@
 {
-  "easy_count": 218,
+  "easy_count": 219,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 331,
+    "cpp": 332,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-23T06:05:21Z",
+  "last_synced": "2026-09-23T06:08:11Z",
   "medium_count": 100,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -695,6 +695,18 @@
       "problem_number": 160,
       "problem_slug": "intersection-of-two-linked-lists",
       "problem_title": "Intersection of Two Linked Lists"
+    },
+    "1614": {
+      "difficulty": "Easy",
+      "folder_name": "1614-maximum-nesting-depth-of-the-parentheses",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-23T06:08:11Z",
+      "notes": "",
+      "problem_number": 1614,
+      "problem_slug": "maximum-nesting-depth-of-the-parentheses",
+      "problem_title": "Maximum Nesting Depth of the Parentheses"
     },
     "1621": {
       "difficulty": "Medium",
@@ -4048,5 +4060,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 336
+  "total_solved": 337
 }
