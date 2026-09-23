@@ -1,12 +1,12 @@
 {
-  "easy_count": 223,
+  "easy_count": 224,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 336,
+    "cpp": 337,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-23T10:01:00Z",
+  "last_synced": "2026-09-23T16:33:22Z",
   "medium_count": 100,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -935,6 +935,18 @@
       "problem_number": 1872,
       "problem_slug": "stone-game-viii",
       "problem_title": "Stone Game VIII"
+    },
+    "1876": {
+      "difficulty": "Easy",
+      "folder_name": "1876-substrings-of-size-three-with-distinct-characters",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-23T16:33:22Z",
+      "notes": "",
+      "problem_number": 1876,
+      "problem_slug": "substrings-of-size-three-with-distinct-characters",
+      "problem_title": "Substrings of Size Three with Distinct Characters"
     },
     "19": {
       "difficulty": "Medium",
@@ -4108,5 +4120,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 341
+  "total_solved": 342
 }
