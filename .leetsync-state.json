@@ -1,12 +1,12 @@
 {
-  "easy_count": 221,
+  "easy_count": 222,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 334,
+    "cpp": 335,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-23T09:45:28Z",
+  "last_synced": "2026-09-23T09:49:07Z",
   "medium_count": 100,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -683,6 +683,18 @@
       "problem_number": 1563,
       "problem_slug": "stone-game-v",
       "problem_title": "Stone Game V"
+    },
+    "1598": {
+      "difficulty": "Easy",
+      "folder_name": "1598-crawler-log-folder",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-23T09:49:07Z",
+      "notes": "",
+      "problem_number": 1598,
+      "problem_slug": "crawler-log-folder",
+      "problem_title": "Crawler Log Folder"
     },
     "160": {
       "difficulty": "Easy",
@@ -4084,5 +4096,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 339
+  "total_solved": 340
 }
