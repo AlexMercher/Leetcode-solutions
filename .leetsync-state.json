@@ -2,12 +2,12 @@
   "easy_count": 226,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 339,
+    "cpp": 340,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-24T09:56:11Z",
-  "medium_count": 100,
+  "last_synced": "2026-09-24T10:09:03Z",
+  "medium_count": 101,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -3266,6 +3266,18 @@
       "problem_slug": "predict-the-winner",
       "problem_title": "Predict the Winner"
     },
+    "49": {
+      "difficulty": "Medium",
+      "folder_name": "0049-group-anagrams",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-24T10:09:03Z",
+      "notes": "",
+      "problem_number": 49,
+      "problem_slug": "group-anagrams",
+      "problem_title": "Group Anagrams"
+    },
     "494": {
       "difficulty": "Medium",
       "folder_name": "0494-target-sum",
@@ -4144,5 +4156,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 344
+  "total_solved": 345
 }
