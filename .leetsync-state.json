@@ -1,12 +1,12 @@
 {
-  "easy_count": 224,
+  "easy_count": 225,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 337,
+    "cpp": 338,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-23T16:33:22Z",
+  "last_synced": "2026-09-24T09:45:10Z",
   "medium_count": 100,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2510,6 +2510,18 @@
       "problem_slug": "minimum-deletions-for-at-most-k-distinct-characters",
       "problem_title": "Minimum Deletions for At Most K Distinct Characters"
     },
+    "3550": {
+      "difficulty": "Easy",
+      "folder_name": "3550-smallest-index-with-digit-sum-equal-to-index",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-24T09:45:10Z",
+      "notes": "",
+      "problem_number": 3550,
+      "problem_slug": "smallest-index-with-digit-sum-equal-to-index",
+      "problem_title": "Smallest Index With Digit Sum Equal to Index"
+    },
     "3568": {
       "difficulty": "Medium",
       "folder_name": "3568-minimum-moves-to-clean-the-classroom",
@@ -4120,5 +4132,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 342
+  "total_solved": 343
 }
