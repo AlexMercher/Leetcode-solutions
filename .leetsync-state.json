@@ -2,12 +2,12 @@
   "easy_count": 226,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 344,
+    "cpp": 345,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-24T11:54:21Z",
-  "medium_count": 105,
+  "last_synced": "2026-09-24T11:59:34Z",
+  "medium_count": 106,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -359,6 +359,18 @@
       "problem_number": 1221,
       "problem_slug": "split-a-string-in-balanced-strings",
       "problem_title": "Split a String in Balanced Strings"
+    },
+    "128": {
+      "difficulty": "Medium",
+      "folder_name": "0128-longest-consecutive-sequence",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-24T11:59:34Z",
+      "notes": "",
+      "problem_number": 128,
+      "problem_slug": "longest-consecutive-sequence",
+      "problem_title": "Longest Consecutive Sequence"
     },
     "1281": {
       "difficulty": "Easy",
@@ -4204,5 +4216,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 349
+  "total_solved": 350
 }
