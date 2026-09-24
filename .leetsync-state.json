@@ -2,12 +2,12 @@
   "easy_count": 227,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 346,
+    "cpp": 347,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-24T12:01:19Z",
-  "medium_count": 106,
+  "last_synced": "2026-09-24T12:16:17Z",
+  "medium_count": 107,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1739,6 +1739,18 @@
       "problem_number": 2595,
       "problem_slug": "number-of-even-and-odd-bits",
       "problem_title": "Number of Even and Odd Bits"
+    },
+    "260": {
+      "difficulty": "Medium",
+      "folder_name": "0260-single-number-iii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-24T12:16:17Z",
+      "notes": "",
+      "problem_number": 260,
+      "problem_slug": "single-number-iii",
+      "problem_title": "Single Number III"
     },
     "2600": {
       "difficulty": "Easy",
@@ -4228,5 +4240,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 351
+  "total_solved": 352
 }
