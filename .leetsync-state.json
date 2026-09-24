@@ -2,12 +2,12 @@
   "easy_count": 226,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 341,
+    "cpp": 342,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-24T10:21:27Z",
-  "medium_count": 102,
+  "last_synced": "2026-09-24T10:29:19Z",
+  "medium_count": 103,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1487,6 +1487,18 @@
       "problem_number": 2357,
       "problem_slug": "make-array-zero-by-subtracting-equal-amounts",
       "problem_title": "Make Array Zero by Subtracting Equal Amounts"
+    },
+    "238": {
+      "difficulty": "Medium",
+      "folder_name": "0238-product-of-array-except-self",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-24T10:29:19Z",
+      "notes": "",
+      "problem_number": 238,
+      "problem_slug": "product-of-array-except-self",
+      "problem_title": "Product of Array Except Self"
     },
     "2383": {
       "difficulty": "Easy",
@@ -4168,5 +4180,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 346
+  "total_solved": 347
 }
