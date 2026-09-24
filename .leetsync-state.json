@@ -2,12 +2,12 @@
   "easy_count": 226,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 342,
+    "cpp": 343,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-24T10:29:19Z",
-  "medium_count": 103,
+  "last_synced": "2026-09-24T11:46:05Z",
+  "medium_count": 104,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1811,6 +1811,18 @@
       "problem_number": 2706,
       "problem_slug": "buy-two-chocolates",
       "problem_title": "Buy Two Chocolates"
+    },
+    "271": {
+      "difficulty": "Medium",
+      "folder_name": "0271-encode-and-decode-strings",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-24T11:46:05Z",
+      "notes": "",
+      "problem_number": 271,
+      "problem_slug": "encode-and-decode-strings",
+      "problem_title": "Encode and Decode Strings"
     },
     "278": {
       "difficulty": "Easy",
@@ -4180,5 +4192,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 347
+  "total_solved": 348
 }
