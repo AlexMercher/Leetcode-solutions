@@ -2,12 +2,12 @@
   "easy_count": 227,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 349,
+    "cpp": 350,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-24T12:28:59Z",
-  "medium_count": 109,
+  "last_synced": "2026-09-24T12:41:40Z",
+  "medium_count": 110,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -2750,6 +2750,18 @@
       "problem_slug": "longest-subsequence-with-non-zero-bitwise-xor",
       "problem_title": "Longest Subsequence With Non-Zero Bitwise XOR"
     },
+    "371": {
+      "difficulty": "Medium",
+      "folder_name": "0371-sum-of-two-integers",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-24T12:41:40Z",
+      "notes": "",
+      "problem_number": 371,
+      "problem_slug": "sum-of-two-integers",
+      "problem_title": "Sum of Two Integers"
+    },
     "3718": {
       "difficulty": "Easy",
       "folder_name": "3718-smallest-missing-multiple-of-k",
@@ -4264,5 +4276,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 354
+  "total_solved": 355
 }
