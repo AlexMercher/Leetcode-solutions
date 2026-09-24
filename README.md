@@ -6,14 +6,14 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **343** |
-| Easy | 225 |
+| Total Solved | **344** |
+| Easy | 226 |
 | Medium | 100 |
 | Hard | 18 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **225** (66%)  
+🟢 Easy &nbsp; **226** (66%)  
 🟡 Medium &nbsp; **100** (29%)  
 🔴 Hard &nbsp; **18** (5%)
 
@@ -21,7 +21,7 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 338 |
+| C++ | 339 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [217. Contains Duplicate](./0217-contains-duplicate/README.md) | Easy | C++ |
 | [3550. Smallest Index With Digit Sum Equal to Index](./3550-smallest-index-with-digit-sum-equal-to-index/README.md) | Easy | C++ |
 | [1876. Substrings of Size Three with Distinct Characters](./1876-substrings-of-size-three-with-distinct-characters/README.md) | Easy | C++ |
 | [1652. Defuse the Bomb](./1652-defuse-the-bomb/README.md) | Easy | C++ |
 | [1598. Crawler Log Folder](./1598-crawler-log-folder/README.md) | Easy | C++ |
-| [2000. Reverse Prefix of Word](./2000-reverse-prefix-of-word/README.md) | Easy | C++ |

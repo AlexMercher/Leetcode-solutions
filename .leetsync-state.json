@@ -1,12 +1,12 @@
 {
-  "easy_count": 225,
+  "easy_count": 226,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 338,
+    "cpp": 339,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-24T09:45:10Z",
+  "last_synced": "2026-09-24T09:56:11Z",
   "medium_count": 100,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1271,6 +1271,18 @@
       "problem_number": 2160,
       "problem_slug": "minimum-sum-of-four-digit-number-after-splitting-digits",
       "problem_title": "Minimum Sum of Four Digit Number After Splitting Digits"
+    },
+    "217": {
+      "difficulty": "Easy",
+      "folder_name": "0217-contains-duplicate",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-24T09:56:11Z",
+      "notes": "",
+      "problem_number": 217,
+      "problem_slug": "contains-duplicate",
+      "problem_title": "Contains Duplicate"
     },
     "219": {
       "difficulty": "Easy",
@@ -4132,5 +4144,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 343
+  "total_solved": 344
 }
