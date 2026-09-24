@@ -2,12 +2,12 @@
   "easy_count": 227,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 348,
+    "cpp": 349,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-24T12:21:44Z",
-  "medium_count": 108,
+  "last_synced": "2026-09-24T12:28:59Z",
+  "medium_count": 109,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -587,6 +587,18 @@
       "problem_number": 144,
       "problem_slug": "binary-tree-preorder-traversal",
       "problem_title": "Binary Tree Preorder Traversal"
+    },
+    "1442": {
+      "difficulty": "Medium",
+      "folder_name": "1442-count-triplets-that-can-form-two-arrays-of-equal-xor",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-24T12:28:59Z",
+      "notes": "",
+      "problem_number": 1442,
+      "problem_slug": "count-triplets-that-can-form-two-arrays-of-equal-xor",
+      "problem_title": "Count Triplets That Can Form Two Arrays of Equal XOR"
     },
     "145": {
       "difficulty": "Easy",
@@ -4252,5 +4264,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 353
+  "total_solved": 354
 }
