@@ -2,12 +2,12 @@
   "easy_count": 226,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 340,
+    "cpp": 341,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-24T10:09:03Z",
-  "medium_count": 101,
+  "last_synced": "2026-09-24T10:21:27Z",
+  "medium_count": 102,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -2426,6 +2426,18 @@
       "problem_slug": "reverse-vowels-of-a-string",
       "problem_title": "Reverse Vowels of a String"
     },
+    "347": {
+      "difficulty": "Medium",
+      "folder_name": "0347-top-k-frequent-elements",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-24T10:21:27Z",
+      "notes": "",
+      "problem_number": 347,
+      "problem_slug": "top-k-frequent-elements",
+      "problem_title": "Top K Frequent Elements"
+    },
     "3471": {
       "difficulty": "Easy",
       "folder_name": "3471-find-the-largest-almost-missing-integer",
@@ -4156,5 +4168,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 345
+  "total_solved": 346
 }
