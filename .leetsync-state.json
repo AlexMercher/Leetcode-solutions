@@ -1,12 +1,12 @@
 {
-  "easy_count": 227,
+  "easy_count": 228,
   "hard_count": 18,
   "language_counts": {
-    "cpp": 350,
+    "cpp": 351,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-24T12:41:40Z",
+  "last_synced": "2026-09-24T12:48:32Z",
   "medium_count": 110,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -839,6 +839,18 @@
       "problem_number": 1684,
       "problem_slug": "count-the-number-of-consistent-strings",
       "problem_title": "Count the Number of Consistent Strings"
+    },
+    "169": {
+      "difficulty": "Easy",
+      "folder_name": "0169-majority-element",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-24T12:48:32Z",
+      "notes": "",
+      "problem_number": 169,
+      "problem_slug": "majority-element",
+      "problem_title": "Majority Element"
     },
     "17": {
       "difficulty": "Medium",
@@ -4276,5 +4288,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 355
+  "total_solved": 356
 }

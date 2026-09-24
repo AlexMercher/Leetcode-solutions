@@ -6,14 +6,14 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **355** |
-| Easy | 227 |
+| Total Solved | **356** |
+| Easy | 228 |
 | Medium | 110 |
 | Hard | 18 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **227** (64%)  
+🟢 Easy &nbsp; **228** (64%)  
 🟡 Medium &nbsp; **110** (31%)  
 🔴 Hard &nbsp; **18** (5%)
 
@@ -21,7 +21,7 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 350 |
+| C++ | 351 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [169. Majority Element](./0169-majority-element/README.md) | Easy | C++ |
 | [371. Sum of Two Integers](./0371-sum-of-two-integers/README.md) | Medium | C++ |
 | [1442. Count Triplets That Can Form Two Arrays of Equal XOR](./1442-count-triplets-that-can-form-two-arrays-of-equal-xor/README.md) | Medium | C++ |
 | [2433. Find The Original Array of Prefix Xor](./2433-find-the-original-array-of-prefix-xor/README.md) | Medium | C++ |
 | [260. Single Number III](./0260-single-number-iii/README.md) | Medium | C++ |
-| [136. Single Number](./0136-single-number/README.md) | Easy | C++ |
