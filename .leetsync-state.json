@@ -1,12 +1,12 @@
 {
-  "easy_count": 230,
+  "easy_count": 231,
   "hard_count": 19,
   "language_counts": {
-    "cpp": 356,
+    "cpp": 357,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-25T17:30:42Z",
+  "last_synced": "2026-09-25T17:32:00Z",
   "medium_count": 112,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -575,6 +575,18 @@
       "problem_number": 1406,
       "problem_slug": "stone-game-iii",
       "problem_title": "Stone Game III"
+    },
+    "141": {
+      "difficulty": "Easy",
+      "folder_name": "0141-linked-list-cycle",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-25T17:32:00Z",
+      "notes": "",
+      "problem_number": 141,
+      "problem_slug": "linked-list-cycle",
+      "problem_title": "Linked List Cycle"
     },
     "142": {
       "difficulty": "Medium",
@@ -4348,5 +4360,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 361
+  "total_solved": 362
 }
