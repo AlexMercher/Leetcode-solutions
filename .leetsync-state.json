@@ -1,12 +1,12 @@
 {
-  "easy_count": 229,
+  "easy_count": 230,
   "hard_count": 19,
   "language_counts": {
-    "cpp": 355,
+    "cpp": 356,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-25T17:27:24Z",
+  "last_synced": "2026-09-25T17:30:42Z",
   "medium_count": 112,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1319,6 +1319,18 @@
       "problem_number": 2094,
       "problem_slug": "finding-3-digit-even-numbers",
       "problem_title": "Finding 3-Digit Even Numbers"
+    },
+    "21": {
+      "difficulty": "Easy",
+      "folder_name": "0021-merge-two-sorted-lists",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-25T17:30:42Z",
+      "notes": "",
+      "problem_number": 21,
+      "problem_slug": "merge-two-sorted-lists",
+      "problem_title": "Merge Two Sorted Lists"
     },
     "213": {
       "difficulty": "Medium",
@@ -4336,5 +4348,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 360
+  "total_solved": 361
 }
