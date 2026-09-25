@@ -1,12 +1,12 @@
 {
-  "easy_count": 231,
+  "easy_count": 232,
   "hard_count": 19,
   "language_counts": {
-    "cpp": 357,
+    "cpp": 358,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-25T17:32:00Z",
+  "last_synced": "2026-09-25T17:35:22Z",
   "medium_count": 112,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3902,6 +3902,18 @@
       "problem_slug": "reverse-integer",
       "problem_title": "Reverse Integer"
     },
+    "70": {
+      "difficulty": "Easy",
+      "folder_name": "0070-climbing-stairs",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-25T17:35:22Z",
+      "notes": "",
+      "problem_number": 70,
+      "problem_slug": "climbing-stairs",
+      "problem_title": "Climbing Stairs"
+    },
     "703": {
       "difficulty": "Easy",
       "folder_name": "0703-kth-largest-element-in-a-stream",
@@ -4360,5 +4372,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 362
+  "total_solved": 363
 }
