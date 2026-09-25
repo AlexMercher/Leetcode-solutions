@@ -2,12 +2,12 @@
   "easy_count": 228,
   "hard_count": 19,
   "language_counts": {
-    "cpp": 353,
+    "cpp": 354,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-25T16:09:23Z",
-  "medium_count": 111,
+  "last_synced": "2026-09-25T16:29:20Z",
+  "medium_count": 112,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -671,6 +671,18 @@
       "problem_number": 1486,
       "problem_slug": "xor-operation-in-an-array",
       "problem_title": "XOR Operation in an Array"
+    },
+    "15": {
+      "difficulty": "Medium",
+      "folder_name": "0015-3sum",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-25T16:29:20Z",
+      "notes": "",
+      "problem_number": 15,
+      "problem_slug": "3sum",
+      "problem_title": "3Sum"
     },
     "1510": {
       "difficulty": "Hard",
@@ -4312,5 +4324,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 358
+  "total_solved": 359
 }
