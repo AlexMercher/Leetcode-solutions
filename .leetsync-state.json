@@ -1,12 +1,12 @@
 {
   "easy_count": 228,
-  "hard_count": 18,
+  "hard_count": 19,
   "language_counts": {
-    "cpp": 351,
+    "cpp": 352,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-24T12:48:32Z",
+  "last_synced": "2026-09-25T15:57:43Z",
   "medium_count": 110,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -143,6 +143,18 @@
       "problem_number": 109,
       "problem_slug": "convert-sorted-list-to-binary-search-tree",
       "problem_title": "Convert Sorted List to Binary Search Tree"
+    },
+    "1096": {
+      "difficulty": "Hard",
+      "folder_name": "1096-brace-expansion-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-25T15:57:43Z",
+      "notes": "",
+      "problem_number": 1096,
+      "problem_slug": "brace-expansion-ii",
+      "problem_title": "Brace Expansion II"
     },
     "110": {
       "difficulty": "Easy",
@@ -4288,5 +4300,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 356
+  "total_solved": 357
 }
