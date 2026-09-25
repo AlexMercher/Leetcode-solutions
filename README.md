@@ -6,14 +6,14 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **359** |
-| Easy | 228 |
+| Total Solved | **360** |
+| Easy | 229 |
 | Medium | 112 |
 | Hard | 19 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **228** (64%)  
+🟢 Easy &nbsp; **229** (64%)  
 🟡 Medium &nbsp; **112** (31%)  
 🔴 Hard &nbsp; **19** (5%)
 
@@ -21,7 +21,7 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 354 |
+| C++ | 355 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [704. Binary Search](./0704-binary-search/README.md) | Easy | C++ |
 | [15. 3Sum](./0015-3sum/README.md) | Medium | C++ |
 | [167. Two Sum II - Input Array Is Sorted](./0167-two-sum-ii-input-array-is-sorted/README.md) | Medium | C++ |
 | [1096. Brace Expansion II](./1096-brace-expansion-ii/README.md) | Hard | C++ |
 | [169. Majority Element](./0169-majority-element/README.md) | Easy | C++ |
-| [371. Sum of Two Integers](./0371-sum-of-two-integers/README.md) | Medium | C++ |

@@ -1,12 +1,12 @@
 {
-  "easy_count": 228,
+  "easy_count": 229,
   "hard_count": 19,
   "language_counts": {
-    "cpp": 354,
+    "cpp": 355,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-25T16:29:20Z",
+  "last_synced": "2026-09-25T17:27:24Z",
   "medium_count": 112,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3890,6 +3890,18 @@
       "problem_slug": "kth-largest-element-in-a-stream",
       "problem_title": "Kth Largest Element in a Stream"
     },
+    "704": {
+      "difficulty": "Easy",
+      "folder_name": "0704-binary-search",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-25T17:27:24Z",
+      "notes": "",
+      "problem_number": 704,
+      "problem_slug": "binary-search",
+      "problem_title": "Binary Search"
+    },
     "705": {
       "difficulty": "Easy",
       "folder_name": "0705-design-hashset",
@@ -4324,5 +4336,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 359
+  "total_solved": 360
 }
