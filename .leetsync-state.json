@@ -2,12 +2,12 @@
   "easy_count": 228,
   "hard_count": 19,
   "language_counts": {
-    "cpp": 352,
+    "cpp": 353,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-25T15:57:43Z",
-  "medium_count": 110,
+  "last_synced": "2026-09-25T16:09:23Z",
+  "medium_count": 111,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -827,6 +827,18 @@
       "problem_number": 1668,
       "problem_slug": "maximum-repeating-substring",
       "problem_title": "Maximum Repeating Substring"
+    },
+    "167": {
+      "difficulty": "Medium",
+      "folder_name": "0167-two-sum-ii-input-array-is-sorted",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-25T16:09:23Z",
+      "notes": "",
+      "problem_number": 167,
+      "problem_slug": "two-sum-ii-input-array-is-sorted",
+      "problem_title": "Two Sum II - Input Array Is Sorted"
     },
     "168": {
       "difficulty": "Easy",
@@ -4300,5 +4312,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 357
+  "total_solved": 358
 }
