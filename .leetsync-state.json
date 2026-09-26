@@ -2,12 +2,12 @@
   "easy_count": 232,
   "hard_count": 19,
   "language_counts": {
-    "cpp": 359,
+    "cpp": 360,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-26T10:39:22Z",
-  "medium_count": 113,
+  "last_synced": "2026-09-26T10:44:56Z",
+  "medium_count": 114,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -155,6 +155,18 @@
       "problem_number": 1096,
       "problem_slug": "brace-expansion-ii",
       "problem_title": "Brace Expansion II"
+    },
+    "11": {
+      "difficulty": "Medium",
+      "folder_name": "0011-container-with-most-water",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-26T10:44:56Z",
+      "notes": "",
+      "problem_number": 11,
+      "problem_slug": "container-with-most-water",
+      "problem_title": "Container With Most Water"
     },
     "110": {
       "difficulty": "Easy",
@@ -4384,5 +4396,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 364
+  "total_solved": 365
 }
