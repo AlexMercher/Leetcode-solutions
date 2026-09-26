@@ -1,12 +1,12 @@
 {
   "easy_count": 232,
-  "hard_count": 19,
+  "hard_count": 20,
   "language_counts": {
-    "cpp": 360,
+    "cpp": 361,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-26T10:44:56Z",
+  "last_synced": "2026-09-26T10:50:21Z",
   "medium_count": 114,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3290,6 +3290,18 @@
       "problem_slug": "partition-equal-subset-sum",
       "problem_title": "Partition Equal Subset Sum"
     },
+    "42": {
+      "difficulty": "Hard",
+      "folder_name": "0042-trapping-rain-water",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-26T10:50:21Z",
+      "notes": "",
+      "problem_number": 42,
+      "problem_slug": "trapping-rain-water",
+      "problem_title": "Trapping Rain Water"
+    },
     "420": {
       "difficulty": "Hard",
       "folder_name": "0420-strong-password-checker",
@@ -4396,5 +4408,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 365
+  "total_solved": 366
 }
