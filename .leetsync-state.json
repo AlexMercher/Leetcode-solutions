@@ -1,12 +1,12 @@
 {
-  "easy_count": 232,
+  "easy_count": 233,
   "hard_count": 20,
   "language_counts": {
-    "cpp": 361,
+    "cpp": 362,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-26T10:50:21Z",
+  "last_synced": "2026-09-26T13:15:36Z",
   "medium_count": 114,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -119,6 +119,18 @@
       "problem_number": 1025,
       "problem_slug": "divisor-game",
       "problem_title": "Divisor Game"
+    },
+    "1046": {
+      "difficulty": "Easy",
+      "folder_name": "1046-last-stone-weight",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-26T13:15:36Z",
+      "notes": "",
+      "problem_number": 1046,
+      "problem_slug": "last-stone-weight",
+      "problem_title": "Last Stone Weight"
     },
     "1047": {
       "difficulty": "Easy",
@@ -4408,5 +4420,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 366
+  "total_solved": 367
 }
