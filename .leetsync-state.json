@@ -2,12 +2,12 @@
   "easy_count": 232,
   "hard_count": 19,
   "language_counts": {
-    "cpp": 358,
+    "cpp": 359,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-25T17:35:22Z",
-  "medium_count": 112,
+  "last_synced": "2026-09-26T10:39:22Z",
+  "medium_count": 113,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -995,6 +995,18 @@
       "problem_number": 1763,
       "problem_slug": "longest-nice-substring",
       "problem_title": "Longest Nice Substring"
+    },
+    "1807": {
+      "difficulty": "Medium",
+      "folder_name": "1807-evaluate-the-bracket-pairs-of-a-string",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-26T10:39:22Z",
+      "notes": "",
+      "problem_number": 1807,
+      "problem_slug": "evaluate-the-bracket-pairs-of-a-string",
+      "problem_title": "Evaluate the Bracket Pairs of a String"
     },
     "1827": {
       "difficulty": "Easy",
@@ -4372,5 +4384,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 363
+  "total_solved": 364
 }
