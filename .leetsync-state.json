@@ -1,12 +1,12 @@
 {
-  "easy_count": 233,
+  "easy_count": 234,
   "hard_count": 20,
   "language_counts": {
-    "cpp": 363,
+    "cpp": 364,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-27T08:56:40Z",
+  "last_synced": "2026-09-27T09:02:59Z",
   "medium_count": 115,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3902,6 +3902,18 @@
       "problem_slug": "two-sum-iv-input-is-a-bst",
       "problem_title": "Two Sum IV - Input is a BST"
     },
+    "66": {
+      "difficulty": "Easy",
+      "folder_name": "0066-plus-one",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-27T09:02:59Z",
+      "notes": "",
+      "problem_number": 66,
+      "problem_slug": "plus-one",
+      "problem_title": "Plus One"
+    },
     "671": {
       "difficulty": "Easy",
       "folder_name": "0671-second-minimum-node-in-a-binary-tree",
@@ -4432,5 +4444,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 368
+  "total_solved": 369
 }
