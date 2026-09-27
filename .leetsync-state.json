@@ -2,12 +2,12 @@
   "easy_count": 233,
   "hard_count": 20,
   "language_counts": {
-    "cpp": 362,
+    "cpp": 363,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-26T13:15:36Z",
-  "medium_count": 114,
+  "last_synced": "2026-09-27T08:56:40Z",
+  "medium_count": 115,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -323,6 +323,18 @@
       "problem_number": 119,
       "problem_slug": "pascals-triangle-ii",
       "problem_title": "Pascal's Triangle II"
+    },
+    "1190": {
+      "difficulty": "Medium",
+      "folder_name": "1190-reverse-substrings-between-each-pair-of-parentheses",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-27T08:56:40Z",
+      "notes": "",
+      "problem_number": 1190,
+      "problem_slug": "reverse-substrings-between-each-pair-of-parentheses",
+      "problem_title": "Reverse Substrings Between Each Pair of Parentheses"
     },
     "1192": {
       "difficulty": "Hard",
@@ -4420,5 +4432,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 367
+  "total_solved": 368
 }
