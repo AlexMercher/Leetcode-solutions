@@ -2,12 +2,12 @@
   "easy_count": 234,
   "hard_count": 20,
   "language_counts": {
-    "cpp": 364,
+    "cpp": 365,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-27T09:02:59Z",
-  "medium_count": 115,
+  "last_synced": "2026-09-27T09:08:36Z",
+  "medium_count": 116,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -4046,6 +4046,18 @@
       "problem_slug": "edit-distance",
       "problem_title": "Edit Distance"
     },
+    "73": {
+      "difficulty": "Medium",
+      "folder_name": "0073-set-matrix-zeroes",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-27T09:08:36Z",
+      "notes": "",
+      "problem_number": 73,
+      "problem_slug": "set-matrix-zeroes",
+      "problem_title": "Set Matrix Zeroes"
+    },
     "733": {
       "difficulty": "Easy",
       "folder_name": "0733-flood-fill",
@@ -4444,5 +4456,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 369
+  "total_solved": 370
 }
