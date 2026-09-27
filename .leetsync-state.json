@@ -1,12 +1,12 @@
 {
-  "easy_count": 234,
+  "easy_count": 235,
   "hard_count": 20,
   "language_counts": {
-    "cpp": 365,
+    "cpp": 366,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-27T09:08:36Z",
+  "last_synced": "2026-09-27T09:23:32Z",
   "medium_count": 116,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1775,6 +1775,18 @@
       "problem_number": 2506,
       "problem_slug": "count-pairs-of-similar-strings",
       "problem_title": "Count Pairs Of Similar Strings"
+    },
+    "252": {
+      "difficulty": "Easy",
+      "folder_name": "0252-meeting-rooms",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-27T09:23:32Z",
+      "notes": "",
+      "problem_number": 252,
+      "problem_slug": "meeting-rooms",
+      "problem_title": "Meeting Rooms"
     },
     "2540": {
       "difficulty": "Easy",
@@ -4456,5 +4468,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 370
+  "total_solved": 371
 }
