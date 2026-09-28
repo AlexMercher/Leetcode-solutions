@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 20,
   "language_counts": {
-    "cpp": 370,
+    "cpp": 371,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-28T12:22:25Z",
-  "medium_count": 120,
+  "last_synced": "2026-09-28T12:31:25Z",
+  "medium_count": 121,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -635,6 +635,18 @@
       "problem_number": 142,
       "problem_slug": "linked-list-cycle-ii",
       "problem_title": "Linked List Cycle II"
+    },
+    "143": {
+      "difficulty": "Medium",
+      "folder_name": "0143-reorder-list",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-28T12:31:25Z",
+      "notes": "",
+      "problem_number": 143,
+      "problem_slug": "reorder-list",
+      "problem_title": "Reorder List"
     },
     "144": {
       "difficulty": "Easy",
@@ -4516,5 +4528,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 375
+  "total_solved": 376
 }
