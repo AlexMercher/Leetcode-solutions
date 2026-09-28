@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 20,
   "language_counts": {
-    "cpp": 369,
+    "cpp": 370,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-28T12:11:53Z",
-  "medium_count": 119,
+  "last_synced": "2026-09-28T12:22:25Z",
+  "medium_count": 120,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -4286,6 +4286,18 @@
       "problem_slug": "leaf-similar-trees",
       "problem_title": "Leaf-Similar Trees"
     },
+    "875": {
+      "difficulty": "Medium",
+      "folder_name": "0875-koko-eating-bananas",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-28T12:22:25Z",
+      "notes": "",
+      "problem_number": 875,
+      "problem_slug": "koko-eating-bananas",
+      "problem_title": "Koko Eating Bananas"
+    },
     "876": {
       "difficulty": "Easy",
       "folder_name": "0876-middle-of-the-linked-list",
@@ -4504,5 +4516,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 374
+  "total_solved": 375
 }
