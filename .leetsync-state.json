@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 20,
   "language_counts": {
-    "cpp": 367,
+    "cpp": 368,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-28T10:56:02Z",
-  "medium_count": 117,
+  "last_synced": "2026-09-28T11:00:12Z",
+  "medium_count": 118,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -779,6 +779,18 @@
       "problem_number": 1544,
       "problem_slug": "make-the-string-great",
       "problem_title": "Make The String Great"
+    },
+    "155": {
+      "difficulty": "Medium",
+      "folder_name": "0155-min-stack",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-28T11:00:12Z",
+      "notes": "",
+      "problem_number": 155,
+      "problem_slug": "min-stack",
+      "problem_title": "Min Stack"
     },
     "1563": {
       "difficulty": "Hard",
@@ -4480,5 +4492,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 372
+  "total_solved": 373
 }
