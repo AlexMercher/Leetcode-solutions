@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 20,
   "language_counts": {
-    "cpp": 366,
+    "cpp": 367,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-27T09:23:32Z",
-  "medium_count": 116,
+  "last_synced": "2026-09-28T10:56:02Z",
+  "medium_count": 117,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -3350,6 +3350,18 @@
       "problem_slug": "strong-password-checker",
       "problem_title": "Strong Password Checker"
     },
+    "424": {
+      "difficulty": "Medium",
+      "folder_name": "0424-longest-repeating-character-replacement",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-28T10:56:02Z",
+      "notes": "",
+      "problem_number": 424,
+      "problem_slug": "longest-repeating-character-replacement",
+      "problem_title": "Longest Repeating Character Replacement"
+    },
     "434": {
       "difficulty": "Easy",
       "folder_name": "0434-number-of-segments-in-a-string",
@@ -4468,5 +4480,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 371
+  "total_solved": 372
 }
