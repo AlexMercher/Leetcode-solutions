@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 20,
   "language_counts": {
-    "cpp": 373,
+    "cpp": 374,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-28T12:57:18Z",
-  "medium_count": 123,
+  "last_synced": "2026-09-28T15:36:58Z",
+  "medium_count": 124,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -4130,6 +4130,18 @@
       "problem_slug": "flood-fill",
       "problem_title": "Flood Fill"
     },
+    "739": {
+      "difficulty": "Medium",
+      "folder_name": "0739-daily-temperatures",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-28T15:36:58Z",
+      "notes": "",
+      "problem_number": 739,
+      "problem_slug": "daily-temperatures",
+      "problem_title": "Daily Temperatures"
+    },
     "74": {
       "difficulty": "Medium",
       "folder_name": "0074-search-a-2d-matrix",
@@ -4552,5 +4564,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 378
+  "total_solved": 379
 }
