@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 20,
   "language_counts": {
-    "cpp": 371,
+    "cpp": 372,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-28T12:31:25Z",
-  "medium_count": 121,
+  "last_synced": "2026-09-28T12:49:09Z",
+  "medium_count": 122,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -4490,6 +4490,18 @@
       "problem_slug": "interleaving-string",
       "problem_title": "Interleaving String"
     },
+    "973": {
+      "difficulty": "Medium",
+      "folder_name": "0973-k-closest-points-to-origin",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-28T12:49:09Z",
+      "notes": "",
+      "problem_number": 973,
+      "problem_slug": "k-closest-points-to-origin",
+      "problem_title": "K Closest Points to Origin"
+    },
     "976": {
       "difficulty": "Easy",
       "folder_name": "0976-largest-perimeter-triangle",
@@ -4528,5 +4540,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 376
+  "total_solved": 377
 }
