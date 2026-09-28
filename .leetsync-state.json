@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 20,
   "language_counts": {
-    "cpp": 368,
+    "cpp": 369,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-28T11:00:12Z",
-  "medium_count": 118,
+  "last_synced": "2026-09-28T12:11:53Z",
+  "medium_count": 119,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -4106,6 +4106,18 @@
       "problem_slug": "flood-fill",
       "problem_title": "Flood Fill"
     },
+    "74": {
+      "difficulty": "Medium",
+      "folder_name": "0074-search-a-2d-matrix",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-28T12:11:53Z",
+      "notes": "",
+      "problem_number": 74,
+      "problem_slug": "search-a-2d-matrix",
+      "problem_title": "Search a 2D Matrix"
+    },
     "746": {
       "difficulty": "Easy",
       "folder_name": "0746-min-cost-climbing-stairs",
@@ -4492,5 +4504,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 373
+  "total_solved": 374
 }
