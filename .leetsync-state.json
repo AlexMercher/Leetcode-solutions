@@ -1,12 +1,12 @@
 {
   "easy_count": 235,
-  "hard_count": 22,
+  "hard_count": 23,
   "language_counts": {
-    "cpp": 377,
+    "cpp": 378,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-29T17:18:24Z",
+  "last_synced": "2026-09-29T17:27:41Z",
   "medium_count": 125,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1727,6 +1727,18 @@
       "problem_number": 2389,
       "problem_slug": "longest-subsequence-with-limited-sum",
       "problem_title": "Longest Subsequence With Limited Sum"
+    },
+    "239": {
+      "difficulty": "Hard",
+      "folder_name": "0239-sliding-window-maximum",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-29T17:27:41Z",
+      "notes": "",
+      "problem_number": 239,
+      "problem_slug": "sliding-window-maximum",
+      "problem_title": "Sliding Window Maximum"
     },
     "24": {
       "difficulty": "Medium",
@@ -4600,5 +4612,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 382
+  "total_solved": 383
 }
