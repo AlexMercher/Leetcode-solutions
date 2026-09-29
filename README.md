@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **383** |
+| Total Solved | **384** |
 | Easy | 235 |
-| Medium | 125 |
+| Medium | 126 |
 | Hard | 23 |
 
 ## Difficulty Distribution
 
 🟢 Easy &nbsp; **235** (61%)  
-🟡 Medium &nbsp; **125** (33%)  
+🟡 Medium &nbsp; **126** (33%)  
 🔴 Hard &nbsp; **23** (6%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 378 |
+| C++ | 379 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [150. Evaluate Reverse Polish Notation](./0150-evaluate-reverse-polish-notation/README.md) | Medium | C++ |
 | [239. Sliding Window Maximum](./0239-sliding-window-maximum/README.md) | Hard | C++ |
 | [76. Minimum Window Substring](./0076-minimum-window-substring/README.md) | Hard | C++ |
 | [567. Permutation in String](./0567-permutation-in-string/README.md) | Medium | C++ |
 | [2267.  Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path/README.md) | Hard | C++ |
-| [739. Daily Temperatures](./0739-daily-temperatures/README.md) | Medium | C++ |

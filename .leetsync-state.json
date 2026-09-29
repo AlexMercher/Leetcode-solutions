@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 23,
   "language_counts": {
-    "cpp": 378,
+    "cpp": 379,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-29T17:27:41Z",
-  "medium_count": 125,
+  "last_synced": "2026-09-29T17:40:14Z",
+  "medium_count": 126,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -743,6 +743,18 @@
       "problem_number": 15,
       "problem_slug": "3sum",
       "problem_title": "3Sum"
+    },
+    "150": {
+      "difficulty": "Medium",
+      "folder_name": "0150-evaluate-reverse-polish-notation",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-29T17:40:14Z",
+      "notes": "",
+      "problem_number": 150,
+      "problem_slug": "evaluate-reverse-polish-notation",
+      "problem_title": "Evaluate Reverse Polish Notation"
     },
     "1510": {
       "difficulty": "Hard",
@@ -4612,5 +4624,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 383
+  "total_solved": 384
 }
