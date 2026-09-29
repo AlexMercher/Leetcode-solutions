@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 21,
   "language_counts": {
-    "cpp": 375,
+    "cpp": 376,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-29T15:29:57Z",
-  "medium_count": 124,
+  "last_synced": "2026-09-29T17:07:56Z",
+  "medium_count": 125,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -3782,6 +3782,18 @@
       "problem_slug": "binary-tree-tilt",
       "problem_title": "Binary Tree Tilt"
     },
+    "567": {
+      "difficulty": "Medium",
+      "folder_name": "0567-permutation-in-string",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-29T17:07:56Z",
+      "notes": "",
+      "problem_number": 567,
+      "problem_slug": "permutation-in-string",
+      "problem_title": "Permutation in String"
+    },
     "572": {
       "difficulty": "Easy",
       "folder_name": "0572-subtree-of-another-tree",
@@ -4576,5 +4588,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 380
+  "total_solved": 381
 }
