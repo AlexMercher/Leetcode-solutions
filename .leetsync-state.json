@@ -1,12 +1,12 @@
 {
   "easy_count": 235,
-  "hard_count": 21,
+  "hard_count": 22,
   "language_counts": {
-    "cpp": 376,
+    "cpp": 377,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-29T17:07:56Z",
+  "last_synced": "2026-09-29T17:18:24Z",
   "medium_count": 125,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -4190,6 +4190,18 @@
       "problem_slug": "min-cost-climbing-stairs",
       "problem_title": "Min Cost Climbing Stairs"
     },
+    "76": {
+      "difficulty": "Hard",
+      "folder_name": "0076-minimum-window-substring",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-29T17:18:24Z",
+      "notes": "",
+      "problem_number": 76,
+      "problem_slug": "minimum-window-substring",
+      "problem_title": "Minimum Window Substring"
+    },
     "762": {
       "difficulty": "Easy",
       "folder_name": "0762-prime-number-of-set-bits-in-binary-representation",
@@ -4588,5 +4600,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 381
+  "total_solved": 382
 }

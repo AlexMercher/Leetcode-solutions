@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **381** |
+| Total Solved | **382** |
 | Easy | 235 |
 | Medium | 125 |
-| Hard | 21 |
+| Hard | 22 |
 
 ## Difficulty Distribution
 
 🟢 Easy &nbsp; **235** (62%)  
 🟡 Medium &nbsp; **125** (33%)  
-🔴 Hard &nbsp; **21** (6%)
+🔴 Hard &nbsp; **22** (6%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 376 |
+| C++ | 377 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [76. Minimum Window Substring](./0076-minimum-window-substring/README.md) | Hard | C++ |
 | [567. Permutation in String](./0567-permutation-in-string/README.md) | Medium | C++ |
 | [2267.  Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path/README.md) | Hard | C++ |
 | [739. Daily Temperatures](./0739-daily-temperatures/README.md) | Medium | C++ |
 | [215. Kth Largest Element in an Array](./0215-kth-largest-element-in-an-array/README.md) | Medium | C++ |
-| [973. K Closest Points to Origin](./0973-k-closest-points-to-origin/README.md) | Medium | C++ |
