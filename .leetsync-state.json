@@ -1,12 +1,12 @@
 {
   "easy_count": 235,
-  "hard_count": 20,
+  "hard_count": 21,
   "language_counts": {
-    "cpp": 374,
+    "cpp": 375,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-28T15:36:58Z",
+  "last_synced": "2026-09-29T15:29:57Z",
   "medium_count": 124,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1595,6 +1595,18 @@
       "problem_number": 2265,
       "problem_slug": "count-nodes-equal-to-average-of-subtree",
       "problem_title": "Count Nodes Equal to Average of Subtree"
+    },
+    "2267": {
+      "difficulty": "Hard",
+      "folder_name": "2267-check-if-there-is-a-valid-parentheses-string-path",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-29T15:29:57Z",
+      "notes": "",
+      "problem_number": 2267,
+      "problem_slug": "check-if-there-is-a-valid-parentheses-string-path",
+      "problem_title": " Check if There Is a Valid Parentheses String Path"
     },
     "231": {
       "difficulty": "Easy",
@@ -4564,5 +4576,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 379
+  "total_solved": 380
 }
