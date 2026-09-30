@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 24,
   "language_counts": {
-    "cpp": 382,
+    "cpp": 383,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-30T05:25:14Z",
-  "medium_count": 128,
+  "last_synced": "2026-09-30T08:09:57Z",
+  "medium_count": 129,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -803,6 +803,18 @@
       "problem_number": 1520,
       "problem_slug": "maximum-number-of-non-overlapping-substrings",
       "problem_title": "Maximum Number of Non-Overlapping Substrings"
+    },
+    "153": {
+      "difficulty": "Medium",
+      "folder_name": "0153-find-minimum-in-rotated-sorted-array",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-30T08:09:57Z",
+      "notes": "int mid = right + (left - right) / 2;\n\nMathematically this looks like:\n\n(left + right) / 2\n\nbut integer division in C++ truncates toward zero, so it does not always behave like the usual midpoint.\n\nThe case that breaks it\n\nSuppose:\n\nleft = 0\nright = 1\n\nYour formula:\n\nmid = 1 + (0 - 1) / 2\n    = 1 + (-1)/2\n    = 1 + 0\n    = 1",
+      "problem_number": 153,
+      "problem_slug": "find-minimum-in-rotated-sorted-array",
+      "problem_title": "Find Minimum in Rotated Sorted Array"
     },
     "1544": {
       "difficulty": "Easy",
@@ -4660,5 +4672,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 387
+  "total_solved": 388
 }

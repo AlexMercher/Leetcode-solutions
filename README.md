@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **387** |
+| Total Solved | **388** |
 | Easy | 235 |
-| Medium | 128 |
+| Medium | 129 |
 | Hard | 24 |
 
 ## Difficulty Distribution
 
 🟢 Easy &nbsp; **235** (61%)  
-🟡 Medium &nbsp; **128** (33%)  
+🟡 Medium &nbsp; **129** (33%)  
 🔴 Hard &nbsp; **24** (6%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 382 |
+| C++ | 383 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [153. Find Minimum in Rotated Sorted Array](./0153-find-minimum-in-rotated-sorted-array/README.md) | Medium | C++ |
 | [84. Largest Rectangle in Histogram](./0084-largest-rectangle-in-histogram/README.md) | Hard | C++ |
 | [853. Car Fleet](./0853-car-fleet/README.md) | Medium | C++ |
 | [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](./1111-maximum-nesting-depth-of-two-valid-parentheses-strings/README.md) | Medium | C++ |
 | [150. Evaluate Reverse Polish Notation](./0150-evaluate-reverse-polish-notation/README.md) | Medium | C++ |
-| [239. Sliding Window Maximum](./0239-sliding-window-maximum/README.md) | Hard | C++ |
