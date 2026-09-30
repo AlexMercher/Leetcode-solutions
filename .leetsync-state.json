@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 23,
   "language_counts": {
-    "cpp": 380,
+    "cpp": 381,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-30T04:57:30Z",
-  "medium_count": 127,
+  "last_synced": "2026-09-30T05:10:50Z",
+  "medium_count": 128,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -4346,6 +4346,18 @@
       "problem_slug": "backspace-string-compare",
       "problem_title": "Backspace String Compare"
     },
+    "853": {
+      "difficulty": "Medium",
+      "folder_name": "0853-car-fleet",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-30T05:10:50Z",
+      "notes": "",
+      "problem_number": 853,
+      "problem_slug": "car-fleet",
+      "problem_title": "Car Fleet"
+    },
     "86": {
       "difficulty": "Medium",
       "folder_name": "0086-partition-list",
@@ -4636,5 +4648,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 385
+  "total_solved": 386
 }
