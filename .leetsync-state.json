@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 23,
   "language_counts": {
-    "cpp": 379,
+    "cpp": 380,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-29T17:40:14Z",
-  "medium_count": 126,
+  "last_synced": "2026-09-30T04:57:30Z",
+  "medium_count": 127,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -203,6 +203,18 @@
       "problem_number": 111,
       "problem_slug": "minimum-depth-of-binary-tree",
       "problem_title": "Minimum Depth of Binary Tree"
+    },
+    "1111": {
+      "difficulty": "Medium",
+      "folder_name": "1111-maximum-nesting-depth-of-two-valid-parentheses-strings",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-09-30T04:57:30Z",
+      "notes": "",
+      "problem_number": 1111,
+      "problem_slug": "maximum-nesting-depth-of-two-valid-parentheses-strings",
+      "problem_title": "Maximum Nesting Depth of Two Valid Parentheses Strings"
     },
     "112": {
       "difficulty": "Easy",
@@ -4624,5 +4636,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 384
+  "total_solved": 385
 }
