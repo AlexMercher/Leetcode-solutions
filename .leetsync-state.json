@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 24,
   "language_counts": {
-    "cpp": 383,
+    "cpp": 384,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-09-30T08:09:57Z",
-  "medium_count": 129,
+  "last_synced": "2026-10-01T09:29:51Z",
+  "medium_count": 130,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -2558,6 +2558,18 @@
       "problem_slug": "power-of-three",
       "problem_title": "Power of Three"
     },
+    "33": {
+      "difficulty": "Medium",
+      "folder_name": "0033-search-in-rotated-sorted-array",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-01T09:29:51Z",
+      "notes": "",
+      "problem_number": 33,
+      "problem_slug": "search-in-rotated-sorted-array",
+      "problem_title": "Search in Rotated Sorted Array"
+    },
     "3300": {
       "difficulty": "Easy",
       "folder_name": "3300-minimum-element-after-replacement-with-digit-sum",
@@ -4672,5 +4684,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 388
+  "total_solved": 389
 }
