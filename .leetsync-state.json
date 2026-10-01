@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 24,
   "language_counts": {
-    "cpp": 384,
+    "cpp": 385,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-01T09:29:51Z",
-  "medium_count": 130,
+  "last_synced": "2026-10-01T13:08:47Z",
+  "medium_count": 131,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -4670,6 +4670,18 @@
       "problem_slug": "validate-binary-search-tree",
       "problem_title": "Validate Binary Search Tree"
     },
+    "981": {
+      "difficulty": "Medium",
+      "folder_name": "0981-time-based-key-value-store",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-01T13:08:47Z",
+      "notes": "",
+      "problem_number": 981,
+      "problem_slug": "time-based-key-value-store",
+      "problem_title": "Time Based Key-Value Store"
+    },
     "993": {
       "difficulty": "Easy",
       "folder_name": "0993-cousins-in-binary-tree",
@@ -4684,5 +4696,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 389
+  "total_solved": 390
 }
