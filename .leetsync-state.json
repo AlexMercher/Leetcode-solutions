@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 24,
   "language_counts": {
-    "cpp": 386,
+    "cpp": 387,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-01T13:28:34Z",
-  "medium_count": 132,
+  "last_synced": "2026-10-01T13:59:32Z",
+  "medium_count": 133,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1307,6 +1307,18 @@
       "problem_number": 2000,
       "problem_slug": "reverse-prefix-of-word",
       "problem_title": "Reverse Prefix of Word"
+    },
+    "2013": {
+      "difficulty": "Medium",
+      "folder_name": "2013-detect-squares",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-01T13:59:32Z",
+      "notes": "",
+      "problem_number": 2013,
+      "problem_slug": "detect-squares",
+      "problem_title": "Detect Squares"
     },
     "2027": {
       "difficulty": "Easy",
@@ -4708,5 +4720,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 391
+  "total_solved": 392
 }
