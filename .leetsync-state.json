@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 24,
   "language_counts": {
-    "cpp": 385,
+    "cpp": 386,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-01T13:08:47Z",
-  "medium_count": 131,
+  "last_synced": "2026-10-01T13:28:34Z",
+  "medium_count": 132,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -695,6 +695,18 @@
       "problem_number": 145,
       "problem_slug": "binary-tree-postorder-traversal",
       "problem_title": "Binary Tree Postorder Traversal"
+    },
+    "146": {
+      "difficulty": "Medium",
+      "folder_name": "0146-lru-cache",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-01T13:28:34Z",
+      "notes": "",
+      "problem_number": 146,
+      "problem_slug": "lru-cache",
+      "problem_title": "LRU Cache"
     },
     "1464": {
       "difficulty": "Easy",
@@ -4696,5 +4708,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 390
+  "total_solved": 391
 }
