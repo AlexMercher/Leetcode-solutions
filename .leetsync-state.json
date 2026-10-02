@@ -1,12 +1,12 @@
 {
   "easy_count": 235,
-  "hard_count": 24,
+  "hard_count": 25,
   "language_counts": {
-    "cpp": 388,
+    "cpp": 389,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-02T10:34:36Z",
+  "last_synced": "2026-10-02T10:47:50Z",
   "medium_count": 134,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1679,6 +1679,18 @@
       "problem_number": 2267,
       "problem_slug": "check-if-there-is-a-valid-parentheses-string-path",
       "problem_title": " Check if There Is a Valid Parentheses String Path"
+    },
+    "23": {
+      "difficulty": "Hard",
+      "folder_name": "0023-merge-k-sorted-lists",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-02T10:47:50Z",
+      "notes": "",
+      "problem_number": 23,
+      "problem_slug": "merge-k-sorted-lists",
+      "problem_title": "Merge k Sorted Lists"
     },
     "231": {
       "difficulty": "Easy",
@@ -4732,5 +4744,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 393
+  "total_solved": 394
 }
