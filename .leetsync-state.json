@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 26,
   "language_counts": {
-    "cpp": 391,
+    "cpp": 392,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-02T15:44:49Z",
-  "medium_count": 135,
+  "last_synced": "2026-10-02T15:51:36Z",
+  "medium_count": 136,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1307,6 +1307,18 @@
       "problem_number": 198,
       "problem_slug": "house-robber",
       "problem_title": "House Robber"
+    },
+    "199": {
+      "difficulty": "Medium",
+      "folder_name": "0199-binary-tree-right-side-view",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-02T15:51:36Z",
+      "notes": "",
+      "problem_number": 199,
+      "problem_slug": "binary-tree-right-side-view",
+      "problem_title": "Binary Tree Right Side View"
     },
     "2": {
       "difficulty": "Medium",
@@ -4768,5 +4780,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 396
+  "total_solved": 397
 }
