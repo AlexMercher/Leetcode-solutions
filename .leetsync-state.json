@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 26,
   "language_counts": {
-    "cpp": 392,
+    "cpp": 393,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-02T15:51:36Z",
-  "medium_count": 136,
+  "last_synced": "2026-10-02T16:07:30Z",
+  "medium_count": 137,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1715,6 +1715,18 @@
       "problem_number": 23,
       "problem_slug": "merge-k-sorted-lists",
       "problem_title": "Merge k Sorted Lists"
+    },
+    "230": {
+      "difficulty": "Medium",
+      "folder_name": "0230-kth-smallest-element-in-a-bst",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-02T16:07:30Z",
+      "notes": "",
+      "problem_number": 230,
+      "problem_slug": "kth-smallest-element-in-a-bst",
+      "problem_title": "Kth Smallest Element in a BST"
     },
     "231": {
       "difficulty": "Easy",
@@ -4780,5 +4792,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 397
+  "total_solved": 398
 }
