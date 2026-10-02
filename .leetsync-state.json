@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 26,
   "language_counts": {
-    "cpp": 390,
+    "cpp": 391,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-02T15:35:15Z",
-  "medium_count": 134,
+  "last_synced": "2026-10-02T15:44:49Z",
+  "medium_count": 135,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -83,6 +83,18 @@
       "problem_number": 1018,
       "problem_slug": "binary-prefix-divisible-by-5",
       "problem_title": "Binary Prefix Divisible By 5"
+    },
+    "102": {
+      "difficulty": "Medium",
+      "folder_name": "0102-binary-tree-level-order-traversal",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-02T15:44:49Z",
+      "notes": "",
+      "problem_number": 102,
+      "problem_slug": "binary-tree-level-order-traversal",
+      "problem_title": "Binary Tree Level Order Traversal"
     },
     "1021": {
       "difficulty": "Easy",
@@ -4756,5 +4768,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 395
+  "total_solved": 396
 }
