@@ -1,12 +1,12 @@
 {
   "easy_count": 235,
-  "hard_count": 25,
+  "hard_count": 26,
   "language_counts": {
-    "cpp": 389,
+    "cpp": 390,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-02T10:47:50Z",
+  "last_synced": "2026-10-02T15:35:15Z",
   "medium_count": 134,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1907,6 +1907,18 @@
       "problem_number": 2472,
       "problem_slug": "maximum-number-of-non-overlapping-palindrome-substrings",
       "problem_title": "Maximum Number of Non-overlapping Palindrome Substrings"
+    },
+    "25": {
+      "difficulty": "Hard",
+      "folder_name": "0025-reverse-nodes-in-k-group",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-02T15:35:15Z",
+      "notes": "",
+      "problem_number": 25,
+      "problem_slug": "reverse-nodes-in-k-group",
+      "problem_title": "Reverse Nodes in k-Group"
     },
     "2506": {
       "difficulty": "Easy",
@@ -4744,5 +4756,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 394
+  "total_solved": 395
 }
