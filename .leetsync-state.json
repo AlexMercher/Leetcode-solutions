@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 24,
   "language_counts": {
-    "cpp": 387,
+    "cpp": 388,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-01T13:59:32Z",
-  "medium_count": 133,
+  "last_synced": "2026-10-02T10:34:36Z",
+  "medium_count": 134,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -563,6 +563,18 @@
       "problem_number": 1379,
       "problem_slug": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
       "problem_title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree"
+    },
+    "138": {
+      "difficulty": "Medium",
+      "folder_name": "0138-copy-list-with-random-pointer",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-02T10:34:36Z",
+      "notes": "",
+      "problem_number": 138,
+      "problem_slug": "copy-list-with-random-pointer",
+      "problem_title": "Copy List with Random Pointer"
     },
     "1386": {
       "difficulty": "Medium",
@@ -4720,5 +4732,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 392
+  "total_solved": 393
 }
