@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 27,
   "language_counts": {
-    "cpp": 394,
+    "cpp": 395,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-03T10:26:56Z",
-  "medium_count": 137,
+  "last_synced": "2026-10-03T10:30:48Z",
+  "medium_count": 138,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1787,6 +1787,18 @@
       "problem_number": 234,
       "problem_slug": "palindrome-linked-list",
       "problem_title": "Palindrome Linked List"
+    },
+    "235": {
+      "difficulty": "Medium",
+      "folder_name": "0235-lowest-common-ancestor-of-a-binary-search-tree",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-03T10:30:48Z",
+      "notes": "",
+      "problem_number": 235,
+      "problem_slug": "lowest-common-ancestor-of-a-binary-search-tree",
+      "problem_title": "Lowest Common Ancestor of a Binary Search Tree"
     },
     "2351": {
       "difficulty": "Easy",
@@ -4804,5 +4816,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 399
+  "total_solved": 400
 }
