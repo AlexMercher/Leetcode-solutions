@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 27,
   "language_counts": {
-    "cpp": 395,
+    "cpp": 396,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-03T10:30:48Z",
-  "medium_count": 138,
+  "last_synced": "2026-10-03T10:40:00Z",
+  "medium_count": 139,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -707,6 +707,18 @@
       "problem_number": 1442,
       "problem_slug": "count-triplets-that-can-form-two-arrays-of-equal-xor",
       "problem_title": "Count Triplets That Can Form Two Arrays of Equal XOR"
+    },
+    "1448": {
+      "difficulty": "Medium",
+      "folder_name": "1448-count-good-nodes-in-binary-tree",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-03T10:40:00Z",
+      "notes": "",
+      "problem_number": 1448,
+      "problem_slug": "count-good-nodes-in-binary-tree",
+      "problem_title": "Count Good Nodes in Binary Tree"
     },
     "145": {
       "difficulty": "Easy",
@@ -4816,5 +4828,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 400
+  "total_solved": 401
 }
