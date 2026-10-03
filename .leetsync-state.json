@@ -1,12 +1,12 @@
 {
   "easy_count": 235,
-  "hard_count": 26,
+  "hard_count": 27,
   "language_counts": {
-    "cpp": 393,
+    "cpp": 394,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-02T16:07:30Z",
+  "last_synced": "2026-10-03T10:26:56Z",
   "medium_count": 137,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2606,6 +2606,18 @@
       "problem_slug": "clear-digits",
       "problem_title": "Clear Digits"
     },
+    "32": {
+      "difficulty": "Hard",
+      "folder_name": "0032-longest-valid-parentheses",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-03T10:26:56Z",
+      "notes": "",
+      "problem_number": 32,
+      "problem_slug": "longest-valid-parentheses",
+      "problem_title": "Longest Valid Parentheses"
+    },
     "3216": {
       "difficulty": "Easy",
       "folder_name": "3216-lexicographically-smallest-string-after-a-swap",
@@ -4792,5 +4804,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 398
+  "total_solved": 399
 }
