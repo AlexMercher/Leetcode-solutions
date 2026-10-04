@@ -1,12 +1,12 @@
 {
   "easy_count": 235,
-  "hard_count": 27,
+  "hard_count": 28,
   "language_counts": {
-    "cpp": 398,
+    "cpp": 399,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-04T05:43:08Z",
+  "last_synced": "2026-10-04T06:04:59Z",
   "medium_count": 141,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2448,6 +2448,18 @@
       "problem_slug": "length-of-longest-subarray-with-at-most-k-frequency",
       "problem_title": "Length of Longest Subarray With at Most K Frequency"
     },
+    "297": {
+      "difficulty": "Hard",
+      "folder_name": "0297-serialize-and-deserialize-binary-tree",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-04T06:04:59Z",
+      "notes": "",
+      "problem_number": 297,
+      "problem_slug": "serialize-and-deserialize-binary-tree",
+      "problem_title": "Serialize and Deserialize Binary Tree"
+    },
     "2980": {
       "difficulty": "Easy",
       "folder_name": "2980-check-if-bitwise-or-has-trailing-zeros",
@@ -4852,5 +4864,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 403
+  "total_solved": 404
 }
