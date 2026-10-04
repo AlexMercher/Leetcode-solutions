@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 27,
   "language_counts": {
-    "cpp": 397,
+    "cpp": 398,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-04T05:33:38Z",
-  "medium_count": 140,
+  "last_synced": "2026-10-04T05:43:08Z",
+  "medium_count": 141,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -155,6 +155,18 @@
       "problem_number": 1047,
       "problem_slug": "remove-all-adjacent-duplicates-in-string",
       "problem_title": "Remove All Adjacent Duplicates In String"
+    },
+    "105": {
+      "difficulty": "Medium",
+      "folder_name": "0105-construct-binary-tree-from-preorder-and-inorder-traversal",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-04T05:43:08Z",
+      "notes": "",
+      "problem_number": 105,
+      "problem_slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+      "problem_title": "Construct Binary Tree from Preorder and Inorder Traversal"
     },
     "109": {
       "difficulty": "Medium",
@@ -4840,5 +4852,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 402
+  "total_solved": 403
 }
