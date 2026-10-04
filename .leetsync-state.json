@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 27,
   "language_counts": {
-    "cpp": 396,
+    "cpp": 397,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-03T10:40:00Z",
-  "medium_count": 139,
+  "last_synced": "2026-10-04T05:33:38Z",
+  "medium_count": 140,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -4202,6 +4202,18 @@
       "problem_slug": "second-minimum-node-in-a-binary-tree",
       "problem_title": "Second Minimum Node In a Binary Tree"
     },
+    "678": {
+      "difficulty": "Medium",
+      "folder_name": "0678-valid-parenthesis-string",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-04T05:33:38Z",
+      "notes": "",
+      "problem_number": 678,
+      "problem_slug": "valid-parenthesis-string",
+      "problem_title": "Valid Parenthesis String"
+    },
     "680": {
       "difficulty": "Easy",
       "folder_name": "0680-valid-palindrome-ii",
@@ -4828,5 +4840,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 401
+  "total_solved": 402
 }
