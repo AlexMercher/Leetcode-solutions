@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 29,
   "language_counts": {
-    "cpp": 400,
+    "cpp": 401,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-04T06:51:05Z",
-  "medium_count": 141,
+  "last_synced": "2026-10-05T10:37:33Z",
+  "medium_count": 142,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -4574,6 +4574,18 @@
       "problem_slug": "car-fleet",
       "problem_title": "Car Fleet"
     },
+    "856": {
+      "difficulty": "Medium",
+      "folder_name": "0856-score-of-parentheses",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-05T10:37:33Z",
+      "notes": "",
+      "problem_number": 856,
+      "problem_slug": "score-of-parentheses",
+      "problem_title": "Score of Parentheses"
+    },
     "86": {
       "difficulty": "Medium",
       "folder_name": "0086-partition-list",
@@ -4876,5 +4888,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 405
+  "total_solved": 406
 }
