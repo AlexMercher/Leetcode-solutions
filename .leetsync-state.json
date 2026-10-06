@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 29,
   "language_counts": {
-    "cpp": 401,
+    "cpp": 402,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-05T10:37:33Z",
-  "medium_count": 142,
+  "last_synced": "2026-10-06T09:28:20Z",
+  "medium_count": 143,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -4730,6 +4730,18 @@
       "problem_slug": "reverse-linked-list-ii",
       "problem_title": "Reverse Linked List II"
     },
+    "921": {
+      "difficulty": "Medium",
+      "folder_name": "0921-minimum-add-to-make-parentheses-valid",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-06T09:28:20Z",
+      "notes": "",
+      "problem_number": 921,
+      "problem_slug": "minimum-add-to-make-parentheses-valid",
+      "problem_title": "Minimum Add to Make Parentheses Valid"
+    },
     "933": {
       "difficulty": "Easy",
       "folder_name": "0933-number-of-recent-calls",
@@ -4888,5 +4900,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 406
+  "total_solved": 407
 }
