@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 31,
   "language_counts": {
-    "cpp": 410,
+    "cpp": 411,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-06T17:12:32Z",
-  "medium_count": 149,
+  "last_synced": "2026-10-06T17:29:18Z",
+  "medium_count": 150,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1511,6 +1511,18 @@
       "problem_number": 2078,
       "problem_slug": "two-furthest-houses-with-different-colors",
       "problem_title": "Two Furthest Houses With Different Colors"
+    },
+    "208": {
+      "difficulty": "Medium",
+      "folder_name": "0208-implement-trie-prefix-tree",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-06T17:29:18Z",
+      "notes": "",
+      "problem_number": 208,
+      "problem_slug": "implement-trie-prefix-tree",
+      "problem_title": "Implement Trie (Prefix Tree)"
     },
     "2091": {
       "difficulty": "Medium",
@@ -4996,5 +5008,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 415
+  "total_solved": 416
 }
