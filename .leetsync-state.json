@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 29,
   "language_counts": {
-    "cpp": 402,
+    "cpp": 403,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-06T09:28:20Z",
-  "medium_count": 143,
+  "last_synced": "2026-10-06T09:45:16Z",
+  "medium_count": 144,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -4130,6 +4130,18 @@
       "problem_slug": "unique-paths",
       "problem_title": "Unique Paths"
     },
+    "621": {
+      "difficulty": "Medium",
+      "folder_name": "0621-task-scheduler",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-06T09:45:16Z",
+      "notes": "",
+      "problem_number": 621,
+      "problem_slug": "task-scheduler",
+      "problem_title": "Task Scheduler"
+    },
     "628": {
       "difficulty": "Easy",
       "folder_name": "0628-maximum-product-of-three-numbers",
@@ -4900,5 +4912,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 407
+  "total_solved": 408
 }
