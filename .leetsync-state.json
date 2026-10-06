@@ -1,12 +1,12 @@
 {
   "easy_count": 235,
-  "hard_count": 30,
+  "hard_count": 31,
   "language_counts": {
-    "cpp": 405,
+    "cpp": 406,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-06T13:12:37Z",
+  "last_synced": "2026-10-06T13:39:15Z",
   "medium_count": 145,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3926,6 +3926,18 @@
       "problem_slug": "fibonacci-number",
       "problem_title": "Fibonacci Number"
     },
+    "51": {
+      "difficulty": "Hard",
+      "folder_name": "0051-n-queens",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-06T13:39:15Z",
+      "notes": "",
+      "problem_number": 51,
+      "problem_slug": "n-queens",
+      "problem_title": "N-Queens"
+    },
     "53": {
       "difficulty": "Medium",
       "folder_name": "0053-maximum-subarray",
@@ -4936,5 +4948,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 410
+  "total_solved": 411
 }
