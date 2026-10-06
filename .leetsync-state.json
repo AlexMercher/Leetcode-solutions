@@ -1,12 +1,12 @@
 {
   "easy_count": 235,
-  "hard_count": 29,
+  "hard_count": 30,
   "language_counts": {
-    "cpp": 404,
+    "cpp": 405,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-06T10:12:54Z",
+  "last_synced": "2026-10-06T13:12:37Z",
   "medium_count": 145,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2447,6 +2447,18 @@
       "problem_number": 2948,
       "problem_slug": "make-lexicographically-smallest-array-by-swapping-elements",
       "problem_title": "Make Lexicographically Smallest Array by Swapping Elements"
+    },
+    "295": {
+      "difficulty": "Hard",
+      "folder_name": "0295-find-median-from-data-stream",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-06T13:12:37Z",
+      "notes": "",
+      "problem_number": 295,
+      "problem_slug": "find-median-from-data-stream",
+      "problem_title": "Find Median from Data Stream"
     },
     "2958": {
       "difficulty": "Medium",
@@ -4924,5 +4936,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 409
+  "total_solved": 410
 }
