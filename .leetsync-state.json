@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 31,
   "language_counts": {
-    "cpp": 408,
+    "cpp": 409,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-06T16:33:18Z",
-  "medium_count": 147,
+  "last_synced": "2026-10-06T16:38:14Z",
+  "medium_count": 148,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -4754,6 +4754,18 @@
       "problem_slug": "palindrome-number",
       "problem_title": "Palindrome Number"
     },
+    "90": {
+      "difficulty": "Medium",
+      "folder_name": "0090-subsets-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-06T16:38:14Z",
+      "notes": "",
+      "problem_number": 90,
+      "problem_slug": "subsets-ii",
+      "problem_title": "Subsets II"
+    },
     "901": {
       "difficulty": "Medium",
       "folder_name": "0901-online-stock-span",
@@ -4972,5 +4984,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 413
+  "total_solved": 414
 }
