@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 31,
   "language_counts": {
-    "cpp": 409,
+    "cpp": 410,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-06T16:38:14Z",
-  "medium_count": 148,
+  "last_synced": "2026-10-06T17:12:32Z",
+  "medium_count": 149,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -4550,6 +4550,18 @@
       "problem_slug": "minimum-distance-between-bst-nodes",
       "problem_title": "Minimum Distance Between BST Nodes"
     },
+    "79": {
+      "difficulty": "Medium",
+      "folder_name": "0079-word-search",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-06T17:12:32Z",
+      "notes": "## Intution and Approach\n\nTreat the problem as backtracking on the grid. Start only from cells matching word[0]. At each step, try the 4 neighboring cells. A move is valid only if it is inside the board, unused, and matches the next character. Mark the cell before recursion and unmark it after the branch fails.\nBefore DFS, prune impossible cases using character frequencies. Also reverse the word when its last character is rarer, reducing the number of starting positions and therefore the search tree.",
+      "problem_number": 79,
+      "problem_slug": "word-search",
+      "problem_title": "Word Search"
+    },
     "8": {
       "difficulty": "Medium",
       "folder_name": "0008-string-to-integer-atoi",
@@ -4984,5 +4996,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 414
+  "total_solved": 415
 }
