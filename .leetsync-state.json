@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 31,
   "language_counts": {
-    "cpp": 411,
+    "cpp": 412,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-06T17:29:18Z",
-  "medium_count": 150,
+  "last_synced": "2026-10-06T17:46:33Z",
+  "medium_count": 151,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1559,6 +1559,18 @@
       "problem_number": 21,
       "problem_slug": "merge-two-sorted-lists",
       "problem_title": "Merge Two Sorted Lists"
+    },
+    "211": {
+      "difficulty": "Medium",
+      "folder_name": "0211-design-add-and-search-words-data-structure",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-06T17:46:33Z",
+      "notes": "### Two mistakes:\n1. In addWord()\ncurr->isEnd = false;\n\n❌ You were marking the end as not a word.\nIt should be:\ncurr->isEnd = true;\n\n2. In dfs()\nif(index == word.size()) return true;\n\n❌ You were saying “matching all characters means success.”\nBut it could just be a prefix.\nUse:\nif(index == word.size()) return curr->isEnd;\n\nRemember\nindex == word.size() → Did I finish the query?\ncurr->isEnd          → Does a stored word finish here?\n\nThat distinction was the main issue.",
+      "problem_number": 211,
+      "problem_slug": "design-add-and-search-words-data-structure",
+      "problem_title": "Design Add and Search Words Data Structure"
     },
     "213": {
       "difficulty": "Medium",
@@ -5008,5 +5020,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 416
+  "total_solved": 417
 }
