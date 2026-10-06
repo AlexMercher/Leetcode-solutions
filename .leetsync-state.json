@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 29,
   "language_counts": {
-    "cpp": 403,
+    "cpp": 404,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-06T09:45:16Z",
-  "medium_count": 144,
+  "last_synced": "2026-10-06T10:12:54Z",
+  "medium_count": 145,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -3026,6 +3026,18 @@
       "problem_slug": "minimum-deletions-for-at-most-k-distinct-characters",
       "problem_title": "Minimum Deletions for At Most K Distinct Characters"
     },
+    "355": {
+      "difficulty": "Medium",
+      "folder_name": "0355-design-twitter",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-06T10:12:54Z",
+      "notes": "",
+      "problem_number": 355,
+      "problem_slug": "design-twitter",
+      "problem_title": "Design Twitter"
+    },
     "3550": {
       "difficulty": "Easy",
       "folder_name": "3550-smallest-index-with-digit-sum-equal-to-index",
@@ -4912,5 +4924,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 408
+  "total_solved": 409
 }
