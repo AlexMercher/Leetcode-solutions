@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 31,
   "language_counts": {
-    "cpp": 406,
+    "cpp": 407,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-06T13:39:15Z",
-  "medium_count": 145,
+  "last_synced": "2026-10-06T13:57:44Z",
+  "medium_count": 146,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -3518,6 +3518,18 @@
       "problem_slug": "median-of-two-sorted-arrays",
       "problem_title": "Median of Two Sorted Arrays"
     },
+    "40": {
+      "difficulty": "Medium",
+      "folder_name": "0040-combination-sum-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-06T13:57:44Z",
+      "notes": "#Mistakes\nYour first mistake was:\nbacktrack(candidates, index + 1, ...)\n\nIt must be:\nbacktrack(candidates, i + 1, ...)\n\nbecause i is the element you actually chose; the next recursion must start after that element.\nYou also initially forgot to initialize:\nn = candidates.size();\n\nThen, when using a set<vector<int>>, you were still generating enormous numbers of duplicate combinations. The all-1s testcase exposed this: the set removes duplicates after generating them, so the recursion still explodes. Skipping duplicates at the same recursion level prevents that repeated work:\nif(i > index && candidates[i] == candidates[i-1])\n    continue;\n\nFinally, sorting is necessary both for this duplicate-skipping technique and for safely using break when the current value makes the sum exceed the target.",
+      "problem_number": 40,
+      "problem_slug": "combination-sum-ii",
+      "problem_title": "Combination Sum II"
+    },
     "4000": {
       "difficulty": "Easy",
       "folder_name": "4000-largest-integer-with-given-digit-sum",
@@ -4948,5 +4960,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 411
+  "total_solved": 412
 }
