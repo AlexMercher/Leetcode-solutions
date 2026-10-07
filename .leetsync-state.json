@@ -1,12 +1,12 @@
 {
   "easy_count": 235,
-  "hard_count": 31,
+  "hard_count": 32,
   "language_counts": {
-    "cpp": 412,
+    "cpp": 413,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-06T17:46:33Z",
+  "last_synced": "2026-10-07T15:55:52Z",
   "medium_count": 151,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2556,6 +2556,18 @@
       "problem_slug": "longest-increasing-subsequence",
       "problem_title": "Longest Increasing Subsequence"
     },
+    "301": {
+      "difficulty": "Hard",
+      "folder_name": "0301-remove-invalid-parentheses",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-07T15:55:52Z",
+      "notes": "",
+      "problem_number": 301,
+      "problem_slug": "remove-invalid-parentheses",
+      "problem_title": "Remove Invalid Parentheses"
+    },
     "3014": {
       "difficulty": "Easy",
       "folder_name": "3014-minimum-number-of-pushes-to-type-word-i",
@@ -5020,5 +5032,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 417
+  "total_solved": 418
 }
