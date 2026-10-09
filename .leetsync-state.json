@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 33,
   "language_counts": {
-    "cpp": 415,
+    "cpp": 416,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-09T12:21:38Z",
-  "medium_count": 152,
+  "last_synced": "2026-10-09T12:31:17Z",
+  "medium_count": 153,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1379,6 +1379,18 @@
       "problem_number": 2,
       "problem_slug": "add-two-numbers",
       "problem_title": "Add Two Numbers"
+    },
+    "200": {
+      "difficulty": "Medium",
+      "folder_name": "0200-number-of-islands",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-09T12:31:17Z",
+      "notes": "",
+      "problem_number": 200,
+      "problem_slug": "number-of-islands",
+      "problem_title": "Number of Islands"
     },
     "2000": {
       "difficulty": "Easy",
@@ -5056,5 +5068,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 420
+  "total_solved": 421
 }
