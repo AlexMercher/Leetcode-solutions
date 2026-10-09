@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 33,
   "language_counts": {
-    "cpp": 414,
+    "cpp": 415,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-08T09:39:19Z",
-  "medium_count": 151,
+  "last_synced": "2026-10-09T12:21:38Z",
+  "medium_count": 152,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -887,6 +887,18 @@
       "problem_number": 153,
       "problem_slug": "find-minimum-in-rotated-sorted-array",
       "problem_title": "Find Minimum in Rotated Sorted Array"
+    },
+    "1541": {
+      "difficulty": "Medium",
+      "folder_name": "1541-minimum-insertions-to-balance-a-parentheses-string",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-09T12:21:38Z",
+      "notes": "",
+      "problem_number": 1541,
+      "problem_slug": "minimum-insertions-to-balance-a-parentheses-string",
+      "problem_title": "Minimum Insertions to Balance a Parentheses String"
     },
     "1544": {
       "difficulty": "Easy",
@@ -5044,5 +5056,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 419
+  "total_solved": 420
 }
