@@ -1,12 +1,12 @@
 {
-  "easy_count": 236,
+  "easy_count": 237,
   "hard_count": 33,
   "language_counts": {
-    "cpp": 419,
+    "cpp": 420,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-09T16:50:36Z",
+  "last_synced": "2026-10-09T16:57:35Z",
   "medium_count": 155,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2363,6 +2363,18 @@
       "problem_number": 279,
       "problem_slug": "perfect-squares",
       "problem_title": "Perfect Squares"
+    },
+    "2806": {
+      "difficulty": "Easy",
+      "folder_name": "2806-account-balance-after-rounded-purchase",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-09T16:57:35Z",
+      "notes": "",
+      "problem_number": 2806,
+      "problem_slug": "account-balance-after-rounded-purchase",
+      "problem_title": "Account Balance After Rounded Purchase"
     },
     "283": {
       "difficulty": "Easy",
@@ -5104,5 +5116,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 424
+  "total_solved": 425
 }
