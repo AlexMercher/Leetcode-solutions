@@ -2,12 +2,12 @@
   "easy_count": 235,
   "hard_count": 33,
   "language_counts": {
-    "cpp": 416,
+    "cpp": 417,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-09T12:31:17Z",
-  "medium_count": 153,
+  "last_synced": "2026-10-09T12:44:53Z",
+  "medium_count": 154,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -4430,6 +4430,18 @@
       "problem_slug": "binary-number-with-alternating-bits",
       "problem_title": "Binary Number with Alternating Bits"
     },
+    "695": {
+      "difficulty": "Medium",
+      "folder_name": "0695-max-area-of-island",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-09T12:44:53Z",
+      "notes": "### Mistakes\n\n1. You never mark a cell as visited — this causes stack overflow\nInside dfs():\ncount++;\ndfs(grid, r+1, c);\ndfs(grid, r-1, c);\n\n\nSuppose two adjacent cells are both 1:\n1 1\n\n\nYour recursion can go:\ndfs(0,0)\n   ↓\ndfs(0,1)\n   ↓\ndfs(0,0)\n   ↓\ndfs(0,1)\n   ↓\n... forever\n\n\nThat's why your error log reports a stack overflow from repeated recursive calls. Pasted markdown.md\n\nFix: Mark each land cell as visited before exploring its neighbors:\ngrid[r][c] = 0;\n\n\nThis prevents DFS from revisiting that cell.\n2. Your column count is wrong\nYou wrote:\nn = grid.size();\n\n\nBut grid.size() gives the number of rows, not columns.\nCorrect:\nn = grid[0].size();\n\n\nOtherwise, rectangular grids will be processed incorrectly.\n3. Initialize best to 0\nint best = 0;\n\n\nIf the grid contains no land, the maximum island area is 0, not INT_MIN.",
+      "problem_number": 695,
+      "problem_slug": "max-area-of-island",
+      "problem_title": "Max Area of Island"
+    },
     "7": {
       "difficulty": "Medium",
       "folder_name": "0007-reverse-integer",
@@ -5068,5 +5080,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 421
+  "total_solved": 422
 }
