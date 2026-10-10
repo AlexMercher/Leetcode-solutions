@@ -1,12 +1,12 @@
 {
-  "easy_count": 240,
+  "easy_count": 241,
   "hard_count": 33,
   "language_counts": {
-    "cpp": 427,
+    "cpp": 428,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-10T20:40:00Z",
+  "last_synced": "2026-10-10T20:51:07Z",
   "medium_count": 159,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1715,6 +1715,18 @@
       "problem_number": 217,
       "problem_slug": "contains-duplicate",
       "problem_title": "Contains Duplicate"
+    },
+    "2180": {
+      "difficulty": "Easy",
+      "folder_name": "2180-count-integers-with-even-digit-sum",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-10T20:51:07Z",
+      "notes": "",
+      "problem_number": 2180,
+      "problem_slug": "count-integers-with-even-digit-sum",
+      "problem_title": "Count Integers With Even Digit Sum"
     },
     "219": {
       "difficulty": "Easy",
@@ -5200,5 +5212,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 432
+  "total_solved": 433
 }
