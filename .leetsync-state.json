@@ -2,12 +2,12 @@
   "easy_count": 237,
   "hard_count": 33,
   "language_counts": {
-    "cpp": 423,
+    "cpp": 424,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-10T12:14:01Z",
-  "medium_count": 158,
+  "last_synced": "2026-10-10T12:30:27Z",
+  "medium_count": 159,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -491,6 +491,18 @@
       "problem_number": 1290,
       "problem_slug": "convert-binary-number-in-a-linked-list-to-integer",
       "problem_title": "Convert Binary Number in a Linked List to Integer"
+    },
+    "130": {
+      "difficulty": "Medium",
+      "folder_name": "0130-surrounded-regions",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-10T12:30:27Z",
+      "notes": "",
+      "problem_number": 130,
+      "problem_slug": "surrounded-regions",
+      "problem_title": "Surrounded Regions"
     },
     "131": {
       "difficulty": "Medium",
@@ -5152,5 +5164,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 428
+  "total_solved": 429
 }
