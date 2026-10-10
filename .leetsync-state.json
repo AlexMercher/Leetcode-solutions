@@ -2,12 +2,12 @@
   "easy_count": 237,
   "hard_count": 33,
   "language_counts": {
-    "cpp": 421,
+    "cpp": 422,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-10T09:21:46Z",
-  "medium_count": 156,
+  "last_synced": "2026-10-10T10:38:26Z",
+  "medium_count": 157,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1871,6 +1871,18 @@
       "problem_number": 2331,
       "problem_slug": "evaluate-boolean-binary-tree",
       "problem_title": "Evaluate Boolean Binary Tree"
+    },
+    "2333": {
+      "difficulty": "Medium",
+      "folder_name": "2333-minimum-sum-of-squared-difference",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-10T10:38:26Z",
+      "notes": "",
+      "problem_number": 2333,
+      "problem_slug": "minimum-sum-of-squared-difference",
+      "problem_title": "Minimum Sum of Squared Difference"
     },
     "2335": {
       "difficulty": "Easy",
@@ -5128,5 +5140,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 426
+  "total_solved": 427
 }
