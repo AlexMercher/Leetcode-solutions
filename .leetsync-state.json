@@ -2,12 +2,12 @@
   "easy_count": 237,
   "hard_count": 33,
   "language_counts": {
-    "cpp": 422,
+    "cpp": 423,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-10T10:38:26Z",
-  "medium_count": 157,
+  "last_synced": "2026-10-10T12:14:01Z",
+  "medium_count": 158,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -3758,6 +3758,18 @@
       "problem_slug": "partition-equal-subset-sum",
       "problem_title": "Partition Equal Subset Sum"
     },
+    "417": {
+      "difficulty": "Medium",
+      "folder_name": "0417-pacific-atlantic-water-flow",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-10T12:14:01Z",
+      "notes": "",
+      "problem_number": 417,
+      "problem_slug": "pacific-atlantic-water-flow",
+      "problem_title": "Pacific Atlantic Water Flow"
+    },
     "42": {
       "difficulty": "Hard",
       "folder_name": "0042-trapping-rain-water",
@@ -5140,5 +5152,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 427
+  "total_solved": 428
 }
