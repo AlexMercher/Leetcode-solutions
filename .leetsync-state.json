@@ -1,12 +1,12 @@
 {
-  "easy_count": 239,
+  "easy_count": 240,
   "hard_count": 33,
   "language_counts": {
-    "cpp": 426,
+    "cpp": 427,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-10T20:34:46Z",
+  "last_synced": "2026-10-10T20:40:00Z",
   "medium_count": 159,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -503,6 +503,18 @@
       "problem_number": 1290,
       "problem_slug": "convert-binary-number-in-a-linked-list-to-integer",
       "problem_title": "Convert Binary Number in a Linked List to Integer"
+    },
+    "1295": {
+      "difficulty": "Easy",
+      "folder_name": "1295-find-numbers-with-even-number-of-digits",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-10T20:40:00Z",
+      "notes": "",
+      "problem_number": 1295,
+      "problem_slug": "find-numbers-with-even-number-of-digits",
+      "problem_title": "Find Numbers with Even Number of Digits"
     },
     "130": {
       "difficulty": "Medium",
@@ -5188,5 +5200,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 431
+  "total_solved": 432
 }
