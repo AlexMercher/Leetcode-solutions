@@ -1,12 +1,12 @@
 {
-  "easy_count": 237,
+  "easy_count": 238,
   "hard_count": 33,
   "language_counts": {
-    "cpp": 424,
+    "cpp": 425,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-10T12:30:27Z",
+  "last_synced": "2026-10-10T20:16:44Z",
   "medium_count": 159,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -443,6 +443,18 @@
       "problem_number": 1221,
       "problem_slug": "split-a-string-in-balanced-strings",
       "problem_title": "Split a String in Balanced Strings"
+    },
+    "1232": {
+      "difficulty": "Easy",
+      "folder_name": "1232-check-if-it-is-a-straight-line",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-10T20:16:44Z",
+      "notes": "",
+      "problem_number": 1232,
+      "problem_slug": "check-if-it-is-a-straight-line",
+      "problem_title": "Check If It Is a Straight Line"
     },
     "124": {
       "difficulty": "Hard",
@@ -5164,5 +5176,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 429
+  "total_solved": 430
 }
