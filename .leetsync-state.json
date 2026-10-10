@@ -1,12 +1,12 @@
 {
-  "easy_count": 238,
+  "easy_count": 239,
   "hard_count": 33,
   "language_counts": {
-    "cpp": 425,
+    "cpp": 426,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-10T20:16:44Z",
+  "last_synced": "2026-10-10T20:34:46Z",
   "medium_count": 159,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2858,6 +2858,18 @@
       "problem_slug": "number-of-bit-changes-to-make-two-integers-equal",
       "problem_title": "Number of Bit Changes to Make Two Integers Equal"
     },
+    "3232": {
+      "difficulty": "Easy",
+      "folder_name": "3232-find-if-digit-game-can-be-won",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-10T20:34:46Z",
+      "notes": "",
+      "problem_number": 3232,
+      "problem_slug": "find-if-digit-game-can-be-won",
+      "problem_title": "Find if Digit Game Can Be Won"
+    },
     "326": {
       "difficulty": "Easy",
       "folder_name": "0326-power-of-three",
@@ -5176,5 +5188,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 430
+  "total_solved": 431
 }
