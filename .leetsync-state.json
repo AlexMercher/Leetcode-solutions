@@ -2,12 +2,12 @@
   "easy_count": 237,
   "hard_count": 33,
   "language_counts": {
-    "cpp": 420,
+    "cpp": 421,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-09T16:57:35Z",
-  "medium_count": 155,
+  "last_synced": "2026-10-10T09:21:46Z",
+  "medium_count": 156,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -5113,8 +5113,20 @@
       "problem_number": 993,
       "problem_slug": "cousins-in-binary-tree",
       "problem_title": "Cousins in Binary Tree"
+    },
+    "994": {
+      "difficulty": "Medium",
+      "folder_name": "0994-rotting-oranges",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-10T09:21:46Z",
+      "notes": "",
+      "problem_number": 994,
+      "problem_slug": "rotting-oranges",
+      "problem_title": "Rotting Oranges"
     }
   },
   "schema_version": 1,
-  "total_solved": 425
+  "total_solved": 426
 }
