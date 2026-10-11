@@ -1,12 +1,12 @@
 {
-  "easy_count": 241,
+  "easy_count": 242,
   "hard_count": 33,
   "language_counts": {
-    "cpp": 428,
+    "cpp": 429,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-10T20:51:07Z",
+  "last_synced": "2026-10-11T10:23:08Z",
   "medium_count": 159,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2387,6 +2387,18 @@
       "problem_number": 271,
       "problem_slug": "encode-and-decode-strings",
       "problem_title": "Encode and Decode Strings"
+    },
+    "2778": {
+      "difficulty": "Easy",
+      "folder_name": "2778-sum-of-squares-of-special-elements",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-11T10:23:08Z",
+      "notes": "",
+      "problem_number": 2778,
+      "problem_slug": "sum-of-squares-of-special-elements",
+      "problem_title": "Sum of Squares of Special Elements "
     },
     "278": {
       "difficulty": "Easy",
@@ -5212,5 +5224,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 433
+  "total_solved": 434
 }
