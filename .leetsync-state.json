@@ -1,12 +1,12 @@
 {
-  "easy_count": 242,
+  "easy_count": 243,
   "hard_count": 33,
   "language_counts": {
-    "cpp": 429,
+    "cpp": 430,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-11T10:23:08Z",
+  "last_synced": "2026-10-11T10:31:39Z",
   "medium_count": 159,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -467,6 +467,18 @@
       "problem_number": 124,
       "problem_slug": "binary-tree-maximum-path-sum",
       "problem_title": "Binary Tree Maximum Path Sum"
+    },
+    "1266": {
+      "difficulty": "Easy",
+      "folder_name": "1266-minimum-time-visiting-all-points",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-11T10:31:39Z",
+      "notes": "",
+      "problem_number": 1266,
+      "problem_slug": "minimum-time-visiting-all-points",
+      "problem_title": "Minimum Time Visiting All Points"
     },
     "128": {
       "difficulty": "Medium",
@@ -5224,5 +5236,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 434
+  "total_solved": 435
 }
