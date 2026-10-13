@@ -2,12 +2,12 @@
   "easy_count": 243,
   "hard_count": 34,
   "language_counts": {
-    "cpp": 432,
+    "cpp": 433,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-13T10:12:34Z",
-  "medium_count": 160,
+  "last_synced": "2026-10-13T16:56:07Z",
+  "medium_count": 161,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -3446,6 +3446,18 @@
       "problem_slug": "lexicographically-smallest-permutation-greater-than-target",
       "problem_title": "Lexicographically Smallest Permutation Greater Than Target"
     },
+    "3727": {
+      "difficulty": "Medium",
+      "folder_name": "3727-maximum-alternating-sum-of-squares",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-13T16:56:07Z",
+      "notes": "",
+      "problem_number": 3727,
+      "problem_slug": "maximum-alternating-sum-of-squares",
+      "problem_title": "Maximum Alternating Sum of Squares"
+    },
     "3731": {
       "difficulty": "Easy",
       "folder_name": "3731-find-missing-elements",
@@ -5260,5 +5272,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 437
+  "total_solved": 438
 }
