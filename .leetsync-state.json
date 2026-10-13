@@ -1,12 +1,12 @@
 {
   "easy_count": 243,
-  "hard_count": 33,
+  "hard_count": 34,
   "language_counts": {
-    "cpp": 431,
+    "cpp": 432,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-11T11:26:51Z",
+  "last_synced": "2026-10-13T10:12:34Z",
   "medium_count": 160,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2519,6 +2519,18 @@
       "problem_number": 287,
       "problem_slug": "find-the-duplicate-number",
       "problem_title": "Find the Duplicate Number"
+    },
+    "2897": {
+      "difficulty": "Hard",
+      "folder_name": "2897-apply-operations-on-array-to-maximize-sum-of-squares",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-13T10:12:34Z",
+      "notes": "",
+      "problem_number": 2897,
+      "problem_slug": "apply-operations-on-array-to-maximize-sum-of-squares",
+      "problem_title": "Apply Operations on Array to Maximize Sum of Squares"
     },
     "29": {
       "difficulty": "Medium",
@@ -5248,5 +5260,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 436
+  "total_solved": 437
 }
