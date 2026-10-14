@@ -2,12 +2,12 @@
   "easy_count": 243,
   "hard_count": 34,
   "language_counts": {
-    "cpp": 433,
+    "cpp": 434,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-13T16:56:07Z",
-  "medium_count": 161,
+  "last_synced": "2026-10-14T05:00:56Z",
+  "medium_count": 162,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -3446,6 +3446,18 @@
       "problem_slug": "lexicographically-smallest-permutation-greater-than-target",
       "problem_title": "Lexicographically Smallest Permutation Greater Than Target"
     },
+    "3723": {
+      "difficulty": "Medium",
+      "folder_name": "3723-maximize-sum-of-squares-of-digits",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-14T05:00:56Z",
+      "notes": "",
+      "problem_number": 3723,
+      "problem_slug": "maximize-sum-of-squares-of-digits",
+      "problem_title": "Maximize Sum of Squares of Digits"
+    },
     "3727": {
       "difficulty": "Medium",
       "folder_name": "3727-maximum-alternating-sum-of-squares",
@@ -5272,5 +5284,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 438
+  "total_solved": 439
 }
