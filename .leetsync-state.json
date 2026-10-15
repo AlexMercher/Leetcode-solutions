@@ -1,12 +1,12 @@
 {
-  "easy_count": 243,
+  "easy_count": 244,
   "hard_count": 34,
   "language_counts": {
-    "cpp": 434,
+    "cpp": 435,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-14T05:00:56Z",
+  "last_synced": "2026-10-15T15:55:13Z",
   "medium_count": 162,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2579,6 +2579,18 @@
       "problem_number": 2904,
       "problem_slug": "shortest-and-lexicographically-smallest-beautiful-string",
       "problem_title": "Shortest and Lexicographically Smallest Beautiful String"
+    },
+    "2913": {
+      "difficulty": "Easy",
+      "folder_name": "2913-subarrays-distinct-element-sum-of-squares-i",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-15T15:55:13Z",
+      "notes": "",
+      "problem_number": 2913,
+      "problem_slug": "subarrays-distinct-element-sum-of-squares-i",
+      "problem_title": "Subarrays Distinct Element Sum of Squares I"
     },
     "2917": {
       "difficulty": "Easy",
@@ -5284,5 +5296,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 439
+  "total_solved": 440
 }
