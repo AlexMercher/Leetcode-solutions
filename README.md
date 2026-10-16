@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **440** |
+| Total Solved | **441** |
 | Easy | 244 |
 | Medium | 162 |
-| Hard | 34 |
+| Hard | 35 |
 
 ## Difficulty Distribution
 
 🟢 Easy &nbsp; **244** (55%)  
 🟡 Medium &nbsp; **162** (37%)  
-🔴 Hard &nbsp; **34** (8%)
+🔴 Hard &nbsp; **35** (8%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 435 |
+| C++ | 436 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [2916. Subarrays Distinct Element Sum of Squares II](./2916-subarrays-distinct-element-sum-of-squares-ii/README.md) | Hard | C++ |
 | [2913. Subarrays Distinct Element Sum of Squares I](./2913-subarrays-distinct-element-sum-of-squares-i/README.md) | Easy | C++ |
 | [3723. Maximize Sum of Squares of Digits](./3723-maximize-sum-of-squares-of-digits/README.md) | Medium | C++ |
 | [3727. Maximum Alternating Sum of Squares](./3727-maximum-alternating-sum-of-squares/README.md) | Medium | C++ |
 | [2897. Apply Operations on Array to Maximize Sum of Squares](./2897-apply-operations-on-array-to-maximize-sum-of-squares/README.md) | Hard | C++ |
-| [372. Super Pow](./0372-super-pow/README.md) | Medium | C++ |

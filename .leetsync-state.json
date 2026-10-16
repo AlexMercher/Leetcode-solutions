@@ -1,12 +1,12 @@
 {
   "easy_count": 244,
-  "hard_count": 34,
+  "hard_count": 35,
   "language_counts": {
-    "cpp": 435,
+    "cpp": 436,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-15T15:55:13Z",
+  "last_synced": "2026-10-16T14:07:39Z",
   "medium_count": 162,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2591,6 +2591,18 @@
       "problem_number": 2913,
       "problem_slug": "subarrays-distinct-element-sum-of-squares-i",
       "problem_title": "Subarrays Distinct Element Sum of Squares I"
+    },
+    "2916": {
+      "difficulty": "Hard",
+      "folder_name": "2916-subarrays-distinct-element-sum-of-squares-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-16T14:07:39Z",
+      "notes": "",
+      "problem_number": 2916,
+      "problem_slug": "subarrays-distinct-element-sum-of-squares-ii",
+      "problem_title": "Subarrays Distinct Element Sum of Squares II"
     },
     "2917": {
       "difficulty": "Easy",
@@ -5296,5 +5308,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 440
+  "total_solved": 441
 }
