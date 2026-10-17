@@ -2,12 +2,12 @@
   "easy_count": 244,
   "hard_count": 35,
   "language_counts": {
-    "cpp": 436,
+    "cpp": 437,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-16T14:07:39Z",
-  "medium_count": 162,
+  "last_synced": "2026-10-17T05:11:07Z",
+  "medium_count": 163,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -3290,6 +3290,18 @@
       "problem_slug": "smallest-index-with-digit-sum-equal-to-index",
       "problem_title": "Smallest Index With Digit Sum Equal to Index"
     },
+    "3551": {
+      "difficulty": "Medium",
+      "folder_name": "3551-minimum-swaps-to-sort-by-digit-sum",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-17T05:11:07Z",
+      "notes": "",
+      "problem_number": 3551,
+      "problem_slug": "minimum-swaps-to-sort-by-digit-sum",
+      "problem_title": "Minimum Swaps to Sort by Digit Sum"
+    },
     "3568": {
       "difficulty": "Medium",
       "folder_name": "3568-minimum-moves-to-clean-the-classroom",
@@ -5308,5 +5320,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 441
+  "total_solved": 442
 }
