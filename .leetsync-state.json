@@ -1,12 +1,12 @@
 {
   "easy_count": 244,
-  "hard_count": 35,
+  "hard_count": 36,
   "language_counts": {
-    "cpp": 437,
+    "cpp": 438,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-17T05:11:07Z",
+  "last_synced": "2026-10-18T16:21:24Z",
   "medium_count": 163,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -995,6 +995,18 @@
       "problem_number": 1563,
       "problem_slug": "stone-game-v",
       "problem_title": "Stone Game V"
+    },
+    "1569": {
+      "difficulty": "Hard",
+      "folder_name": "1569-number-of-ways-to-reorder-array-to-get-same-bst",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-18T16:21:24Z",
+      "notes": "",
+      "problem_number": 1569,
+      "problem_slug": "number-of-ways-to-reorder-array-to-get-same-bst",
+      "problem_title": "Number of Ways to Reorder Array to Get Same BST"
     },
     "1598": {
       "difficulty": "Easy",
@@ -5320,5 +5332,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 442
+  "total_solved": 443
 }
