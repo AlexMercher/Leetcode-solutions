@@ -1,12 +1,12 @@
 {
-  "easy_count": 244,
+  "easy_count": 245,
   "hard_count": 36,
   "language_counts": {
-    "cpp": 438,
+    "cpp": 439,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-18T16:21:24Z",
+  "last_synced": "2026-10-19T09:59:46Z",
   "medium_count": 163,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1619,6 +1619,18 @@
       "problem_number": 208,
       "problem_slug": "implement-trie-prefix-tree",
       "problem_title": "Implement Trie (Prefix Tree)"
+    },
+    "2089": {
+      "difficulty": "Easy",
+      "folder_name": "2089-find-target-indices-after-sorting-array",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-19T09:59:46Z",
+      "notes": "",
+      "problem_number": 2089,
+      "problem_slug": "find-target-indices-after-sorting-array",
+      "problem_title": "Find Target Indices After Sorting Array"
     },
     "2091": {
       "difficulty": "Medium",
@@ -5332,5 +5344,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 443
+  "total_solved": 444
 }
