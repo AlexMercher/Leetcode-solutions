@@ -1,12 +1,12 @@
 {
   "easy_count": 245,
-  "hard_count": 36,
+  "hard_count": 37,
   "language_counts": {
-    "cpp": 439,
+    "cpp": 440,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-19T09:59:46Z",
+  "last_synced": "2026-10-20T08:44:30Z",
   "medium_count": 163,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3710,6 +3710,18 @@
       "problem_slug": "construct-uniform-parity-array-ii",
       "problem_title": "Construct Uniform Parity Array II"
     },
+    "3886": {
+      "difficulty": "Hard",
+      "folder_name": "3886-sum-of-sortable-integers",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-20T08:44:30Z",
+      "notes": "",
+      "problem_number": 3886,
+      "problem_slug": "sum-of-sortable-integers",
+      "problem_title": "Sum of Sortable Integers"
+    },
     "389": {
       "difficulty": "Easy",
       "folder_name": "0389-find-the-difference",
@@ -5344,5 +5356,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 444
+  "total_solved": 445
 }
