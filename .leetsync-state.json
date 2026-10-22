@@ -2,12 +2,12 @@
   "easy_count": 245,
   "hard_count": 37,
   "language_counts": {
-    "cpp": 441,
+    "cpp": 442,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-21T09:41:46Z",
-  "medium_count": 164,
+  "last_synced": "2026-10-22T10:17:09Z",
+  "medium_count": 165,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -3794,6 +3794,18 @@
       "problem_slug": "is-subsequence",
       "problem_title": "Is Subsequence"
     },
+    "3942": {
+      "difficulty": "Medium",
+      "folder_name": "3942-minimum-operations-to-sort-a-permutation",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-22T10:17:09Z",
+      "notes": "",
+      "problem_number": 3942,
+      "problem_slug": "minimum-operations-to-sort-a-permutation",
+      "problem_title": "Minimum Operations to Sort a Permutation"
+    },
     "3950": {
       "difficulty": "Easy",
       "folder_name": "3950-exactly-one-consecutive-set-bits-pair",
@@ -5368,5 +5380,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 446
+  "total_solved": 447
 }
