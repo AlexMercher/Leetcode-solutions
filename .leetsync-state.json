@@ -2,12 +2,12 @@
   "easy_count": 245,
   "hard_count": 37,
   "language_counts": {
-    "cpp": 442,
+    "cpp": 443,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-22T10:17:09Z",
-  "medium_count": 165,
+  "last_synced": "2026-10-23T10:12:50Z",
+  "medium_count": 166,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -3386,6 +3386,18 @@
       "problem_slug": "earliest-finish-time-for-land-and-water-rides-i",
       "problem_title": "Earliest Finish Time for Land and Water Rides I"
     },
+    "3644": {
+      "difficulty": "Medium",
+      "folder_name": "3644-maximum-k-to-sort-a-permutation",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-23T10:12:50Z",
+      "notes": "",
+      "problem_number": 3644,
+      "problem_slug": "maximum-k-to-sort-a-permutation",
+      "problem_title": "Maximum K to Sort a Permutation"
+    },
     "3658": {
       "difficulty": "Easy",
       "folder_name": "3658-gcd-of-odd-and-even-sums",
@@ -5380,5 +5392,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 447
+  "total_solved": 448
 }

@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **447** |
+| Total Solved | **448** |
 | Easy | 245 |
-| Medium | 165 |
+| Medium | 166 |
 | Hard | 37 |
 
 ## Difficulty Distribution
 
 🟢 Easy &nbsp; **245** (55%)  
-🟡 Medium &nbsp; **165** (37%)  
+🟡 Medium &nbsp; **166** (37%)  
 🔴 Hard &nbsp; **37** (8%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 442 |
+| C++ | 443 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [3644. Maximum K to Sort a Permutation](./3644-maximum-k-to-sort-a-permutation/README.md) | Medium | C++ |
 | [3942. Minimum Operations to Sort a Permutation](./3942-minimum-operations-to-sort-a-permutation/README.md) | Medium | C++ |
 | [3863. Minimum Operations to Sort a String](./3863-minimum-operations-to-sort-a-string/README.md) | Medium | C++ |
 | [3886. Sum of Sortable Integers](./3886-sum-of-sortable-integers/README.md) | Hard | C++ |
 | [2089. Find Target Indices After Sorting Array](./2089-find-target-indices-after-sorting-array/README.md) | Easy | C++ |
-| [1569. Number of Ways to Reorder Array to Get Same BST](./1569-number-of-ways-to-reorder-array-to-get-same-bst/README.md) | Hard | C++ |
