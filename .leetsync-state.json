@@ -1,12 +1,12 @@
 {
-  "easy_count": 245,
+  "easy_count": 246,
   "hard_count": 37,
   "language_counts": {
-    "cpp": 443,
+    "cpp": 444,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-23T10:12:50Z",
+  "last_synced": "2026-10-24T05:27:16Z",
   "medium_count": 166,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2087,6 +2087,18 @@
       "problem_number": 24,
       "problem_slug": "swap-nodes-in-pairs",
       "problem_title": "Swap Nodes in Pairs"
+    },
+    "2409": {
+      "difficulty": "Easy",
+      "folder_name": "2409-count-days-spent-together",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-24T05:27:16Z",
+      "notes": "",
+      "problem_number": 2409,
+      "problem_slug": "count-days-spent-together",
+      "problem_title": "Count Days Spent Together"
     },
     "241": {
       "difficulty": "Medium",
@@ -5392,5 +5404,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 448
+  "total_solved": 449
 }
