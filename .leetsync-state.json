@@ -2,12 +2,12 @@
   "easy_count": 246,
   "hard_count": 37,
   "language_counts": {
-    "cpp": 444,
+    "cpp": 445,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-24T05:27:16Z",
-  "medium_count": 166,
+  "last_synced": "2026-10-25T13:26:02Z",
+  "medium_count": 167,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -467,6 +467,18 @@
       "problem_number": 124,
       "problem_slug": "binary-tree-maximum-path-sum",
       "problem_title": "Binary Tree Maximum Path Sum"
+    },
+    "1254": {
+      "difficulty": "Medium",
+      "folder_name": "1254-number-of-closed-islands",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-25T13:26:02Z",
+      "notes": "",
+      "problem_number": 1254,
+      "problem_slug": "number-of-closed-islands",
+      "problem_title": "Number of Closed Islands"
     },
     "1266": {
       "difficulty": "Easy",
@@ -5404,5 +5416,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 449
+  "total_solved": 450
 }
