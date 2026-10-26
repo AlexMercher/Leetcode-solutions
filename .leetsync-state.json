@@ -2,12 +2,12 @@
   "easy_count": 246,
   "hard_count": 37,
   "language_counts": {
-    "cpp": 445,
+    "cpp": 446,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-25T13:26:02Z",
-  "medium_count": 167,
+  "last_synced": "2026-10-26T16:09:54Z",
+  "medium_count": 168,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -3386,6 +3386,18 @@
       "problem_slug": "valid-sudoku",
       "problem_title": "Valid Sudoku"
     },
+    "3619": {
+      "difficulty": "Medium",
+      "folder_name": "3619-count-islands-with-total-value-divisible-by-k",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-26T16:09:54Z",
+      "notes": "",
+      "problem_number": 3619,
+      "problem_slug": "count-islands-with-total-value-divisible-by-k",
+      "problem_title": "Count Islands With Total Value Divisible by K"
+    },
     "3622": {
       "difficulty": "Easy",
       "folder_name": "3622-check-divisibility-by-digit-sum-and-product",
@@ -5416,5 +5428,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 450
+  "total_solved": 451
 }
