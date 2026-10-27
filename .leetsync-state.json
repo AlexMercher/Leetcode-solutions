@@ -1,12 +1,12 @@
 {
-  "easy_count": 246,
+  "easy_count": 247,
   "hard_count": 37,
   "language_counts": {
-    "cpp": 446,
+    "cpp": 447,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-26T16:09:54Z",
+  "last_synced": "2026-10-27T03:48:44Z",
   "medium_count": 168,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3890,6 +3890,18 @@
       "problem_slug": "rotate-function",
       "problem_title": "Rotate Function"
     },
+    "3963": {
+      "difficulty": "Easy",
+      "folder_name": "3963-create-grid-with-exactly-one-path",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-27T03:48:44Z",
+      "notes": "",
+      "problem_number": 3963,
+      "problem_slug": "create-grid-with-exactly-one-path",
+      "problem_title": "Create Grid With Exactly One Path"
+    },
     "397": {
       "difficulty": "Medium",
       "folder_name": "0397-integer-replacement",
@@ -5428,5 +5440,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 451
+  "total_solved": 452
 }
