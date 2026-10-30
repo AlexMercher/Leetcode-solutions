@@ -2,12 +2,12 @@
   "easy_count": 247,
   "hard_count": 38,
   "language_counts": {
-    "cpp": 449,
+    "cpp": 450,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-29T09:22:53Z",
-  "medium_count": 169,
+  "last_synced": "2026-10-30T16:44:38Z",
+  "medium_count": 170,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -3938,6 +3938,18 @@
       "problem_slug": "integer-replacement",
       "problem_title": "Integer Replacement"
     },
+    "3970": {
+      "difficulty": "Medium",
+      "folder_name": "3970-shortest-path-with-at-most-k-consecutive-identical-characters",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-30T16:44:38Z",
+      "notes": "",
+      "problem_number": 3970,
+      "problem_slug": "shortest-path-with-at-most-k-consecutive-identical-characters",
+      "problem_title": "Shortest Path With At Most K Consecutive Identical Characters"
+    },
     "4": {
       "difficulty": "Hard",
       "folder_name": "0004-median-of-two-sorted-arrays",
@@ -5464,5 +5476,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 454
+  "total_solved": 455
 }
