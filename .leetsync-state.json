@@ -2,12 +2,12 @@
   "easy_count": 247,
   "hard_count": 38,
   "language_counts": {
-    "cpp": 451,
+    "cpp": 452,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-31T09:54:51Z",
-  "medium_count": 171,
+  "last_synced": "2026-10-31T10:06:22Z",
+  "medium_count": 172,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1607,6 +1607,18 @@
       "problem_number": 206,
       "problem_slug": "reverse-linked-list",
       "problem_title": "Reverse Linked List"
+    },
+    "207": {
+      "difficulty": "Medium",
+      "folder_name": "0207-course-schedule",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-31T10:06:22Z",
+      "notes": "",
+      "problem_number": 207,
+      "problem_slug": "course-schedule",
+      "problem_title": "Course Schedule"
     },
     "2078": {
       "difficulty": "Easy",
@@ -5488,5 +5500,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 456
+  "total_solved": 457
 }
