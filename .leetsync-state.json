@@ -2,12 +2,12 @@
   "easy_count": 247,
   "hard_count": 38,
   "language_counts": {
-    "cpp": 450,
+    "cpp": 451,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-30T16:44:38Z",
-  "medium_count": 170,
+  "last_synced": "2026-10-31T09:54:51Z",
+  "medium_count": 171,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -3446,6 +3446,18 @@
       "problem_slug": "gcd-of-odd-and-even-sums",
       "problem_title": "GCD of Odd and Even Sums"
     },
+    "3665": {
+      "difficulty": "Medium",
+      "folder_name": "3665-twisted-mirror-path-count",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-10-31T09:54:51Z",
+      "notes": "",
+      "problem_number": 3665,
+      "problem_slug": "twisted-mirror-path-count",
+      "problem_title": "Twisted Mirror Path Count"
+    },
     "3674": {
       "difficulty": "Easy",
       "folder_name": "3674-minimum-operations-to-equalize-array",
@@ -5476,5 +5488,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 455
+  "total_solved": 456
 }
