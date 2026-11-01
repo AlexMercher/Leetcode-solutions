@@ -2,12 +2,12 @@
   "easy_count": 247,
   "hard_count": 38,
   "language_counts": {
-    "cpp": 454,
+    "cpp": 455,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-01T10:30:44Z",
-  "medium_count": 174,
+  "last_synced": "2026-11-01T16:29:47Z",
+  "medium_count": 175,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -2375,6 +2375,18 @@
       "problem_number": 2600,
       "problem_slug": "k-items-with-the-maximum-sum",
       "problem_title": "K Items With the Maximum Sum"
+    },
+    "261": {
+      "difficulty": "Medium",
+      "folder_name": "0261-graph-valid-tree",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-01T16:29:47Z",
+      "notes": "",
+      "problem_number": 261,
+      "problem_slug": "graph-valid-tree",
+      "problem_title": "Graph Valid Tree"
     },
     "264": {
       "difficulty": "Medium",
@@ -5524,5 +5536,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 459
+  "total_solved": 460
 }
