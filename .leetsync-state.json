@@ -2,12 +2,12 @@
   "easy_count": 247,
   "hard_count": 38,
   "language_counts": {
-    "cpp": 452,
+    "cpp": 453,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-10-31T10:06:22Z",
-  "medium_count": 172,
+  "last_synced": "2026-11-01T10:17:27Z",
+  "medium_count": 173,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -4190,6 +4190,18 @@
       "problem_slug": "jump-game-ii",
       "problem_title": "Jump Game II"
     },
+    "453": {
+      "difficulty": "Medium",
+      "folder_name": "0453-minimum-moves-to-equal-array-elements",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-01T10:17:27Z",
+      "notes": "",
+      "problem_number": 453,
+      "problem_slug": "minimum-moves-to-equal-array-elements",
+      "problem_title": "Minimum Moves to Equal Array Elements"
+    },
     "455": {
       "difficulty": "Easy",
       "folder_name": "0455-assign-cookies",
@@ -5500,5 +5512,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 457
+  "total_solved": 458
 }
