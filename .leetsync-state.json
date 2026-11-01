@@ -2,12 +2,12 @@
   "easy_count": 247,
   "hard_count": 38,
   "language_counts": {
-    "cpp": 453,
+    "cpp": 454,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-01T10:17:27Z",
-  "medium_count": 173,
+  "last_synced": "2026-11-01T10:30:44Z",
+  "medium_count": 174,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1691,6 +1691,18 @@
       "problem_number": 21,
       "problem_slug": "merge-two-sorted-lists",
       "problem_title": "Merge Two Sorted Lists"
+    },
+    "210": {
+      "difficulty": "Medium",
+      "folder_name": "0210-course-schedule-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-01T10:30:44Z",
+      "notes": "",
+      "problem_number": 210,
+      "problem_slug": "course-schedule-ii",
+      "problem_title": "Course Schedule II"
     },
     "211": {
       "difficulty": "Medium",
@@ -5512,5 +5524,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 458
+  "total_solved": 459
 }
