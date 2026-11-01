@@ -2,12 +2,12 @@
   "easy_count": 247,
   "hard_count": 38,
   "language_counts": {
-    "cpp": 455,
+    "cpp": 456,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-01T16:29:47Z",
-  "medium_count": 175,
+  "last_synced": "2026-11-01T16:42:49Z",
+  "medium_count": 176,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -3026,6 +3026,18 @@
       "problem_slug": "number-of-bit-changes-to-make-two-integers-equal",
       "problem_title": "Number of Bit Changes to Make Two Integers Equal"
     },
+    "323": {
+      "difficulty": "Medium",
+      "folder_name": "0323-number-of-connected-components-in-an-undirected-graph",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-01T16:42:49Z",
+      "notes": "A simpler and cleaner approach:\nWe have n nodes. We can simply iterate through every node.\nWhenever we encounter an unvisited node, we have discovered a new connected component.\nWe start BFS from that node and mark all reachable nodes as visited.\n\nclass Solution {\npublic:\n    int countComponents(int n, vector<vector<int>>& edges) {\n\n        vector<vector<int>> adj(n);\n\n        for (auto& e : edges) {\n            int u = e[0];\n            int v = e[1];\n\n            adj[u].push_back(v);\n            adj[v].push_back(u);\n        }\n\n        vector<bool> visited(n, false);\n\n        int count = 0;\n\n        for (int i = 0; i < n; i++) {\n\n            // Found a new connected component\n            if (!visited[i]) {\n\n                count++;\n\n                queue<int> q;\n                q.push(i);\n                visited[i] = true;\n\n                while (!q.empty()) {\n\n                    int node = q.front();\n                    q.pop();\n\n                    for (int neighbour : adj[node]) {\n\n                        if (!visited[neighbour]) {\n\n                            visited[neighbour] = true;\n                            q.push(neighbour);\n                        }\n                    }\n                }\n            }\n        }\n\n        return count;\n    }\n};",
+      "problem_number": 323,
+      "problem_slug": "number-of-connected-components-in-an-undirected-graph",
+      "problem_title": "Number of Connected Components in an Undirected Graph"
+    },
     "3232": {
       "difficulty": "Easy",
       "folder_name": "3232-find-if-digit-game-can-be-won",
@@ -5536,5 +5548,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 460
+  "total_solved": 461
 }
