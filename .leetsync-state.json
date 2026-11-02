@@ -2,12 +2,12 @@
   "easy_count": 247,
   "hard_count": 38,
   "language_counts": {
-    "cpp": 456,
+    "cpp": 457,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-01T16:42:49Z",
-  "medium_count": 176,
+  "last_synced": "2026-11-02T06:52:04Z",
+  "medium_count": 177,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -4286,6 +4286,18 @@
       "problem_slug": "hamming-distance",
       "problem_title": "Hamming Distance"
     },
+    "462": {
+      "difficulty": "Medium",
+      "folder_name": "0462-minimum-moves-to-equal-array-elements-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-02T06:52:04Z",
+      "notes": "",
+      "problem_number": 462,
+      "problem_slug": "minimum-moves-to-equal-array-elements-ii",
+      "problem_title": "Minimum Moves to Equal Array Elements II"
+    },
     "463": {
       "difficulty": "Easy",
       "folder_name": "0463-island-perimeter",
@@ -5548,5 +5560,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 461
+  "total_solved": 462
 }
