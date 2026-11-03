@@ -1,12 +1,12 @@
 {
-  "easy_count": 247,
+  "easy_count": 248,
   "hard_count": 38,
   "language_counts": {
-    "cpp": 457,
+    "cpp": 458,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-02T06:52:04Z",
+  "last_synced": "2026-11-03T11:50:04Z",
   "medium_count": 177,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3662,6 +3662,18 @@
       "problem_slug": "lexicographically-smallest-palindromic-permutation-greater-than-target",
       "problem_title": "Lexicographically Smallest Palindromic Permutation Greater Than Target"
     },
+    "3736": {
+      "difficulty": "Easy",
+      "folder_name": "3736-minimum-moves-to-equal-array-elements-iii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-03T11:50:04Z",
+      "notes": "",
+      "problem_number": 3736,
+      "problem_slug": "minimum-moves-to-equal-array-elements-iii",
+      "problem_title": "Minimum Moves to Equal Array Elements III"
+    },
     "3745": {
       "difficulty": "Easy",
       "folder_name": "3745-maximize-expression-of-three-elements",
@@ -5560,5 +5572,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 462
+  "total_solved": 463
 }
