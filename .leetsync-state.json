@@ -1,12 +1,12 @@
 {
   "easy_count": 248,
-  "hard_count": 38,
+  "hard_count": 39,
   "language_counts": {
-    "cpp": 458,
+    "cpp": 459,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-03T11:50:04Z",
+  "last_synced": "2026-11-04T15:50:24Z",
   "medium_count": 177,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3314,6 +3314,18 @@
       "problem_slug": "reverse-degree-of-a-string",
       "problem_title": "Reverse Degree of a String"
     },
+    "3505": {
+      "difficulty": "Hard",
+      "folder_name": "3505-minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-04T15:50:24Z",
+      "notes": "",
+      "problem_number": 3505,
+      "problem_slug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+      "problem_title": "Minimum Operations to Make Elements Within K Subarrays Equal"
+    },
     "3507": {
       "difficulty": "Easy",
       "folder_name": "3507-minimum-pair-removal-to-sort-array-i",
@@ -5572,5 +5584,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 463
+  "total_solved": 464
 }
