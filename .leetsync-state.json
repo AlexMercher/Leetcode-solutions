@@ -1,12 +1,12 @@
 {
-  "easy_count": 248,
+  "easy_count": 249,
   "hard_count": 39,
   "language_counts": {
-    "cpp": 459,
+    "cpp": 460,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-04T15:50:24Z",
+  "last_synced": "2026-11-05T08:40:47Z",
   "medium_count": 177,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -683,6 +683,18 @@
       "problem_number": 138,
       "problem_slug": "copy-list-with-random-pointer",
       "problem_title": "Copy List with Random Pointer"
+    },
+    "1385": {
+      "difficulty": "Easy",
+      "folder_name": "1385-find-the-distance-value-between-two-arrays",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-05T08:40:47Z",
+      "notes": "",
+      "problem_number": 1385,
+      "problem_slug": "find-the-distance-value-between-two-arrays",
+      "problem_title": "Find the Distance Value Between Two Arrays"
     },
     "1386": {
       "difficulty": "Medium",
@@ -5584,5 +5596,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 464
+  "total_solved": 465
 }
