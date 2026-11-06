@@ -2,12 +2,12 @@
   "easy_count": 249,
   "hard_count": 39,
   "language_counts": {
-    "cpp": 460,
+    "cpp": 461,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-05T08:40:47Z",
-  "medium_count": 177,
+  "last_synced": "2026-11-06T05:02:08Z",
+  "medium_count": 178,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -2495,6 +2495,18 @@
       "problem_number": 271,
       "problem_slug": "encode-and-decode-strings",
       "problem_title": "Encode and Decode Strings"
+    },
+    "2747": {
+      "difficulty": "Medium",
+      "folder_name": "2747-count-zero-request-servers",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-06T05:02:08Z",
+      "notes": "",
+      "problem_number": 2747,
+      "problem_slug": "count-zero-request-servers",
+      "problem_title": "Count Zero Request Servers"
     },
     "2778": {
       "difficulty": "Easy",
@@ -5596,5 +5608,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 465
+  "total_solved": 466
 }
