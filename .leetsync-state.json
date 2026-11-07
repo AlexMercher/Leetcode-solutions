@@ -2,12 +2,12 @@
   "easy_count": 249,
   "hard_count": 39,
   "language_counts": {
-    "cpp": 461,
+    "cpp": 462,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-06T05:02:08Z",
-  "medium_count": 178,
+  "last_synced": "2026-11-07T05:01:54Z",
+  "medium_count": 179,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -1331,6 +1331,18 @@
       "problem_number": 1876,
       "problem_slug": "substrings-of-size-three-with-distinct-characters",
       "problem_title": "Substrings of Size Three with Distinct Characters"
+    },
+    "1882": {
+      "difficulty": "Medium",
+      "folder_name": "1882-process-tasks-using-servers",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-07T05:01:54Z",
+      "notes": "This problem teaches three useful concepts:\n\n1. Multiple Priority Queues\n\nSometimes one priority queue is insufficient because we need to prioritize different things depending on the current state.\n\nHere:\n- Available servers are prioritized by weight and index.\n- Busy servers are prioritized by finishing time.\n2. Event Simulation\n\nInstead of incrementing time second by second, we jump directly to the next important event.\n\nFor example, when all servers are busy, we jump directly to the earliest server completion time.\n\nThis is called Event-Driven Simulation.\n\n3. Tie-breaking\n\nWhenever a problem says:\n- Smallest weight, then smallest index.\n- Earliest time, then smallest priority.\n- Highest score, then smallest identifier.\nThink about storing multiple fields in a pair or tuple inside a priority queue.",
+      "problem_number": 1882,
+      "problem_slug": "process-tasks-using-servers",
+      "problem_title": "Process Tasks Using Servers"
     },
     "19": {
       "difficulty": "Medium",
@@ -5608,5 +5620,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 466
+  "total_solved": 467
 }
