@@ -2,12 +2,12 @@
   "easy_count": 249,
   "hard_count": 39,
   "language_counts": {
-    "cpp": 462,
+    "cpp": 463,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-07T05:01:54Z",
-  "medium_count": 179,
+  "last_synced": "2026-11-08T18:29:00Z",
+  "medium_count": 180,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -491,6 +491,18 @@
       "problem_number": 1266,
       "problem_slug": "minimum-time-visiting-all-points",
       "problem_title": "Minimum Time Visiting All Points"
+    },
+    "1267": {
+      "difficulty": "Medium",
+      "folder_name": "1267-count-servers-that-communicate",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-08T18:29:00Z",
+      "notes": "",
+      "problem_number": 1267,
+      "problem_slug": "count-servers-that-communicate",
+      "problem_title": "Count Servers that Communicate"
     },
     "128": {
       "difficulty": "Medium",
@@ -5620,5 +5632,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 467
+  "total_solved": 468
 }
