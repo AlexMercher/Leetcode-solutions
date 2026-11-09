@@ -1,12 +1,12 @@
 {
   "easy_count": 249,
-  "hard_count": 39,
+  "hard_count": 40,
   "language_counts": {
-    "cpp": 463,
+    "cpp": 464,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-08T18:29:00Z",
+  "last_synced": "2026-11-09T10:02:34Z",
   "medium_count": 180,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1067,6 +1067,18 @@
       "problem_number": 160,
       "problem_slug": "intersection-of-two-linked-lists",
       "problem_title": "Intersection of Two Linked Lists"
+    },
+    "1606": {
+      "difficulty": "Hard",
+      "folder_name": "1606-find-servers-that-handled-most-number-of-requests",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-09T10:02:34Z",
+      "notes": "",
+      "problem_number": 1606,
+      "problem_slug": "find-servers-that-handled-most-number-of-requests",
+      "problem_title": "Find Servers That Handled Most Number of Requests"
     },
     "1614": {
       "difficulty": "Easy",
@@ -5632,5 +5644,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 468
+  "total_solved": 469
 }
