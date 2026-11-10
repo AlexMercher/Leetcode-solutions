@@ -2,12 +2,12 @@
   "easy_count": 249,
   "hard_count": 40,
   "language_counts": {
-    "cpp": 464,
+    "cpp": 465,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-09T10:02:34Z",
-  "medium_count": 180,
+  "last_synced": "2026-11-10T12:35:55Z",
+  "medium_count": 181,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -3626,6 +3626,18 @@
       "problem_slug": "bitwise-or-of-even-numbers-in-an-array",
       "problem_title": "Bitwise OR of Even Numbers in an Array"
     },
+    "3693": {
+      "difficulty": "Medium",
+      "folder_name": "3693-climbing-stairs-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-10T12:35:55Z",
+      "notes": "",
+      "problem_number": 3693,
+      "problem_slug": "climbing-stairs-ii",
+      "problem_title": "Climbing Stairs II"
+    },
     "3702": {
       "difficulty": "Medium",
       "folder_name": "3702-longest-subsequence-with-non-zero-bitwise-xor",
@@ -5644,5 +5656,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 469
+  "total_solved": 470
 }
