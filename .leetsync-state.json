@@ -2,12 +2,12 @@
   "easy_count": 249,
   "hard_count": 40,
   "language_counts": {
-    "cpp": 465,
+    "cpp": 466,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-10T12:35:55Z",
-  "medium_count": 181,
+  "last_synced": "2026-11-11T05:46:12Z",
+  "medium_count": 182,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -3830,6 +3830,18 @@
       "problem_slug": "combination-sum-iv",
       "problem_title": "Combination Sum IV"
     },
+    "3789": {
+      "difficulty": "Medium",
+      "folder_name": "3789-minimum-cost-to-acquire-required-items",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-11T05:46:12Z",
+      "notes": "",
+      "problem_number": 3789,
+      "problem_slug": "minimum-cost-to-acquire-required-items",
+      "problem_title": "Minimum Cost to Acquire Required Items"
+    },
     "3827": {
       "difficulty": "Easy",
       "folder_name": "3827-count-monobit-integers",
@@ -5656,5 +5668,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 470
+  "total_solved": 471
 }
