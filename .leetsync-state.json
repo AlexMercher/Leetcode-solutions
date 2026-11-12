@@ -1,12 +1,12 @@
 {
-  "easy_count": 249,
+  "easy_count": 250,
   "hard_count": 40,
   "language_counts": {
-    "cpp": 466,
+    "cpp": 467,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-11T05:46:12Z",
+  "last_synced": "2026-11-12T12:12:33Z",
   "medium_count": 182,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2978,6 +2978,18 @@
       "problem_slug": "shortest-subarray-with-or-at-least-k-i",
       "problem_title": "Shortest Subarray With OR at Least K I"
     },
+    "3105": {
+      "difficulty": "Easy",
+      "folder_name": "3105-longest-strictly-increasing-or-strictly-decreasing-subarray",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-12T12:12:33Z",
+      "notes": "",
+      "problem_number": 3105,
+      "problem_slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+      "problem_title": "Longest Strictly Increasing or Strictly Decreasing Subarray"
+    },
     "3116": {
       "difficulty": "Hard",
       "folder_name": "3116-kth-smallest-amount-with-single-denomination-combination",
@@ -5668,5 +5680,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 471
+  "total_solved": 472
 }
