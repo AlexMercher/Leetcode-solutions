@@ -1,12 +1,12 @@
 {
   "easy_count": 250,
-  "hard_count": 40,
+  "hard_count": 41,
   "language_counts": {
-    "cpp": 467,
+    "cpp": 468,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-12T12:12:33Z",
+  "last_synced": "2026-11-13T15:50:24Z",
   "medium_count": 182,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3290,6 +3290,18 @@
       "problem_slug": "power-of-four",
       "problem_title": "Power of Four"
     },
+    "3420": {
+      "difficulty": "Hard",
+      "folder_name": "3420-count-non-decreasing-subarrays-after-k-operations",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-13T15:50:24Z",
+      "notes": "",
+      "problem_number": 3420,
+      "problem_slug": "count-non-decreasing-subarrays-after-k-operations",
+      "problem_title": "Count Non-Decreasing Subarrays After K Operations"
+    },
     "343": {
       "difficulty": "Medium",
       "folder_name": "0343-integer-break",
@@ -5680,5 +5692,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 472
+  "total_solved": 473
 }
