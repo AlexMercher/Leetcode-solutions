@@ -1,12 +1,12 @@
 {
-  "easy_count": 250,
+  "easy_count": 251,
   "hard_count": 41,
   "language_counts": {
-    "cpp": 468,
+    "cpp": 469,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-13T15:50:24Z",
+  "last_synced": "2026-11-14T04:09:31Z",
   "medium_count": 182,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3206,6 +3206,18 @@
       "problem_slug": "smallest-divisible-digit-product-ii",
       "problem_title": "Smallest Divisible Digit Product II"
     },
+    "3364": {
+      "difficulty": "Easy",
+      "folder_name": "3364-minimum-positive-sum-subarray",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-14T04:09:31Z",
+      "notes": "",
+      "problem_number": 3364,
+      "problem_slug": "minimum-positive-sum-subarray",
+      "problem_title": "Minimum Positive Sum Subarray "
+    },
     "337": {
       "difficulty": "Medium",
       "folder_name": "0337-house-robber-iii",
@@ -5692,5 +5704,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 473
+  "total_solved": 474
 }
