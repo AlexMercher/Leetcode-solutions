@@ -2,12 +2,12 @@
   "easy_count": 251,
   "hard_count": 41,
   "language_counts": {
-    "cpp": 469,
+    "cpp": 470,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-14T04:09:31Z",
-  "medium_count": 182,
+  "last_synced": "2026-11-15T09:02:28Z",
+  "medium_count": 183,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -971,6 +971,18 @@
       "problem_number": 1520,
       "problem_slug": "maximum-number-of-non-overlapping-substrings",
       "problem_title": "Maximum Number of Non-Overlapping Substrings"
+    },
+    "1524": {
+      "difficulty": "Medium",
+      "folder_name": "1524-number-of-sub-arrays-with-odd-sum",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-15T09:02:28Z",
+      "notes": "",
+      "problem_number": 1524,
+      "problem_slug": "number-of-sub-arrays-with-odd-sum",
+      "problem_title": "Number of Sub-arrays With Odd Sum"
     },
     "153": {
       "difficulty": "Medium",
@@ -5704,5 +5716,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 474
+  "total_solved": 475
 }
