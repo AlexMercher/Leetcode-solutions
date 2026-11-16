@@ -1,12 +1,12 @@
 {
-  "easy_count": 251,
+  "easy_count": 252,
   "hard_count": 41,
   "language_counts": {
-    "cpp": 470,
+    "cpp": 471,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-15T09:02:28Z",
+  "last_synced": "2026-11-16T15:23:31Z",
   "medium_count": 183,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1931,6 +1931,18 @@
       "problem_number": 2224,
       "problem_slug": "minimum-number-of-operations-to-convert-time",
       "problem_title": "Minimum Number of Operations to Convert Time"
+    },
+    "2243": {
+      "difficulty": "Easy",
+      "folder_name": "2243-calculate-digit-sum-of-a-string",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-16T15:23:31Z",
+      "notes": "",
+      "problem_number": 2243,
+      "problem_slug": "calculate-digit-sum-of-a-string",
+      "problem_title": "Calculate Digit Sum of a String"
     },
     "225": {
       "difficulty": "Easy",
@@ -5716,5 +5728,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 475
+  "total_solved": 476
 }
