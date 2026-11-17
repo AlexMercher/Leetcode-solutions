@@ -1,12 +1,12 @@
 {
   "easy_count": 252,
-  "hard_count": 41,
+  "hard_count": 42,
   "language_counts": {
-    "cpp": 471,
+    "cpp": 472,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-16T15:23:31Z",
+  "last_synced": "2026-11-17T10:20:24Z",
   "medium_count": 183,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2747,6 +2747,18 @@
       "problem_number": 2904,
       "problem_slug": "shortest-and-lexicographically-smallest-beautiful-string",
       "problem_title": "Shortest and Lexicographically Smallest Beautiful String"
+    },
+    "2911": {
+      "difficulty": "Hard",
+      "folder_name": "2911-minimum-changes-to-make-k-semi-palindromes",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-17T10:20:24Z",
+      "notes": "",
+      "problem_number": 2911,
+      "problem_slug": "minimum-changes-to-make-k-semi-palindromes",
+      "problem_title": "Minimum Changes to Make K Semi-palindromes"
     },
     "2913": {
       "difficulty": "Easy",
@@ -5728,5 +5740,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 476
+  "total_solved": 477
 }
