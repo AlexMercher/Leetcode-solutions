@@ -2,12 +2,12 @@
   "easy_count": 252,
   "hard_count": 42,
   "language_counts": {
-    "cpp": 472,
+    "cpp": 473,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-17T10:20:24Z",
-  "medium_count": 183,
+  "last_synced": "2026-11-18T05:58:30Z",
+  "medium_count": 184,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -2771,6 +2771,18 @@
       "problem_number": 2913,
       "problem_slug": "subarrays-distinct-element-sum-of-squares-i",
       "problem_title": "Subarrays Distinct Element Sum of Squares I"
+    },
+    "2914": {
+      "difficulty": "Medium",
+      "folder_name": "2914-minimum-number-of-changes-to-make-binary-string-beautiful",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-18T05:58:30Z",
+      "notes": "",
+      "problem_number": 2914,
+      "problem_slug": "minimum-number-of-changes-to-make-binary-string-beautiful",
+      "problem_title": "Minimum Number of Changes to Make Binary String Beautiful"
     },
     "2916": {
       "difficulty": "Hard",
@@ -5740,5 +5752,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 477
+  "total_solved": 478
 }
