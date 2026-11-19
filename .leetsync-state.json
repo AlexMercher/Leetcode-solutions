@@ -2,12 +2,12 @@
   "easy_count": 252,
   "hard_count": 42,
   "language_counts": {
-    "cpp": 473,
+    "cpp": 474,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-18T05:58:30Z",
-  "medium_count": 184,
+  "last_synced": "2026-11-19T06:14:10Z",
+  "medium_count": 185,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -2351,6 +2351,18 @@
       "problem_number": 2566,
       "problem_slug": "maximum-difference-by-remapping-a-digit",
       "problem_title": "Maximum Difference by Remapping a Digit"
+    },
+    "2567": {
+      "difficulty": "Medium",
+      "folder_name": "2567-minimum-score-by-changing-two-elements",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-19T06:14:10Z",
+      "notes": "",
+      "problem_number": 2567,
+      "problem_slug": "minimum-score-by-changing-two-elements",
+      "problem_title": "Minimum Score by Changing Two Elements"
     },
     "257": {
       "difficulty": "Easy",
@@ -5752,5 +5764,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 478
+  "total_solved": 479
 }
