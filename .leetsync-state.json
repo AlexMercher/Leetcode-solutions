@@ -1,12 +1,12 @@
 {
   "easy_count": 252,
-  "hard_count": 42,
+  "hard_count": 43,
   "language_counts": {
-    "cpp": 474,
+    "cpp": 475,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-19T06:14:10Z",
+  "last_synced": "2026-11-20T07:42:59Z",
   "medium_count": 185,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -2978,6 +2978,18 @@
       "problem_slug": "minimum-number-of-pushes-to-type-word-ii",
       "problem_title": "Minimum Number of Pushes to Type Word II"
     },
+    "3041": {
+      "difficulty": "Hard",
+      "folder_name": "3041-maximize-consecutive-elements-in-an-array-after-modification",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-20T07:42:59Z",
+      "notes": "",
+      "problem_number": 3041,
+      "problem_slug": "maximize-consecutive-elements-in-an-array-after-modification",
+      "problem_title": "Maximize Consecutive Elements in an Array After Modification"
+    },
     "3069": {
       "difficulty": "Easy",
       "folder_name": "3069-distribute-elements-into-two-arrays-i",
@@ -5764,5 +5776,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 479
+  "total_solved": 480
 }
