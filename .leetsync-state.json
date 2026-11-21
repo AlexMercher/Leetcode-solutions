@@ -2,12 +2,12 @@
   "easy_count": 252,
   "hard_count": 43,
   "language_counts": {
-    "cpp": 475,
+    "cpp": 476,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-20T07:42:59Z",
-  "medium_count": 185,
+  "last_synced": "2026-11-21T15:43:14Z",
+  "medium_count": 186,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -3266,6 +3266,18 @@
       "problem_slug": "construct-the-minimum-bitwise-array-i",
       "problem_title": "Construct the Minimum Bitwise Array I"
     },
+    "3331": {
+      "difficulty": "Medium",
+      "folder_name": "3331-find-subtree-sizes-after-changes",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-21T15:43:14Z",
+      "notes": "",
+      "problem_number": 3331,
+      "problem_slug": "find-subtree-sizes-after-changes",
+      "problem_title": "Find Subtree Sizes After Changes"
+    },
     "3348": {
       "difficulty": "Hard",
       "folder_name": "3348-smallest-divisible-digit-product-ii",
@@ -5776,5 +5788,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 480
+  "total_solved": 481
 }
