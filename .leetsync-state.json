@@ -1,12 +1,12 @@
 {
-  "easy_count": 252,
+  "easy_count": 253,
   "hard_count": 43,
   "language_counts": {
-    "cpp": 476,
+    "cpp": 477,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-21T15:43:14Z",
+  "last_synced": "2026-11-22T07:13:16Z",
   "medium_count": 186,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -1787,6 +1787,18 @@
       "problem_number": 212,
       "problem_slug": "word-search-ii",
       "problem_title": "Word Search II"
+    },
+    "2124": {
+      "difficulty": "Easy",
+      "folder_name": "2124-check-if-all-as-appears-before-all-bs",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-22T07:13:16Z",
+      "notes": "",
+      "problem_number": 2124,
+      "problem_slug": "check-if-all-as-appears-before-all-bs",
+      "problem_title": "Check if All A's Appears Before All B's"
     },
     "213": {
       "difficulty": "Medium",
@@ -5788,5 +5800,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 481
+  "total_solved": 482
 }
