@@ -1,12 +1,12 @@
 {
-  "easy_count": 253,
+  "easy_count": 254,
   "hard_count": 43,
   "language_counts": {
-    "cpp": 477,
+    "cpp": 478,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-22T07:13:16Z",
+  "last_synced": "2026-11-24T20:28:14Z",
   "medium_count": 186,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3374,6 +3374,18 @@
       "problem_slug": "minimum-operations-to-make-columns-strictly-increasing",
       "problem_title": "Minimum Operations to Make Columns Strictly Increasing"
     },
+    "3411": {
+      "difficulty": "Easy",
+      "folder_name": "3411-maximum-subarray-with-equal-products",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-24T20:28:14Z",
+      "notes": "",
+      "problem_number": 3411,
+      "problem_slug": "maximum-subarray-with-equal-products",
+      "problem_title": "Maximum Subarray With Equal Products"
+    },
     "3414": {
       "difficulty": "Hard",
       "folder_name": "3414-maximum-score-of-non-overlapping-intervals",
@@ -5800,5 +5812,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 482
+  "total_solved": 483
 }
