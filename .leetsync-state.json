@@ -1,12 +1,12 @@
 {
   "easy_count": 254,
-  "hard_count": 43,
+  "hard_count": 44,
   "language_counts": {
-    "cpp": 478,
+    "cpp": 479,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-24T20:28:14Z",
+  "last_synced": "2026-11-25T07:34:12Z",
   "medium_count": 186,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -4178,6 +4178,18 @@
       "problem_slug": "is-subsequence",
       "problem_title": "Is Subsequence"
     },
+    "3934": {
+      "difficulty": "Hard",
+      "folder_name": "3934-smallest-unique-subarray",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-25T07:34:12Z",
+      "notes": "",
+      "problem_number": 3934,
+      "problem_slug": "smallest-unique-subarray",
+      "problem_title": "Smallest Unique Subarray"
+    },
     "3942": {
       "difficulty": "Medium",
       "folder_name": "3942-minimum-operations-to-sort-a-permutation",
@@ -5812,5 +5824,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 483
+  "total_solved": 484
 }
