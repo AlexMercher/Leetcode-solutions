@@ -1,12 +1,12 @@
 {
-  "easy_count": 254,
+  "easy_count": 255,
   "hard_count": 44,
   "language_counts": {
-    "cpp": 479,
+    "cpp": 480,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-25T07:34:12Z",
+  "last_synced": "2026-11-26T15:59:05Z",
   "medium_count": 186,
   "pending_commit_hash": "",
   "pending_push": false,
@@ -3302,6 +3302,18 @@
       "problem_slug": "smallest-divisible-digit-product-ii",
       "problem_title": "Smallest Divisible Digit Product II"
     },
+    "3360": {
+      "difficulty": "Easy",
+      "folder_name": "3360-stone-removal-game",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-26T15:59:05Z",
+      "notes": "",
+      "problem_number": 3360,
+      "problem_slug": "stone-removal-game",
+      "problem_title": "Stone Removal Game"
+    },
     "3364": {
       "difficulty": "Easy",
       "folder_name": "3364-minimum-positive-sum-subarray",
@@ -5824,5 +5836,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 484
+  "total_solved": 485
 }
