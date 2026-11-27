@@ -6,22 +6,22 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | **485** |
+| Total Solved | **486** |
 | Easy | 255 |
-| Medium | 186 |
+| Medium | 187 |
 | Hard | 44 |
 
 ## Difficulty Distribution
 
-🟢 Easy &nbsp; **255** (53%)  
-🟡 Medium &nbsp; **186** (38%)  
+🟢 Easy &nbsp; **255** (52%)  
+🟡 Medium &nbsp; **187** (38%)  
 🔴 Hard &nbsp; **44** (9%)
 
 ## Language Distribution
 
 | Language | Solutions |
 |----------|----------|
-| C++ | 480 |
+| C++ | 481 |
 | Python | 6 |
 | Java | 1 |
 
@@ -29,8 +29,8 @@ A curated collection of LeetCode solutions managed with [LeetSync](https://githu
 
 | Problem | Difficulty | Languages |
 |---------|------------|-----------|
+| [3946. Maximum Number of Items From Sale I](./3946-maximum-number-of-items-from-sale-i/README.md) | Medium | C++ |
 | [3360. Stone Removal Game](./3360-stone-removal-game/README.md) | Easy | C++ |
 | [3934. Smallest Unique Subarray](./3934-smallest-unique-subarray/README.md) | Hard | C++ |
 | [3411. Maximum Subarray With Equal Products](./3411-maximum-subarray-with-equal-products/README.md) | Easy | C++ |
 | [2124. Check if All A's Appears Before All B's](./2124-check-if-all-as-appears-before-all-bs/README.md) | Easy | C++ |
-| [3331. Find Subtree Sizes After Changes](./3331-find-subtree-sizes-after-changes/README.md) | Medium | C++ |

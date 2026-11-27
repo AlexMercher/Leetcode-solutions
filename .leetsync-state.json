@@ -2,12 +2,12 @@
   "easy_count": 255,
   "hard_count": 44,
   "language_counts": {
-    "cpp": 480,
+    "cpp": 481,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-26T15:59:05Z",
-  "medium_count": 186,
+  "last_synced": "2026-11-27T06:20:12Z",
+  "medium_count": 187,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -4214,6 +4214,18 @@
       "problem_slug": "minimum-operations-to-sort-a-permutation",
       "problem_title": "Minimum Operations to Sort a Permutation"
     },
+    "3946": {
+      "difficulty": "Medium",
+      "folder_name": "3946-maximum-number-of-items-from-sale-i",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-27T06:20:12Z",
+      "notes": "",
+      "problem_number": 3946,
+      "problem_slug": "maximum-number-of-items-from-sale-i",
+      "problem_title": "Maximum Number of Items From Sale I"
+    },
     "3950": {
       "difficulty": "Easy",
       "folder_name": "3950-exactly-one-consecutive-set-bits-pair",
@@ -5836,5 +5848,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 485
+  "total_solved": 486
 }
