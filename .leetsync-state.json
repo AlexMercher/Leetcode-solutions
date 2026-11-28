@@ -2,12 +2,12 @@
   "easy_count": 255,
   "hard_count": 44,
   "language_counts": {
-    "cpp": 481,
+    "cpp": 482,
     "java": 1,
     "python": 6
   },
-  "last_synced": "2026-11-27T06:20:12Z",
-  "medium_count": 187,
+  "last_synced": "2026-11-28T16:35:36Z",
+  "medium_count": 188,
   "pending_commit_hash": "",
   "pending_push": false,
   "pending_since": "",
@@ -4226,6 +4226,18 @@
       "problem_slug": "maximum-number-of-items-from-sale-i",
       "problem_title": "Maximum Number of Items From Sale I"
     },
+    "3947": {
+      "difficulty": "Medium",
+      "folder_name": "3947-maximum-number-of-items-from-sale-ii",
+      "languages": [
+        "cpp"
+      ],
+      "last_synced": "2026-11-28T16:35:36Z",
+      "notes": "",
+      "problem_number": 3947,
+      "problem_slug": "maximum-number-of-items-from-sale-ii",
+      "problem_title": "Maximum Number of Items From Sale II"
+    },
     "3950": {
       "difficulty": "Easy",
       "folder_name": "3950-exactly-one-consecutive-set-bits-pair",
@@ -5848,5 +5860,5 @@
     }
   },
   "schema_version": 1,
-  "total_solved": 486
+  "total_solved": 487
 }
